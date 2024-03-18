@@ -1,0 +1,16 @@
+CMakeLists.txt.user
+CMakeLists_modified.txt
+
+.DS_Store
+
+build/
+
+lib/
+bin/
+
+cmake_modules/
+cmake-build-debug/
+.idea/
+.vscode/
+*.pyc
+
