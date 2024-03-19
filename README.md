@@ -1,4 +1,4 @@
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-13**|**EM-TTS: Efficiently Trained Low-Resource Mongolian Lightweight Text-to-Speech**|Ziqi Liang et.al.|[2403.08164](http://arxiv.org/abs/2403.08164)|null|
+|**2024-03-17**|**EM-TTS: Efficiently Trained Low-Resource Mongolian Lightweight Text-to-Speech**|Ziqi Liang et.al.|[2403.08164](http://arxiv.org/abs/2403.08164)|null|
 |**2024-03-09**|**HAM-TTS: Hierarchical Acoustic Modeling for Token-Based Zero-Shot Text-to-Speech with Model and Data Scaling**|Chunhui Wang et.al.|[2403.05989](http://arxiv.org/abs/2403.05989)|null|
 |**2024-03-05**|**AttentionStitch: How Attention Solves the Speech Editing Problem**|Antonios Alexos et.al.|[2403.04804](http://arxiv.org/abs/2403.04804)|null|
 |**2024-03-07**|**Attempt Towards Stress Transfer in Speech-to-Speech Machine Translation**|Sai Akarsh et.al.|[2403.04178](http://arxiv.org/abs/2403.04178)|null|
@@ -515,5 +515,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20240318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240319>back to top</a>)</p>
 
