@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**UTDUSS: UTokyo-SaruLab System for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge**|Wataru Nakata et.al.|[2403.13720](http://arxiv.org/abs/2403.13720)|null|
+|**2024-03-20**|**Building speech corpus with diverse voice characteristics for its prompt-based representation**|Aya Watanabe et.al.|[2403.13353](http://arxiv.org/abs/2403.13353)|null|
 |**2024-03-17**|**Creating an African American-Sounding TTS: Guidelines, Technical Challenges,and Surprising Evaluations**|Claudio Pinhanez et.al.|[2403.11209](http://arxiv.org/abs/2403.11209)|null|
 |**2024-03-17**|**EM-TTS: Efficiently Trained Low-Resource Mongolian Lightweight Text-to-Speech**|Ziqi Liang et.al.|[2403.08164](http://arxiv.org/abs/2403.08164)|null|
 |**2024-03-09**|**HAM-TTS: Hierarchical Acoustic Modeling for Token-Based Zero-Shot Text-to-Speech with Model and Data Scaling**|Chunhui Wang et.al.|[2403.05989](http://arxiv.org/abs/2403.05989)|null|
