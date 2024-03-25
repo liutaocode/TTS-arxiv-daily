@@ -116,7 +116,7 @@ layout: default
 |**2023-09-29**|**Low-Resource Self-Supervised Learning with SSL-Enhanced TTS**|Po-chun Hsu et.al.|[2309.17020](http://arxiv.org/abs/2309.17020)|null|
 |**2023-09-29**|**Synthetic Speech Detection Based on Temporal Consistency and Distribution of Speaker Features**|Yuxiang Zhang et.al.|[2309.16954](http://arxiv.org/abs/2309.16954)|null|
 |**2023-12-18**|**High-Fidelity Speech Synthesis with Minimal Supervision: All Using Diffusion Models**|Chunyu Qiang et.al.|[2309.15512](http://arxiv.org/abs/2309.15512)|null|
-|**2024-01-09**|**BiSinger: Bilingual Singing Voice Synthesis**|Huali Zhou et.al.|[2309.14089](http://arxiv.org/abs/2309.14089)|null|
+|**2024-01-09**|**BiSinger: Bilingual Singing Voice Synthesis**|Huali Zhou et.al.|[2309.14089](http://arxiv.org/abs/2309.14089)|**[link](https://github.com/BiSinger-SVS/BiSinger)**|
 |**2023-10-07**|**HiGNN-TTS: Hierarchical Prosody Modeling with Graph Neural Networks for Expressive Long-form TTS**|Dake Guo et.al.|[2309.13907](http://arxiv.org/abs/2309.13907)|null|
 |**2023-09-24**|**VoiceLDM: Text-to-Speech with Environmental Context**|Yeonghyeon Lee et.al.|[2309.13664](http://arxiv.org/abs/2309.13664)|null|
 |**2023-09-24**|**Coco-Nut: Corpus of Japanese Utterance and Voice Characteristics Description for Prompt-based Control**|Aya Watanabe et.al.|[2309.13509](http://arxiv.org/abs/2309.13509)|null|
