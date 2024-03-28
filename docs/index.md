@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,7 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-25**|**VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild**|Puyuan Peng et.al.|[2403.16973](http://arxiv.org/abs/2403.16973)|null|
+|**2024-03-25**|**VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild**|Puyuan Peng et.al.|[2403.16973](http://arxiv.org/abs/2403.16973)|**[link](https://github.com/jasonppy/voicecraft)**|
 |**2024-03-20**|**Isometric Neural Machine Translation using Phoneme Count Ratio Reward-based Reinforcement Learning**|Shivam Ratnakant Mhaskar et.al.|[2403.15469](http://arxiv.org/abs/2403.15469)|null|
 |**2024-03-20**|**UTDUSS: UTokyo-SaruLab System for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge**|Wataru Nakata et.al.|[2403.13720](http://arxiv.org/abs/2403.13720)|null|
 |**2024-03-20**|**Building speech corpus with diverse voice characteristics for its prompt-based representation**|Aya Watanabe et.al.|[2403.13353](http://arxiv.org/abs/2403.13353)|null|
