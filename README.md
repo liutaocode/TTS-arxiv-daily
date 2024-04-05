@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204](http://arxiv.org/abs/2404.03204)|null|
 |**2024-04-03**|**CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech**|Jaehyeon Kim et.al.|[2404.02781](http://arxiv.org/abs/2404.02781)|null|
 |**2024-04-03**|**PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders**|Yu Pan et.al.|[2404.02702](http://arxiv.org/abs/2404.02702)|null|
 |**2024-03-31**|**Humane Speech Synthesis through Zero-Shot Emotion and Disfluency Generation**|Rohan Chaudhury et.al.|[2404.01339](http://arxiv.org/abs/2404.01339)|**[link](https://github.com/rohan-chaudhury/humane-speech-synthesis-through-zero-shot-emotion-and-disfluency-generation)**|
