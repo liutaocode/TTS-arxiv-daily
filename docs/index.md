@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge**|Yiwei Guo et.al.|[2404.06079](http://arxiv.org/abs/2404.06079)|null|
 |**2024-04-07**|**Cross-Domain Audio Deepfake Detection: Dataset and Analysis**|Yuang Li et.al.|[2404.04904](http://arxiv.org/abs/2404.04904)|null|
 |**2024-04-06**|**HyperTTS: Parameter Efficient Adaptation in Text to Speech using Hypernetworks**|Yingting Li et.al.|[2404.04645](http://arxiv.org/abs/2404.04645)|**[link](https://github.com/declare-lab/hypertts)**|
 |**2024-04-05**|**Open vocabulary keyword spotting through transfer learning from speech synthesis**|Kesavaraj V et.al.|[2404.03914](http://arxiv.org/abs/2404.03914)|null|
