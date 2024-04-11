@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness**|Xincan Feng et.al.|[2404.06714](http://arxiv.org/abs/2404.06714)|null|
+|**2024-04-10**|**CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations**|Leying Zhang et.al.|[2404.06690](http://arxiv.org/abs/2404.06690)|null|
 |**2024-04-10**|**The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge**|Yiwei Guo et.al.|[2404.06079](http://arxiv.org/abs/2404.06079)|null|
 |**2024-04-07**|**Cross-Domain Audio Deepfake Detection: Dataset and Analysis**|Yuang Li et.al.|[2404.04904](http://arxiv.org/abs/2404.04904)|null|
 |**2024-04-06**|**HyperTTS: Parameter Efficient Adaptation in Text to Speech using Hypernetworks**|Yingting Li et.al.|[2404.04645](http://arxiv.org/abs/2404.04645)|**[link](https://github.com/declare-lab/hypertts)**|
