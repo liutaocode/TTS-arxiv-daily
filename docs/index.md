@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,7 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-09**|**The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge**|Yiwei Guo et.al.|[2404.06079](http://arxiv.org/abs/2404.06079)|null|
+|**2024-04-10**|**The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge**|Yiwei Guo et.al.|[2404.06079](http://arxiv.org/abs/2404.06079)|null|
 |**2024-04-07**|**Cross-Domain Audio Deepfake Detection: Dataset and Analysis**|Yuang Li et.al.|[2404.04904](http://arxiv.org/abs/2404.04904)|null|
 |**2024-04-06**|**HyperTTS: Parameter Efficient Adaptation in Text to Speech using Hypernetworks**|Yingting Li et.al.|[2404.04645](http://arxiv.org/abs/2404.04645)|**[link](https://github.com/declare-lab/hypertts)**|
 |**2024-04-05**|**Open vocabulary keyword spotting through transfer learning from speech synthesis**|Kesavaraj V et.al.|[2404.03914](http://arxiv.org/abs/2404.03914)|null|
@@ -20,7 +20,7 @@ layout: default
 |**2024-04-03**|**PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders**|Yu Pan et.al.|[2404.02702](http://arxiv.org/abs/2404.02702)|null|
 |**2024-03-31**|**Humane Speech Synthesis through Zero-Shot Emotion and Disfluency Generation**|Rohan Chaudhury et.al.|[2404.01339](http://arxiv.org/abs/2404.01339)|**[link](https://github.com/rohan-chaudhury/humane-speech-synthesis-through-zero-shot-emotion-and-disfluency-generation)**|
 |**2024-03-28**|**A Review of Multi-Modal Large Language and Vision Models**|Kilian Carolan et.al.|[2404.01322](http://arxiv.org/abs/2404.01322)|null|
-|**2024-04-01**|**KazEmoTTS: A Dataset for Kazakh Emotional Text-to-Speech Synthesis**|Adal Abilbekov et.al.|[2404.01033](http://arxiv.org/abs/2404.01033)|**[link](https://github.com/is2ai/kazemotts)**|
+|**2024-04-09**|**KazEmoTTS: A Dataset for Kazakh Emotional Text-to-Speech Synthesis**|Adal Abilbekov et.al.|[2404.01033](http://arxiv.org/abs/2404.01033)|**[link](https://github.com/is2ai/kazemotts)**|
 |**2024-03-31**|**CM-TTS: Enhancing Real Time Text-to-Speech Synthesis Efficiency through Weighted Samplers and Consistency Models**|Xiang Li et.al.|[2404.00569](http://arxiv.org/abs/2404.00569)|**[link](https://github.com/xiangli2022/cm-tts)**|
 |**2024-03-25**|**VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild**|Puyuan Peng et.al.|[2403.16973](http://arxiv.org/abs/2403.16973)|**[link](https://github.com/jasonppy/voicecraft)**|
 |**2024-03-20**|**Isometric Neural Machine Translation using Phoneme Count Ratio Reward-based Reinforcement Learning**|Shivam Ratnakant Mhaskar et.al.|[2403.15469](http://arxiv.org/abs/2403.15469)|null|
