@@ -1,4 +1,4 @@
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -16,12 +16,12 @@
 |---|---|---|---|---|
 |**2024-04-14**|**Prior-agnostic Multi-scale Contrastive Text-Audio Pre-training for Parallelized TTS Frontend Modeling**|Quanxiu Wang et.al.|[2404.09192](http://arxiv.org/abs/2404.09192)|null|
 |**2024-04-11**|**Voice-Assisted Real-Time Traffic Sign Recognition System Using Convolutional Neural Network**|Mayura Manawadu et.al.|[2404.07807](http://arxiv.org/abs/2404.07807)|null|
-|**2024-04-12**|**Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness**|Xincan Feng et.al.|[2404.06714](http://arxiv.org/abs/2404.06714)|null|
+|**2024-04-18**|**Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness**|Xincan Feng et.al.|[2404.06714](http://arxiv.org/abs/2404.06714)|null|
 |**2024-04-10**|**CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations**|Leying Zhang et.al.|[2404.06690](http://arxiv.org/abs/2404.06690)|null|
 |**2024-04-10**|**The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge**|Yiwei Guo et.al.|[2404.06079](http://arxiv.org/abs/2404.06079)|null|
 |**2024-04-07**|**Cross-Domain Audio Deepfake Detection: Dataset and Analysis**|Yuang Li et.al.|[2404.04904](http://arxiv.org/abs/2404.04904)|null|
 |**2024-04-06**|**HyperTTS: Parameter Efficient Adaptation in Text to Speech using Hypernetworks**|Yingting Li et.al.|[2404.04645](http://arxiv.org/abs/2404.04645)|**[link](https://github.com/declare-lab/hypertts)**|
-|**2024-04-05**|**Open vocabulary keyword spotting through transfer learning from speech synthesis**|Kesavaraj V et.al.|[2404.03914](http://arxiv.org/abs/2404.03914)|null|
+|**2024-04-18**|**Open vocabulary keyword spotting through transfer learning from speech synthesis**|Kesavaraj V et.al.|[2404.03914](http://arxiv.org/abs/2404.03914)|null|
 |**2024-04-06**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204](http://arxiv.org/abs/2404.03204)|null|
 |**2024-04-03**|**CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech**|Jaehyeon Kim et.al.|[2404.02781](http://arxiv.org/abs/2404.02781)|null|
 |**2024-04-13**|**PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders**|Yu Pan et.al.|[2404.02702](http://arxiv.org/abs/2404.02702)|null|
@@ -535,5 +535,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
