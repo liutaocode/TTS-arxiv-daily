@@ -1,4 +1,4 @@
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-22**|**Retrieval-Augmented Audio Deepfake Detection**|Zuheng Kang et.al.|[2404.13892](http://arxiv.org/abs/2404.13892)|null|
+|**2024-04-23**|**Retrieval-Augmented Audio Deepfake Detection**|Zuheng Kang et.al.|[2404.13892](http://arxiv.org/abs/2404.13892)|null|
 |**2024-04-14**|**Prior-agnostic Multi-scale Contrastive Text-Audio Pre-training for Parallelized TTS Frontend Modeling**|Quanxiu Wang et.al.|[2404.09192](http://arxiv.org/abs/2404.09192)|null|
 |**2024-04-11**|**Voice-Assisted Real-Time Traffic Sign Recognition System Using Convolutional Neural Network**|Mayura Manawadu et.al.|[2404.07807](http://arxiv.org/abs/2404.07807)|null|
 |**2024-04-18**|**Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness**|Xincan Feng et.al.|[2404.06714](http://arxiv.org/abs/2404.06714)|null|
@@ -536,5 +536,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240424>back to top</a>)</p>
 
