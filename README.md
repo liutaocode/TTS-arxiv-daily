@@ -179,7 +179,7 @@
 |**2023-09-01**|**The DeepZen Speech Synthesis System for Blizzard Challenge 2023**|Christophe Veaux et.al.|[2308.15945](http://arxiv.org/abs/2308.15945)|null|
 |**2023-08-28**|**Pruning Self-Attention for Zero-Shot Multi-Speaker Text-to-Speech**|Hyungchan Yoon et.al.|[2308.14909](http://arxiv.org/abs/2308.14909)|null|
 |**2023-09-04**|**Rep2wav: Noise Robust text-to-speech Using self-supervised representations**|Qiushi Zhu et.al.|[2308.14553](http://arxiv.org/abs/2308.14553)|null|
-|**2023-08-28**|**TextrolSpeech: A Text Style Control Speech Corpus With Codec Language Text-to-Speech Models**|Shengpeng Ji et.al.|[2308.14430](http://arxiv.org/abs/2308.14430)|null|
+|**2023-08-28**|**TextrolSpeech: A Text Style Control Speech Corpus With Codec Language Text-to-Speech Models**|Shengpeng Ji et.al.|[2308.14430](http://arxiv.org/abs/2308.14430)|**[link](https://github.com/jishengpeng/TextrolSpeech)**|
 |**2023-09-02**|**Expressive paragraph text-to-speech synthesis with multi-step variational autoencoder**|Xuyuan Li et.al.|[2308.13365](http://arxiv.org/abs/2308.13365)|null|
 |**2023-08-24**|**Generalizable Zero-Shot Speaker Adaptive Speech Synthesis with Disentangled Representations**|Wenbin Wang et.al.|[2308.13007](http://arxiv.org/abs/2308.13007)|null|
 |**2023-09-22**|**Sparks of Large Audio Models: A Survey and Outlook**|Siddique Latif et.al.|[2308.12792](http://arxiv.org/abs/2308.12792)|null|
