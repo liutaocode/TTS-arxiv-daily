@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**MM-TTS: A Unified Framework for Multimodal, Prompt-Induced Emotional Text-to-Speech Synthesis**|Xiang Li et.al.|[2404.18398](http://arxiv.org/abs/2404.18398)|null|
+|**2024-04-28**|**USAT: A Universal Speaker-Adaptive Text-to-Speech Approach**|Wenbin Wang et.al.|[2404.18094](http://arxiv.org/abs/2404.18094)|null|
+|**2024-04-27**|**TI-ASU: Toward Robust Automatic Speech Understanding through Text-to-speech Imputation Against Missing Speech Modality**|Tiantian Feng et.al.|[2404.17983](http://arxiv.org/abs/2404.17983)|null|
+|**2024-04-26**|**An RFP dataset for Real, Fake, and Partially fake audio detection**|Abdulazeez AlAli et.al.|[2404.17721](http://arxiv.org/abs/2404.17721)|null|
 |**2024-04-23**|**StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations**|Sen Liu et.al.|[2404.14946](http://arxiv.org/abs/2404.14946)|null|
 |**2024-04-23**|**Retrieval-Augmented Audio Deepfake Detection**|Zuheng Kang et.al.|[2404.13892](http://arxiv.org/abs/2404.13892)|null|
 |**2024-04-14**|**Prior-agnostic Multi-scale Contrastive Text-Audio Pre-training for Parallelized TTS Frontend Modeling**|Quanxiu Wang et.al.|[2404.09192](http://arxiv.org/abs/2404.09192)|null|
