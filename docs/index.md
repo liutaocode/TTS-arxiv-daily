@@ -155,7 +155,7 @@ layout: default
 |**2023-09-17**|**Augmenting text for spoken language understanding with Large Language Models**|Roshan Sharma et.al.|[2309.09390](http://arxiv.org/abs/2309.09390)|null|
 |**2023-09-16**|**FastGraphTTS: An Ultrafast Syntax-Aware Speech Synthesis Framework**|Jianzong Wang et.al.|[2309.08837](http://arxiv.org/abs/2309.08837)|null|
 |**2023-09-15**|**Cross-lingual Knowledge Distillation via Flow-based Voice Conversion for Robust Polyglot Text-To-Speech**|Dariusz Piotrowski et.al.|[2309.08255](http://arxiv.org/abs/2309.08255)|null|
-|**2023-09-15**|**HM-Conformer: A Conformer-based audio deepfake detection system with hierarchical pooling and multi-level classification token aggregation methods**|Hyun-seo Shin et.al.|[2309.08208](http://arxiv.org/abs/2309.08208)|null|
+|**2023-09-15**|**HM-Conformer: A Conformer-based audio deepfake detection system with hierarchical pooling and multi-level classification token aggregation methods**|Hyun-seo Shin et.al.|[2309.08208](http://arxiv.org/abs/2309.08208)|**[link](https://github.com/talkingnow/HM-Conformer)**|
 |**2023-12-27**|**PromptTTS++: Controlling Speaker Identity in Prompt-Based Text-to-Speech Using Natural Language Descriptions**|Reo Shimizu et.al.|[2309.08140](http://arxiv.org/abs/2309.08140)|null|
 |**2023-09-15**|**Diversity-based core-set selection for text-to-speech with linguistic and acoustic features**|Kentaro Seki et.al.|[2309.08127](http://arxiv.org/abs/2309.08127)|null|
 |**2023-09-14**|**Direct Text to Speech Translation System using Acoustic Units**|Victoria Mingote et.al.|[2309.07478](http://arxiv.org/abs/2309.07478)|null|
