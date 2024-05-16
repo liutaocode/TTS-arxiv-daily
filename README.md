@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Towards Evaluating the Robustness of Automatic Speech Recognition Systems via Audio Style Transfer**|Weifei Jin et.al.|[2405.09470](http://arxiv.org/abs/2405.09470)|null|
+|**2024-05-15**|**Hierarchical Emotion Prediction and Control in Text-to-Speech Synthesis**|Sho Inoue et.al.|[2405.09171](http://arxiv.org/abs/2405.09171)|null|
+|**2024-05-14**|**PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset**|Yang Hou et.al.|[2405.08838](http://arxiv.org/abs/2405.08838)|null|
 |**2024-04-30**|**Attention-Constrained Inference for Robust Decoder-Only Text-to-Speech**|Hankun Wang et.al.|[2404.19723](http://arxiv.org/abs/2404.19723)|null|
 |**2024-04-29**|**MM-TTS: A Unified Framework for Multimodal, Prompt-Induced Emotional Text-to-Speech Synthesis**|Xiang Li et.al.|[2404.18398](http://arxiv.org/abs/2404.18398)|null|
 |**2024-04-28**|**USAT: A Universal Speaker-Adaptive Text-to-Speech Approach**|Wenbin Wang et.al.|[2404.18094](http://arxiv.org/abs/2404.18094)|**[link](https://github.com/mushanshanshan/esltts)**|
