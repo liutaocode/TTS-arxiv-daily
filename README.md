@@ -1,4 +1,4 @@
-## Updated on 2024.05.18
+## Updated on 2024.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,7 +19,7 @@
 |**2024-05-16**|**Evaluating Text-to-Speech Synthesis from a Large Discrete Token-based Speech Language Model**|Siyang Wang et.al.|[2405.09768](http://arxiv.org/abs/2405.09768)|null|
 |**2024-05-15**|**Towards Evaluating the Robustness of Automatic Speech Recognition Systems via Audio Style Transfer**|Weifei Jin et.al.|[2405.09470](http://arxiv.org/abs/2405.09470)|null|
 |**2024-05-15**|**Hierarchical Emotion Prediction and Control in Text-to-Speech Synthesis**|Sho Inoue et.al.|[2405.09171](http://arxiv.org/abs/2405.09171)|null|
-|**2024-05-14**|**PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset**|Yang Hou et.al.|[2405.08838](http://arxiv.org/abs/2405.08838)|null|
+|**2024-05-14**|**PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset**|Yang Hou et.al.|[2405.08838](http://arxiv.org/abs/2405.08838)|**[link](https://github.com/tobuta/PolyGlotFake)**|
 |**2024-04-30**|**Attention-Constrained Inference for Robust Decoder-Only Text-to-Speech**|Hankun Wang et.al.|[2404.19723](http://arxiv.org/abs/2404.19723)|null|
 |**2024-04-29**|**MM-TTS: A Unified Framework for Multimodal, Prompt-Induced Emotional Text-to-Speech Synthesis**|Xiang Li et.al.|[2404.18398](http://arxiv.org/abs/2404.18398)|null|
 |**2024-04-28**|**USAT: A Universal Speaker-Adaptive Text-to-Speech Approach**|Wenbin Wang et.al.|[2404.18094](http://arxiv.org/abs/2404.18094)|**[link](https://github.com/mushanshanshan/esltts)**|
@@ -548,5 +548,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
 
