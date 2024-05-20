@@ -340,7 +340,7 @@
 |**2023-06-25**|**InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt**|Dongchao Yang et.al.|[2301.13662](http://arxiv.org/abs/2301.13662)|**[link](https://github.com/yangdongchao/academicodec)**|
 |**2023-03-01**|**UzbekTagger: The rule-based POS tagger for Uzbek language**|Maksud Sharipov et.al.|[2301.12711](http://arxiv.org/abs/2301.12711)|null|
 |**2023-05-27**|**Learning to Speak from Text: Zero-Shot Multilingual Text-to-Speech with Unsupervised Text Pretraining**|Takaaki Saeki et.al.|[2301.12596](http://arxiv.org/abs/2301.12596)|**[link](https://github.com/takaaki-saeki/zm-text-tts)**|
-|**2023-01-31**|**Time out of Mind: Generating Rate of Speech conditioned on emotion and speaker**|Navjot Kaur et.al.|[2301.12331](http://arxiv.org/abs/2301.12331)|null|
+|**2023-01-31**|**Time out of Mind: Generating Rate of Speech conditioned on emotion and speaker**|Navjot Kaur et.al.|[2301.12331](http://arxiv.org/abs/2301.12331)|**[link](https://github.com/chocobearz/speech_timing)**|
 |**2023-01-26**|**On granularity of prosodic representations in expressive text-to-speech**|Mikolaj Babianski et.al.|[2301.11446](http://arxiv.org/abs/2301.11446)|null|
 |**2023-01-26**|**Unsupervised Data Selection for TTS: Using Arabic Broadcast News as a Case Study**|Massa Baali et.al.|[2301.09099](http://arxiv.org/abs/2301.09099)|**[link](https://github.com/espnet/espnet/tree/master/egs2/qasr_tts/tts1)**|
 |**2023-01-20**|**Phoneme-Level BERT for Enhanced Prosody of Text-to-Speech with Grapheme Predictions**|Yinghao Aaron Li et.al.|[2301.08810](http://arxiv.org/abs/2301.08810)|null|
