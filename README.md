@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Multi-speaker Text-to-speech Training with Speaker Anonymized Data**|Wen-Chin Huang et.al.|[2405.11767](http://arxiv.org/abs/2405.11767)|null|
+|**2024-05-19**|**VR-GPT: Visual Language Model for Intelligent Virtual Reality Applications**|Mikhail Konenkov et.al.|[2405.11537](http://arxiv.org/abs/2405.11537)|null|
+|**2024-05-18**|**Exploring speech style spaces with language models: Emotional TTS without emotion labels**|Shreeram Suresh Chandra et.al.|[2405.11413](http://arxiv.org/abs/2405.11413)|null|
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-16**|**Building a Luganda Text-to-Speech Model From Crowdsourced Data**|Sulaiman Kagumire et.al.|[2405.10211](http://arxiv.org/abs/2405.10211)|null|
 |**2024-05-16**|**Evaluating Text-to-Speech Synthesis from a Large Discrete Token-based Speech Language Model**|Siyang Wang et.al.|[2405.09768](http://arxiv.org/abs/2405.09768)|null|
