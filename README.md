@@ -57,7 +57,7 @@
 |**2024-03-05**|**AttentionStitch: How Attention Solves the Speech Editing Problem**|Antonios Alexos et.al.|[2403.04804](http://arxiv.org/abs/2403.04804)|null|
 |**2024-03-07**|**Attempt Towards Stress Transfer in Speech-to-Speech Machine Translation**|Sai Akarsh et.al.|[2403.04178](http://arxiv.org/abs/2403.04178)|null|
 |**2024-03-27**|**NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models**|Zeqian Ju et.al.|[2403.03100](http://arxiv.org/abs/2403.03100)|null|
-|**2024-03-04**|**Brilla AI: AI Contestant for the National Science and Maths Quiz**|George Boateng et.al.|[2403.01699](http://arxiv.org/abs/2403.01699)|null|
+|**2024-03-04**|**Brilla AI: AI Contestant for the National Science and Maths Quiz**|George Boateng et.al.|[2403.01699](http://arxiv.org/abs/2403.01699)|**[link](https://github.com/nsmq-ai/nsmqai)**|
 |**2024-03-02**|**Towards Accurate Lip-to-Speech Synthesis in-the-Wild**|Sindhu Hegde et.al.|[2403.01087](http://arxiv.org/abs/2403.01087)|null|
 |**2024-02-29**|**Extending Multilingual Speech Synthesis to 100+ Languages without Transcribed Data**|Takaaki Saeki et.al.|[2402.18932](http://arxiv.org/abs/2402.18932)|null|
 |**2024-02-26**|**An Automated End-to-End Open-Source Software for High-Quality Text-to-Speech Dataset Generation**|Ahmet Gunduz et.al.|[2402.16380](http://arxiv.org/abs/2402.16380)|**[link](https://github.com/aixplain/tts-qa)**|
