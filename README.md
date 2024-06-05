@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
+|**2024-06-04**|**SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models**|Dongchao Yang et.al.|[2406.02328](http://arxiv.org/abs/2406.02328)|null|
+|**2024-06-04**|**BiVocoder: A Bidirectional Neural Vocoder Integrating Feature Extraction and Waveform Generation**|Hui-Peng Du et.al.|[2406.02162](http://arxiv.org/abs/2406.02162)|null|
+|**2024-06-04**|**Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis**|Kun Zhou et.al.|[2406.02009](http://arxiv.org/abs/2406.02009)|null|
+|**2024-06-03**|**ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec**|Shengpeng Ji et.al.|[2406.01205](http://arxiv.org/abs/2406.01205)|null|
+|**2024-06-03**|**Accent Conversion in Text-To-Speech Using Multi-Level VAE and Adversarial Training**|Jan Melechovsky et.al.|[2406.01018](http://arxiv.org/abs/2406.01018)|null|
+|**2024-06-02**|**Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback**|Chen Chen et.al.|[2406.00654](http://arxiv.org/abs/2406.00654)|null|
 |**2024-05-31**|**Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities**|Vicky Zayats et.al.|[2405.18669](http://arxiv.org/abs/2405.18669)|null|
 |**2024-05-28**|**TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation**|Chenyang Le et.al.|[2405.17809](http://arxiv.org/abs/2405.17809)|null|
 |**2024-05-27**|**RSET: Remapping-based Sorting Method for Emotion Transfer Speech Synthesis**|Haoxiang Shi et.al.|[2405.17028](http://arxiv.org/abs/2405.17028)|null|
