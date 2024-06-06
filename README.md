@@ -14,8 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**LiveSpeech: Low-Latency Zero-shot Text-to-Speech via Autoregressive Modeling of Audio Discrete Codes**|Trung Dang et.al.|[2406.02897](http://arxiv.org/abs/2406.02897)|null|
 |**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
-|**2024-06-04**|**SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models**|Dongchao Yang et.al.|[2406.02328](http://arxiv.org/abs/2406.02328)|null|
+|**2024-06-05**|**SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models**|Dongchao Yang et.al.|[2406.02328](http://arxiv.org/abs/2406.02328)|null|
 |**2024-06-04**|**BiVocoder: A Bidirectional Neural Vocoder Integrating Feature Extraction and Waveform Generation**|Hui-Peng Du et.al.|[2406.02162](http://arxiv.org/abs/2406.02162)|null|
 |**2024-06-04**|**Phonetic Enhanced Language Modeling for Text-to-Speech Synthesis**|Kun Zhou et.al.|[2406.02009](http://arxiv.org/abs/2406.02009)|null|
 |**2024-06-03**|**ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec**|Shengpeng Ji et.al.|[2406.01205](http://arxiv.org/abs/2406.01205)|null|
