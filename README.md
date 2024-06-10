@@ -14,11 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**XTTS: a Massively Multilingual Zero-Shot Text-to-Speech Model**|Edresson Casanova et.al.|[2406.04904](http://arxiv.org/abs/2406.04904)|null|
+|**2024-06-07**|**TraceableSpeech: Towards Proactively Traceable Text-to-Speech with Watermarking**|Junzuo Zhou et.al.|[2406.04840](http://arxiv.org/abs/2406.04840)|null|
+|**2024-06-07**|**Boosting Diffusion Model for Spectrogram Up-sampling in Text-to-speech: An Empirical Study**|Chong Zhang et.al.|[2406.04633](http://arxiv.org/abs/2406.04633)|null|
+|**2024-06-06**|**Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis**|Théodor Lemerle et.al.|[2406.04467](http://arxiv.org/abs/2406.04467)|null|
 |**2024-06-06**|**Total-Duration-Aware Duration Modeling for Text-to-Speech Systems**|Sefik Emre Eskimez et.al.|[2406.04281](http://arxiv.org/abs/2406.04281)|null|
 |**2024-06-06**|**Retrieval Augmented Generation in Prompt-based Text-to-Speech Synthesis with Context-Aware Contrastive Language-Audio Pretraining**|Jinlong Xue et.al.|[2406.03714](http://arxiv.org/abs/2406.03714)|null|
 |**2024-06-06**|**Improving Audio Codec-based Zero-Shot Text-to-Speech Synthesis with Multi-Modal Context and Large Language Model**|Jinlong Xue et.al.|[2406.03706](http://arxiv.org/abs/2406.03706)|null|
 |**2024-06-05**|**Style Mixture of Experts for Expressive Text-To-Speech Synthesis**|Ahad Jawaid et.al.|[2406.03637](http://arxiv.org/abs/2406.03637)|null|
-|**2024-06-05**|**Harder or Different? Understanding Generalization of Audio Deepfake Detection**|Nicolas M. Müller et.al.|[2406.03512](http://arxiv.org/abs/2406.03512)|null|
+|**2024-06-07**|**Harder or Different? Understanding Generalization of Audio Deepfake Detection**|Nicolas M. Müller et.al.|[2406.03512](http://arxiv.org/abs/2406.03512)|null|
 |**2024-06-05**|**LiveSpeech: Low-Latency Zero-shot Text-to-Speech via Autoregressive Modeling of Audio Discrete Codes**|Trung Dang et.al.|[2406.02897](http://arxiv.org/abs/2406.02897)|null|
 |**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
 |**2024-06-05**|**SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models**|Dongchao Yang et.al.|[2406.02328](http://arxiv.org/abs/2406.02328)|null|
