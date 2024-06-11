@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Controlling Emotion in Text-to-Speech with Natural Language Prompts**|Thomas Bott et.al.|[2406.06406](http://arxiv.org/abs/2406.06406)|null|
+|**2024-06-10**|**Meta Learning Text-to-Speech Synthesis in over 7000 Languages**|Florian Lux et.al.|[2406.06403](http://arxiv.org/abs/2406.06403)|null|
+|**2024-06-10**|**MakeSinger: A Semi-Supervised Training Method for Data-Efficient Singing Voice Synthesis via Classifier-free Diffusion Guidance**|Semin Kim et.al.|[2406.05965](http://arxiv.org/abs/2406.05965)|null|
+|**2024-06-09**|**WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark**|Linhan Ma et.al.|[2406.05763](http://arxiv.org/abs/2406.05763)|null|
+|**2024-06-09**|**An Investigation of Noise Robustness for Flow-Matching-Based Zero-Shot TTS**|Xiaofei Wang et.al.|[2406.05699](http://arxiv.org/abs/2406.05699)|null|
+|**2024-06-09**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
+|**2024-06-08**|**Autoregressive Diffusion Transformer for Text-to-Speech Synthesis**|Zhijun Liu et.al.|[2406.05551](http://arxiv.org/abs/2406.05551)|null|
+|**2024-06-08**|**VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers**|Sanyuan Chen et.al.|[2406.05370](http://arxiv.org/abs/2406.05370)|null|
+|**2024-06-07**|**Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis**|Ryan Langman et.al.|[2406.05298](http://arxiv.org/abs/2406.05298)|null|
 |**2024-06-07**|**XTTS: a Massively Multilingual Zero-Shot Text-to-Speech Model**|Edresson Casanova et.al.|[2406.04904](http://arxiv.org/abs/2406.04904)|null|
 |**2024-06-07**|**TraceableSpeech: Towards Proactively Traceable Text-to-Speech with Watermarking**|Junzuo Zhou et.al.|[2406.04840](http://arxiv.org/abs/2406.04840)|null|
 |**2024-06-07**|**Boosting Diffusion Model for Spectrogram Up-sampling in Text-to-speech: An Empirical Study**|Chong Zhang et.al.|[2406.04633](http://arxiv.org/abs/2406.04633)|null|
