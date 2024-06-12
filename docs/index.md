@@ -11,12 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?**|Qingkai Fang et.al.|[2406.07289](http://arxiv.org/abs/2406.07289)|null|
+|**2024-06-11**|**AudioMarkBench: Benchmarking Robustness of Audio Watermarking**|Hongbin Liu et.al.|[2406.06979](http://arxiv.org/abs/2406.06979)|**[link](https://github.com/moyangkuo/audiomarkbench)**|
 |**2024-06-10**|**Controlling Emotion in Text-to-Speech with Natural Language Prompts**|Thomas Bott et.al.|[2406.06406](http://arxiv.org/abs/2406.06406)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
 |**2024-06-10**|**Meta Learning Text-to-Speech Synthesis in over 7000 Languages**|Florian Lux et.al.|[2406.06403](http://arxiv.org/abs/2406.06403)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
 |**2024-06-10**|**MakeSinger: A Semi-Supervised Training Method for Data-Efficient Singing Voice Synthesis via Classifier-free Diffusion Guidance**|Semin Kim et.al.|[2406.05965](http://arxiv.org/abs/2406.05965)|null|
-|**2024-06-09**|**WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark**|Linhan Ma et.al.|[2406.05763](http://arxiv.org/abs/2406.05763)|null|
+|**2024-06-11**|**WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark**|Linhan Ma et.al.|[2406.05763](http://arxiv.org/abs/2406.05763)|null|
 |**2024-06-09**|**An Investigation of Noise Robustness for Flow-Matching-Based Zero-Shot TTS**|Xiaofei Wang et.al.|[2406.05699](http://arxiv.org/abs/2406.05699)|null|
-|**2024-06-09**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
+|**2024-06-11**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 |**2024-06-08**|**Autoregressive Diffusion Transformer for Text-to-Speech Synthesis**|Zhijun Liu et.al.|[2406.05551](http://arxiv.org/abs/2406.05551)|null|
 |**2024-06-08**|**VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers**|Sanyuan Chen et.al.|[2406.05370](http://arxiv.org/abs/2406.05370)|null|
 |**2024-06-07**|**Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis**|Ryan Langman et.al.|[2406.05298](http://arxiv.org/abs/2406.05298)|null|
