@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -13,7 +13,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-11**|**Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?**|Qingkai Fang et.al.|[2406.07289](http://arxiv.org/abs/2406.07289)|null|
 |**2024-06-11**|**AudioMarkBench: Benchmarking Robustness of Audio Watermarking**|Hongbin Liu et.al.|[2406.06979](http://arxiv.org/abs/2406.06979)|**[link](https://github.com/moyangkuo/audiomarkbench)**|
-|**2024-06-10**|**Controlling Emotion in Text-to-Speech with Natural Language Prompts**|Thomas Bott et.al.|[2406.06406](http://arxiv.org/abs/2406.06406)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
+|**2024-06-11**|**Controlling Emotion in Text-to-Speech with Natural Language Prompts**|Thomas Bott et.al.|[2406.06406](http://arxiv.org/abs/2406.06406)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
 |**2024-06-10**|**Meta Learning Text-to-Speech Synthesis in over 7000 Languages**|Florian Lux et.al.|[2406.06403](http://arxiv.org/abs/2406.06403)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
 |**2024-06-10**|**MakeSinger: A Semi-Supervised Training Method for Data-Efficient Singing Voice Synthesis via Classifier-free Diffusion Guidance**|Semin Kim et.al.|[2406.05965](http://arxiv.org/abs/2406.05965)|null|
 |**2024-06-11**|**WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark**|Linhan Ma et.al.|[2406.05763](http://arxiv.org/abs/2406.05763)|null|
