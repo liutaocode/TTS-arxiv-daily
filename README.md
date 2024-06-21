@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**DASB -- Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294](http://arxiv.org/abs/2406.14294)|null|
+|**2024-06-18**|**Instruction Data Generation and Unsupervised Adaptation for Speech Language Models**|Vahid Noroozi et.al.|[2406.12946](http://arxiv.org/abs/2406.12946)|null|
 |**2024-06-17**|**DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer**|Keon Lee et.al.|[2406.11427](http://arxiv.org/abs/2406.11427)|null|
 |**2024-06-16**|**NAST: Noise Aware Speech Tokenization for Speech Language Models**|Shoval Messica et.al.|[2406.11037](http://arxiv.org/abs/2406.11037)|null|
 |**2024-06-16**|**Multi-Scale Accent Modeling with Disentangling for Multi-Speaker Multi-Accent TTS Synthesis**|Xuehao Zhou et.al.|[2406.10844](http://arxiv.org/abs/2406.10844)|null|
