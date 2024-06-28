@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Application of ASV for Voice Identification after VC and Duration Predictor Improvement in TTS Models**|Borodin Kirill Nikolayevich et.al.|[2406.19243](http://arxiv.org/abs/2406.19243)|null|
+|**2024-06-27**|**DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability**|Hyun Joon Park et.al.|[2406.19135](http://arxiv.org/abs/2406.19135)|**[link](https://github.com/winddori2002/dex-tts)**|
 |**2024-06-26**|**Automatic Speech Recognition for Hindi**|Anish Saha et.al.|[2406.18135](http://arxiv.org/abs/2406.18135)|null|
 |**2024-06-26**|**A Study on Synthesizing Expressive Violin Performances: Approaches and Comparisons**|Tzu-Yun Hung et.al.|[2406.18089](http://arxiv.org/abs/2406.18089)|null|
 |**2024-06-26**|**LLM-Driven Multimodal Opinion Expression Identification**|Bonian Jia et.al.|[2406.18088](http://arxiv.org/abs/2406.18088)|null|
