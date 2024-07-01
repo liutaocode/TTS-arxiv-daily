@@ -26,7 +26,7 @@
 |**2024-06-25**|**Leveraging Parameter-Efficient Transfer Learning for Multi-Lingual Text-to-Speech Adaptation**|Yingting Li et.al.|[2406.17257](http://arxiv.org/abs/2406.17257)|null|
 |**2024-06-24**|**Exploring the Capability of Mamba in Speech Applications**|Koichi Miyazaki et.al.|[2406.16808](http://arxiv.org/abs/2406.16808)|null|
 |**2024-06-25**|**Towards Zero-Shot Text-To-Speech for Arabic Dialects**|Khai Duy Doan et.al.|[2406.16751](http://arxiv.org/abs/2406.16751)|null|
-|**2024-06-22**|**TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers**|Yakun Song et.al.|[2406.15752](http://arxiv.org/abs/2406.15752)|null|
+|**2024-06-22**|**TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers**|Yakun Song et.al.|[2406.15752](http://arxiv.org/abs/2406.15752)|**[link](https://github.com/Ereboas/TacoLM)**|
 |**2024-06-21**|**InterBiasing: Boost Unseen Word Recognition through Biasing Intermediate Predictions**|Yu Nakagome et.al.|[2406.14890](http://arxiv.org/abs/2406.14890)|null|
 |**2024-06-21**|**GLOBE: A High-quality English Corpus with Global Accents for Zero-shot Speaker Adaptive Text-to-Speech**|Wenbin Wang et.al.|[2406.14875](http://arxiv.org/abs/2406.14875)|null|
 |**2024-06-21**|**DASB - Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294](http://arxiv.org/abs/2406.14294)|null|
@@ -52,7 +52,7 @@
 |**2024-06-11**|**Controlling Emotion in Text-to-Speech with Natural Language Prompts**|Thomas Bott et.al.|[2406.06406](http://arxiv.org/abs/2406.06406)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
 |**2024-06-10**|**Meta Learning Text-to-Speech Synthesis in over 7000 Languages**|Florian Lux et.al.|[2406.06403](http://arxiv.org/abs/2406.06403)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
 |**2024-06-10**|**MakeSinger: A Semi-Supervised Training Method for Data-Efficient Singing Voice Synthesis via Classifier-free Diffusion Guidance**|Semin Kim et.al.|[2406.05965](http://arxiv.org/abs/2406.05965)|null|
-|**2024-06-11**|**WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark**|Linhan Ma et.al.|[2406.05763](http://arxiv.org/abs/2406.05763)|null|
+|**2024-06-11**|**WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark**|Linhan Ma et.al.|[2406.05763](http://arxiv.org/abs/2406.05763)|**[link](https://github.com/dukGuo/valle-audiodec)**|
 |**2024-06-09**|**An Investigation of Noise Robustness for Flow-Matching-Based Zero-Shot TTS**|Xiaofei Wang et.al.|[2406.05699](http://arxiv.org/abs/2406.05699)|null|
 |**2024-06-11**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 |**2024-06-08**|**Autoregressive Diffusion Transformer for Text-to-Speech Synthesis**|Zhijun Liu et.al.|[2406.05551](http://arxiv.org/abs/2406.05551)|null|
