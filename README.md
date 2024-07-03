@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization**|Yuchen Hu et.al.|[2407.02243](http://arxiv.org/abs/2407.02243)|null|
+|**2024-07-02**|**TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations**|Xiaoxue Gao et.al.|[2407.01927](http://arxiv.org/abs/2407.01927)|null|
+|**2024-07-01**|**Lightweight Zero-shot Text-to-Speech with Mixture of Adapters**|Kenichi Fujita et.al.|[2407.01291](http://arxiv.org/abs/2407.01291)|null|
+|**2024-06-30**|**NAIST Simultaneous Speech Translation System for IWSLT 2024**|Yuka Ko et.al.|[2407.00826](http://arxiv.org/abs/2407.00826)|null|
+|**2024-06-30**|**An Attribute Interpolation Method in Speech Synthesis by Model Merging**|Masato Murata et.al.|[2407.00766](http://arxiv.org/abs/2407.00766)|null|
+|**2024-06-30**|**FLY-TTS: Fast, Lightweight and High-Quality End-to-End Text-to-Speech Synthesis**|Yinlin Guo et.al.|[2407.00753](http://arxiv.org/abs/2407.00753)|null|
+|**2024-07-02**|**Open-Source Conversational AI with SpeechBrain 1.0**|Mirco Ravanelli et.al.|[2407.00463](http://arxiv.org/abs/2407.00463)|null|
 |**2024-06-27**|**Application of ASV for Voice Identification after VC and Duration Predictor Improvement in TTS Models**|Borodin Kirill Nikolayevich et.al.|[2406.19243](http://arxiv.org/abs/2406.19243)|null|
 |**2024-06-27**|**DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability**|Hyun Joon Park et.al.|[2406.19135](http://arxiv.org/abs/2406.19135)|**[link](https://github.com/winddori2002/dex-tts)**|
 |**2024-06-26**|**Automatic Speech Recognition for Hindi**|Anish Saha et.al.|[2406.18135](http://arxiv.org/abs/2406.18135)|null|
