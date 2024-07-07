@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-03**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236](http://arxiv.org/abs/2407.03236)|null|
+|**2024-07-03**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236](http://arxiv.org/abs/2407.03236)|**[link](https://github.com/abjadai/catt)**|
 |**2024-07-02**|**Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization**|Yuchen Hu et.al.|[2407.02243](http://arxiv.org/abs/2407.02243)|null|
 |**2024-07-02**|**TTSlow: Slow Down Text-to-Speech with Efficiency Robustness Evaluations**|Xiaoxue Gao et.al.|[2407.01927](http://arxiv.org/abs/2407.01927)|null|
 |**2024-07-01**|**Lightweight Zero-shot Text-to-Speech with Mixture of Adapters**|Kenichi Fujita et.al.|[2407.01291](http://arxiv.org/abs/2407.01291)|null|
