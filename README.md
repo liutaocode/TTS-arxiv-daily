@@ -1,4 +1,4 @@
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-07**|**ASRRL-TTS: Agile Speaker Representation Reinforcement Learning for Text-to-Speech Speaker Adaptation**|Ruibo Fu et.al.|[2407.05421](http://arxiv.org/abs/2407.05421)|null|
-|**2024-07-07**|**CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens**|Zhihao Du et.al.|[2407.05407](http://arxiv.org/abs/2407.05407)|null|
+|**2024-07-09**|**CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens**|Zhihao Du et.al.|[2407.05407](http://arxiv.org/abs/2407.05407)|null|
 |**2024-07-04**|**Improving Accented Speech Recognition using Data Augmentation based on Unsupervised Text-to-Speech Synthesis**|Cong-Thanh Do et.al.|[2407.04047](http://arxiv.org/abs/2407.04047)|null|
 |**2024-07-04**|**Optimizing a-DCF for Spoofing-Robust Speaker Verification**|Oğuzhan Kurnaz et.al.|[2407.04034](http://arxiv.org/abs/2407.04034)|null|
 |**2024-07-04**|**On the Effectiveness of Acoustic BPE in Decoder-Only TTS**|Bohan Li et.al.|[2407.03892](http://arxiv.org/abs/2407.03892)|null|
@@ -631,5 +631,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240710>back to top</a>)</p>
 
