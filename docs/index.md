@@ -11,8 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Braille-to-Speech Generator: Audio Generation Based on Joint Fine-Tuning of CLIP and Fastspeech2**|Chun Xu et.al.|[2407.14212](http://arxiv.org/abs/2407.14212)|null|
 |**2024-07-18**|**Spontaneous Style Text-to-Speech Synthesis with Controllable Spontaneous Behaviors Based on Language Models**|Weiqin Li et.al.|[2407.13509](http://arxiv.org/abs/2407.13509)|null|
-|**2024-07-17**|**TTSDS -- Text-to-Speech Distribution Score**|Christoph Minixhofer et.al.|[2407.12707](http://arxiv.org/abs/2407.12707)|null|
+|**2024-07-17**|**TTSDS -- Text-to-Speech Distribution Score**|Christoph Minixhofer et.al.|[2407.12707](http://arxiv.org/abs/2407.12707)|**[link](https://github.com/ttsds/ttsds)**|
 |**2024-07-17**|**Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech**|Haibin Wu et.al.|[2407.12229](http://arxiv.org/abs/2407.12229)|null|
 |**2024-07-16**|**A Language Modeling Approach to Diacritic-Free Hebrew TTS**|Amit Roth et.al.|[2407.12206](http://arxiv.org/abs/2407.12206)|null|
 |**2024-07-17**|**Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding**|Chuanhao Sun et.al.|[2407.09370](http://arxiv.org/abs/2407.09370)|**[link](https://github.com/zhyuan11/SPE)**|
