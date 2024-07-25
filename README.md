@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Zero-Shot vs. Few-Shot Multi-Speaker TTS Using Pre-trained Czech SpeechT5 Model**|Jan Lehečka et.al.|[2407.17167](http://arxiv.org/abs/2407.17167)|null|
+|**2024-07-23**|**Synth4Kws: Synthesized Speech for User Defined Keyword Spotting in Low Resource Environments**|Pai Zhu et.al.|[2407.16840](http://arxiv.org/abs/2407.16840)|null|
 |**2024-07-19**|**Braille-to-Speech Generator: Audio Generation Based on Joint Fine-Tuning of CLIP and Fastspeech2**|Chun Xu et.al.|[2407.14212](http://arxiv.org/abs/2407.14212)|null|
 |**2024-07-18**|**Spontaneous Style Text-to-Speech Synthesis with Controllable Spontaneous Behaviors Based on Language Models**|Weiqin Li et.al.|[2407.13509](http://arxiv.org/abs/2407.13509)|null|
 |**2024-07-22**|**TTSDS -- Text-to-Speech Distribution Score**|Christoph Minixhofer et.al.|[2407.12707](http://arxiv.org/abs/2407.12707)|**[link](https://github.com/ttsds/ttsds)**|
