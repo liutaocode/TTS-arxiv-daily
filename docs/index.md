@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**Speech Bandwidth Expansion Via High Fidelity Generative Adversarial Networks**|Mahmoud Salhab et.al.|[2407.18571](http://arxiv.org/abs/2407.18571)|null|
 |**2024-07-25**|**On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures**|Nick Rossenbach et.al.|[2407.17997](http://arxiv.org/abs/2407.17997)|null|
 |**2024-07-24**|**Zero-Shot vs. Few-Shot Multi-Speaker TTS Using Pre-trained Czech SpeechT5 Model**|Jan Lehečka et.al.|[2407.17167](http://arxiv.org/abs/2407.17167)|null|
 |**2024-07-23**|**Synth4Kws: Synthesized Speech for User Defined Keyword Spotting in Low Resource Environments**|Pai Zhu et.al.|[2407.16840](http://arxiv.org/abs/2407.16840)|null|
