@@ -75,7 +75,7 @@
 |**2024-06-12**|**VECL-TTS: Voice identity and Emotional style controllable Cross-Lingual Text-to-Speech**|Ashishkumar Gudmalwar et.al.|[2406.08076](http://arxiv.org/abs/2406.08076)|null|
 |**2024-06-12**|**LibriTTS-P: A Corpus with Speaking Style and Speaker Identity Prompts for Text-to-Speech and Style Captioning**|Masaya Kawamura et.al.|[2406.07969](http://arxiv.org/abs/2406.07969)|**[link](https://github.com/line/libritts-p)**|
 |**2024-06-12**|**VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment**|Bing Han et.al.|[2406.07855](http://arxiv.org/abs/2406.07855)|null|
-|**2024-06-12**|**EmoSphere-TTS: Emotional Style and Intensity Modeling via Spherical Emotion Vector for Controllable Emotional Text-to-Speech**|Deok-Hyeon Cho et.al.|[2406.07803](http://arxiv.org/abs/2406.07803)|null|
+|**2024-06-12**|**EmoSphere-TTS: Emotional Style and Intensity Modeling via Spherical Emotion Vector for Controllable Emotional Text-to-Speech**|Deok-Hyeon Cho et.al.|[2406.07803](http://arxiv.org/abs/2406.07803)|**[link](https://github.com/Choddeok/EmoSphere-TTS)**|
 |**2024-06-11**|**The Interspeech 2024 Challenge on Speech Processing Using Discrete Units**|Xuankai Chang et.al.|[2406.07725](http://arxiv.org/abs/2406.07725)|null|
 |**2024-06-11**|**Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?**|Qingkai Fang et.al.|[2406.07289](http://arxiv.org/abs/2406.07289)|null|
 |**2024-06-11**|**AudioMarkBench: Benchmarking Robustness of Audio Watermarking**|Hongbin Liu et.al.|[2406.06979](http://arxiv.org/abs/2406.06979)|**[link](https://github.com/moyangkuo/audiomarkbench)**|
