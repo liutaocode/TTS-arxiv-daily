@@ -70,7 +70,7 @@
 |**2024-06-16**|**NAST: Noise Aware Speech Tokenization for Speech Language Models**|Shoval Messica et.al.|[2406.11037](http://arxiv.org/abs/2406.11037)|**[link](https://github.com/ShovalMessica/NAST)**|
 |**2024-06-16**|**Multi-Scale Accent Modeling with Disentangling for Multi-Speaker Multi-Accent TTS Synthesis**|Xuehao Zhou et.al.|[2406.10844](http://arxiv.org/abs/2406.10844)|null|
 |**2024-06-14**|**Phoneme Discretized Saliency Maps for Explainable Detection of AI-Generated Voice**|Shubham Gupta et.al.|[2406.10422](http://arxiv.org/abs/2406.10422)|null|
-|**2024-06-14**|**UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner**|Dongchao Yang et.al.|[2406.10056](http://arxiv.org/abs/2406.10056)|null|
+|**2024-06-14**|**UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner**|Dongchao Yang et.al.|[2406.10056](http://arxiv.org/abs/2406.10056)|**[link](https://github.com/yangdongchao/llm-codec)**|
 |**2024-06-14**|**MMM: Multi-Layer Multi-Residual Multi-Stream Discrete Speech Representation from Self-supervised Learning Model**|Jiatong Shi et.al.|[2406.09869](http://arxiv.org/abs/2406.09869)|null|
 |**2024-06-13**|**DisfluencySpeech -- Single-Speaker Conversational Speech Dataset with Paralanguage**|Kyra Wang et.al.|[2406.08820](http://arxiv.org/abs/2406.08820)|null|
 |**2024-06-13**|**Generating Speakers by Prompting Listener Impressions for Pre-trained Multi-Speaker Text-to-Speech Systems**|Zhengyang Chen et.al.|[2406.08812](http://arxiv.org/abs/2406.08812)|null|
