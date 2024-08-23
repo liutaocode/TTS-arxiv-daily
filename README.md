@@ -14,10 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Positional Description for Numerical Normalization**|Deepanshu Gupta et.al.|[2408.12430](http://arxiv.org/abs/2408.12430)|null|
+|**2024-08-22**|**VoiceX: A Text-To-Speech Framework for Custom Voices**|Silvan Mertes et.al.|[2408.12170](http://arxiv.org/abs/2408.12170)|null|
+|**2024-08-13**|**Style-Talker: Finetuning Audio Language Model and Style-Based Text-to-Speech Model for Fast Spoken Dialogue Generation**|Yinghao Aaron Li et.al.|[2408.11849](http://arxiv.org/abs/2408.11849)|null|
 |**2024-08-20**|**EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech**|Xin Qi et.al.|[2408.10852](http://arxiv.org/abs/2408.10852)|null|
 |**2024-08-20**|**SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS**|Karl El Hajal et.al.|[2408.10771](http://arxiv.org/abs/2408.10771)|null|
 |**2024-08-20**|**Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting**|Hyun Jin Park et.al.|[2408.10463](http://arxiv.org/abs/2408.10463)|null|
-|**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell et.al.|[2408.09215](http://arxiv.org/abs/2408.09215)|null|
+|**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell et.al.|[2408.09215](http://arxiv.org/abs/2408.09215)|**[link](https://github.com/popcornell/ASRLightningFT)**|
 |**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547](http://arxiv.org/abs/2408.07547)|**[link](https://github.com/sh-lee-prml/periodwave)**|
 |**2024-08-13**|**SaSLaW: Dialogue Speech Corpus with Audio-visual Egocentric Information Toward Environment-adaptive Dialogue Speech Synthesis**|Osamu Take et.al.|[2408.06858](http://arxiv.org/abs/2408.06858)|**[link](https://github.com/sarulab-speech/saslaw)**|
 |**2024-08-13**|**PRESENT: Zero-Shot Text-to-Prosody Control**|Perry Lam et.al.|[2408.06827](http://arxiv.org/abs/2408.06827)|**[link](https://github.com/iamanigeeit/present)**|
