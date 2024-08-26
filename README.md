@@ -100,7 +100,7 @@
 |**2024-06-08**|**Autoregressive Diffusion Transformer for Text-to-Speech Synthesis**|Zhijun Liu et.al.|[2406.05551](http://arxiv.org/abs/2406.05551)|null|
 |**2024-06-08**|**VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers**|Sanyuan Chen et.al.|[2406.05370](http://arxiv.org/abs/2406.05370)|null|
 |**2024-06-07**|**Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis**|Ryan Langman et.al.|[2406.05298](http://arxiv.org/abs/2406.05298)|null|
-|**2024-06-07**|**XTTS: a Massively Multilingual Zero-Shot Text-to-Speech Model**|Edresson Casanova et.al.|[2406.04904](http://arxiv.org/abs/2406.04904)|null|
+|**2024-06-07**|**XTTS: a Massively Multilingual Zero-Shot Text-to-Speech Model**|Edresson Casanova et.al.|[2406.04904](http://arxiv.org/abs/2406.04904)|**[link](https://github.com/Edresson/ZS-TTS-Evaluation)**|
 |**2024-06-07**|**TraceableSpeech: Towards Proactively Traceable Text-to-Speech with Watermarking**|Junzuo Zhou et.al.|[2406.04840](http://arxiv.org/abs/2406.04840)|null|
 |**2024-06-07**|**Boosting Diffusion Model for Spectrogram Up-sampling in Text-to-speech: An Empirical Study**|Chong Zhang et.al.|[2406.04633](http://arxiv.org/abs/2406.04633)|null|
 |**2024-06-06**|**Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis**|Théodor Lemerle et.al.|[2406.04467](http://arxiv.org/abs/2406.04467)|**[link](https://github.com/theodorblackbird/lina-speech)**|
