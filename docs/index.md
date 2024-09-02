@@ -14,7 +14,7 @@ layout: default
 |**2024-08-29**|**Enabling Beam Search for Language Model-Based Text-to-Speech Synthesis**|Zehai Tu et.al.|[2408.16373](http://arxiv.org/abs/2408.16373)|null|
 |**2024-08-28**|**Multi-modal Adversarial Training for Zero-Shot Voice Cloning**|John Janiczek et.al.|[2408.15916](http://arxiv.org/abs/2408.15916)|null|
 |**2024-08-29**|**Easy, Interpretable, Effective: openSMILE for voice deepfake detection**|Octavian Pascu et.al.|[2408.15775](http://arxiv.org/abs/2408.15775)|null|
-|**2024-08-28**|**VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling**|Yixuan Zhou et.al.|[2408.15676](http://arxiv.org/abs/2408.15676)|null|
+|**2024-08-28**|**VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling**|Yixuan Zhou et.al.|[2408.15676](http://arxiv.org/abs/2408.15676)|**[link](https://github.com/thuhcsi/voxinstruct)**|
 |**2024-08-28**|**VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech**|Heeseung Kim et.al.|[2408.14739](http://arxiv.org/abs/2408.14739)|null|
 |**2024-08-27**|**StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech**|Haowei Lou et.al.|[2408.14713](http://arxiv.org/abs/2408.14713)|null|
 |**2024-08-27**|**DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance**|Jinhyeok Yang et.al.|[2408.14423](http://arxiv.org/abs/2408.14423)|null|
@@ -289,7 +289,7 @@ layout: default
 |**2023-10-07**|**FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec**|Zhihao Du et.al.|[2309.07405](http://arxiv.org/abs/2309.07405)|**[link](https://github.com/alibaba-damo-academy/funcodec)**|
 |**2023-09-13**|**DCTTS: Discrete Diffusion Model with Contrastive Learning for Text-to-speech Generation**|Zhichao Wu et.al.|[2309.06787](http://arxiv.org/abs/2309.06787)|null|
 |**2023-09-11**|**Multi-Modal Automatic Prosody Annotation with Contrastive Pretraining of SSWP**|Jinzuomu Zhong et.al.|[2309.05423](http://arxiv.org/abs/2309.05423)|**[link](https://github.com/jzmzhong/Automatic-Prosody-Annotator-with-SSWP-CLAP)**|
-|**2024-01-16**|**VoiceFlow: Efficient Text-to-Speech with Rectified Flow Matching**|Yiwei Guo et.al.|[2309.05027](http://arxiv.org/abs/2309.05027)|null|
+|**2024-01-16**|**VoiceFlow: Efficient Text-to-Speech with Rectified Flow Matching**|Yiwei Guo et.al.|[2309.05027](http://arxiv.org/abs/2309.05027)|**[link](https://github.com/X-LANCE/VoiceFlow-TTS)**|
 |**2023-09-08**|**Cross-Utterance Conditioned VAE for Speech Generation**|Yang Li et.al.|[2309.04156](http://arxiv.org/abs/2309.04156)|null|
 |**2023-09-07**|**Large-Scale Automatic Audiobook Creation**|Brendan Walsh et.al.|[2309.03926](http://arxiv.org/abs/2309.03926)|null|
 |**2023-09-11**|**GRASS: Unified Generation Model for Speech-to-Semantic Tasks**|Aobo Xia et.al.|[2309.02780](http://arxiv.org/abs/2309.02780)|null|
