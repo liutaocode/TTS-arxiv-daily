@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**SelectTTS: Synthesizing Anyone's Voice via Discrete Unit-Based Frame Selection**|Ismail Rasim Ulgen et.al.|[2408.17432](http://arxiv.org/abs/2408.17432)|null|
+|**2024-08-30**|**AASIST3: KAN-Enhanced AASIST Speech Deepfake Detection using SSL Features and Additional Regularization for the ASVspoof 2024 Challenge**|Kirill Borodin et.al.|[2408.17352](http://arxiv.org/abs/2408.17352)|null|
+|**2024-08-30**|**Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model**|Zhen Ye et.al.|[2408.17175](http://arxiv.org/abs/2408.17175)|**[link](https://github.com/zhenye234/xcodec)**|
+|**2024-08-30**|**Utilizing Speaker Profiles for Impersonation Audio Detection**|Hao Gu et.al.|[2408.17009](http://arxiv.org/abs/2408.17009)|null|
 |**2024-08-29**|**Enabling Beam Search for Language Model-Based Text-to-Speech Synthesis**|Zehai Tu et.al.|[2408.16373](http://arxiv.org/abs/2408.16373)|null|
 |**2024-08-28**|**Multi-modal Adversarial Training for Zero-Shot Voice Cloning**|John Janiczek et.al.|[2408.15916](http://arxiv.org/abs/2408.15916)|null|
 |**2024-08-29**|**Easy, Interpretable, Effective: openSMILE for voice deepfake detection**|Octavian Pascu et.al.|[2408.15775](http://arxiv.org/abs/2408.15775)|null|
