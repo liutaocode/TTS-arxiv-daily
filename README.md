@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Training Universal Vocoders with Feature Smoothing-Based Augmentation Methods for High-Quality TTS Systems**|Jeongmin Liu et.al.|[2409.02517](http://arxiv.org/abs/2409.02517)|null|
+|**2024-09-03**|**VoxHakka: A Dialectally Diverse Multi-speaker Text-to-Speech System for Taiwanese Hakka**|Li-Wei Chen et.al.|[2409.01548](http://arxiv.org/abs/2409.01548)|null|
+|**2024-09-02**|**A multilingual training strategy for low resource Text to Speech**|Asma Amalas et.al.|[2409.01217](http://arxiv.org/abs/2409.01217)|null|
+|**2024-09-02**|**A Framework for Synthetic Audio Conversations Generation using Large Language Models**|Kaung Myat Kyaw et.al.|[2409.00946](http://arxiv.org/abs/2409.00946)|null|
+|**2024-09-02**|**SoCodec: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis**|Haohan Guo et.al.|[2409.00933](http://arxiv.org/abs/2409.00933)|null|
+|**2024-09-01**|**MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer**|Yuancheng Wang et.al.|[2409.00750](http://arxiv.org/abs/2409.00750)|null|
 |**2024-08-30**|**SelectTTS: Synthesizing Anyone's Voice via Discrete Unit-Based Frame Selection**|Ismail Rasim Ulgen et.al.|[2408.17432](http://arxiv.org/abs/2408.17432)|null|
 |**2024-08-30**|**AASIST3: KAN-Enhanced AASIST Speech Deepfake Detection using SSL Features and Additional Regularization for the ASVspoof 2024 Challenge**|Kirill Borodin et.al.|[2408.17352](http://arxiv.org/abs/2408.17352)|null|
 |**2024-08-30**|**Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model**|Zhen Ye et.al.|[2408.17175](http://arxiv.org/abs/2408.17175)|**[link](https://github.com/zhenye234/xcodec)**|
