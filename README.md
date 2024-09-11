@@ -14,11 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Enhancing Emotional Text-to-Speech Controllability with Natural Language Guidance through Contrastive Learning and Diffusion Models**|Xin Jing et.al.|[2409.06451](http://arxiv.org/abs/2409.06451)|null|
+|**2024-09-10**|**What happens to diffusion model likelihood when your model is conditional?**|Mattias Cross et.al.|[2409.06364](http://arxiv.org/abs/2409.06364)|null|
+|**2024-09-10**|**VoiceWukong: Benchmarking Deepfake Voice Detection**|Ziwei Yan et.al.|[2409.06348](http://arxiv.org/abs/2409.06348)|null|
 |**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730](http://arxiv.org/abs/2409.05730)|null|
 |**2024-09-09**|**IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS**|Ashwin Sankar et.al.|[2409.05356](http://arxiv.org/abs/2409.05356)|**[link](https://github.com/ai4bharat/indicvoices-r)**|
 |**2024-09-10**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
 |**2024-09-01**|**Sample-Efficient Diffusion for Text-To-Speech Synthesis**|Justin Lovelace et.al.|[2409.03717](http://arxiv.org/abs/2409.03717)|null|
-|**2024-09-05**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
+|**2024-09-10**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
 |**2024-09-05**|**FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications**|Hao-Han Guo et.al.|[2409.03283](http://arxiv.org/abs/2409.03283)|null|
 |**2024-09-04**|**Training Universal Vocoders with Feature Smoothing-Based Augmentation Methods for High-Quality TTS Systems**|Jeongmin Liu et.al.|[2409.02517](http://arxiv.org/abs/2409.02517)|null|
 |**2024-09-03**|**VoxHakka: A Dialectally Diverse Multi-speaker Text-to-Speech System for Taiwanese Hakka**|Li-Wei Chen et.al.|[2409.01548](http://arxiv.org/abs/2409.01548)|null|
