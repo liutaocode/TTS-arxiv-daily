@@ -26,7 +26,7 @@
 |**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730](http://arxiv.org/abs/2409.05730)|null|
 |**2024-09-09**|**IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS**|Ashwin Sankar et.al.|[2409.05356](http://arxiv.org/abs/2409.05356)|**[link](https://github.com/ai4bharat/indicvoices-r)**|
 |**2024-09-10**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
-|**2024-09-01**|**Sample-Efficient Diffusion for Text-To-Speech Synthesis**|Justin Lovelace et.al.|[2409.03717](http://arxiv.org/abs/2409.03717)|null|
+|**2024-09-01**|**Sample-Efficient Diffusion for Text-To-Speech Synthesis**|Justin Lovelace et.al.|[2409.03717](http://arxiv.org/abs/2409.03717)|**[link](https://github.com/justinlovelace/sesd)**|
 |**2024-09-10**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
 |**2024-09-05**|**FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications**|Hao-Han Guo et.al.|[2409.03283](http://arxiv.org/abs/2409.03283)|null|
 |**2024-09-04**|**Training Universal Vocoders with Feature Smoothing-Based Augmentation Methods for High-Quality TTS Systems**|Jeongmin Liu et.al.|[2409.02517](http://arxiv.org/abs/2409.02517)|null|
@@ -95,7 +95,7 @@
 |**2024-06-26**|**Automatic Speech Recognition for Hindi**|Anish Saha et.al.|[2406.18135](http://arxiv.org/abs/2406.18135)|null|
 |**2024-06-26**|**A Study on Synthesizing Expressive Violin Performances: Approaches and Comparisons**|Tzu-Yun Hung et.al.|[2406.18089](http://arxiv.org/abs/2406.18089)|null|
 |**2024-06-29**|**LLM-Driven Multimodal Opinion Expression Identification**|Bonian Jia et.al.|[2406.18088](http://arxiv.org/abs/2406.18088)|null|
-|**2024-06-26**|**E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS**|Sefik Emre Eskimez et.al.|[2406.18009](http://arxiv.org/abs/2406.18009)|null|
+|**2024-06-26**|**E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS**|Sefik Emre Eskimez et.al.|[2406.18009](http://arxiv.org/abs/2406.18009)|**[link](https://github.com/microsoft/e2tts-test-suite)**|
 |**2024-06-25**|**Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment**|Paarth Neekhara et.al.|[2406.17957](http://arxiv.org/abs/2406.17957)|null|
 |**2024-06-22**|**A multi-speaker multi-lingual voice cloning system based on vits2 for limmits 2024 challenge**|Xiaopeng Wang et.al.|[2406.17801](http://arxiv.org/abs/2406.17801)|null|
 |**2024-06-25**|**High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer and Group Masked Language Model**|Joun Yeop Lee et.al.|[2406.17310](http://arxiv.org/abs/2406.17310)|null|
