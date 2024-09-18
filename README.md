@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**SpMis: An Investigation of Synthetic Spoken Misinformation Detection**|Peizhuo Liu et.al.|[2409.11308](http://arxiv.org/abs/2409.11308)|null|
+|**2024-09-17**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|null|
+|**2024-09-17**|**Zero Shot Text to Speech Augmentation for Automatic Speech Recognition on Low-Resource Accented Speech Corpora**|Francesco Nespoli et.al.|[2409.11107](http://arxiv.org/abs/2409.11107)|null|
 |**2024-09-16**|**Emo-DPO: Controllable Emotional Speech Synthesis through Direct Preference Optimization**|Xiaoxue Gao et.al.|[2409.10157](http://arxiv.org/abs/2409.10157)|null|
 |**2024-09-16**|**StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion**|Yinghao Aaron Li et.al.|[2409.10058](http://arxiv.org/abs/2409.10058)|null|
 |**2024-09-15**|**Acquiring Pronunciation Knowledge from Transcribed Speech Audio via Multi-task Learning**|Siqi Sun et.al.|[2409.09891](http://arxiv.org/abs/2409.09891)|null|
@@ -21,7 +24,7 @@
 |**2024-09-14**|**Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation**|Changjin Han et.al.|[2409.09311](http://arxiv.org/abs/2409.09311)|null|
 |**2024-09-14**|**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**|Xinfeng Li et.al.|[2409.09272](http://arxiv.org/abs/2409.09272)|null|
 |**2024-09-13**|**AccentBox: Towards High-Fidelity Zero-Shot Accent Generation**|Jinzuomu Zhong et.al.|[2409.09098](http://arxiv.org/abs/2409.09098)|null|
-|**2024-09-13**|**HLTCOE JHU Submission to the Voice Privacy Challenge 2024**|Henry Li Xinyuan et.al.|[2409.08913](http://arxiv.org/abs/2409.08913)|null|
+|**2024-09-17**|**HLTCOE JHU Submission to the Voice Privacy Challenge 2024**|Henry Li Xinyuan et.al.|[2409.08913](http://arxiv.org/abs/2409.08913)|null|
 |**2024-09-13**|**Text-To-Speech Synthesis In The Wild**|Jee-weon Jung et.al.|[2409.08711](http://arxiv.org/abs/2409.08711)|null|
 |**2024-09-14**|**Exploring Accessibility Trends and Challenges in Mobile App Development: A Study of Stack Overflow Questions**|Amila Indika et.al.|[2409.07945](http://arxiv.org/abs/2409.07945)|null|
 |**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang et.al.|[2409.07790](http://arxiv.org/abs/2409.07790)|null|
