@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Facial Expression-Enhanced TTS: Combining Face Representation and Emotion Intensity for Adaptive Speech**|Yunji Chu et.al.|[2409.16203](http://arxiv.org/abs/2409.16203)|null|
+|**2024-09-24**|**NanoVoice: Efficient Speaker-Adaptive Text-to-Speech for Multiple Speakers**|Nohil Park et.al.|[2409.15760](http://arxiv.org/abs/2409.15760)|null|
+|**2024-09-24**|**VoiceGuider: Enhancing Out-of-Domain Performance in Parameter-Efficient Speaker-Adaptive Text-to-Speech via Autoguidance**|Jiheum Yeom et.al.|[2409.15759](http://arxiv.org/abs/2409.15759)|null|
+|**2024-09-24**|**StyleFusion TTS: Multimodal Style-control and Enhanced Feature Fusion for Zero-shot Text-to-speech Synthesis**|Zhiyong Chen et.al.|[2409.15741](http://arxiv.org/abs/2409.15741)|null|
+|**2024-09-23**|**A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection**|Lam Pham et.al.|[2409.15180](http://arxiv.org/abs/2409.15180)|null|
+|**2024-09-23**|**LlamaPartialSpoof: An LLM-Driven Fake Speech Dataset Simulating Disinformation Generation**|Hieu-Thi Luong et.al.|[2409.14743](http://arxiv.org/abs/2409.14743)|null|
+|**2024-09-20**|**Zero-shot Cross-lingual Voice Transfer for TTS**|Fadi Biadsy et.al.|[2409.13910](http://arxiv.org/abs/2409.13910)|null|
+|**2024-09-20**|**On the Feasibility of Fully AI-automated Vishing Attacks**|João Figueiredo et.al.|[2409.13793](http://arxiv.org/abs/2409.13793)|null|
+|**2024-09-19**|**Enhancing Synthetic Training Data for Speech Commands: From ASR-Based Filtering to Domain Adaptation in SSL Latent Space**|Sebastião Quintas et.al.|[2409.12745](http://arxiv.org/abs/2409.12745)|null|
+|**2024-09-19**|**Preference Alignment Improves Language Model-Based TTS**|Jinchuan Tian et.al.|[2409.12403](http://arxiv.org/abs/2409.12403)|null|
 |**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
 |**2024-09-18**|**Exploring an Inter-Pausal Unit (IPU) based Approach for Indic End-to-End TTS Systems**|Anusha Prakash et.al.|[2409.11915](http://arxiv.org/abs/2409.11915)|null|
 |**2024-09-18**|**DPI-TTS: Directional Patch Interaction for Fast-Converging and Style Temporal Modeling in Text-to-Speech**|Xin Qi et.al.|[2409.11835](http://arxiv.org/abs/2409.11835)|null|
