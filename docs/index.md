@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Emotional Dimension Control in Language Model-Based Text-to-Speech: Spanning a Broad Spectrum of Human Emotions**|Kun Zhou et.al.|[2409.16681](http://arxiv.org/abs/2409.16681)|null|
+|**2024-09-25**|**Enabling Auditory Large Language Models for Automatic Speech Quality Evaluation**|Siyin Wang et.al.|[2409.16644](http://arxiv.org/abs/2409.16644)|null|
+|**2024-09-24**|**FastTalker: Jointly Generating Speech and Conversational Gestures from Text**|Zixin Guo et.al.|[2409.16404](http://arxiv.org/abs/2409.16404)|null|
+|**2024-09-24**|**Beyond Text-to-Text: An Overview of Multimodal and Generative Artificial Intelligence for Education Using Topic Modeling**|Ville Heilala et.al.|[2409.16376](http://arxiv.org/abs/2409.16376)|null|
 |**2024-09-24**|**Facial Expression-Enhanced TTS: Combining Face Representation and Emotion Intensity for Adaptive Speech**|Yunji Chu et.al.|[2409.16203](http://arxiv.org/abs/2409.16203)|null|
 |**2024-09-24**|**NanoVoice: Efficient Speaker-Adaptive Text-to-Speech for Multiple Speakers**|Nohil Park et.al.|[2409.15760](http://arxiv.org/abs/2409.15760)|null|
 |**2024-09-24**|**VoiceGuider: Enhancing Out-of-Domain Performance in Parameter-Efficient Speaker-Adaptive Text-to-Speech via Autoguidance**|Jiheum Yeom et.al.|[2409.15759](http://arxiv.org/abs/2409.15759)|null|
