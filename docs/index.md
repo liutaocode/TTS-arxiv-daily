@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
