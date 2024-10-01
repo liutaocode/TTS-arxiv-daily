@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Word-wise intonation model for cross-language TTS systems**|Tomilov A. A. et.al.|[2409.20374](http://arxiv.org/abs/2409.20374)|null|
 |**2024-09-27**|**Audio-Based Linguistic Feature Extraction for Enhancing Multi-lingual and Low-Resource Text-to-Speech**|Youngjae Kim et.al.|[2409.18622](http://arxiv.org/abs/2409.18622)|null|
 |**2024-09-26**|**Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control**|Ryuichi Yamamoto et.al.|[2409.17452](http://arxiv.org/abs/2409.17452)|null|
 |**2024-09-25**|**Exploring synthetic data for cross-speaker style transfer in style representation based TTS**|Lucas H. Ueda et.al.|[2409.17364](http://arxiv.org/abs/2409.17364)|null|
