@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.04
+## Updated on 2024.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -13,7 +13,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-01**|**Augmentation through Laundering Attacks for Audio Spoof Detection**|Hashim Ali et.al.|[2410.01108](http://arxiv.org/abs/2410.01108)|null|
 |**2024-10-01**|**Zero-Shot Text-to-Speech from Continuous Text Streams**|Trung Dang et.al.|[2410.00767](http://arxiv.org/abs/2410.00767)|null|
-|**2024-10-01**|**EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control**|Haozhe Chen et.al.|[2410.00316](http://arxiv.org/abs/2410.00316)|null|
+|**2024-10-01**|**EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control**|Haozhe Chen et.al.|[2410.00316](http://arxiv.org/abs/2410.00316)|**[link](https://github.com/tonychenxyz/emoknob)**|
 |**2024-09-30**|**Word-wise intonation model for cross-language TTS systems**|Tomilov A. A. et.al.|[2409.20374](http://arxiv.org/abs/2409.20374)|null|
 |**2024-09-27**|**Audio-Based Linguistic Feature Extraction for Enhancing Multi-lingual and Low-Resource Text-to-Speech**|Youngjae Kim et.al.|[2409.18622](http://arxiv.org/abs/2409.18622)|null|
 |**2024-09-26**|**Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control**|Ryuichi Yamamoto et.al.|[2409.17452](http://arxiv.org/abs/2409.17452)|null|
