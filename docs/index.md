@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**A Unified Framework for Collecting Text-to-Speech Synthesis Datasets for 22 Indian Languages**|Sujitha Sathiyamoorthy et.al.|[2410.14197](http://arxiv.org/abs/2410.14197)|null|
+|**2024-10-18**|**Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech**|Shuwei He et.al.|[2410.14101](http://arxiv.org/abs/2410.14101)|**[link](https://github.com/ms2ku-vtts/ms2ku-vtts)**|
 |**2024-10-17**|**Enhancing Crowdsourced Audio for Text-to-Speech Models**|José Giraldo et.al.|[2410.13357](http://arxiv.org/abs/2410.13357)|null|
 |**2024-10-17**|**DART: Disentanglement of Accent and Speaker Representation in Multispeaker Text-to-Speech**|Jan Melechovsky et.al.|[2410.13342](http://arxiv.org/abs/2410.13342)|null|
 |**2024-10-17**|**DurIAN-E 2: Duration Informed Attention Network with Adaptive Variational Autoencoder and Adversarial Learning for Expressive Text-to-Speech Synthesis**|Yu Gu et.al.|[2410.13288](http://arxiv.org/abs/2410.13288)|null|
