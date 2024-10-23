@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Continuous Speech Tokenizer in Text To Speech**|Yixing Li et.al.|[2410.17081](http://arxiv.org/abs/2410.17081)|null|
+|**2024-10-22**|**Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap**|Guanrou Yang et.al.|[2410.16726](http://arxiv.org/abs/2410.16726)|null|
 |**2024-10-21**|**Continuous Speech Synthesis using per-token Latent Diffusion**|Arnon Turetzky et.al.|[2410.16048](http://arxiv.org/abs/2410.16048)|null|
 |**2024-10-18**|**A Unified Framework for Collecting Text-to-Speech Synthesis Datasets for 22 Indian Languages**|Sujitha Sathiyamoorthy et.al.|[2410.14197](http://arxiv.org/abs/2410.14197)|null|
 |**2024-10-18**|**Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech**|Shuwei He et.al.|[2410.14101](http://arxiv.org/abs/2410.14101)|**[link](https://github.com/ms2ku-vtts/ms2ku-vtts)**|
