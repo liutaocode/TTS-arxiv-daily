@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text Analysis**|Suparna De et.al.|[2410.19199](http://arxiv.org/abs/2410.19199)|null|
 |**2024-10-24**|**STTATTS: Unified Speech-To-Text And Text-To-Speech Model**|Hawau Olamide Toyin et.al.|[2410.18607](http://arxiv.org/abs/2410.18607)|null|
 |**2024-10-24**|**Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts**|ChaeHun Park et.al.|[2410.18444](http://arxiv.org/abs/2410.18444)|null|
 |**2024-10-23**|**ELAICHI: Enhancing Low-resource TTS by Addressing Infrequent and Low-frequency Character Bigrams**|Srija Anand et.al.|[2410.17901](http://arxiv.org/abs/2410.17901)|null|
