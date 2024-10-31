@@ -1,4 +1,4 @@
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -22,7 +22,7 @@
 |**2024-10-28**|**Mitigating Unauthorized Speech Synthesis for Voice Protection**|Zhisheng Zhang et.al.|[2410.20742](http://arxiv.org/abs/2410.20742)|**[link](https://github.com/wxzyd123/pivotal_objective_perturbation)**|
 |**2024-10-27**|**Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation**|Maohao Shen et.al.|[2410.20336](http://arxiv.org/abs/2410.20336)|null|
 |**2024-10-24**|**Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text Analysis**|Suparna De et.al.|[2410.19199](http://arxiv.org/abs/2410.19199)|null|
-|**2024-10-24**|**STTATTS: Unified Speech-To-Text And Text-To-Speech Model**|Hawau Olamide Toyin et.al.|[2410.18607](http://arxiv.org/abs/2410.18607)|null|
+|**2024-10-24**|**STTATTS: Unified Speech-To-Text And Text-To-Speech Model**|Hawau Olamide Toyin et.al.|[2410.18607](http://arxiv.org/abs/2410.18607)|**[link](https://github.com/mbzuai-nlp/sttatts)**|
 |**2024-10-24**|**Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts**|ChaeHun Park et.al.|[2410.18444](http://arxiv.org/abs/2410.18444)|null|
 |**2024-10-23**|**ELAICHI: Enhancing Low-resource TTS by Addressing Infrequent and Low-frequency Character Bigrams**|Srija Anand et.al.|[2410.17901](http://arxiv.org/abs/2410.17901)|null|
 |**2024-10-22**|**Continuous Speech Tokenizer in Text To Speech**|Yixing Li et.al.|[2410.17081](http://arxiv.org/abs/2410.17081)|null|
@@ -769,5 +769,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
