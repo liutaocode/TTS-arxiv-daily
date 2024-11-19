@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**ESTVocoder: An Excitation-Spectral-Transformed Neural Vocoder Conditioned on Mel Spectrogram**|Xiao-Hang Jiang et.al.|[2411.11258](http://arxiv.org/abs/2411.11258)|null|
 |**2024-11-12**|**Improving Grapheme-to-Phoneme Conversion through In-Context Knowledge Retrieval with Large Language Models**|Dongrui Han et.al.|[2411.07563](http://arxiv.org/abs/2411.07563)|null|
 |**2024-11-11**|**Enhancing Accessibility in Special Libraries: A Study on AI-Powered Assistive Technologies for Patrons with Disabilities**|Snehasish Paul Shivali Chauhan et.al.|[2411.06970](http://arxiv.org/abs/2411.06970)|null|
 |**2024-11-10**|**Debatts: Zero-Shot Debating Text-to-Speech Synthesis**|Yiqiao Huang et.al.|[2411.06540](http://arxiv.org/abs/2411.06540)|null|
