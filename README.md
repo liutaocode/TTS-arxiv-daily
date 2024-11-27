@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-15**|**WavChat: A Survey of Spoken Dialogue Models**|Shengpeng Ji et.al.|[2411.13577](http://arxiv.org/abs/2411.13577)|**[link](https://github.com/jishengpeng/wavchat)**|
+|**2024-11-26**|**WavChat: A Survey of Spoken Dialogue Models**|Shengpeng Ji et.al.|[2411.13577](http://arxiv.org/abs/2411.13577)|**[link](https://github.com/jishengpeng/wavchat)**|
 |**2024-11-20**|**I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception**|Jiawei Zhang et.al.|[2411.13314](http://arxiv.org/abs/2411.13314)|null|
 |**2024-11-20**|**Hard-Synth: Synthesizing Diverse Hard Samples for ASR using Zero-Shot TTS and LLM**|Jiawei Yu et.al.|[2411.13159](http://arxiv.org/abs/2411.13159)|null|
 |**2024-11-19**|**Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech Evaluation**|Praveen Srinivasa Varadhan et.al.|[2411.12719](http://arxiv.org/abs/2411.12719)|null|
