@@ -299,7 +299,7 @@ layout: default
 |**2024-02-15**|**BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data**|Mateusz Łajszczak et.al.|[2402.08093](http://arxiv.org/abs/2402.08093)|null|
 |**2024-03-04**|**Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like**|Naoyuki Kanda et.al.|[2402.07383](http://arxiv.org/abs/2402.07383)|null|
 |**2024-02-09**|**A New Approach to Voice Authenticity**|Nicolas M. Müller et.al.|[2402.06304](http://arxiv.org/abs/2402.06304)|null|
-|**2024-02-08**|**Unified Speech-Text Pretraining for Spoken Dialog Modeling**|Heeseung Kim et.al.|[2402.05706](http://arxiv.org/abs/2402.05706)|null|
+|**2024-02-08**|**Unified Speech-Text Pretraining for Spoken Dialog Modeling**|Heeseung Kim et.al.|[2402.05706](http://arxiv.org/abs/2402.05706)|**[link](https://github.com/naver-ai/usdm)**|
 |**2024-02-05**|**Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations**|Álvaro Martín-Cortinas et.al.|[2402.03407](http://arxiv.org/abs/2402.03407)|null|
 |**2024-02-02**|**Natural language guidance of high-fidelity text-to-speech with synthetic annotations**|Dan Lyth et.al.|[2402.01912](http://arxiv.org/abs/2402.01912)|null|
 |**2024-01-23**|**Maximizing Data Efficiency for Cross-Lingual TTS Adaptation by Self-Supervised Representation Mixing and Embedding Initialization**|Wei-Ping Huang et.al.|[2402.01692](http://arxiv.org/abs/2402.01692)|null|
