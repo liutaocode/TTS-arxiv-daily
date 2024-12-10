@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey**|Tianxin Xie et.al.|[2412.06602](http://arxiv.org/abs/2412.06602)|**[link](https://github.com/imxtx/awesome-controllabe-speech-synthesis)**|
+|**2024-12-09**|**EmoSpeech: A Corpus of Emotionally Rich and Contextually Detailed Speech Annotations**|Weizhen Bian et.al.|[2412.06581](http://arxiv.org/abs/2412.06581)|null|
+|**2024-12-01**|**Text Is Not All You Need: Multimodal Prompting Helps LLMs Understand Humor**|Ashwin Baluja et.al.|[2412.05315](http://arxiv.org/abs/2412.05315)|null|
 |**2024-12-04**|**DiffStyleTTS: Diffusion-based Hierarchical Prosody Modeling for Text-to-Speech with Diverse and Controllable Styles**|Jiaxuan Liu et.al.|[2412.03388](http://arxiv.org/abs/2412.03388)|null|
 |**2024-12-03**|**GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot**|Aohan Zeng et.al.|[2412.02612](http://arxiv.org/abs/2412.02612)|**[link](https://github.com/thudm/glm-4-voice)**|
 |**2024-11-19**|**A Context-Based Numerical Format Prediction for a Text-To-Speech System**|Yaser Darwesh et.al.|[2412.00028](http://arxiv.org/abs/2412.00028)|null|
