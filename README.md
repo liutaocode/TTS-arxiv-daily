@@ -14,13 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**CSSinger: End-to-End Chunkwise Streaming Singing Voice Synthesis System Based on Conditional Variational Autoencoder**|Jianwei Cui et.al.|[2412.08918](http://arxiv.org/abs/2412.08918)|null|
 |**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|null|
 |**2024-12-11**|**A Unified Model For Voice and Accent Conversion In Speech and Singing using Self-Supervised Learning and Feature Extraction**|Sowmya Cheripally et.al.|[2412.08312](http://arxiv.org/abs/2412.08312)|null|
 |**2024-12-11**|**A Preliminary Analysis of Automatic Word and Syllable Prominence Detection in Non-Native Speech With Text-to-Speech Prosody Embeddings**|Anindita Mondal et.al.|[2412.08283](http://arxiv.org/abs/2412.08283)|null|
 |**2024-12-11**|**LatentSpeech: Latent Diffusion for Text-To-Speech Generation**|Haowei Lou et.al.|[2412.08117](http://arxiv.org/abs/2412.08117)|null|
 |**2024-12-11**|**Aligner-Guided Training Paradigm: Advancing Text-to-Speech Models with Aligner Guided Duration**|Haowei Lou et.al.|[2412.08112](http://arxiv.org/abs/2412.08112)|null|
 |**2024-12-09**|**Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey**|Tianxin Xie et.al.|[2412.06602](http://arxiv.org/abs/2412.06602)|**[link](https://github.com/imxtx/awesome-controllabe-speech-synthesis)**|
-|**2024-12-11**|**EmoSpeech: A Corpus of Emotionally Rich and Contextually Detailed Speech Annotations**|Weizhen Bian et.al.|[2412.06581](http://arxiv.org/abs/2412.06581)|null|
+|**2024-12-12**|**EmoSpeech: A Corpus of Emotionally Rich and Contextually Detailed Speech Annotations**|Weizhen Bian et.al.|[2412.06581](http://arxiv.org/abs/2412.06581)|null|
 |**2024-12-01**|**Text Is Not All You Need: Multimodal Prompting Helps LLMs Understand Humor**|Ashwin Baluja et.al.|[2412.05315](http://arxiv.org/abs/2412.05315)|null|
 |**2024-12-04**|**DiffStyleTTS: Diffusion-based Hierarchical Prosody Modeling for Text-to-Speech with Diverse and Controllable Styles**|Jiaxuan Liu et.al.|[2412.03388](http://arxiv.org/abs/2412.03388)|null|
 |**2024-12-03**|**GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot**|Aohan Zeng et.al.|[2412.02612](http://arxiv.org/abs/2412.02612)|**[link](https://github.com/thudm/glm-4-voice)**|
