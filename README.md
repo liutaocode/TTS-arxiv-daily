@@ -147,7 +147,7 @@
 |**2024-08-29**|**Easy, Interpretable, Effective: openSMILE for voice deepfake detection**|Octavian Pascu et.al.|[2408.15775](http://arxiv.org/abs/2408.15775)|null|
 |**2024-08-28**|**VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling**|Yixuan Zhou et.al.|[2408.15676](http://arxiv.org/abs/2408.15676)|**[link](https://github.com/thuhcsi/voxinstruct)**|
 |**2024-08-28**|**VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech**|Heeseung Kim et.al.|[2408.14739](http://arxiv.org/abs/2408.14739)|null|
-|**2024-08-27**|**StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech**|Haowei Lou et.al.|[2408.14713](http://arxiv.org/abs/2408.14713)|null|
+|**2024-08-27**|**StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech**|Haowei Lou et.al.|[2408.14713](http://arxiv.org/abs/2408.14713)|**[link](https://github.com/haoweilou/StyleSpeech_Public)**|
 |**2024-08-27**|**DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance**|Jinhyeok Yang et.al.|[2408.14423](http://arxiv.org/abs/2408.14423)|null|
 |**2024-08-26**|**Anonymization of Voices in Spaces for Civic Dialogue: Measuring Impact on Empathy, Trust, and Feeling Heard**|Wonjune Kang et.al.|[2408.13970](http://arxiv.org/abs/2408.13970)|null|
 |**2024-08-28**|**SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models**|Dongchao Yang et.al.|[2408.13893](http://arxiv.org/abs/2408.13893)|null|
