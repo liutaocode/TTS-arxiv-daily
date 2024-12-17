@@ -14,7 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-13**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208](http://arxiv.org/abs/2412.10208)|null|
+|**2024-12-16**|**ProsodyFM: Unsupervised Phrasing and Intonation Control for Intelligible Speech Synthesis**|Xiangheng He et.al.|[2412.11795](http://arxiv.org/abs/2412.11795)|null|
+|**2024-12-16**|**Multi-modal and Multi-scale Spatial Environment Understanding for Immersive Visual Text-to-Speech**|Rui Liu et.al.|[2412.11409](http://arxiv.org/abs/2412.11409)|**[link](https://github.com/ai-s2-lab/m2se-vtts)**|
+|**2024-12-16**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208](http://arxiv.org/abs/2412.10208)|null|
 |**2024-12-13**|**AMuSeD: An Attentive Deep Neural Network for Multimodal Sarcasm Detection Incorporating Bi-modal Data Augmentation**|Xiyuan Gao et.al.|[2412.10103](http://arxiv.org/abs/2412.10103)|null|
 |**2024-12-13**|**CSSinger: End-to-End Chunkwise Streaming Singing Voice Synthesis System Based on Conditional Variational Autoencoder**|Jianwei Cui et.al.|[2412.08918](http://arxiv.org/abs/2412.08918)|null|
 |**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|**[link](https://github.com/microsoft/unilm/tree/master/LatentLM)**|
