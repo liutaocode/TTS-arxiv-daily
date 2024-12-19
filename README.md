@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Synthetic Speech Classification: IEEE Signal Processing Cup 2022 challenge**|Mahieyin Rahmun et.al.|[2412.13279](http://arxiv.org/abs/2412.13279)|**[link](https://github.com/AGenCyLab/SPCUP2022)**|
 |**2024-12-17**|**Enhancing Naturalness in LLM-Generated Utterances through Disfluency Insertion**|Syed Zohaib Hassan et.al.|[2412.12710](http://arxiv.org/abs/2412.12710)|null|
 |**2024-12-17**|**Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes**|Kuiyuan Zhang et.al.|[2412.12619](http://arxiv.org/abs/2412.12619)|null|
 |**2024-12-17**|**Hierarchical Control of Emotion Rendering in Speech Synthesis**|Sho Inoue et.al.|[2412.12498](http://arxiv.org/abs/2412.12498)|null|
