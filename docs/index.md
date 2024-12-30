@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-26**|**"I've Heard of You!": Generate Spoken Named Entity Recognition Data for Unseen Entities**|Jiawei Yu et.al.|[2412.19102](http://arxiv.org/abs/2412.19102)|null|
+|**2024-12-26**|**Indonesian-English Code-Switching Speech Synthesizer Utilizing Multilingual STEN-TTS and Bert LID**|Ahmad Alfani Handoyo et.al.|[2412.19043](http://arxiv.org/abs/2412.19043)|null|
+|**2024-12-25**|**Advancing NAM-to-Speech Conversion with Novel Methods and the MultiNAM Dataset**|Neil Shah et.al.|[2412.18839](http://arxiv.org/abs/2412.18839)|null|
 |**2024-12-24**|**GenPod: Constructive News Framing in AI-Generated Podcasts More Effectively Reduces Negative Emotions Than Non-Constructive Framing**|Wen Ku et.al.|[2412.18300](http://arxiv.org/abs/2412.18300)|null|
 |**2024-12-22**|**Why Do Speech Language Models Fail to Generate Semantically Coherent Outputs? A Modality Evolving Perspective**|Hankun Wang et.al.|[2412.17048](http://arxiv.org/abs/2412.17048)|null|
 |**2024-12-22**|**Incremental Disentanglement for Environment-Aware Zero-Shot Text-to-Speech Synthesis**|Ye-Xin Lu et.al.|[2412.16977](http://arxiv.org/abs/2412.16977)|null|
