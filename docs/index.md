@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Low-Resource Text-to-Speech Synthesis Using Noise-Augmented Training of ForwardTacotron**|Kishor Kayyar Lakshminarayana et.al.|[2501.05976](http://arxiv.org/abs/2501.05976)|null|
+|**2025-01-10**|**MARS6: A Small and Robust Hierarchical-Codec Text-to-Speech Model**|Matthew Baas et.al.|[2501.05787](http://arxiv.org/abs/2501.05787)|null|
 |**2025-01-09**|**Probing Speaker-specific Features in Speaker Representations**|Aemon Yat Fei Chiu et.al.|[2501.05310](http://arxiv.org/abs/2501.05310)|null|
 |**2025-01-08**|**Cued Speech Generation Leveraging a Pre-trained Audiovisual Text-to-Speech Model**|Sanjana Sankar et.al.|[2501.04799](http://arxiv.org/abs/2501.04799)|null|
 |**2025-01-08**|**DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions**|Weidong Chen et.al.|[2501.04256](http://arxiv.org/abs/2501.04256)|null|
