@@ -409,7 +409,7 @@
 |**2023-12-22**|**Crowdsourced and Automatic Speech Prominence Estimation**|Max Morrison et.al.|[2310.08464](http://arxiv.org/abs/2310.08464)|**[link](https://github.com/reseval/reseval)**|
 |**2023-10-12**|**On the Relevance of Phoneme Duration Variability of Synthesized Training Data for Automatic Speech Recognition**|Nick Rossenbach et.al.|[2310.08132](http://arxiv.org/abs/2310.08132)|null|
 |**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246](http://arxiv.org/abs/2310.07246)|**[link](https://github.com/bakerbunker/vectok)**|
-|**2023-10-10**|**Prosody Analysis of Audiobooks**|Charuta Pethe et.al.|[2310.06930](http://arxiv.org/abs/2310.06930)|null|
+|**2023-10-10**|**Prosody Analysis of Audiobooks**|Charuta Pethe et.al.|[2310.06930](http://arxiv.org/abs/2310.06930)|**[link](https://github.com/sbu-dsl/prosody-analysis-of-audiobooks)**|
 |**2023-10-09**|**JVNV: A Corpus of Japanese Emotional Speech with Verbal Content and Nonverbal Expressions**|Detai Xin et.al.|[2310.06072](http://arxiv.org/abs/2310.06072)|null|
 |**2024-01-09**|**Unified speech and gesture synthesis using flow matching**|Shivam Mehta et.al.|[2310.05181](http://arxiv.org/abs/2310.05181)|null|
 |**2023-10-08**|**Comparative Analysis of Transfer Learning in Deep Learning Text-to-Speech Models on a Few-Shot, Low-Resource, Customized Dataset**|Ze Liu et.al.|[2310.04982](http://arxiv.org/abs/2310.04982)|null|
