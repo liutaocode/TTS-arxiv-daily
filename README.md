@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Speech Synthesis along Perceptual Voice Quality Dimensions**|Frederik Rautenberg et.al.|[2501.08791](http://arxiv.org/abs/2501.08791)|null|
+|**2025-01-15**|**Adaptive Data Augmentation with NaturalSpeech3 for Far-field Speaker Verification**|Li Zhang et.al.|[2501.08691](http://arxiv.org/abs/2501.08691)|null|
+|**2025-01-15**|**Towards Lightweight and Stable Zero-shot TTS with Self-distilled Representation Disentanglement**|Qianniu Chen et.al.|[2501.08566](http://arxiv.org/abs/2501.08566)|null|
 |**2025-01-13**|**MathReader : Text-to-Speech for Mathematical Documents**|Sieun Hyeon et.al.|[2501.07088](http://arxiv.org/abs/2501.07088)|**[link](https://github.com/hyeonsieun/mathreader)**|
 |**2025-01-10**|**TTS-Transducer: End-to-End Speech Synthesis with Neural Transducer**|Vladimir Bataev et.al.|[2501.06320](http://arxiv.org/abs/2501.06320)|null|
 |**2025-01-10**|**MinMo: A Multimodal Large Language Model for Seamless Voice Interaction**|Qian Chen et.al.|[2501.06282](http://arxiv.org/abs/2501.06282)|null|
