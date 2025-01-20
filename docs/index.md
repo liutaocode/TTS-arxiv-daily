@@ -127,7 +127,7 @@ layout: default
 |**2024-09-24**|**VoiceGuider: Enhancing Out-of-Domain Performance in Parameter-Efficient Speaker-Adaptive Text-to-Speech via Autoguidance**|Jiheum Yeom et.al.|[2409.15759](http://arxiv.org/abs/2409.15759)|null|
 |**2024-09-24**|**StyleFusion TTS: Multimodal Style-control and Enhanced Feature Fusion for Zero-shot Text-to-speech Synthesis**|Zhiyong Chen et.al.|[2409.15741](http://arxiv.org/abs/2409.15741)|null|
 |**2024-09-23**|**A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection**|Lam Pham et.al.|[2409.15180](http://arxiv.org/abs/2409.15180)|null|
-|**2024-09-23**|**LlamaPartialSpoof: An LLM-Driven Fake Speech Dataset Simulating Disinformation Generation**|Hieu-Thi Luong et.al.|[2409.14743](http://arxiv.org/abs/2409.14743)|null|
+|**2024-09-23**|**LlamaPartialSpoof: An LLM-Driven Fake Speech Dataset Simulating Disinformation Generation**|Hieu-Thi Luong et.al.|[2409.14743](http://arxiv.org/abs/2409.14743)|**[link](https://github.com/hieuthi/llamapartialspoof)**|
 |**2024-09-20**|**Zero-shot Cross-lingual Voice Transfer for TTS**|Fadi Biadsy et.al.|[2409.13910](http://arxiv.org/abs/2409.13910)|null|
 |**2024-09-20**|**On the Feasibility of Fully AI-automated Vishing Attacks**|João Figueiredo et.al.|[2409.13793](http://arxiv.org/abs/2409.13793)|null|
 |**2024-09-19**|**Enhancing Synthetic Training Data for Speech Commands: From ASR-Based Filtering to Domain Adaptation in SSL Latent Space**|Sebastião Quintas et.al.|[2409.12745](http://arxiv.org/abs/2409.12745)|null|
