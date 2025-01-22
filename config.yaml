@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 10
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
@@ -23,4 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "TTS":
-        filters: ["TTS", "Text to speech"]
+        filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS"]
+
+

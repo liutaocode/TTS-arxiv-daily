@@ -14,17 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-20**|**A Non-autoregressive Model for Joint STT and TTS**|Vishal Sunder et.al.|[2501.09104](http://arxiv.org/abs/2501.09104)|null|
 |**2025-01-15**|**Speech Synthesis along Perceptual Voice Quality Dimensions**|Frederik Rautenberg et.al.|[2501.08791](http://arxiv.org/abs/2501.08791)|null|
 |**2025-01-15**|**Adaptive Data Augmentation with NaturalSpeech3 for Far-field Speaker Verification**|Li Zhang et.al.|[2501.08691](http://arxiv.org/abs/2501.08691)|null|
 |**2025-01-15**|**Towards Lightweight and Stable Zero-shot TTS with Self-distilled Representation Disentanglement**|Qianniu Chen et.al.|[2501.08566](http://arxiv.org/abs/2501.08566)|null|
-|**2025-01-13**|**MathReader : Text-to-Speech for Mathematical Documents**|Sieun Hyeon et.al.|[2501.07088](http://arxiv.org/abs/2501.07088)|**[link](https://github.com/hyeonsieun/mathreader)**|
+|**2025-01-14**|**CodecFake-Omni: A Large-Scale Codec-based Deepfake Speech Dataset**|Jiawei Du et.al.|[2501.08238](http://arxiv.org/abs/2501.08238)|null|
+|**2025-01-13**|**Exploring the encoding of linguistic representations in the Fully-Connected Layer of generative CNNs for Speech**|Bruno Ferenc Šegedin et.al.|[2501.07726](http://arxiv.org/abs/2501.07726)|null|
+|**2025-01-19**|**MathReader : Text-to-Speech for Mathematical Documents**|Sieun Hyeon et.al.|[2501.07088](http://arxiv.org/abs/2501.07088)|**[link](https://github.com/hyeonsieun/mathreader)**|
+|**2025-01-11**|**The 1st SpeechWellness Challenge: Detecting Suicidal Risk Among Adolescents**|Wen Wu et.al.|[2501.06474](http://arxiv.org/abs/2501.06474)|null|
+|**2025-01-11**|**Retrieval-Augmented Dialogue Knowledge Aggregation for Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2501.06467](http://arxiv.org/abs/2501.06467)|null|
+|**2025-01-11**|**Unispeaker: A Unified Approach for Multimodality-driven Speaker Generation**|Zhengyan Sheng et.al.|[2501.06394](http://arxiv.org/abs/2501.06394)|null|
 |**2025-01-10**|**TTS-Transducer: End-to-End Speech Synthesis with Neural Transducer**|Vladimir Bataev et.al.|[2501.06320](http://arxiv.org/abs/2501.06320)|null|
 |**2025-01-10**|**MinMo: A Multimodal Large Language Model for Seamless Voice Interaction**|Qian Chen et.al.|[2501.06282](http://arxiv.org/abs/2501.06282)|null|
 |**2025-01-10**|**PROEMO: Prompt-Driven Text-to-Speech Synthesis Based on Emotion and Intensity Control**|Shaozuo Zhang et.al.|[2501.06276](http://arxiv.org/abs/2501.06276)|null|
 |**2025-01-10**|**Low-Resource Text-to-Speech Synthesis Using Noise-Augmented Training of ForwardTacotron**|Kishor Kayyar Lakshminarayana et.al.|[2501.05976](http://arxiv.org/abs/2501.05976)|null|
 |**2025-01-10**|**MARS6: A Small and Robust Hierarchical-Codec Text-to-Speech Model**|Matthew Baas et.al.|[2501.05787](http://arxiv.org/abs/2501.05787)|null|
 |**2025-01-09**|**Probing Speaker-specific Features in Speaker Representations**|Aemon Yat Fei Chiu et.al.|[2501.05310](http://arxiv.org/abs/2501.05310)|null|
+|**2025-01-09**|**JELLY: Joint Emotion Recognition and Context Reasoning with LLMs for Conversational Speech Synthesis**|Jun-Hyeok Cha et.al.|[2501.04904](http://arxiv.org/abs/2501.04904)|null|
 |**2025-01-08**|**Cued Speech Generation Leveraging a Pre-trained Audiovisual Text-to-Speech Model**|Sanjana Sankar et.al.|[2501.04799](http://arxiv.org/abs/2501.04799)|null|
+|**2025-01-08**|**FleSpeech: Flexibly Controllable Speech Generation with Various Prompts**|Hanzhao Li et.al.|[2501.04644](http://arxiv.org/abs/2501.04644)|null|
+|**2025-01-09**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561](http://arxiv.org/abs/2501.04561)|null|
 |**2025-01-08**|**DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions**|Weidong Chen et.al.|[2501.04256](http://arxiv.org/abs/2501.04256)|null|
 |**2025-01-02**|**FaceSpeak: Expressive and High-Quality Speech Synthesis from Human Portraits of Different Styles**|Tian-Hao Zhang et.al.|[2501.03181](http://arxiv.org/abs/2501.03181)|null|
 |**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|**[link](https://github.com/seongho608/ringformer)**|
