@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Everyone-Can-Sing: Zero-Shot Singing Voice Synthesis and Conversion with Speech Reference**|Shuqi Dai et.al.|[2501.13870](http://arxiv.org/abs/2501.13870)|null|
+|**2025-01-23**|**Generative Data Augmentation Challenge: Zero-Shot Speech Synthesis for Personalized Speech Enhancement**|Jae-Sung Bae et.al.|[2501.13372](http://arxiv.org/abs/2501.13372)|null|
 |**2025-01-21**|**A Domain Adaptation Framework for Speech Recognition Systems with Only Synthetic data**|Minh Tran et.al.|[2501.12501](http://arxiv.org/abs/2501.12501)|null|
 |**2025-01-20**|**A Non-autoregressive Model for Joint STT and TTS**|Vishal Sunder et.al.|[2501.09104](http://arxiv.org/abs/2501.09104)|null|
 |**2025-01-15**|**Speech Synthesis along Perceptual Voice Quality Dimensions**|Frederik Rautenberg et.al.|[2501.08791](http://arxiv.org/abs/2501.08791)|null|
