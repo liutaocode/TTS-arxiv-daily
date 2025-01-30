@@ -1,4 +1,4 @@
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-27**|**Emilia: A Large-Scale, Extensive, Multilingual, and Diverse Dataset for Speech Generation**|Haorui He et.al.|[2501.15907](http://arxiv.org/abs/2501.15907)|null|
+|**2025-01-27**|**Emilia: A Large-Scale, Extensive, Multilingual, and Diverse Dataset for Speech Generation**|Haorui He et.al.|[2501.15907](http://arxiv.org/abs/2501.15907)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-01-26**|**Overview of the Amphion Toolkit (v0.2)**|Jiaqi Li et.al.|[2501.15442](http://arxiv.org/abs/2501.15442)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-01-24**|**Characteristic-Specific Partial Fine-Tuning for Efficient Emotion and Speaker Adaptation in Codec Language Text-to-Speech Models**|Tianrui Wang et.al.|[2501.14273](http://arxiv.org/abs/2501.14273)|null|
 |**2025-01-24**|**Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation**|Wen Huang et.al.|[2501.14240](http://arxiv.org/abs/2501.14240)|null|
@@ -848,5 +848,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
