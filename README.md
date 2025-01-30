@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790](http://arxiv.org/abs/2501.17790)|null|
+|**2025-01-29**|**CSEval: Towards Automated, Multi-Dimensional, and Reference-Free Counterspeech Evaluation using Auto-Calibrated LLMs**|Amey Hengle et.al.|[2501.17581](http://arxiv.org/abs/2501.17581)|null|
+|**2025-01-28**|**Compact Neural TTS Voices for Accessibility**|Kunal Jain et.al.|[2501.17332](http://arxiv.org/abs/2501.17332)|null|
 |**2025-01-27**|**Emilia: A Large-Scale, Extensive, Multilingual, and Diverse Dataset for Speech Generation**|Haorui He et.al.|[2501.15907](http://arxiv.org/abs/2501.15907)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-01-26**|**Overview of the Amphion Toolkit (v0.2)**|Jiaqi Li et.al.|[2501.15442](http://arxiv.org/abs/2501.15442)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-01-24**|**Characteristic-Specific Partial Fine-Tuning for Efficient Emotion and Speaker Adaptation in Codec Language Text-to-Speech Models**|Tianrui Wang et.al.|[2501.14273](http://arxiv.org/abs/2501.14273)|null|
