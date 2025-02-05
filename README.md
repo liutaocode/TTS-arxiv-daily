@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-03**|**Continuous Autoregressive Modeling with Stochastic Monotonic Alignment for Speech Synthesis**|Weiwei Lin et.al.|[2502.01084](http://arxiv.org/abs/2502.01084)|null|
+|**2025-02-02**|**EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis**|Junuk Cha et.al.|[2502.00654](http://arxiv.org/abs/2502.00654)|null|
 |**2025-01-31**|**VisualSpeech: Enhance Prosody with Visual Context in TTS**|Shumin Que et.al.|[2501.19258](http://arxiv.org/abs/2501.19258)|null|
 |**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790](http://arxiv.org/abs/2501.17790)|null|
 |**2025-01-29**|**CSEval: Towards Automated, Multi-Dimensional, and Reference-Free Counterspeech Evaluation using Auto-Calibrated LLMs**|Amey Hengle et.al.|[2501.17581](http://arxiv.org/abs/2501.17581)|null|
