@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328](http://arxiv.org/abs/2502.04328)|null|
+|**2025-02-06**|**Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis**|Zhen Ye et.al.|[2502.04128](http://arxiv.org/abs/2502.04128)|null|
+|**2025-02-06**|**DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation**|Dongya Jia et.al.|[2502.03930](http://arxiv.org/abs/2502.03930)|null|
 |**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128](http://arxiv.org/abs/2502.03128)|null|
 |**2025-02-05**|**Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech**|Jixun Yao et.al.|[2502.02950](http://arxiv.org/abs/2502.02950)|null|
 |**2025-02-04**|**Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet**|Shenran Wang et.al.|[2502.02703](http://arxiv.org/abs/2502.02703)|null|
