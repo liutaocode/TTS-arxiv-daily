@@ -1,4 +1,4 @@
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -25,12 +25,12 @@
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 |**2025-02-08**|**IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System**|Wei Deng et.al.|[2502.05512](http://arxiv.org/abs/2502.05512)|null|
 |**2025-02-07**|**Koel-TTS: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance**|Shehzeen Hussain et.al.|[2502.05236](http://arxiv.org/abs/2502.05236)|null|
-|**2025-02-12**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328](http://arxiv.org/abs/2502.04328)|null|
+|**2025-02-12**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328](http://arxiv.org/abs/2502.04328)|**[link](https://github.com/ola-omni/ola)**|
 |**2025-02-06**|**Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis**|Zhen Ye et.al.|[2502.04128](http://arxiv.org/abs/2502.04128)|null|
 |**2025-02-06**|**DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation**|Dongya Jia et.al.|[2502.03930](http://arxiv.org/abs/2502.03930)|null|
-|**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128](http://arxiv.org/abs/2502.03128)|null|
+|**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128](http://arxiv.org/abs/2502.03128)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-02-05**|**Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech**|Jixun Yao et.al.|[2502.02950](http://arxiv.org/abs/2502.02950)|null|
-|**2025-02-04**|**Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet**|Shenran Wang et.al.|[2502.02703](http://arxiv.org/abs/2502.02703)|null|
+|**2025-02-04**|**Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet**|Shenran Wang et.al.|[2502.02703](http://arxiv.org/abs/2502.02703)|**[link](https://github.com/ShenranTomWang/TTS)**|
 |**2025-02-04**|**Streaming Speaker Change Detection and Gender Classification for Transducer-Based Multi-Talker Speech Translation**|Peidong Wang et.al.|[2502.02683](http://arxiv.org/abs/2502.02683)|null|
 |**2025-02-03**|**Continuous Autoregressive Modeling with Stochastic Monotonic Alignment for Speech Synthesis**|Weiwei Lin et.al.|[2502.01084](http://arxiv.org/abs/2502.01084)|null|
 |**2025-02-02**|**EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis**|Junuk Cha et.al.|[2502.00654](http://arxiv.org/abs/2502.00654)|null|
@@ -872,5 +872,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
