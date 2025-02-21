@@ -26,7 +26,7 @@ layout: default
 |**2025-02-11**|**Vevo: Controllable Zero-Shot Voice Imitation with Self-Supervised Disentanglement**|Xueyao Zhang et.al.|[2502.07243](http://arxiv.org/abs/2502.07243)|null|
 |**2025-02-10**|**Synthetic Audio Helps for Cognitive State Tasks**|Adil Soubki et.al.|[2502.06922](http://arxiv.org/abs/2502.06922)|**[link](https://github.com/adil-soubki/sad-training)**|
 |**2025-02-16**|**Recent Advances in Discrete Speech Tokens: A Review**|Yiwei Guo et.al.|[2502.06490](http://arxiv.org/abs/2502.06490)|null|
-|**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
+|**2025-02-19**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-09**|**Non-invasive electromyographic speech neuroprosthesis: a geometric perspective**|Harshavardhana T. Gowda et.al.|[2502.05762](http://arxiv.org/abs/2502.05762)|null|
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
