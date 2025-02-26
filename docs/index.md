@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,7 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239](http://arxiv.org/abs/2502.17239)|null|
+|**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239](http://arxiv.org/abs/2502.17239)|**[link](https://github.com/baichuan-inc/baichuan-audio)**|
 |**2025-02-24**|**Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM**|Jiatong Shi et.al.|[2502.16897](http://arxiv.org/abs/2502.16897)|null|
 |**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|null|
 |**2025-02-18**|**High-Fidelity Music Vocoder using Neural Audio Codecs**|Luca A. Lanzendörfer et.al.|[2502.12759](http://arxiv.org/abs/2502.12759)|null|
