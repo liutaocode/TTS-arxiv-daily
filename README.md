@@ -1,4 +1,4 @@
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -20,16 +20,16 @@
 |**2025-03-06**|**Scaling Rich Style-Prompted Text-to-Speech Datasets**|Anuj Diwan et.al.|[2503.04713](http://arxiv.org/abs/2503.04713)|null|
 |**2025-03-05**|**Good practices for evaluation of synthesized speech**|Erica Cooper et.al.|[2503.03250](http://arxiv.org/abs/2503.03250)|null|
 |**2025-03-04**|**InSerter: Speech Instruction Following with Unsupervised Interleaved Pre-training**|Dingdong Wang et.al.|[2503.02769](http://arxiv.org/abs/2503.02769)|null|
-|**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|null|
+|**2025-03-03**|**Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens**|Xinsheng Wang et.al.|[2503.01710](http://arxiv.org/abs/2503.01710)|**[link](https://github.com/sparkaudio/spark-tts)**|
 |**2025-03-03**|**Voice Cloning for Dysarthric Speech Synthesis: Addressing Data Scarcity in Speech-Language Pathology**|Birger Moell et.al.|[2503.01266](http://arxiv.org/abs/2503.01266)|null|
 |**2025-03-02**|**Language-agnostic, automated assessment of listeners' speech recall using large language models**|Björn Herrmann et.al.|[2503.01045](http://arxiv.org/abs/2503.01045)|null|
 |**2025-03-02**|**UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation**|Alexander H. Liu et.al.|[2503.00733](http://arxiv.org/abs/2503.00733)|null|
-|**2025-03-01**|**PodAgent: A Comprehensive Framework for Podcast Generation**|Yujia Xiao et.al.|[2503.00455](http://arxiv.org/abs/2503.00455)|null|
+|**2025-03-01**|**PodAgent: A Comprehensive Framework for Podcast Generation**|Yujia Xiao et.al.|[2503.00455](http://arxiv.org/abs/2503.00455)|**[link](https://github.com/yujxx/podagent)**|
 |**2025-02-27**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140](http://arxiv.org/abs/2502.20140)|null|
 |**2025-02-27**|**DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models**|Weihao wu et.al.|[2502.19924](http://arxiv.org/abs/2502.19924)|null|
 |**2025-03-04**|**Speculative Decoding and Beyond: An In-Depth Survey of Techniques**|Yunhai Hu et.al.|[2502.19732](http://arxiv.org/abs/2502.19732)|null|
 |**2025-02-26**|**Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis**|Ziyue Jiang et.al.|[2502.18924](http://arxiv.org/abs/2502.18924)|null|
-|**2025-02-26**|**Clip-TTS: Contrastive Text-content and Mel-spectrogram, A High-Huality Text-to-Speech Method based on Contextual Semantic Understanding**|Tianyun Liu et.al.|[2502.18889](http://arxiv.org/abs/2502.18889)|null|
+|**2025-03-08**|**Clip-TTS: Contrastive Text-content and Mel-spectrogram, A High-Quality Text-to-Speech Method based on Contextual Semantic Understanding**|Tianyun Liu et.al.|[2502.18889](http://arxiv.org/abs/2502.18889)|null|
 |**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239](http://arxiv.org/abs/2502.17239)|**[link](https://github.com/baichuan-inc/baichuan-audio)**|
 |**2025-02-24**|**Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM**|Jiatong Shi et.al.|[2502.16897](http://arxiv.org/abs/2502.16897)|null|
 |**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|null|
@@ -900,5 +900,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
