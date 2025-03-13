@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,7 +23,7 @@ layout: default
 |**2025-03-02**|**Language-agnostic, automated assessment of listeners' speech recall using large language models**|Björn Herrmann et.al.|[2503.01045](http://arxiv.org/abs/2503.01045)|null|
 |**2025-03-02**|**UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation**|Alexander H. Liu et.al.|[2503.00733](http://arxiv.org/abs/2503.00733)|null|
 |**2025-03-01**|**PodAgent: A Comprehensive Framework for Podcast Generation**|Yujia Xiao et.al.|[2503.00455](http://arxiv.org/abs/2503.00455)|**[link](https://github.com/yujxx/podagent)**|
-|**2025-02-27**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140](http://arxiv.org/abs/2502.20140)|null|
+|**2025-03-12**|**Telephone Surveys Meet Conversational AI: Evaluating a LLM-Based Telephone Survey System at Scale**|Max M. Lang et.al.|[2502.20140](http://arxiv.org/abs/2502.20140)|null|
 |**2025-02-27**|**DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models**|Weihao wu et.al.|[2502.19924](http://arxiv.org/abs/2502.19924)|null|
 |**2025-03-04**|**Speculative Decoding and Beyond: An In-Depth Survey of Techniques**|Yunhai Hu et.al.|[2502.19732](http://arxiv.org/abs/2502.19732)|null|
 |**2025-02-26**|**Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis**|Ziyue Jiang et.al.|[2502.18924](http://arxiv.org/abs/2502.18924)|null|
