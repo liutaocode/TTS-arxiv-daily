@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**An Exhaustive Evaluation of TTS- and VC-based Data Augmentation for ASR**|Sewade Ogun et.al.|[2503.08954](http://arxiv.org/abs/2503.08954)|null|
 |**2025-03-09**|**ProSE: Diffusion Priors for Speech Enhancement**|Sonal Kumar et.al.|[2503.06375](http://arxiv.org/abs/2503.06375)|null|
 |**2025-03-07**|**DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility**|Yifan Liu et.al.|[2503.05223](http://arxiv.org/abs/2503.05223)|null|
 |**2025-03-03**|**Direct Speech to Speech Translation: A Review**|Mohammad Sarim et.al.|[2503.04799](http://arxiv.org/abs/2503.04799)|null|
