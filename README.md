@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**MoonCast: High-Quality Zero-Shot Podcast Generation**|Zeqian Ju et.al.|[2503.14345](http://arxiv.org/abs/2503.14345)|null|
+|**2025-03-18**|**InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being**|Guang Dai et.al.|[2503.14257](http://arxiv.org/abs/2503.14257)|null|
 |**2025-03-15**|**Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations**|Xue Jiang et.al.|[2503.12115](http://arxiv.org/abs/2503.12115)|null|
 |**2025-03-14**|**MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation**|Sungwoo Cho et.al.|[2503.11026](http://arxiv.org/abs/2503.11026)|null|
 |**2025-03-14**|**Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models**|Sebastian Möller et.al.|[2503.10298](http://arxiv.org/abs/2503.10298)|null|
