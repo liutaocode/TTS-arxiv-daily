@@ -98,7 +98,7 @@
 |**2025-01-13**|**Exploring the encoding of linguistic representations in the Fully-Connected Layer of generative CNNs for Speech**|Bruno Ferenc Šegedin et.al.|[2501.07726](http://arxiv.org/abs/2501.07726)|null|
 |**2025-01-19**|**MathReader : Text-to-Speech for Mathematical Documents**|Sieun Hyeon et.al.|[2501.07088](http://arxiv.org/abs/2501.07088)|**[link](https://github.com/hyeonsieun/mathreader)**|
 |**2025-01-11**|**The 1st SpeechWellness Challenge: Detecting Suicidal Risk Among Adolescents**|Wen Wu et.al.|[2501.06474](http://arxiv.org/abs/2501.06474)|null|
-|**2025-01-11**|**Retrieval-Augmented Dialogue Knowledge Aggregation for Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2501.06467](http://arxiv.org/abs/2501.06467)|null|
+|**2025-01-11**|**Retrieval-Augmented Dialogue Knowledge Aggregation for Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2501.06467](http://arxiv.org/abs/2501.06467)|**[link](https://github.com/coder-jzq/radka-css)**|
 |**2025-01-11**|**Unispeaker: A Unified Approach for Multimodality-driven Speaker Generation**|Zhengyan Sheng et.al.|[2501.06394](http://arxiv.org/abs/2501.06394)|null|
 |**2025-01-10**|**TTS-Transducer: End-to-End Speech Synthesis with Neural Transducer**|Vladimir Bataev et.al.|[2501.06320](http://arxiv.org/abs/2501.06320)|null|
 |**2025-01-10**|**MinMo: A Multimodal Large Language Model for Seamless Voice Interaction**|Qian Chen et.al.|[2501.06282](http://arxiv.org/abs/2501.06282)|null|
