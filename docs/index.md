@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -13,7 +13,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
 |**2025-04-01**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
-|**2025-03-31**|**SpeechDialogueFactory: Generating High-Quality Speech Dialogue Data to Accelerate Your Speech-LLM Development**|Minghan Wang et.al.|[2503.23848](http://arxiv.org/abs/2503.23848)|null|
+|**2025-03-31**|**SpeechDialogueFactory: Generating High-Quality Speech Dialogue Data to Accelerate Your Speech-LLM Development**|Minghan Wang et.al.|[2503.23848](http://arxiv.org/abs/2503.23848)|**[link](https://github.com/yuriak/SpeechDialogueFactory)**|
 |**2025-03-31**|**DeepDubber-V1: Towards High Quality and Dialogue, Narration, Monologue Adaptive Movie Dubbing Via Multi-Modal Chain-of-Thoughts Reasoning Guidance**|Junjie Zheng et.al.|[2503.23660](http://arxiv.org/abs/2503.23660)|null|
 |**2025-03-30**|**Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**|Hyunjong Ok et.al.|[2503.23439](http://arxiv.org/abs/2503.23439)|null|
 |**2025-03-29**|**SupertonicTTS: Towards Highly Scalable and Efficient Text-to-Speech System**|Hyeongju Kim et.al.|[2503.23108](http://arxiv.org/abs/2503.23108)|null|
