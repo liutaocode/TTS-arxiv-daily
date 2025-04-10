@@ -1,4 +1,4 @@
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -18,7 +18,7 @@
 |**2025-04-07**|**P2Mark: Plug-and-play Parameter-intrinsic Watermarking for Neural Speech Generation**|Yong Ren et.al.|[2504.05197](http://arxiv.org/abs/2504.05197)|null|
 |**2025-04-07**|**SpeakEasy: Enhancing Text-to-Speech Interactions for Expressive Content Creation**|Stephen Brade et.al.|[2504.05106](http://arxiv.org/abs/2504.05106)|null|
 |**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|null|
-|**2025-04-03**|**F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
+|**2025-04-09**|**F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
 |**2025-04-03**|**VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**|Kim Sung-Bin et.al.|[2504.02386](http://arxiv.org/abs/2504.02386)|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
 |**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|**[link](https://github.com/jimmyma99/teleantifraud)**|
@@ -931,5 +931,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
