@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Generalized Multilingual Text-to-Speech Generation with Language-Aware Style Adaptation**|Haowei Lou et.al.|[2504.08274](http://arxiv.org/abs/2504.08274)|null|
 |**2025-04-10**|**Empowering Global Voices: A Data-Efficient, Phoneme-Tone Adaptive Approach to High-Fidelity Speech Synthesis**|Yizhong Geng et.al.|[2504.07858](http://arxiv.org/abs/2504.07858)|null|
 |**2025-04-10**|**SlimSpeech: Lightweight and Efficient Text-to-Speech with Slim Rectified Flow**|Kaidi Wang et.al.|[2504.07776](http://arxiv.org/abs/2504.07776)|null|
 |**2025-04-08**|**AVENet: Disentangling Features by Approximating Average Features for Voice Conversion**|Wenyu Wang et.al.|[2504.05833](http://arxiv.org/abs/2504.05833)|null|
