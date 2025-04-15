@@ -11,6 +11,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis**|Yifan Yang et.al.|[2504.10352](http://arxiv.org/abs/2504.10352)|null|
+|**2025-04-14**|**AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis**|Dan Luo et.al.|[2504.10309](http://arxiv.org/abs/2504.10309)|null|
+|**2025-04-14**|**SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis**|Zhisheng Zhang et.al.|[2504.09839](http://arxiv.org/abs/2504.09839)|null|
+|**2025-04-12**|**"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**|Shira Michel et.al.|[2504.09346](http://arxiv.org/abs/2504.09346)|null|
+|**2025-04-12**|**AMNet: An Acoustic Model Network for Enhanced Mandarin Speech Synthesis**|Yubing Cao et.al.|[2504.09225](http://arxiv.org/abs/2504.09225)|null|
+|**2025-04-12**|**SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction Fine-Tuning**|Prabhat Pandey et.al.|[2504.09081](http://arxiv.org/abs/2504.09081)|null|
 |**2025-04-11**|**Generalized Multilingual Text-to-Speech Generation with Language-Aware Style Adaptation**|Haowei Lou et.al.|[2504.08274](http://arxiv.org/abs/2504.08274)|null|
 |**2025-04-10**|**Empowering Global Voices: A Data-Efficient, Phoneme-Tone Adaptive Approach to High-Fidelity Speech Synthesis**|Yizhong Geng et.al.|[2504.07858](http://arxiv.org/abs/2504.07858)|null|
 |**2025-04-10**|**SlimSpeech: Lightweight and Efficient Text-to-Speech with Slim Rectified Flow**|Kaidi Wang et.al.|[2504.07776](http://arxiv.org/abs/2504.07776)|null|
