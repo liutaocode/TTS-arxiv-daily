@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,7 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-17**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/abs/2504.12867)|null|
+|**2025-04-18**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/abs/2504.12867)|null|
 |**2025-04-15**|**GOAT-TTS: LLM-based Text-To-Speech Generation Optimized via A Dual-Branch Architecture**|Yaodong Song et.al.|[2504.12339](http://arxiv.org/abs/2504.12339)|null|
 |**2025-04-15**|**Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation**|Yan Rong et.al.|[2504.11002](http://arxiv.org/abs/2504.11002)|null|
 |**2025-04-15**|**Generalized Audio Deepfake Detection Using Frame-level Latent Information Entropy**|Botao Zhao et.al.|[2504.10819](http://arxiv.org/abs/2504.10819)|null|
