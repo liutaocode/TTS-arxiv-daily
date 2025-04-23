@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,7 @@ layout: default
 |**2025-04-20**|**DialogueAgents: A Hybrid Agent-Based Speech Synthesis Framework for Multi-Party Dialogue**|Xiang Li et.al.|[2504.14482](http://arxiv.org/abs/2504.14482)|**[link](https://github.com/uirlx/dialogueagents)**|
 |**2025-04-18**|**ChatNekoHacker: Real-Time Fan Engagement with Conversational Agents**|Takuya Sera et.al.|[2504.13793](http://arxiv.org/abs/2504.13793)|null|
 |**2025-04-18**|**Collective Learning Mechanism based Optimal Transport Generative Adversarial Network for Non-parallel Voice Conversion**|Sandipan Dhar et.al.|[2504.13791](http://arxiv.org/abs/2504.13791)|null|
-|**2025-04-18**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/abs/2504.12867)|null|
+|**2025-04-22**|**EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting**|Guanrou Yang et.al.|[2504.12867](http://arxiv.org/abs/2504.12867)|null|
 |**2025-04-15**|**GOAT-TTS: LLM-based Text-To-Speech Generation Optimized via A Dual-Branch Architecture**|Yaodong Song et.al.|[2504.12339](http://arxiv.org/abs/2504.12339)|null|
 |**2025-04-15**|**Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation**|Yan Rong et.al.|[2504.11002](http://arxiv.org/abs/2504.11002)|null|
 |**2025-04-15**|**Generalized Audio Deepfake Detection Using Frame-level Latent Information Entropy**|Botao Zhao et.al.|[2504.10819](http://arxiv.org/abs/2504.10819)|null|
