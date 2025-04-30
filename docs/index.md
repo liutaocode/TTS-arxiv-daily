@@ -11,8 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation**|Jeongsoo Choi et.al.|[2504.20629](http://arxiv.org/abs/2504.20629)|null|
+|**2025-04-29**|**ClonEval: An Open Voice Cloning Benchmark**|Iwona Christop et.al.|[2504.20581](http://arxiv.org/abs/2504.20581)|null|
+|**2025-04-29**|**Towards Flow-Matching-based TTS without Classifier-Free Guidance**|Yuzhe Liang et.al.|[2504.20334](http://arxiv.org/abs/2504.20334)|null|
 |**2025-04-27**|**Generative Adversarial Network based Voice Conversion: Techniques, Challenges, and Recent Advancements**|Sandipan Dhar et.al.|[2504.19197](http://arxiv.org/abs/2504.19197)|null|
-|**2025-04-27**|**Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget**|Xin Li et.al.|[2504.19146](http://arxiv.org/abs/2504.19146)|null|
+|**2025-04-27**|**Muyan-TTS: A Trainable Text-to-Speech Model Optimized for Podcast Scenarios with a $50K Budget**|Xin Li et.al.|[2504.19146](http://arxiv.org/abs/2504.19146)|**[link](https://github.com/MYZY-AI/Muyan-TTS)**|
 |**2025-04-22**|**FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning**|Ju Yeon Kang et.al.|[2504.15663](http://arxiv.org/abs/2504.15663)|null|
 |**2025-04-22**|**A Multi-Agent Framework for Automated Qinqiang Opera Script Generation Using Large Language Models**|Gengxian Cao et.al.|[2504.15552](http://arxiv.org/abs/2504.15552)|null|
 |**2025-04-21**|**SOLIDO: A Robust Watermarking Method for Speech Synthesis via Low-Rank Adaptation**|Yue Li et.al.|[2504.15035](http://arxiv.org/abs/2504.15035)|null|
