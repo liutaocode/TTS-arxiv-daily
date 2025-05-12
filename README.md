@@ -1,4 +1,4 @@
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-08**|**FlexSpeech: Towards Stable, Controllable and Expressive Text-to-Speech**|Linhan Ma et.al.|[2505.05159](http://arxiv.org/abs/2505.05159)|null|
+|**2025-05-09**|**FlexSpeech: Towards Stable, Controllable and Expressive Text-to-Speech**|Linhan Ma et.al.|[2505.05159](http://arxiv.org/abs/2505.05159)|null|
 |**2025-05-08**|**Teochew-Wild: The First In-the-wild Teochew Dataset with Orthographic Annotations**|Linrong Pan et.al.|[2505.05056](http://arxiv.org/abs/2505.05056)|null|
 |**2025-05-08**|**A Multi-Agent AI Framework for Immersive Audiobook Production through Spatial Audio and Neural Narration**|Shaja Arul Selvamani et.al.|[2505.04885](http://arxiv.org/abs/2505.04885)|null|
 |**2025-05-07**|**Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment**|Xueyao Zhang et.al.|[2505.04113](http://arxiv.org/abs/2505.04113)|null|
@@ -966,5 +966,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
