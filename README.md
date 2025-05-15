@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**SingNet: Towards a Large-Scale, Diverse, and In-the-Wild Singing Voice Dataset**|Yicheng Gu et.al.|[2505.09325](http://arxiv.org/abs/2505.09325)|null|
+|**2025-05-14**|**DPN-GAN: Inducing Periodic Activations in Generative Adversarial Networks for High-Fidelity Audio Synthesis**|Zeeshan Ahmad et.al.|[2505.09091](http://arxiv.org/abs/2505.09091)|null|
 |**2025-05-13**|**Investigating self-supervised features for expressive, multilingual voice conversion**|Álvaro Martín-Cortinas et.al.|[2505.08278](http://arxiv.org/abs/2505.08278)|null|
 |**2025-05-12**|**MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder**|Bowen Zhang et.al.|[2505.07916](http://arxiv.org/abs/2505.07916)|null|
 |**2025-05-12**|**Lightweight End-to-end Text-to-speech Synthesis for low resource on-device applications**|Biel Tura Vecino et.al.|[2505.07701](http://arxiv.org/abs/2505.07701)|null|
