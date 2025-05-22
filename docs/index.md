@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,24 +11,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-20**|**Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker and Speech Traits**|Tiantian Feng et.al.|[2505.14648](http://arxiv.org/abs/2505.14648)|null|
+|**2025-05-20**|**Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker and Speech Traits**|Tiantian Feng et.al.|[2505.14648](http://arxiv.org/abs/2505.14648)|**[link](https://github.com/tiantiaf0627/vox-profile-release)**|
 |**2025-05-20**|**Pairwise Evaluation of Accent Similarity in Speech Synthesis**|Jinzuomu Zhong et.al.|[2505.14410](http://arxiv.org/abs/2505.14410)|null|
 |**2025-05-20**|**FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**|Yutong Liu et.al.|[2505.14351](http://arxiv.org/abs/2505.14351)|null|
-|**2025-05-20**|**AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models**|Guangke Chen et.al.|[2505.14103](http://arxiv.org/abs/2505.14103)|null|
+|**2025-05-21**|**AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models**|Guangke Chen et.al.|[2505.14103](http://arxiv.org/abs/2505.14103)|null|
 |**2025-05-20**|**SeamlessEdit: Background Noise Aware Zero-Shot Speech Editing with in-Context Enhancement**|Kuan-Yu Chen et.al.|[2505.14066](http://arxiv.org/abs/2505.14066)|null|
-|**2025-05-20**|**U-SAM: An audio language Model for Unified Speech, Audio, and Music Understanding**|Ziqian Wang et.al.|[2505.13880](http://arxiv.org/abs/2505.13880)|null|
+|**2025-05-20**|**U-SAM: An audio language Model for Unified Speech, Audio, and Music Understanding**|Ziqian Wang et.al.|[2505.13880](http://arxiv.org/abs/2505.13880)|**[link](https://github.com/honee-w/u-sam)**|
 |**2025-05-20**|**Improving Noise Robustness of LLM-based Zero-shot TTS via Discrete Acoustic Token Denoising**|Ye-Xin Lu et.al.|[2505.13830](http://arxiv.org/abs/2505.13830)|null|
 |**2025-05-20**|**Articulatory Feature Prediction from Surface EMG during Speech Production**|Jihwan Lee et.al.|[2505.13814](http://arxiv.org/abs/2505.13814)|null|
 |**2025-05-19**|**Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space**|Zhengrui Ma et.al.|[2505.13181](http://arxiv.org/abs/2505.13181)|**[link](https://github.com/ictnlp/sled-tts)**|
-|**2025-05-19**|**DualCodec: A Low-Frame-Rate, Semantically-Enhanced Neural Audio Codec for Speech Generation**|Jiaqi Li et.al.|[2505.13000](http://arxiv.org/abs/2505.13000)|null|
+|**2025-05-19**|**DualCodec: A Low-Frame-Rate, Semantically-Enhanced Neural Audio Codec for Speech Generation**|Jiaqi Li et.al.|[2505.13000](http://arxiv.org/abs/2505.13000)|**[link](https://github.com/jiaqili3/DualCodec)**|
 |**2025-05-19**|**Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy**|Xuanjun Chen et.al.|[2505.12994](http://arxiv.org/abs/2505.12994)|null|
 |**2025-05-19**|**OZSpeech: One-step Zero-shot Speech Synthesis with Learned-Prior-Conditioned Flow Matching**|Hieu-Nghia Huynh-Nguyen et.al.|[2505.12800](http://arxiv.org/abs/2505.12800)|null|
 |**2025-05-19**|**RoVo: Robust Voice Protection Against Unauthorized Speech Synthesis with Embedding-Level Perturbations**|Seungmin Kim et.al.|[2505.12686](http://arxiv.org/abs/2505.12686)|null|
-|**2025-05-19**|**Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis**|Yifan Hu et.al.|[2505.12597](http://arxiv.org/abs/2505.12597)|null|
+|**2025-05-19**|**Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis**|Yifan Hu et.al.|[2505.12597](http://arxiv.org/abs/2505.12597)|**[link](https://github.com/ai-s2-lab/chain-talker)**|
 |**2025-05-18**|**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**|Dong Yang et.al.|[2505.12226](http://arxiv.org/abs/2505.12226)|null|
 |**2025-05-16**|**LipDiffuser: Lip-to-Speech Generation with Conditional Diffusion Models**|Danilo de Oliveira et.al.|[2505.11391](http://arxiv.org/abs/2505.11391)|null|
 |**2025-05-16**|**Audio Turing Test: Benchmarking the Human-likeness of Large Language Model-based Text-to-Speech Systems in Chinese**|Xihuai Wang et.al.|[2505.11200](http://arxiv.org/abs/2505.11200)|null|
-|**2025-05-16**|**BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset**|Istiaq Ahmed Fahad et.al.|[2505.10885](http://arxiv.org/abs/2505.10885)|null|
+|**2025-05-16**|**BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset**|Istiaq Ahmed Fahad et.al.|[2505.10885](http://arxiv.org/abs/2505.10885)|**[link](https://github.com/KamruzzamanAsif/BanglaFake)**|
 |**2025-05-15**|**UDDETTS: Unifying Discrete and Dimensional Emotions for Controllable Emotional Text-to-Speech**|Jiaxuan Liu et.al.|[2505.10599](http://arxiv.org/abs/2505.10599)|null|
 |**2025-05-14**|**SingNet: Towards a Large-Scale, Diverse, and In-the-Wild Singing Voice Dataset**|Yicheng Gu et.al.|[2505.09325](http://arxiv.org/abs/2505.09325)|null|
 |**2025-05-14**|**DPN-GAN: Inducing Periodic Activations in Generative Adversarial Networks for High-Fidelity Audio Synthesis**|Zeeshan Ahmad et.al.|[2505.09091](http://arxiv.org/abs/2505.09091)|null|
