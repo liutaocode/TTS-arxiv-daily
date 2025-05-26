@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,7 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition**|Tianduo Wang et.al.|[2505.16972](http://arxiv.org/abs/2505.16972)|null|
+|**2025-05-22**|**From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition**|Tianduo Wang et.al.|[2505.16972](http://arxiv.org/abs/2505.16972)|**[link](https://github.com/tianduowang/speech-bt)**|
 |**2025-05-22**|**MM-MovieDubber: Towards Multi-Modal Learning for Multi-Modal Movie Dubbing**|Junjie Zheng et.al.|[2505.16279](http://arxiv.org/abs/2505.16279)|null|
 |**2025-05-21**|**MIKU-PAL: An Automated and Standardized Multi-Modal Method for Speech Paralinguistic and Affect Labeling**|Cheng Yifan et.al.|[2505.15772](http://arxiv.org/abs/2505.15772)|null|
 |**2025-05-21**|**Segmentation-Variant Codebooks for Preservation of Paralinguistic and Prosodic Information**|Nicholas Sanders et.al.|[2505.15667](http://arxiv.org/abs/2505.15667)|null|
@@ -24,7 +24,7 @@ layout: default
 |**2025-05-20**|**FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**|Yutong Liu et.al.|[2505.14351](http://arxiv.org/abs/2505.14351)|null|
 |**2025-05-21**|**AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models**|Guangke Chen et.al.|[2505.14103](http://arxiv.org/abs/2505.14103)|null|
 |**2025-05-20**|**SeamlessEdit: Background Noise Aware Zero-Shot Speech Editing with in-Context Enhancement**|Kuan-Yu Chen et.al.|[2505.14066](http://arxiv.org/abs/2505.14066)|null|
-|**2025-05-20**|**U-SAM: An audio language Model for Unified Speech, Audio, and Music Understanding**|Ziqian Wang et.al.|[2505.13880](http://arxiv.org/abs/2505.13880)|**[link](https://github.com/honee-w/u-sam)**|
+|**2025-05-23**|**U-SAM: An audio language Model for Unified Speech, Audio, and Music Understanding**|Ziqian Wang et.al.|[2505.13880](http://arxiv.org/abs/2505.13880)|**[link](https://github.com/honee-w/u-sam)**|
 |**2025-05-22**|**Improving Noise Robustness of LLM-based Zero-shot TTS via Discrete Acoustic Token Denoising**|Ye-Xin Lu et.al.|[2505.13830](http://arxiv.org/abs/2505.13830)|null|
 |**2025-05-20**|**Articulatory Feature Prediction from Surface EMG during Speech Production**|Jihwan Lee et.al.|[2505.13814](http://arxiv.org/abs/2505.13814)|null|
 |**2025-05-19**|**Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space**|Zhengrui Ma et.al.|[2505.13181](http://arxiv.org/abs/2505.13181)|**[link](https://github.com/ictnlp/sled-tts)**|
