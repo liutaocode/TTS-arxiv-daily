@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**ARECHO: Autoregressive Evaluation via Chain-Based Hypothesis Optimization for Speech Multi-Metric Estimation**|Jiatong Shi et.al.|[2505.24518](http://arxiv.org/abs/2505.24518)|null|
+|**2025-05-30**|**Speech Token Prediction via Compressed-to-fine Language Modeling for Speech Generation**|Wenrui Liu et.al.|[2505.24496](http://arxiv.org/abs/2505.24496)|null|
+|**2025-05-30**|**DS-Codec: Dual-Stage Training with Mirror-to-NonMirror Architecture Switching for Speech Codec**|Peijie Chen et.al.|[2505.24314](http://arxiv.org/abs/2505.24314)|null|
+|**2025-05-29**|**Can Emotion Fool Anti-spoofing?**|Aurosweta Mahapatra et.al.|[2505.23962](http://arxiv.org/abs/2505.23962)|null|
 |**2025-05-29**|**Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes**|Neta Glazer et.al.|[2505.23619](http://arxiv.org/abs/2505.23619)|null|
 |**2025-05-29**|**EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge**|Ruskin Raj Manku et.al.|[2505.23009](http://arxiv.org/abs/2505.23009)|**[link](https://github.com/boson-ai/emergenttts-eval-public)**|
 |**2025-05-29**|**LLM-Synth4KWS: Scalable Automatic Generation and Synthesis of Confusable Data for Custom Keyword Spotting**|Pai Zhu et.al.|[2505.22995](http://arxiv.org/abs/2505.22995)|null|
@@ -26,7 +30,7 @@
 |**2025-05-26**|**DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech**|Deok-Hyeon Cho et.al.|[2505.19687](http://arxiv.org/abs/2505.19687)|null|
 |**2025-05-26**|**KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization**|Zhaolin Li et.al.|[2505.19679](http://arxiv.org/abs/2505.19679)|null|
 |**2025-05-26**|**Zero-Shot Streaming Text to Speech Synthesis with Transducer and Auto-Regressive Modeling**|Haiyang Sun et.al.|[2505.19669](http://arxiv.org/abs/2505.19669)|null|
-|**2025-05-26**|**Accelerating Diffusion-based Text-to-Speech Model Training with Dual Modality Alignment**|Jeongsoo Choi et.al.|[2505.19595](http://arxiv.org/abs/2505.19595)|**[link](https://github.com/zhikangniu/a-dma)**|
+|**2025-05-30**|**Accelerating Diffusion-based Text-to-Speech Model Training with Dual Modality Alignment**|Jeongsoo Choi et.al.|[2505.19595](http://arxiv.org/abs/2505.19595)|**[link](https://github.com/zhikangniu/a-dma)**|
 |**2025-05-26**|**GSA-TTS : Toward Zero-Shot Speech Synthesis based on Gradual Style Adaptor**|Seokgi Lee et.al.|[2505.19384](http://arxiv.org/abs/2505.19384)|null|
 |**2025-05-25**|**SpeakStream: Streaming Text-to-Speech with Interleaved Data**|Richard He Bai et.al.|[2505.19206](http://arxiv.org/abs/2505.19206)|null|
 |**2025-05-25**|**CloneShield: A Framework for Universal Perturbation Against Zero-Shot Voice Cloning**|Renyuan Li et.al.|[2505.19119](http://arxiv.org/abs/2505.19119)|null|
