@@ -11,6 +11,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**HiFiTTS-2: A Large-Scale High Bandwidth Speech Dataset**|Ryan Langman et.al.|[2506.04152](http://arxiv.org/abs/2506.04152)|null|
+|**2025-06-04**|**UniCUE: Unified Recognition and Generation Framework for Chinese Cued Speech Video-to-Speech Generation**|Jinting Wang et.al.|[2506.04134](http://arxiv.org/abs/2506.04134)|null|
+|**2025-06-04**|**A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions**|Chung-Chun Wang et.al.|[2506.04077](http://arxiv.org/abs/2506.04077)|null|
+|**2025-06-04**|**Kinship in Speech: Leveraging Linguistic Relatedness for Zero-Shot TTS in Indian Languages**|Utkarsh Pathak et.al.|[2506.03884](http://arxiv.org/abs/2506.03884)|null|
+|**2025-06-04**|**Mark My Words: A Robust Multilingual Model for Punctuation in Text and Speech Transcripts**|Sidharth Pulipaka et.al.|[2506.03793](http://arxiv.org/abs/2506.03793)|null|
+|**2025-06-04**|**Comparative Analysis of Fast and High-Fidelity Neural Vocoders for Low-Latency Streaming Synthesis in Resource-Constrained Environments**|Reo Yoneyama et.al.|[2506.03554](http://arxiv.org/abs/2506.03554)|null|
+|**2025-06-04**|**BitTTS: Highly Compact Text-to-Speech Using 1.58-bit Quantization and Weight Indexing**|Masaya Kawamura et.al.|[2506.03515](http://arxiv.org/abs/2506.03515)|null|
 |**2025-06-03**|**Controllable Text-to-Speech Synthesis with Masked-Autoencoded Style-Rich Representation**|Yongqi Wang et.al.|[2506.02997](http://arxiv.org/abs/2506.02997)|null|
 |**2025-06-03**|**Towards a Japanese Full-duplex Spoken Dialogue System**|Atsumoto Ohashi et.al.|[2506.02979](http://arxiv.org/abs/2506.02979)|null|
 |**2025-06-03**|**PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing**|You Zhang et.al.|[2506.02958](http://arxiv.org/abs/2506.02958)|null|
