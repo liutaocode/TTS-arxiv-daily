@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Transcript-Prompted Whisper with Dictionary-Enhanced Decoding for Japanese Speech Annotation**|Rui Hu et.al.|[2506.07646](http://arxiv.org/abs/2506.07646)|null|
+|**2025-06-08**|**Towards Generalized Source Tracing for Codec-Based Deepfake Speech**|Xuanjun Chen et.al.|[2506.07294](http://arxiv.org/abs/2506.07294)|null|
+|**2025-06-07**|**SynHate: Detecting Hate Speech in Synthetic Deepfake Audio**|Rishabh Ranjan et.al.|[2506.06772](http://arxiv.org/abs/2506.06772)|null|
 |**2025-06-06**|**Audio-Aware Large Language Models as Judges for Speaking Styles**|Cheng-Han Chiang et.al.|[2506.05984](http://arxiv.org/abs/2506.05984)|null|
 |**2025-06-06**|**Voice Impression Control in Zero-Shot TTS**|Keinichi Fujita et.al.|[2506.05688](http://arxiv.org/abs/2506.05688)|null|
 |**2025-06-05**|**Grapheme-Coherent Phonemic and Prosodic Annotation of Speech by Implicit and Explicit Grapheme Conditioning**|Hien Ohnaka et.al.|[2506.04527](http://arxiv.org/abs/2506.04527)|null|
