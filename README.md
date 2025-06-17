@@ -14,8 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**From Flat to Feeling: A Feasibility and Impact Study on Dynamic Facial Emotions in AI-Generated Avatars**|Pegah Salehi et.al.|[2506.13477](http://arxiv.org/abs/2506.13477)|null|
+|**2025-06-16**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|null|
+|**2025-06-14**|**StreamMel: Real-Time Zero-shot Text-to-Speech via Interleaved Continuous Autoregressive Modeling**|Hui Wang et.al.|[2506.12570](http://arxiv.org/abs/2506.12570)|null|
+|**2025-06-14**|**Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction**|Xiaoran Fan et.al.|[2506.12537](http://arxiv.org/abs/2506.12537)|null|
+|**2025-06-14**|**Phonikud: Hebrew Grapheme-to-Phoneme Conversion for Real-Time Text-to-Speech**|Yakov Kolani et.al.|[2506.12311](http://arxiv.org/abs/2506.12311)|null|
 |**2025-06-11**|**S2ST-Omni: An Efficient and Scalable Multilingual Speech-to-Speech Translation Framework via Seamlessly Speech-Text Alignment and Streaming Speech Decoder**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
-|**2025-06-10**|**A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data**|Cheng Kang Chou et.al.|[2506.11130](http://arxiv.org/abs/2506.11130)|null|
+|**2025-06-16**|**A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data**|Cheng-Kang Chou et.al.|[2506.11130](http://arxiv.org/abs/2506.11130)|null|
 |**2025-06-10**|**GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech Instructions**|Wenkang Han et.al.|[2506.11127](http://arxiv.org/abs/2506.11127)|null|
 |**2025-06-10**|**ASRJam: Human-Friendly AI Speech Jamming to Prevent Automated Phone Scams**|Freddie Grabovski et.al.|[2506.11125](http://arxiv.org/abs/2506.11125)|null|
 |**2025-06-05**|**Intelligibility of Text-to-Speech Systems for Mathematical Expressions**|Sujoy Roychowdhury et.al.|[2506.11086](http://arxiv.org/abs/2506.11086)|null|
