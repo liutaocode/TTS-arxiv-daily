@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data**|Kentaro Seki et.al.|[2506.15614](http://arxiv.org/abs/2506.15614)|null|
+|**2025-06-18**|**PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction**|Shufan Li et.al.|[2506.15556](http://arxiv.org/abs/2506.15556)|null|
+|**2025-06-18**|**Factorized RVQ-GAN For Disentangled Speech Tokenization**|Sameer Khurana et.al.|[2506.15456](http://arxiv.org/abs/2506.15456)|null|
+|**2025-06-18**|**EmojiVoice: Towards long-term controllable expressivity in robot speech**|Paige Tuttösí et.al.|[2506.15085](http://arxiv.org/abs/2506.15085)|null|
+|**2025-06-18**|**An accurate and revised version of optical character recognition-based speech synthesis using LabVIEW**|Prateek Mehta et.al.|[2506.15029](http://arxiv.org/abs/2506.15029)|null|
 |**2025-06-17**|**SLEEPING-DISCO 9M: A large-scale pre-training dataset for generative music modeling**|Tawsif Ahmed et.al.|[2506.14293](http://arxiv.org/abs/2506.14293)|null|
 |**2025-06-17**|**Investigation of Zero-shot Text-to-Speech Models for Enhancing Short-Utterance Speaker Verification**|Yiyang Zhao et.al.|[2506.14226](http://arxiv.org/abs/2506.14226)|null|
 |**2025-06-17**|**Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**|Tuan Dat Phuong et.al.|[2506.14153](http://arxiv.org/abs/2506.14153)|null|
