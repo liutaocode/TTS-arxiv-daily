@@ -21,7 +21,7 @@ layout: default
 |**2025-06-17**|**Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**|Tuan Dat Phuong et.al.|[2506.14153](http://arxiv.org/abs/2506.14153)|**[link](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab/XLSR-GRKAN-Conformer)**|
 |**2025-06-16**|**EmoNews: A Spoken Dialogue System for Expressive News Conversations**|Ryuki Matsuura et.al.|[2506.13894](http://arxiv.org/abs/2506.13894)|null|
 |**2025-06-16**|**From Flat to Feeling: A Feasibility and Impact Study on Dynamic Facial Emotions in AI-Generated Avatars**|Pegah Salehi et.al.|[2506.13477](http://arxiv.org/abs/2506.13477)|null|
-|**2025-06-20**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|null|
+|**2025-06-20**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|**[link](https://github.com/k2-fsa/ZipVoice)**|
 |**2025-06-14**|**StreamMel: Real-Time Zero-shot Text-to-Speech via Interleaved Continuous Autoregressive Modeling**|Hui Wang et.al.|[2506.12570](http://arxiv.org/abs/2506.12570)|null|
 |**2025-06-14**|**Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction**|Xiaoran Fan et.al.|[2506.12537](http://arxiv.org/abs/2506.12537)|null|
 |**2025-06-14**|**Phonikud: Hebrew Grapheme-to-Phoneme Conversion for Real-Time Text-to-Speech**|Yakov Kolani et.al.|[2506.12311](http://arxiv.org/abs/2506.12311)|null|
