@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,7 +19,7 @@ layout: default
 |**2025-06-20**|**LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization**|Daejin Jo et.al.|[2506.16738](http://arxiv.org/abs/2506.16738)|null|
 |**2025-06-20**|**V-CASS: Vision-context-aware Expressive Speech Synthesis for Enhancing User Understanding of Videos**|Qixin Wang et.al.|[2506.16716](http://arxiv.org/abs/2506.16716)|null|
 |**2025-06-19**|**Streaming Non-Autoregressive Model for Accent Conversion and Pronunciation Improvement**|Tuan-Nam Nguyen et.al.|[2506.16580](http://arxiv.org/abs/2506.16580)|null|
-|**2025-06-19**|**InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems**|Kexin Huang et.al.|[2506.16381](http://arxiv.org/abs/2506.16381)|null|
+|**2025-06-19**|**InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems**|Kexin Huang et.al.|[2506.16381](http://arxiv.org/abs/2506.16381)|**[link](https://github.com/kexinhuang19/instructttseval)**|
 |**2025-06-19**|**Optimizing Multilingual Text-To-Speech with Accents & Emotions**|Pranav Pawar et.al.|[2506.16310](http://arxiv.org/abs/2506.16310)|null|
 |**2025-06-19**|**Improved Intelligibility of Dysarthric Speech using Conditional Flow Matching**|Shoutrik Das et.al.|[2506.16127](http://arxiv.org/abs/2506.16127)|null|
 |**2025-06-19**|**VS-Singer: Vision-Guided Stereo Singing Voice Synthesis with Consistency Schrödinger Bridge**|Zijing Zhao et.al.|[2506.16020](http://arxiv.org/abs/2506.16020)|null|
@@ -28,7 +28,7 @@ layout: default
 |**2025-06-18**|**Factorized RVQ-GAN For Disentangled Speech Tokenization**|Sameer Khurana et.al.|[2506.15456](http://arxiv.org/abs/2506.15456)|null|
 |**2025-06-18**|**EmojiVoice: Towards long-term controllable expressivity in robot speech**|Paige Tuttösí et.al.|[2506.15085](http://arxiv.org/abs/2506.15085)|null|
 |**2025-06-18**|**An accurate and revised version of optical character recognition-based speech synthesis using LabVIEW**|Prateek Mehta et.al.|[2506.15029](http://arxiv.org/abs/2506.15029)|null|
-|**2025-06-17**|**SLEEPING-DISCO 9M: A large-scale pre-training dataset for generative music modeling**|Tawsif Ahmed et.al.|[2506.14293](http://arxiv.org/abs/2506.14293)|null|
+|**2025-06-23**|**SLEEPING-DISCO 9M: A large-scale pre-training dataset for generative music modeling**|Tawsif Ahmed et.al.|[2506.14293](http://arxiv.org/abs/2506.14293)|null|
 |**2025-06-17**|**Investigation of Zero-shot Text-to-Speech Models for Enhancing Short-Utterance Speaker Verification**|Yiyang Zhao et.al.|[2506.14226](http://arxiv.org/abs/2506.14226)|null|
 |**2025-06-17**|**Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**|Tuan Dat Phuong et.al.|[2506.14153](http://arxiv.org/abs/2506.14153)|**[link](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab/XLSR-GRKAN-Conformer)**|
 |**2025-06-16**|**EmoNews: A Spoken Dialogue System for Expressive News Conversations**|Ryuki Matsuura et.al.|[2506.13894](http://arxiv.org/abs/2506.13894)|null|
