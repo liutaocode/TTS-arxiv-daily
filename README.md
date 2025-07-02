@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-30**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|
+|**2025-07-01**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|
 |**2025-06-30**|**Efficient Interleaved Speech Modeling through Knowledge Distillation**|Mohammadmahdi Nouriborji et.al.|[2506.23670](http://arxiv.org/abs/2506.23670)|null|
 |**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
 |**2025-06-29**|**You Sound a Little Tense: L2 Tailored Clear TTS Using Durational Vowel Properties**|Paige Tuttösí et.al.|[2506.23367](http://arxiv.org/abs/2506.23367)|null|
@@ -1116,5 +1116,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
