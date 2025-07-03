@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**A Dataset for Automatic Assessment of TTS Quality in Spanish**|Alejandro Sosa Welford et.al.|[2507.01805](http://arxiv.org/abs/2507.01805)|null|
+|**2025-07-02**|**Voice Conversion for Likability Control via Automated Rating of Speech Synthesis Corpora**|Hitoshi Suda et.al.|[2507.01356](http://arxiv.org/abs/2507.01356)|null|
+|**2025-07-02**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Cheng Zhuangfei et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
+|**2025-07-02**|**Multi-interaction TTS toward professional recording reproduction**|Hiroki Kanagawa et.al.|[2507.00808](http://arxiv.org/abs/2507.00808)|null|
+|**2025-07-01**|**MuteSwap: Silent Face-based Voice Conversion**|Yifan Liu et.al.|[2507.00498](http://arxiv.org/abs/2507.00498)|null|
+|**2025-06-30**|**Collecting, Curating, and Annotating Good Quality Speech deepfake dataset for Famous Figures: Process and Challenges**|Hashim Ali et.al.|[2507.00324](http://arxiv.org/abs/2507.00324)|null|
+|**2025-06-30**|**Investigating Stochastic Methods for Prosody Modeling in Speech Synthesis**|Paul Mayer et.al.|[2507.00227](http://arxiv.org/abs/2507.00227)|null|
 |**2025-07-01**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|
 |**2025-06-30**|**Efficient Interleaved Speech Modeling through Knowledge Distillation**|Mohammadmahdi Nouriborji et.al.|[2506.23670](http://arxiv.org/abs/2506.23670)|null|
 |**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
