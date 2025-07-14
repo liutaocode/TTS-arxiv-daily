@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Unlocking Speech Instruction Data Potential with Query Rewriting**|Yonghua Hei et.al.|[2507.08603](http://arxiv.org/abs/2507.08603)|null|
+|**2025-07-11**|**MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling**|Jingjing Tang et.al.|[2507.08530](http://arxiv.org/abs/2507.08530)|null|
+|**2025-07-11**|**Active Learning for Text-to-Speech Synthesis with Informative Sample Collection**|Kentaro Seki et.al.|[2507.08319](http://arxiv.org/abs/2507.08319)|null|
+|**2025-07-05**|**RepeaTTS: Towards Feature Discovery through Repeated Fine-Tuning**|Atli Sigurgeirsson et.al.|[2507.08012](http://arxiv.org/abs/2507.08012)|null|
 |**2025-07-10**|**SecureSpeech: Prompt-based Speaker and Content Protection**|Belinda Soh Hui Hui et.al.|[2507.07799](http://arxiv.org/abs/2507.07799)|null|
 |**2025-07-09**|**STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation**|Wenxiang Guo et.al.|[2507.06670](http://arxiv.org/abs/2507.06670)|null|
 |**2025-07-09**|**Learning Japanese with Jouzu: Interaction Outcomes with Stylized Dialogue Fictional Agents**|Zackary Rackauckas et.al.|[2507.06483](http://arxiv.org/abs/2507.06483)|null|
