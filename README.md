@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
+|**2025-07-16**|**EME-TTS: Unlocking the Emphasis and Emotion Link in Speech Synthesis**|Haoxun Li et.al.|[2507.12015](http://arxiv.org/abs/2507.12015)|null|
+|**2025-07-15**|**Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection**|Ivan Viakhirev et.al.|[2507.11777](http://arxiv.org/abs/2507.11777)|null|
 |**2025-07-15**|**P.808 Multilingual Speech Enhancement Testing: Approach and Results of URGENT 2025 Challenge**|Marvin Sach et.al.|[2507.11306](http://arxiv.org/abs/2507.11306)|null|
 |**2025-07-14**|**Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
