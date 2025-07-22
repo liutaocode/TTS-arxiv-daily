@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**A2TTS: TTS for Low Resource Indian Languages**|Ayush Singh Bhadoriya et.al.|[2507.15272](http://arxiv.org/abs/2507.15272)|null|
+|**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
+|**2025-07-20**|**Hear Your Code Fail, Voice-Assisted Debugging for Python**|Sayed Mahbub Hasan Amiri et.al.|[2507.15007](http://arxiv.org/abs/2507.15007)|null|
+|**2025-07-20**|**DMOSpeech 2: Reinforcement Learning for Duration Prediction in Metric-Optimized Speech Synthesis**|Yinghao Aaron Li et.al.|[2507.14988](http://arxiv.org/abs/2507.14988)|null|
+|**2025-07-20**|**FastLongSpeech: Enhancing Large Speech-Language Models for Efficient Long-Speech Processing**|Shoutao Guo et.al.|[2507.14815](http://arxiv.org/abs/2507.14815)|null|
 |**2025-07-17**|**A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges in Russian Speech Generative Models**|Kirill Borodin et.al.|[2507.13563](http://arxiv.org/abs/2507.13563)|null|
 |**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155](http://arxiv.org/abs/2507.13155)|null|
 |**2025-07-17**|**Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication**|Tianyu Song et.al.|[2507.13052](http://arxiv.org/abs/2507.13052)|null|
@@ -28,6 +33,7 @@
 |**2025-07-12**|**ZipVoice-Dialog: Non-Autoregressive Spoken Dialogue Generation with Flow Matching**|Han Zhu et.al.|[2507.09318](http://arxiv.org/abs/2507.09318)|null|
 |**2025-07-12**|**Voice Conversion for Lombard Speaking Style with Implicit and Explicit Acoustic Feature Conditioning**|Dominika Woszczyk et.al.|[2507.09310](http://arxiv.org/abs/2507.09310)|null|
 |**2025-07-12**|**ClaritySpeech: Dementia Obfuscation in Speech**|Dominika Woszczyk et.al.|[2507.09282](http://arxiv.org/abs/2507.09282)|null|
+|**2025-07-19**|**Mixture of LoRA Experts with Multi-Modal and Multi-Granularity LLM Generative Error Correction for Accented Speech Recognition**|Bingshen Mu et.al.|[2507.09116](http://arxiv.org/abs/2507.09116)|null|
 |**2025-07-11**|**SemAlignVC: Enhancing zero-shot timbre conversion using semantic alignment**|Shivam Mehta et.al.|[2507.09070](http://arxiv.org/abs/2507.09070)|null|
 |**2025-07-11**|**Exploiting Leaderboards for Large-Scale Distribution of Malicious Models**|Anshuman Suri et.al.|[2507.08983](http://arxiv.org/abs/2507.08983)|null|
 |**2025-07-06**|**A Hybrid Machine Learning Framework for Optimizing Crop Selection via Agronomic and Economic Forecasting**|Niranjan Mallikarjun Sindhur et.al.|[2507.08832](http://arxiv.org/abs/2507.08832)|null|
