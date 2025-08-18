@@ -299,7 +299,7 @@
 |**2025-04-15**|**Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation**|Yan Rong et.al.|[2504.11002](http://arxiv.org/abs/2504.11002)|null|
 |**2025-04-15**|**Generalized Audio Deepfake Detection Using Frame-level Latent Information Entropy**|Botao Zhao et.al.|[2504.10819](http://arxiv.org/abs/2504.10819)|null|
 |**2025-04-14**|**Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis**|Yifan Yang et.al.|[2504.10352](http://arxiv.org/abs/2504.10352)|null|
-|**2025-04-14**|**AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis**|Dan Luo et.al.|[2504.10309](http://arxiv.org/abs/2504.10309)|null|
+|**2025-04-14**|**AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis**|Dan Luo et.al.|[2504.10309](http://arxiv.org/abs/2504.10309)|**[link](https://github.com/Chengyuann/AutoStyle-TTS)**|
 |**2025-04-14**|**SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis**|Zhisheng Zhang et.al.|[2504.09839](http://arxiv.org/abs/2504.09839)|**[link](https://github.com/wxzyd123/safespeech)**|
 |**2025-04-12**|**"It's not a representation of me": Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services**|Shira Michel et.al.|[2504.09346](http://arxiv.org/abs/2504.09346)|null|
 |**2025-04-12**|**AMNet: An Acoustic Model Network for Enhanced Mandarin Speech Synthesis**|Yubing Cao et.al.|[2504.09225](http://arxiv.org/abs/2504.09225)|null|
@@ -729,7 +729,7 @@
 |**2024-03-07**|**Attempt Towards Stress Transfer in Speech-to-Speech Machine Translation**|Sai Akarsh et.al.|[2403.04178](http://arxiv.org/abs/2403.04178)|null|
 |**2024-03-27**|**NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models**|Zeqian Ju et.al.|[2403.03100](http://arxiv.org/abs/2403.03100)|null|
 |**2024-03-04**|**Brilla AI: AI Contestant for the National Science and Maths Quiz**|George Boateng et.al.|[2403.01699](http://arxiv.org/abs/2403.01699)|**[link](https://github.com/nsmq-ai/nsmqai)**|
-|**2024-03-02**|**Towards Accurate Lip-to-Speech Synthesis in-the-Wild**|Sindhu Hegde et.al.|[2403.01087](http://arxiv.org/abs/2403.01087)|null|
+|**2024-03-02**|**Towards Accurate Lip-to-Speech Synthesis in-the-Wild**|Sindhu Hegde et.al.|[2403.01087](http://arxiv.org/abs/2403.01087)|**[link](https://github.com/souvikg544/lip2speech)**|
 |**2024-02-29**|**Extending Multilingual Speech Synthesis to 100+ Languages without Transcribed Data**|Takaaki Saeki et.al.|[2402.18932](http://arxiv.org/abs/2402.18932)|null|
 |**2024-02-26**|**An Automated End-to-End Open-Source Software for High-Quality Text-to-Speech Dataset Generation**|Ahmet Gunduz et.al.|[2402.16380](http://arxiv.org/abs/2402.16380)|**[link](https://github.com/aixplain/tts-qa)**|
 |**2024-02-22**|**Efficient data selection employing Semantic Similarity-based Graph Structures for model training**|Roxana Petcu et.al.|[2402.14888](http://arxiv.org/abs/2402.14888)|null|
