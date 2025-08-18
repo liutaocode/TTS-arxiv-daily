@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 20
+max_results: 10
 
 publish_readme: True
 publish_gitpage: True
