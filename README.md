@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds**|Qizhou Wang et.al.|[2509.04345](http://arxiv.org/abs/2509.04345)|null|
+|**2025-09-04**|**Open-Source Full-Duplex Conversational Datasets for Natural and Interactive Speech Synthesis**|Zhitong Zhou et.al.|[2509.04093](http://arxiv.org/abs/2509.04093)|null|
+|**2025-09-04**|**LibriQuote: A Speech Dataset of Fictional Character Utterances for Expressive Zero-Shot Speech Synthesis**|Gaspard Michel et.al.|[2509.04072](http://arxiv.org/abs/2509.04072)|null|
 |**2025-09-03**|**Multi-level SSL Feature Gating for Audio Deepfake Detection**|Hoan My Tran et.al.|[2509.03409](http://arxiv.org/abs/2509.03409)|null|
 |**2025-09-03**|**LatPhon: Lightweight Multilingual G2P for Romance Languages and English**|Luis Felipe Chary et.al.|[2509.03300](http://arxiv.org/abs/2509.03300)|null|
 |**2025-09-03**|**Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings**|Dyah A. M. G. Wisnu et.al.|[2509.03292](http://arxiv.org/abs/2509.03292)|null|
