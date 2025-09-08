@@ -40,14 +40,14 @@ layout: default
 |**2025-08-22**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
 |**2025-08-21**|**QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection**|Zhiyu Wu et.al.|[2508.15931](http://arxiv.org/abs/2508.15931)|null|
 |**2025-08-21**|**Any-to-any Speaker Attribute Perturbation for Asynchronous Voice Anonymization**|Liping Chen et.al.|[2508.15565](http://arxiv.org/abs/2508.15565)|null|
-|**2025-08-24**|**Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets**|Chenlin Liu et.al.|[2508.15442](http://arxiv.org/abs/2508.15442)|null|
+|**2025-08-24**|**Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets**|Chenlin Liu et.al.|[2508.15442](http://arxiv.org/abs/2508.15442)|**[link](https://github.com/lotuscarvedlife/GOAT)**|
 |**2025-08-21**|**UniCoM: A Universal Code-Switching Speech Generator**|Sangmin Lee et.al.|[2508.15244](http://arxiv.org/abs/2508.15244)|**[link](https://github.com/sanghyang00/unicom)**|
 |**2025-08-20**|**Linear Preference Optimization: Decoupled Gradient Control via Absolute Regularization**|Rui Wang et.al.|[2508.14947](http://arxiv.org/abs/2508.14947)|null|
 |**2025-08-20**|**Long-Context Speech Synthesis with Context-Aware Memory**|Zhipeng Li et.al.|[2508.14713](http://arxiv.org/abs/2508.14713)|null|
 |**2025-08-20**|**Improving Resource-Efficient Speech Enhancement via Neural Differentiable DSP Vocoder Refinement**|Heitor R. Guimarães et.al.|[2508.14709](http://arxiv.org/abs/2508.14709)|null|
 |**2025-08-20**|**DiffIER: Optimizing Diffusion Models with Iterative Error Reduction**|Ao Chen et.al.|[2508.13628](http://arxiv.org/abs/2508.13628)|null|
 |**2025-08-19**|**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**|Dariia Puhach et.al.|[2508.13603](http://arxiv.org/abs/2508.13603)|null|
-|**2025-08-18**|**A Surveillance Based Interactive Robot**|Kshitij Kavimandan et.al.|[2508.13319](http://arxiv.org/abs/2508.13319)|null|
+|**2025-08-18**|**A Surveillance Based Interactive Robot**|Kshitij Kavimandan et.al.|[2508.13319](http://arxiv.org/abs/2508.13319)|**[link](https://github.com/Vardhan02/IoT-Based-Web-Controlled-Surveillance-Robot)**|
 |**2025-08-18**|**Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis**|Zhu Li et.al.|[2508.13028](http://arxiv.org/abs/2508.13028)|null|
 |**2025-08-18**|**Real-Time Sign Language Gestures to Speech Transcription using Deep Learning**|Brandone Fonya et.al.|[2508.12713](http://arxiv.org/abs/2508.12713)|null|
 |**2025-08-19**|**FNH-TTS: A Fast, Natural, and Human-Like Speech Synthesis System with advanced prosodic modeling based on Mixture of Experts**|Qingliang Meng et.al.|[2508.12001](http://arxiv.org/abs/2508.12001)|null|
@@ -1005,7 +1005,7 @@ layout: default
 |**2023-10-29**|**CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model**|Zhen Ye et.al.|[2305.06908](http://arxiv.org/abs/2305.06908)|**[link](https://github.com/zhenye234/CoMoSpeech)**|
 |**2023-05-08**|**Accented Text-to-Speech Synthesis with Limited Data**|Xuehao Zhou et.al.|[2305.04816](http://arxiv.org/abs/2305.04816)|null|
 |**2023-05-03**|**M2-CTTS: End-to-End Multi-scale Multi-modal Conversational Text-to-Speech Synthesis**|Jinlong Xue et.al.|[2305.02269](http://arxiv.org/abs/2305.02269)|null|
-|**2023-05-30**|**A Review of Deep Learning Techniques for Speech Processing**|Ambuj Mehrish et.al.|[2305.00359](http://arxiv.org/abs/2305.00359)|null|
+|**2023-05-30**|**A Review of Deep Learning Techniques for Speech Processing**|Ambuj Mehrish et.al.|[2305.00359](http://arxiv.org/abs/2305.00359)|**[link](https://github.com/mpperez3/semi-automatic-gluten-curation-resources)**|
 |**2023-04-26**|**Source-Filter-Based Generative Adversarial Neural Vocoder for High Fidelity Speech Synthesis**|Ye-Xin Lu et.al.|[2304.13270](http://arxiv.org/abs/2304.13270)|null|
 |**2023-04-25**|**Multi-Speaker Multi-Lingual VQTTS System for LIMMITS 2023 Challenge**|Chenpeng Du et.al.|[2304.13121](http://arxiv.org/abs/2304.13121)|null|
 |**2023-04-24**|**Zero-shot text-to-speech synthesis conditioned using self-supervised speech representation model**|Kenichi Fujita et.al.|[2304.11976](http://arxiv.org/abs/2304.11976)|null|
@@ -1049,7 +1049,7 @@ layout: default
 |**2023-06-06**|**PITS: Variational Pitch Inference without Fundamental Frequency for End-to-End Pitch-controllable TTS**|Junhyeok Lee et.al.|[2302.12391](http://arxiv.org/abs/2302.12391)|**[link](https://github.com/anonymous-pits/pits)**|
 |**2023-02-21**|**Emphasizing Unseen Words: New Vocabulary Acquisition for End-to-End Speech Recognition**|Leyuan Qu et.al.|[2302.09723](http://arxiv.org/abs/2302.09723)|null|
 |**2023-02-23**|**QuickVC: Any-to-many Voice Conversion Using Inverse Short-time Fourier Transform for Faster Conversion**|Houjian Guo et.al.|[2302.08296](http://arxiv.org/abs/2302.08296)|**[link](https://github.com/quickvc/quickvoice-conversion)**|
-|**2023-02-13**|**Fast and small footprint Hybrid HMM-HiFiGAN based system for speech synthesis in Indian languages**|Sudhanshu Srivastava et.al.|[2302.06227](http://arxiv.org/abs/2302.06227)|null|
+|**2023-02-13**|**Fast and small footprint Hybrid HMM-HiFiGAN based system for speech synthesis in Indian languages**|Sudhanshu Srivastava et.al.|[2302.06227](http://arxiv.org/abs/2302.06227)|**[link](https://github.com/Sudhanshu4321/Hybrid_HMM_HiFiGAN)**|
 |**2023-02-08**|**A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech**|Li-Wei Chen et.al.|[2302.04215](http://arxiv.org/abs/2302.04215)|**[link](https://github.com/b04901014/mqtts)**|
 |**2023-02-07**|**Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision**|Eugene Kharitonov et.al.|[2302.03540](http://arxiv.org/abs/2302.03540)|null|
 |**2023-02-15**|**MAC: A unified framework boosting low resource automatic speech recognition**|Zeping Min et.al.|[2302.03498](http://arxiv.org/abs/2302.03498)|null|

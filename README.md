@@ -158,7 +158,7 @@
 |**2025-07-03**|**JoyTTS: LLM-based Spoken Chatbot With Voice Cloning**|Fangru Zhou et.al.|[2507.02380](http://arxiv.org/abs/2507.02380)|null|
 |**2025-07-02**|**Analyzing and Improving Speaker Similarity Assessment for Speech Synthesis**|Marc-André Carbonneau et.al.|[2507.02176](http://arxiv.org/abs/2507.02176)|null|
 |**2025-07-04**|**Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams**|Zirui Li et.al.|[2507.02115](http://arxiv.org/abs/2507.02115)|null|
-|**2025-07-02**|**A Dataset for Automatic Assessment of TTS Quality in Spanish**|Alejandro Sosa Welford et.al.|[2507.01805](http://arxiv.org/abs/2507.01805)|null|
+|**2025-07-02**|**A Dataset for Automatic Assessment of TTS Quality in Spanish**|Alejandro Sosa Welford et.al.|[2507.01805](http://arxiv.org/abs/2507.01805)|**[link](https://github.com/asosawelford/TTS-dataset-analysis)**|
 |**2025-07-02**|**Voice Conversion for Likability Control via Automated Rating of Speech Synthesis Corpora**|Hitoshi Suda et.al.|[2507.01356](http://arxiv.org/abs/2507.01356)|null|
 |**2025-07-08**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Zhuangfei Cheng et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
 |**2025-07-02**|**Multi-interaction TTS toward professional recording reproduction**|Hiroki Kanagawa et.al.|[2507.00808](http://arxiv.org/abs/2507.00808)|null|
@@ -648,7 +648,7 @@
 |**2024-07-17**|**Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech**|Haibin Wu et.al.|[2407.12229](http://arxiv.org/abs/2407.12229)|**[link](https://github.com/hbwu-ntu/emoctrltts-eval)**|
 |**2024-07-16**|**A Language Modeling Approach to Diacritic-Free Hebrew TTS**|Amit Roth et.al.|[2407.12206](http://arxiv.org/abs/2407.12206)|null|
 |**2024-07-17**|**Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding**|Chuanhao Sun et.al.|[2407.09370](http://arxiv.org/abs/2407.09370)|**[link](https://github.com/zhyuan11/SPE)**|
-|**2024-07-11**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al.|[2407.08551](http://arxiv.org/abs/2407.08551)|null|
+|**2024-07-11**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al.|[2407.08551](http://arxiv.org/abs/2407.08551)|**[link](https://github.com/Shy-98/MELLE)**|
 |**2024-07-10**|**Source Tracing of Audio Deepfake Systems**|Nicholas Klein et.al.|[2407.08016](http://arxiv.org/abs/2407.08016)|null|
 |**2024-07-07**|**ASRRL-TTS: Agile Speaker Representation Reinforcement Learning for Text-to-Speech Speaker Adaptation**|Ruibo Fu et.al.|[2407.05421](http://arxiv.org/abs/2407.05421)|null|
 |**2024-07-09**|**CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens**|Zhihao Du et.al.|[2407.05407](http://arxiv.org/abs/2407.05407)|null|
@@ -744,8 +744,8 @@
 |**2024-04-28**|**USAT: A Universal Speaker-Adaptive Text-to-Speech Approach**|Wenbin Wang et.al.|[2404.18094](http://arxiv.org/abs/2404.18094)|**[link](https://github.com/mushanshanshan/esltts)**|
 |**2024-04-27**|**TI-ASU: Toward Robust Automatic Speech Understanding through Text-to-speech Imputation Against Missing Speech Modality**|Tiantian Feng et.al.|[2404.17983](http://arxiv.org/abs/2404.17983)|null|
 |**2024-04-26**|**An RFP dataset for Real, Fake, and Partially fake audio detection**|Abdulazeez AlAli et.al.|[2404.17721](http://arxiv.org/abs/2404.17721)|null|
-|**2024-04-23**|**StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations**|Sen Liu et.al.|[2404.14946](http://arxiv.org/abs/2404.14946)|null|
-|**2024-04-23**|**Retrieval-Augmented Audio Deepfake Detection**|Zuheng Kang et.al.|[2404.13892](http://arxiv.org/abs/2404.13892)|null|
+|**2024-04-23**|**StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations**|Sen Liu et.al.|[2404.14946](http://arxiv.org/abs/2404.14946)|**[link](https://github.com/X-LANCE/StoryTTS)**|
+|**2024-04-23**|**Retrieval-Augmented Audio Deepfake Detection**|Zuheng Kang et.al.|[2404.13892](http://arxiv.org/abs/2404.13892)|**[link](https://github.com/AvinashSaxena777/RADAD-RetrievalAugmentedDeepfakeAudioDetection)**|
 |**2024-04-14**|**Prior-agnostic Multi-scale Contrastive Text-Audio Pre-training for Parallelized TTS Frontend Modeling**|Quanxiu Wang et.al.|[2404.09192](http://arxiv.org/abs/2404.09192)|null|
 |**2024-04-11**|**Voice-Assisted Real-Time Traffic Sign Recognition System Using Convolutional Neural Network**|Mayura Manawadu et.al.|[2404.07807](http://arxiv.org/abs/2404.07807)|null|
 |**2024-04-18**|**Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness**|Xincan Feng et.al.|[2404.06714](http://arxiv.org/abs/2404.06714)|**[link](https://github.com/xincanfeng/vitsgpt)**|
@@ -776,7 +776,7 @@
 |**2024-02-29**|**Extending Multilingual Speech Synthesis to 100+ Languages without Transcribed Data**|Takaaki Saeki et.al.|[2402.18932](http://arxiv.org/abs/2402.18932)|null|
 |**2024-02-26**|**An Automated End-to-End Open-Source Software for High-Quality Text-to-Speech Dataset Generation**|Ahmet Gunduz et.al.|[2402.16380](http://arxiv.org/abs/2402.16380)|**[link](https://github.com/aixplain/tts-qa)**|
 |**2024-02-22**|**Efficient data selection employing Semantic Similarity-based Graph Structures for model training**|Roxana Petcu et.al.|[2402.14888](http://arxiv.org/abs/2402.14888)|null|
-|**2024-02-22**|**Daisy-TTS: Simulating Wider Spectrum of Emotions via Prosody Embedding Decomposition**|Rendi Chevi et.al.|[2402.14523](http://arxiv.org/abs/2402.14523)|null|
+|**2024-02-22**|**Daisy-TTS: Simulating Wider Spectrum of Emotions via Prosody Embedding Decomposition**|Rendi Chevi et.al.|[2402.14523](http://arxiv.org/abs/2402.14523)|**[link](https://github.com/rendchevi/daisy-tts)**|
 |**2024-02-19**|**On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models**|Miri Varshavsky-Hassid et.al.|[2402.12423](http://arxiv.org/abs/2402.12423)|null|
 |**2024-02-19**|**Bayesian Parameter-Efficient Fine-Tuning for Overcoming Catastrophic Forgetting**|Haolin Chen et.al.|[2402.12220](http://arxiv.org/abs/2402.12220)|**[link](https://github.com/idiap/bayesian-peft)**|
 |**2024-02-18**|**Ain't Misbehavin' -- Using LLMs to Generate Expressive Robot Behavior in Conversations with the Tabletop Robot Haru**|Zining Wang et.al.|[2402.11571](http://arxiv.org/abs/2402.11571)|null|
