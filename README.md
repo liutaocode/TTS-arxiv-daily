@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-05**|**Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales**|Krittanon Kaewtawee et.al.|[2509.04871](http://arxiv.org/abs/2509.04871)|null|
+|**2025-09-04**|**Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding**|Rui-Chen Zheng et.al.|[2509.04685](http://arxiv.org/abs/2509.04685)|null|
+|**2025-09-04**|**DarkStream: real-time speech anonymization with low latency**|Waris Quamer et.al.|[2509.04667](http://arxiv.org/abs/2509.04667)|null|
 |**2025-09-04**|**AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds**|Qizhou Wang et.al.|[2509.04345](http://arxiv.org/abs/2509.04345)|null|
 |**2025-09-04**|**Open-Source Full-Duplex Conversational Datasets for Natural and Interactive Speech Synthesis**|Zhitong Zhou et.al.|[2509.04093](http://arxiv.org/abs/2509.04093)|null|
 |**2025-09-04**|**LibriQuote: A Speech Dataset of Fictional Character Utterances for Expressive Zero-Shot Speech Synthesis**|Gaspard Michel et.al.|[2509.04072](http://arxiv.org/abs/2509.04072)|null|
