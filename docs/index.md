@@ -167,7 +167,7 @@ layout: default
 |**2025-07-05**|**Prosody Labeling with Phoneme-BERT and Speech Foundation Models**|Tomoki Koriyama et.al.|[2507.03912](http://arxiv.org/abs/2507.03912)|null|
 |**2025-07-05**|**Traceable TTS: Toward Watermark-Free TTS with Strong Traceability**|Yuxiang Zhao et.al.|[2507.03887](http://arxiv.org/abs/2507.03887)|null|
 |**2025-07-14**|**DeepGesture: A conversational gesture synthesis system based on emotions and semantics**|Thanh Hoang-Minh et.al.|[2507.03147](http://arxiv.org/abs/2507.03147)|null|
-|**2025-07-03**|**De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks**|Wei Fan et.al.|[2507.02606](http://arxiv.org/abs/2507.02606)|null|
+|**2025-07-03**|**De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks**|Wei Fan et.al.|[2507.02606](http://arxiv.org/abs/2507.02606)|**[link](https://github.com/cyberrrange/De-AntiFake)**|
 |**2025-07-03**|**Open-Source System for Multilingual Translation and Cloned Speech Synthesis**|Mateo Cámara et.al.|[2507.02530](http://arxiv.org/abs/2507.02530)|null|
 |**2025-07-03**|**JoyTTS: LLM-based Spoken Chatbot With Voice Cloning**|Fangru Zhou et.al.|[2507.02380](http://arxiv.org/abs/2507.02380)|null|
 |**2025-07-02**|**Analyzing and Improving Speaker Similarity Assessment for Speech Synthesis**|Marc-André Carbonneau et.al.|[2507.02176](http://arxiv.org/abs/2507.02176)|null|
@@ -536,7 +536,7 @@ layout: default
 |**2024-10-24**|**Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text Analysis**|Suparna De et.al.|[2410.19199](http://arxiv.org/abs/2410.19199)|null|
 |**2024-10-24**|**STTATTS: Unified Speech-To-Text And Text-To-Speech Model**|Hawau Olamide Toyin et.al.|[2410.18607](http://arxiv.org/abs/2410.18607)|**[link](https://github.com/mbzuai-nlp/sttatts)**|
 |**2024-10-24**|**Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts**|ChaeHun Park et.al.|[2410.18444](http://arxiv.org/abs/2410.18444)|null|
-|**2024-10-23**|**ELAICHI: Enhancing Low-resource TTS by Addressing Infrequent and Low-frequency Character Bigrams**|Srija Anand et.al.|[2410.17901](http://arxiv.org/abs/2410.17901)|null|
+|**2024-10-23**|**ELAICHI: Enhancing Low-resource TTS by Addressing Infrequent and Low-frequency Character Bigrams**|Srija Anand et.al.|[2410.17901](http://arxiv.org/abs/2410.17901)|**[link](https://github.com/AI4Bharat/ELAICHI)**|
 |**2024-10-22**|**Continuous Speech Tokenizer in Text To Speech**|Yixing Li et.al.|[2410.17081](http://arxiv.org/abs/2410.17081)|**[link](https://github.com/yixing-li/continuous-speech-tokenizer)**|
 |**2024-10-22**|**Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap**|Guanrou Yang et.al.|[2410.16726](http://arxiv.org/abs/2410.16726)|null|
 |**2024-10-21**|**Continuous Speech Synthesis using per-token Latent Diffusion**|Arnon Turetzky et.al.|[2410.16048](http://arxiv.org/abs/2410.16048)|null|
@@ -879,7 +879,7 @@ layout: default
 |**2023-10-01**|**Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech**|Dareen Alharthi et.al.|[2310.00706](http://arxiv.org/abs/2310.00706)|null|
 |**2024-03-11**|**Fewer-token Neural Speech Codec with Time-invariant Codes**|Yong Ren et.al.|[2310.00014](http://arxiv.org/abs/2310.00014)|**[link](https://github.com/y-ren16/ticodec)**|
 |**2024-01-31**|**ReFlow-TTS: A Rectified Flow Model for High-fidelity Text-to-Speech**|Wenhao Guan et.al.|[2309.17056](http://arxiv.org/abs/2309.17056)|null|
-|**2023-09-29**|**Low-Resource Self-Supervised Learning with SSL-Enhanced TTS**|Po-chun Hsu et.al.|[2309.17020](http://arxiv.org/abs/2309.17020)|null|
+|**2023-09-29**|**Low-Resource Self-Supervised Learning with SSL-Enhanced TTS**|Po-chun Hsu et.al.|[2309.17020](http://arxiv.org/abs/2309.17020)|**[link](https://github.com/lenguyensonnguyen/CS2309_ChuyenDeThiGiacMayTinh_LeNguyenSonNguyen_CH1702039_GiuaKy)**|
 |**2023-09-29**|**Synthetic Speech Detection Based on Temporal Consistency and Distribution of Speaker Features**|Yuxiang Zhang et.al.|[2309.16954](http://arxiv.org/abs/2309.16954)|null|
 |**2023-12-18**|**High-Fidelity Speech Synthesis with Minimal Supervision: All Using Diffusion Models**|Chunyu Qiang et.al.|[2309.15512](http://arxiv.org/abs/2309.15512)|null|
 |**2024-01-09**|**BiSinger: Bilingual Singing Voice Synthesis**|Huali Zhou et.al.|[2309.14089](http://arxiv.org/abs/2309.14089)|**[link](https://github.com/BiSinger-SVS/BiSinger)**|
