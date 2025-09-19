@@ -1,4 +1,4 @@
-## Updated on 2025.09.18
+## Updated on 2025.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-17**|**CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset**|Brian Yan et.al.|[2509.14161](http://arxiv.org/abs/2509.14161)|null|
-|**2025-09-17**|**Do You Hear What I Mean? Quantifying the Instruction-Perception Gap in Instruction-Guided Expressive Text-To-Speech Systems**|Yi-Cheng Lin et.al.|[2509.13989](http://arxiv.org/abs/2509.13989)|null|
+|**2025-09-18**|**Do You Hear What I Mean? Quantifying the Instruction-Perception Gap in Instruction-Guided Expressive Text-To-Speech Systems**|Yi-Cheng Lin et.al.|[2509.13989](http://arxiv.org/abs/2509.13989)|null|
 |**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
 |**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/abs/2509.12831)|null|
 |**2025-09-15**|**Preservation of Language Understanding Capabilities in Speech-aware Large Language Models**|Marek Kubis et.al.|[2509.12171](http://arxiv.org/abs/2509.12171)|null|
@@ -1295,5 +1295,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250919>back to top</a>)</p>
 
