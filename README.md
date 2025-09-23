@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-22**|**TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**|Yutong Liu et.al.|[2509.18060](http://arxiv.org/abs/2509.18060)|null|
+|**2025-09-22**|**Nord-Parl-TTS: Finnish and Swedish TTS Dataset from Parliament Speech**|Zirui Li et.al.|[2509.17988](http://arxiv.org/abs/2509.17988)|null|
+|**2025-09-22**|**Qwen3-Omni Technical Report**|Jin Xu et.al.|[2509.17765](http://arxiv.org/abs/2509.17765)|null|
+|**2025-09-22**|**Audiobook-CC: Controllable Long-context Speech Generation for Multicast Audiobook**|Min Liu et.al.|[2509.17516](http://arxiv.org/abs/2509.17516)|null|
+|**2025-09-21**|**Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing**|Wataru Nakata et.al.|[2509.17052](http://arxiv.org/abs/2509.17052)|null|
+|**2025-09-21**|**Bridging the gap between training and inference in LM-based TTS models**|Ruonan Zhang et.al.|[2509.17021](http://arxiv.org/abs/2509.17021)|null|
+|**2025-09-21**|**MBCodec:Thorough disentangle for high-fidelity audio compression**|Ruonan Zhang et.al.|[2509.17006](http://arxiv.org/abs/2509.17006)|null|
 |**2025-09-19**|**Fed-PISA: Federated Voice Cloning via Personalized Identity-Style Adaptation**|Qi Wang et.al.|[2509.16010](http://arxiv.org/abs/2509.16010)|null|
 |**2025-09-19**|**VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency**|Nikita Torgashov et.al.|[2509.15969](http://arxiv.org/abs/2509.15969)|null|
 |**2025-09-19**|**Deep Dubbing: End-to-End Auto-Audiobook System with Text-to-Timbre and Context-Aware Instruct-TTS**|Ziqi Dai et.al.|[2509.15845](http://arxiv.org/abs/2509.15845)|null|
