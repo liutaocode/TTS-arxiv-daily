@@ -1,4 +1,4 @@
-## Updated on 2025.09.24
+## Updated on 2025.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-24**|**OLaPh: Optimal Language Phonemizer**|Johannes Wirth et.al.|[2509.20086](http://arxiv.org/abs/2509.20086)|null|
+|**2025-09-24**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|Yifan Yang et.al.|[2509.19928](http://arxiv.org/abs/2509.19928)|null|
+|**2025-09-24**|**CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance**|Junchuan Zhao et.al.|[2509.19883](http://arxiv.org/abs/2509.19883)|null|
+|**2025-09-24**|**Eliminating stability hallucinations in llm-based tts models via attention guidance**|ShiMing Wang et.al.|[2509.19852](http://arxiv.org/abs/2509.19852)|null|
+|**2025-09-24**|**Efficient Speech Watermarking for Speech Synthesis via Progressive Knowledge Distillation**|Yang Cui et.al.|[2509.19812](http://arxiv.org/abs/2509.19812)|null|
+|**2025-09-24**|**PART: Progressive Alignment Representation Training for Multilingual Speech-To-Text with LLMs**|Pei Zhang et.al.|[2509.19745](http://arxiv.org/abs/2509.19745)|null|
+|**2025-09-24**|**Selective Classifier-free Guidance for Zero-shot Text-to-speech**|John Zheng et.al.|[2509.19668](http://arxiv.org/abs/2509.19668)|null|
+|**2025-09-23**|**Frame-Stacked Local Transformers For Efficient Multi-Codebook Speech Generation**|Roy Fejgin et.al.|[2509.19592](http://arxiv.org/abs/2509.19592)|null|
 |**2025-09-23**|**HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS**|Sihang Nie et.al.|[2509.19001](http://arxiv.org/abs/2509.19001)|null|
 |**2025-09-23**|**Direct Preference Optimization for Speech Autoregressive Diffusion Models**|Zhijun Liu et.al.|[2509.18928](http://arxiv.org/abs/2509.18928)|null|
 |**2025-09-23**|**Group Relative Policy Optimization for Text-to-Speech with Large Language Models**|Chang Liu et.al.|[2509.18798](http://arxiv.org/abs/2509.18798)|null|
@@ -1323,5 +1331,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
 
