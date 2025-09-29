@@ -360,8 +360,8 @@ layout: default
 |**2025-05-21**|**AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models**|Guangke Chen et.al.|[2505.14103](http://arxiv.org/abs/2505.14103)|null|
 |**2025-05-20**|**SeamlessEdit: Background Noise Aware Zero-Shot Speech Editing with in-Context Enhancement**|Kuan-Yu Chen et.al.|[2505.14066](http://arxiv.org/abs/2505.14066)|null|
 |**2025-05-23**|**U-SAM: An audio language Model for Unified Speech, Audio, and Music Understanding**|Ziqian Wang et.al.|[2505.13880](http://arxiv.org/abs/2505.13880)|**[link](https://github.com/honee-w/u-sam)**|
-|**2025-05-22**|**Improving Noise Robustness of LLM-based Zero-shot TTS via Discrete Acoustic Token Denoising**|Ye-Xin Lu et.al.|[2505.13830](http://arxiv.org/abs/2505.13830)|null|
-|**2025-05-20**|**Articulatory Feature Prediction from Surface EMG during Speech Production**|Jihwan Lee et.al.|[2505.13814](http://arxiv.org/abs/2505.13814)|null|
+|**2025-05-22**|**Improving Noise Robustness of LLM-based Zero-shot TTS via Discrete Acoustic Token Denoising**|Ye-Xin Lu et.al.|[2505.13830](http://arxiv.org/abs/2505.13830)|**[link](https://github.com/yxlu-0102/NR-LauraTTS)**|
+|**2025-05-20**|**Articulatory Feature Prediction from Surface EMG during Speech Production**|Jihwan Lee et.al.|[2505.13814](http://arxiv.org/abs/2505.13814)|**[link](https://github.com/lee-jhwn/IS25-emg-ema)**|
 |**2025-05-19**|**Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space**|Zhengrui Ma et.al.|[2505.13181](http://arxiv.org/abs/2505.13181)|**[link](https://github.com/ictnlp/sled-tts)**|
 |**2025-05-19**|**DualCodec: A Low-Frame-Rate, Semantically-Enhanced Neural Audio Codec for Speech Generation**|Jiaqi Li et.al.|[2505.13000](http://arxiv.org/abs/2505.13000)|**[link](https://github.com/jiaqili3/DualCodec)**|
 |**2025-05-19**|**Codec-Based Deepfake Source Tracing via Neural Audio Codec Taxonomy**|Xuanjun Chen et.al.|[2505.12994](http://arxiv.org/abs/2505.12994)|**[link](https://github.com/responsiblegenai/codecfake-source-tracing)**|
@@ -1132,11 +1132,11 @@ layout: default
 |**2022-12-11**|**BASPRO: a balanced script producer for speech corpus collection based on the genetic algorithm**|Yu-Wen Chen et.al.|[2301.04120](http://arxiv.org/abs/2301.04120)|**[link](https://github.com/yuwchen/baspro)**|
 |**2023-01-10**|**UnifySpeech: A Unified Framework for Zero-shot Text-to-Speech and Voice Conversion**|Haogeng Liu et.al.|[2301.03801](http://arxiv.org/abs/2301.03801)|null|
 |**2023-01-10**|**Generative Emotional AI for Speech Emotion Recognition: The Case for Synthetic Emotional Speech Augmentation**|Abdullah Shahid et.al.|[2301.03751](http://arxiv.org/abs/2301.03751)|null|
-|**2023-09-19**|**Applying Automated Machine Translation to Educational Video Courses**|Linden Wang et.al.|[2301.03141](http://arxiv.org/abs/2301.03141)|null|
+|**2023-09-19**|**Applying Automated Machine Translation to Educational Video Courses**|Linden Wang et.al.|[2301.03141](http://arxiv.org/abs/2301.03141)|**[link](https://github.com/Sfedfcv/redesigned-pancake)**|
 |**2023-01-06**|**Using External Off-Policy Speech-To-Text Mappings in Contextual End-To-End Automated Speech Recognition**|David M. Chan et.al.|[2301.02736](http://arxiv.org/abs/2301.02736)|null|
 |**2023-01-05**|**Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers**|Chengyi Wang et.al.|[2301.02111](http://arxiv.org/abs/2301.02111)|**[link](https://github.com/microsoft/unilm)**|
 |**2022-12-11**|**MnTTS2: An Open-Source Multi-Speaker Mongolian Text-to-Speech Synthesis Dataset**|Kailin Liang et.al.|[2301.00657](http://arxiv.org/abs/2301.00657)|**[link](https://github.com/ssmlkl/mntts2)**|
-|**2022-12-30**|**ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech**|Zehua Chen et.al.|[2212.14518](http://arxiv.org/abs/2212.14518)|null|
+|**2022-12-30**|**ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech**|Zehua Chen et.al.|[2212.14518](http://arxiv.org/abs/2212.14518)|**[link](https://github.com/Adibian/ResGrad)**|
 |**2022-12-29**|**StyleTTS-VC: One-Shot Voice Conversion by Knowledge Transfer from Style-Based TTS Models**|Yinghao Aaron Li et.al.|[2212.14227](http://arxiv.org/abs/2212.14227)|**[link](https://github.com/yl4579/StyleTTS-VC)**|
 |**2022-12-22**|**HMM-based data augmentation for E2E systems for building conversational speech synthesis systems**|Ishika Gupta et.al.|[2212.11982](http://arxiv.org/abs/2212.11982)|null|
 |**2022-12-21**|**ReVISE: Self-Supervised Speech Resynthesis with Visual Input for Universal and Generalized Speech Enhancement**|Wei-Ning Hsu et.al.|[2212.11377](http://arxiv.org/abs/2212.11377)|null|
