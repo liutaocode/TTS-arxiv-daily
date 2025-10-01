@@ -1,4 +1,4 @@
-## Updated on 2025.09.30
+## Updated on 2025.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-29**|**MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech**|Chengyao Wang et.al.|[2509.25131](http://arxiv.org/abs/2509.25131)|null|
-|**2025-09-29**|**VSSFlow: Unifying Video-conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
+|**2025-09-30**|**VSSFlow: Unifying Video-conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
 |**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/abs/2509.24650)|**[link](https://github.com/OpenBMB/VoxCPM)**|
 |**2025-09-29**|**Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis**|Tianrui Wang et.al.|[2509.24629](http://arxiv.org/abs/2509.24629)|null|
 |**2025-09-29**|**ISSE: An Instruction-Guided Speech Style Editing Dataset And Benchmark**|Yun Chen et.al.|[2509.24570](http://arxiv.org/abs/2509.24570)|null|
@@ -1348,5 +1348,5 @@
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
 
-<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
