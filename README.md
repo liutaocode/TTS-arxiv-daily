@@ -442,7 +442,7 @@
 |**2025-04-07**|**P2Mark: Plug-and-play Parameter-intrinsic Watermarking for Neural Speech Generation**|Yong Ren et.al.|[2504.05197](http://arxiv.org/abs/2504.05197)|null|
 |**2025-04-07**|**SpeakEasy: Enhancing Text-to-Speech Interactions for Expressive Content Creation**|Stephen Brade et.al.|[2504.05106](http://arxiv.org/abs/2504.05106)|null|
 |**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|**[link](https://github.com/yynil/rwkvtts)**|
-|**2025-04-09**|**F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
+|**2025-04-09**|**F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|**[link](https://github.com/FrontierLabs/F5R-TTS)**|
 |**2025-04-03**|**VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**|Kim Sung-Bin et.al.|[2504.02386](http://arxiv.org/abs/2504.02386)|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
 |**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|**[link](https://github.com/jimmyma99/teleantifraud)**|
@@ -1315,7 +1315,7 @@
 |**2022-05-09**|**Cross-Utterance Conditioned VAE for Non-Autoregressive Text-to-Speech**|Yang Li et.al.|[2205.04120](http://arxiv.org/abs/2205.04120)|**[link](https://github.com/neurowave-ai/cucvae-tts)**|
 |**2022-05-09**|**ReCAB-VAE: Gumbel-Softmax Variational Inference Based on Analytic Divergence**|Sangshin Oh et.al.|[2205.04104](http://arxiv.org/abs/2205.04104)|null|
 |**2022-07-14**|**Regotron: Regularizing the Tacotron2 architecture via monotonic alignment loss**|Efthymios Georgiou et.al.|[2204.13437](http://arxiv.org/abs/2204.13437)|null|
-|**2022-04-25**|**SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech**|Zhenhui Ye et.al.|[2204.11792](http://arxiv.org/abs/2204.11792)|null|
+|**2022-04-25**|**SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech**|Zhenhui Ye et.al.|[2204.11792](http://arxiv.org/abs/2204.11792)|**[link](https://github.com/yerfor/SyntaSpeech)**|
 |**2022-04-22**|**LibriS2S: A German-English Speech-to-Speech Translation Corpus**|Pedro Jeuris et.al.|[2204.10593](http://arxiv.org/abs/2204.10593)|**[link](https://github.com/pedrodke/libris2s)**|
 |**2022-07-05**|**Cross-Speaker Emotion Transfer for Low-Resource Text-to-Speech Using Non-Parallel Voice Conversion with Pitch-Shift Data Augmentation**|Ryo Terashima et.al.|[2204.10020](http://arxiv.org/abs/2204.10020)|null|
 |**2022-04-21**|**FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis**|Rongjie Huang et.al.|[2204.09934](http://arxiv.org/abs/2204.09934)|**[link](https://github.com/Rongjiehuang/FastDiff)**|
