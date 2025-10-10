@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching**|Hanke Xie et.al.|[2510.08373](http://arxiv.org/abs/2510.08373)|null|
+|**2025-10-09**|**IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation**|Wei Wang et.al.|[2510.07979](http://arxiv.org/abs/2510.07979)|null|
 |**2025-10-08**|**Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis**|Zhu Li et.al.|[2510.07096](http://arxiv.org/abs/2510.07096)|null|
 |**2025-10-08**|**Towards Responsible Evaluation for Text-to-Speech**|Yifan Yang et.al.|[2510.06927](http://arxiv.org/abs/2510.06927)|null|
 |**2025-10-08**|**XLSR-Kanformer: A KAN-Intergrated model for Synthetic Speech Detection**|Phuong Tuan Dat et.al.|[2510.06706](http://arxiv.org/abs/2510.06706)|null|
