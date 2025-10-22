@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**KrishokBondhu: A Retrieval-Augmented Voice-Based Agricultural Advisory Call Center for Bengali Farmers**|Mohd Ruhul Ameen et.al.|[2510.18355](http://arxiv.org/abs/2510.18355)|null|
+|**2025-10-21**|**ParaStyleTTS: Toward Efficient and Robust Paralinguistic Style Control for Expressive Text-to-Speech Generation**|Haowei Lou et.al.|[2510.18308](http://arxiv.org/abs/2510.18308)|**[link](https://github.com/haoweilou/ParaStyleTTS)**|
 |**2025-10-19**|**U-Codec: Ultra Low Frame-rate Neural Speech Codec for Fast High-fidelity Speech Generation**|Xusheng Yang et.al.|[2510.16718](http://arxiv.org/abs/2510.16718)|null|
 |**2025-10-18**|**Edge-Based Speech Transcription and Synthesis for Kinyarwanda and Swahili Languages**|Pacome Simon Mbonimpa et.al.|[2510.16497](http://arxiv.org/abs/2510.16497)|null|
 |**2025-10-17**|**VoiceMorph: How AI Voice Morphing Reveals the Boundaries of Auditory Self-Recognition**|Kye Shimizu et.al.|[2510.16192](http://arxiv.org/abs/2510.16192)|null|
