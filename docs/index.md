@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-23**|**Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator**|Hualei Wang et.al.|[2510.20210](http://arxiv.org/abs/2510.20210)|null|
+|**2025-10-23**|**SpeechAgent: An End-to-End Mobile Infrastructure for Speech Impairment Assistance**|Haowei Lou et.al.|[2510.20113](http://arxiv.org/abs/2510.20113)|null|
 |**2025-10-22**|**Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent**|Yangshijie Zhang et.al.|[2510.19641](http://arxiv.org/abs/2510.19641)|null|
 |**2025-10-22**|**Which Evaluation for Which Model? A Taxonomy for Speech Model Assessment**|Maureen de Seyssel et.al.|[2510.19509](http://arxiv.org/abs/2510.19509)|null|
 |**2025-10-22**|**EchoFake: A Replay-Aware Dataset for Practical Speech Deepfake Detection**|Tong Zhang et.al.|[2510.19414](http://arxiv.org/abs/2510.19414)|null|
