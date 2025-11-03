@@ -157,7 +157,7 @@ layout: default
 |**2025-09-03**|**AIVA: An AI-based Virtual Companion for Emotion-aware Interaction**|Chenxi Li et.al.|[2509.03212](http://arxiv.org/abs/2509.03212)|null|
 |**2025-09-04**|**FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot**|Kun Xie et.al.|[2509.02020](http://arxiv.org/abs/2509.02020)|null|
 |**2025-09-01**|**MixedG2P-T5: G2P-free Speech Synthesis for Mixed-script texts using Speech Self-Supervised Learning and Language Model**|Joonyong Park et.al.|[2509.01391](http://arxiv.org/abs/2509.01391)|null|
-|**2025-09-01**|**The AudioMOS Challenge 2025**|Wen-Chin Huang et.al.|[2509.01336](http://arxiv.org/abs/2509.01336)|null|
+|**2025-09-01**|**The AudioMOS Challenge 2025**|Wen-Chin Huang et.al.|[2509.01336](http://arxiv.org/abs/2509.01336)|**[link](https://github.com/rezzsl/HighRateMOS)**|
 |**2025-09-01**|**An AI-Based Shopping Assistant System to Support the Visually Impaired**|Larissa R. de S. Shibata et.al.|[2509.01246](http://arxiv.org/abs/2509.01246)|null|
 |**2025-09-01**|**SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation**|Chenyang Le et.al.|[2509.01200](http://arxiv.org/abs/2509.01200)|null|
 |**2025-08-31**|**MPO: Multidimensional Preference Optimization for Language Model-based Text-to-Speech**|Kangxiang Xia et.al.|[2509.00685](http://arxiv.org/abs/2509.00685)|null|
@@ -1279,7 +1279,7 @@ layout: default
 |**2022-10-17**|**LeVoice ASR Systems for the ISCSLP 2022 Intelligent Cockpit Speech Recognition Challenge**|Yan Jia et.al.|[2210.07749](http://arxiv.org/abs/2210.07749)|null|
 |**2022-10-20**|**Anonymizing Speech with Generative Adversarial Networks to Preserve Speaker Privacy**|Sarina Meyer et.al.|[2210.07002](http://arxiv.org/abs/2210.07002)|**[link](https://github.com/digitalphonetics/speaker-anonymization)**|
 |**2022-10-13**|**Pre-Avatar: An Automatic Presentation Generation Framework Leveraging Talking Avatar**|Aolan Sun et.al.|[2210.06877](http://arxiv.org/abs/2210.06877)|null|
-|**2022-10-12**|**Can we use Common Voice to train a Multi-Speaker TTS system?**|Sewade Ogun et.al.|[2210.06370](http://arxiv.org/abs/2210.06370)|null|
+|**2022-10-12**|**Can we use Common Voice to train a Multi-Speaker TTS system?**|Sewade Ogun et.al.|[2210.06370](http://arxiv.org/abs/2210.06370)|**[link](https://github.com/sorgfresser/cv-tts)**|
 |**2023-06-01**|**SQuId: Measuring Speech Naturalness in Many Languages**|Thibault Sellam et.al.|[2210.06324](http://arxiv.org/abs/2210.06324)|null|
 |**2022-11-22**|**Adversarial Speaker-Consistency Learning Using Untranscribed Speech Data for Zero-Shot Multi-Speaker Text-to-Speech**|Byoung Jin Choi et.al.|[2210.05979](http://arxiv.org/abs/2210.05979)|null|
 |**2022-10-06**|**An Overview of Affective Speech Synthesis and Conversion in the Deep Learning Era**|Andreas Triantafyllopoulos et.al.|[2210.03538](http://arxiv.org/abs/2210.03538)|null|
