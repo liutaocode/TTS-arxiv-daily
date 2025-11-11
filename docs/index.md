@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Generating Novel and Realistic Speakers for Voice Conversion**|Meiying Melissa Chen et.al.|[2511.07135](http://arxiv.org/abs/2511.07135)|null|
+|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|**[link](https://github.com/wxzyd123/E2E-VGuard)**|
+|**2025-11-09**|**IDMap: A Pseudo-Speaker Generator Framework Based on Speaker Identity Index to Vector Mapping**|Zeyan Liu et.al.|[2511.06246](http://arxiv.org/abs/2511.06246)|null|
 |**2025-11-07**|**Synthesizing speech with selected perceptual voice qualities - A case study with creaky voice**|Frederik Rautenberg et.al.|[2511.05143](http://arxiv.org/abs/2511.05143)|null|
 |**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
 |**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|
