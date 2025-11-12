@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.11
+## Updated on 2025.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1157,7 +1157,7 @@ layout: default
 |**2023-04-24**|**Zero-shot text-to-speech synthesis conditioned using self-supervised speech representation model**|Kenichi Fujita et.al.|[2304.11976](http://arxiv.org/abs/2304.11976)|null|
 |**2023-04-23**|**DiffVoice: Text-to-Speech with Latent Diffusion**|Zhijun Liu et.al.|[2304.11750](http://arxiv.org/abs/2304.11750)|**[link](https://github.com/zjlww/diffvoice-web)**|
 |**2023-04-23**|**SAR: Self-Supervised Anti-Distortion Representation for End-To-End Speech Model**|Jianzong Wang et.al.|[2304.11547](http://arxiv.org/abs/2304.11547)|null|
-|**2023-05-30**|**NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**|Kai Shen et.al.|[2304.09116](http://arxiv.org/abs/2304.09116)|null|
+|**2023-05-31**|**NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**|Kai Shen et.al.|[2304.09116](http://arxiv.org/abs/2304.09116)|null|
 |**2023-04-16**|**A Virtual Simulation-Pilot Agent for Training of Air Traffic Controllers**|Juan Zuluaga-Gomez et.al.|[2304.07842](http://arxiv.org/abs/2304.07842)|null|
 |**2023-04-13**|**Context-aware Coherent Speaking Style Prediction with Hierarchical Transformers for Audiobook Speech Synthesis**|Shun Lei et.al.|[2304.06359](http://arxiv.org/abs/2304.06359)|null|
 |**2023-04-10**|**Enhancing Speech-to-Speech Translation with Multiple TTS Targets**|Jiatong Shi et.al.|[2304.04618](http://arxiv.org/abs/2304.04618)|null|
@@ -1246,7 +1246,7 @@ layout: default
 |**2023-03-14**|**Grad-StyleSpeech: Any-speaker Adaptive Text-to-Speech Synthesis with Diffusion Models**|Minki Kang et.al.|[2211.09383](http://arxiv.org/abs/2211.09383)|null|
 |**2023-01-04**|**Low-Resource Mongolian Speech Synthesis Based on Automatic Prosody Annotation**|Xin Yuan et.al.|[2211.09365](http://arxiv.org/abs/2211.09365)|null|
 |**2022-11-14**|**SNIPER Training: Variable Sparsity Rate Training For Text-To-Speech**|Perry Lam et.al.|[2211.07283](http://arxiv.org/abs/2211.07283)|null|
-|**2023-05-24**|**Autovocoder: Fast Waveform Generation from a Learned Speech Representation using Differentiable Digital Signal Processing**|Jacob J Webber et.al.|[2211.06989](http://arxiv.org/abs/2211.06989)|null|
+|**2023-05-25**|**Autovocoder: Fast Waveform Generation from a Learned Speech Representation using Differentiable Digital Signal Processing**|Jacob J Webber et.al.|[2211.06989](http://arxiv.org/abs/2211.06989)|null|
 |**2023-05-29**|**OverFlow: Putting flows on top of neural transducers for better TTS**|Shivam Mehta et.al.|[2211.06892](http://arxiv.org/abs/2211.06892)|**[link](https://github.com/coqui-ai/TTS)**|
 |**2023-05-29**|**Semi-supervised learning for continuous emotional intensity controllable speech synthesis with disentangled representations**|Yoori Oh et.al.|[2211.06160](http://arxiv.org/abs/2211.06160)|null|
 |**2022-12-04**|**ERNIE-SAT: Speech and Text Joint Pretraining for Cross-Lingual Multi-Speaker Text-to-Speech**|Xiaoran Fan et.al.|[2211.03545](http://arxiv.org/abs/2211.03545)|**[link](https://github.com/PaddlePaddle/PaddleSpeech)**|
@@ -1370,6 +1370,7 @@ layout: default
 |**2022-05-09**|**Cross-Utterance Conditioned VAE for Non-Autoregressive Text-to-Speech**|Yang Li et.al.|[2205.04120](http://arxiv.org/abs/2205.04120)|**[link](https://github.com/neurowave-ai/cucvae-tts)**|
 |**2022-05-09**|**ReCAB-VAE: Gumbel-Softmax Variational Inference Based on Analytic Divergence**|Sangshin Oh et.al.|[2205.04104](http://arxiv.org/abs/2205.04104)|null|
 |**2022-07-14**|**Regotron: Regularizing the Tacotron2 architecture via monotonic alignment loss**|Efthymios Georgiou et.al.|[2204.13437](http://arxiv.org/abs/2204.13437)|null|
+|**2024-06-06**|**Parallel Synthesis for Autoregressive Speech Generation**|Po-chun Hsu et.al.|[2204.11806](http://arxiv.org/abs/2204.11806)|null|
 |**2022-04-25**|**SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech**|Zhenhui Ye et.al.|[2204.11792](http://arxiv.org/abs/2204.11792)|null|
 |**2022-04-22**|**LibriS2S: A German-English Speech-to-Speech Translation Corpus**|Pedro Jeuris et.al.|[2204.10593](http://arxiv.org/abs/2204.10593)|**[link](https://github.com/pedrodke/libris2s)**|
 |**2022-07-05**|**Cross-Speaker Emotion Transfer for Low-Resource Text-to-Speech Using Non-Parallel Voice Conversion with Pitch-Shift Data Augmentation**|Ryo Terashima et.al.|[2204.10020](http://arxiv.org/abs/2204.10020)|null|
@@ -1409,4 +1410,11 @@ layout: default
 |**2022-11-05**|**Nix-TTS: Lightweight and End-to-End Text-to-Speech via Module-wise Distillation**|Rendi Chevi et.al.|[2203.15643](http://arxiv.org/abs/2203.15643)|**[link](https://github.com/rendchevi/nix-tts)**|
 |**2022-10-06**|**Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus**|Minchan Kim et.al.|[2203.15447](http://arxiv.org/abs/2203.15447)|null|
 |**2022-07-11**|**VoiceMe: Personalized voice generation in TTS**|Pol van Rijn et.al.|[2203.15379](http://arxiv.org/abs/2203.15379)|**[link](https://github.com/polvanrijn/voiceme)**|
+|**2021-07-13**|**Extending Text-to-Speech Synthesis with Articulatory Movement Prediction using Ultrasound Tongue Imaging**|Tamás Gábor Csapó et.al.|[2107.05550](http://arxiv.org/abs/2107.05550)|null|
+|**2021-07-07**|**Location, Location: Enhancing the Evaluation of Text-to-Speech Synthesis Using the Rapid Prosody Transcription Paradigm**|Elijah Gutierrez et.al.|[2107.02527](http://arxiv.org/abs/2107.02527)|null|
+|**2022-02-25**|**Text-to-Speech Synthesis Techniques for MIDI-to-Audio Synthesis**|Erica Cooper et.al.|[2104.12292](http://arxiv.org/abs/2104.12292)|null|
+|**2019-09-26**|**Sequence to Sequence Neural Speech Synthesis with Prosody Modification Capabilities**|Slava Shechtman et.al.|[1909.10302](http://arxiv.org/abs/1909.10302)|null|
+|**2019-08-28**|**Neural Harmonic-plus-Noise Waveform Model with Trainable Maximum Voice Frequency for Text-to-Speech Synthesis**|Xin Wang et.al.|[1908.10256](http://arxiv.org/abs/1908.10256)|null|
+|**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
+|**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
