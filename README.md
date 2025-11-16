@@ -1,4 +1,4 @@
-## Updated on 2025.11.15
+## Updated on 2025.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,7 +19,7 @@
 |**2025-11-13**|**Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard**|Yudong Yang et.al.|[2511.10222](http://arxiv.org/abs/2511.10222)|null|
 |**2025-11-13**|**Towards Leveraging Sequential Structure in Animal Vocalizations**|Eklavya Sarkar et.al.|[2511.10190](http://arxiv.org/abs/2511.10190)|null|
 |**2025-11-13**|**FabasedVC: Enhancing Voice Conversion with Text Modality Fusion and Phoneme-Level SSL Features**|Wenyu Wang et.al.|[2511.10112](http://arxiv.org/abs/2511.10112)|null|
-|**2025-11-13**|**Mitigating Error Accumulation in Co-Speech Motion Generation via Global Rotation Diffusion and Multi-Level Constraints**|Xiangyue Zhang et.al.|[2511.10076](http://arxiv.org/abs/2511.10076)|**[link](https://github.com/Xiangyue-Zhang/GlobalDiff)**|
+|**2025-11-13**|**Mitigating Error Accumulation in Co-Speech Motion Generation via Global Rotation Diffusion and Multi-Level Constraints**|Xiangyue Zhang et.al.|[2511.10076](http://arxiv.org/abs/2511.10076)|null|
 |**2025-11-13**|**Time-Layer Adaptive Alignment for Speaker Similarity in Flow-Matching Based Zero-Shot TTS**|Haoyu Li et.al.|[2511.09995](http://arxiv.org/abs/2511.09995)|null|
 |**2025-11-13**|**MINDS: A Cross-cultural Dialogue Corpus for Social Norm Classification and Adherence Detection**|Pritish Sahu et.al.|[2511.09918](http://arxiv.org/abs/2511.09918)|null|
 |**2025-11-12**|**Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages**|Omnilingual ASR team et.al.|[2511.09690](http://arxiv.org/abs/2511.09690)|null|
@@ -1431,5 +1431,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20251115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251116>back to top</a>)</p>
 
