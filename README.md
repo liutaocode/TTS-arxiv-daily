@@ -77,7 +77,7 @@
 |**2025-10-07**|**Teaching Machines to Speak Using Articulatory Control**|Akshay Anand et.al.|[2510.05619](http://arxiv.org/abs/2510.05619)|null|
 |**2025-10-06**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-06**|**Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba**|Baher Mohammad et.al.|[2510.04738](http://arxiv.org/abs/2510.04738)|null|
-|**2025-10-06**|**UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models**|Wenhao Guan et.al.|[2510.04593](http://arxiv.org/abs/2510.04593)|null|
+|**2025-10-06**|**UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models**|Wenhao Guan et.al.|[2510.04593](http://arxiv.org/abs/2510.04593)|**[link](https://github.com/gwh22/UniVoice)**|
 |**2025-10-05**|**GDiffuSE: Diffusion-based speech enhancement with noise model guidance**|Efrayim Yanir et.al.|[2510.04157](http://arxiv.org/abs/2510.04157)|null|
 |**2025-10-05**|**A Multilingual Framework for Dysarthria: Detection, Severity Classification, Speech-to-Text, and Clean Speech Generation**|Ananya Raghu et.al.|[2510.03986](http://arxiv.org/abs/2510.03986)|null|
 |**2025-10-07**|**Synthetic Audio Forensics Evaluation (SAFE) Challenge**|Kirill Trapeznikov et.al.|[2510.03387](http://arxiv.org/abs/2510.03387)|null|
@@ -390,7 +390,7 @@
 |**2025-06-03**|**Controllable Text-to-Speech Synthesis with Masked-Autoencoded Style-Rich Representation**|Yongqi Wang et.al.|[2506.02997](http://arxiv.org/abs/2506.02997)|null|
 |**2025-06-03**|**Towards a Japanese Full-duplex Spoken Dialogue System**|Atsumoto Ohashi et.al.|[2506.02979](http://arxiv.org/abs/2506.02979)|null|
 |**2025-06-03**|**PartialEdit: Identifying Partial Deepfakes in the Era of Neural Speech Editing**|You Zhang et.al.|[2506.02958](http://arxiv.org/abs/2506.02958)|null|
-|**2025-06-03**|**CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech**|Helin Wang et.al.|[2506.02863](http://arxiv.org/abs/2506.02863)|null|
+|**2025-06-03**|**CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech**|Helin Wang et.al.|[2506.02863](http://arxiv.org/abs/2506.02863)|**[link](https://github.com/WangHelin1997/CapSpeech)**|
 |**2025-06-03**|**Prompt-Unseen-Emotion: Zero-shot Expressive Speech Synthesis with Prompt-LLM Contextual Knowledge for Mixed Emotions**|Xiaoxue Gao et.al.|[2506.02742](http://arxiv.org/abs/2506.02742)|null|
 |**2025-06-03**|**StarVC: A Unified Auto-Regressive Framework for Joint Text and Speech Generation in Voice Conversion**|Fengjin Li et.al.|[2506.02414](http://arxiv.org/abs/2506.02414)|null|
 |**2025-06-03**|**SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning**|Zhengyuan Liu et.al.|[2506.02412](http://arxiv.org/abs/2506.02412)|null|
