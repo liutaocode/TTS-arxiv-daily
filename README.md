@@ -981,12 +981,12 @@
 |**2024-02-05**|**Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations**|Álvaro Martín-Cortinas et.al.|[2402.03407](http://arxiv.org/abs/2402.03407)|null|
 |**2024-02-02**|**Natural language guidance of high-fidelity text-to-speech with synthetic annotations**|Dan Lyth et.al.|[2402.01912](http://arxiv.org/abs/2402.01912)|null|
 |**2024-01-23**|**Maximizing Data Efficiency for Cross-Lingual TTS Adaptation by Self-Supervised Representation Mixing and Embedding Initialization**|Wei-Ping Huang et.al.|[2402.01692](http://arxiv.org/abs/2402.01692)|null|
-|**2024-02-01**|**Frame-Wise Breath Detection with Self-Training: An Exploration of Enhancing Breath Naturalness in Text-to-Speech**|Dong Yang et.al.|[2402.00288](http://arxiv.org/abs/2402.00288)|null|
+|**2024-02-01**|**Frame-Wise Breath Detection with Self-Training: An Exploration of Enhancing Breath Naturalness in Text-to-Speech**|Dong Yang et.al.|[2402.00288](http://arxiv.org/abs/2402.00288)|**[link](https://github.com/ydqmkkx/Respiro-en)**|
 |**2024-02-01**|**PAM: Prompting Audio-Language Models for Audio Quality Assessment**|Soham Deshmukh et.al.|[2402.00282](http://arxiv.org/abs/2402.00282)|**[link](https://github.com/soham97/pam)**|
 |**2024-01-31**|**Singing Voice Data Scaling-up: An Introduction to ACE-Opencpop and KiSing-v2**|Jiatong Shi et.al.|[2401.17619](http://arxiv.org/abs/2401.17619)|**[link](https://github.com/espnet/espnet)**|
-|**2024-01-28**|**MunTTS: A Text-to-Speech System for Mundari**|Varun Gumma et.al.|[2401.15579](http://arxiv.org/abs/2401.15579)|null|
+|**2024-01-28**|**MunTTS: A Text-to-Speech System for Mundari**|Varun Gumma et.al.|[2401.15579](http://arxiv.org/abs/2401.15579)|**[link](https://github.com/microsoft/MunTTS-A-Text-to-Speech-System-For-Mundari)**|
 |**2024-01-30**|**VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech**|Chenpeng Du et.al.|[2401.14321](http://arxiv.org/abs/2401.14321)|null|
-|**2024-01-25**|**Text to speech synthesis**|Harini s et.al.|[2401.13891](http://arxiv.org/abs/2401.13891)|null|
+|**2024-01-25**|**Text to speech synthesis**|Harini s et.al.|[2401.13891](http://arxiv.org/abs/2401.13891)|**[link](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)**|
 |**2024-01-25**|**SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation**|Dong Zhang et.al.|[2401.13527](http://arxiv.org/abs/2401.13527)|**[link](https://github.com/0nutation/speechgpt)**|
 |**2024-01-22**|**Benchmarking Large Multimodal Models against Common Corruptions**|Jiawei Zhang et.al.|[2401.11943](http://arxiv.org/abs/2401.11943)|**[link](https://github.com/sail-sg/mmcbench)**|
 |**2024-01-22**|**Adversarial speech for voice privacy protection from Personalized Speech generation**|Shihao Chen et.al.|[2401.11857](http://arxiv.org/abs/2401.11857)|null|
