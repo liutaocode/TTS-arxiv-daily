@@ -11,6 +11,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**Cross-Lingual Interleaving for Speech Language Models**|Adel Moumen et.al.|[2512.01865](http://arxiv.org/abs/2512.01865)|null|
+|**2025-12-01**|**MAC-SLU: Multi-Intent Automotive Cabin Spoken Language Understanding Benchmark**|Yuezhang Peng et.al.|[2512.01603](http://arxiv.org/abs/2512.01603)|**[link](https://github.com/Gatsby-web/MAC_SLU)**|
+|**2025-12-01**|**MCAT: Scaling Many-to-Many Speech-to-Text Translation with MLLMs to 70 Languages**|Yexing Du et.al.|[2512.01512](http://arxiv.org/abs/2512.01512)|null|
+|**2025-12-01**|**Model-Based Clustering of Functional Data Via Random Projection Ensembles**|Matteo Mori et.al.|[2512.01450](http://arxiv.org/abs/2512.01450)|null|
+|**2025-12-01**|**EvalTalker: Learning to Evaluate Real-Portrait-Driven Multi-Subject Talking Humans**|Yingjie Zhou et.al.|[2512.01340](http://arxiv.org/abs/2512.01340)|null|
+|**2025-12-01**|**fMRI2GES: Co-speech Gesture Reconstruction from fMRI Signal with Dual Brain Decoding Alignment**|Chunzheng Zhu et.al.|[2512.01189](http://arxiv.org/abs/2512.01189)|null|
+|**2025-11-30**|**Supporting Productivity Skill Development in College Students through Social Robot Coaching: A Proof-of-Concept**|Himanshi Lalwani et.al.|[2512.01105](http://arxiv.org/abs/2512.01105)|null|
+|**2025-11-30**|**Arabic TTS with FastPitch: Reproducible Baselines, Adversarial Training, and Oversmoothing Analysis**|Lars Nippert et.al.|[2512.00937](http://arxiv.org/abs/2512.00937)|null|
+|**2025-11-29**|**STCTS: Generative Semantic Compression for Ultra-Low Bitrate Speech via Explicit Text-Prosody-Timbre Decomposition**|Siyu Wang et.al.|[2512.00451](http://arxiv.org/abs/2512.00451)|null|
+|**2025-11-28**|**OmniFusion: Simultaneous Multilingual Multimodal Translations via Modular Fusion**|Sai Koneru et.al.|[2512.00234](http://arxiv.org/abs/2512.00234)|null|
 |**2025-11-28**|**CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation**|Fengyi Fang et.al.|[2511.22863](http://arxiv.org/abs/2511.22863)|null|
 |**2025-11-27**|**Modeling Romanized Hindi and Bengali: Dataset Creation and Multilingual LLM Integration**|Kanchon Gharami et.al.|[2511.22769](http://arxiv.org/abs/2511.22769)|null|
 |**2025-11-27**|**PURE Codec: Progressive Unfolding of Residual Entropy for Speech Codec Learning**|Jiatong Shi et.al.|[2511.22687](http://arxiv.org/abs/2511.22687)|null|
