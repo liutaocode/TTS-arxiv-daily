@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**HiPPO: Exploring A Novel Hierarchical Pronunciation Assessment Approach for Spoken Languages**|Bi-Cheng Yan et.al.|[2512.04964](http://arxiv.org/abs/2512.04964)|**[link](https://github.com/bicheng1225/HIPPO)**|
+|**2025-12-04**|**TripleC Learning and Lightweight Speech Enhancement for Multi-Condition Target Speech Extraction**|Ziling Huang et.al.|[2512.04945](http://arxiv.org/abs/2512.04945)|null|
+|**2025-12-04**|**YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance**|Junjie Zheng et.al.|[2512.04779](http://arxiv.org/abs/2512.04779)|null|
+|**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
+|**2025-12-04**|**M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis**|Xiaopeng Wang et.al.|[2512.04720](http://arxiv.org/abs/2512.04720)|null|
+|**2025-12-04**|**Large Speech Model Enabled Semantic Communication**|Yun Tian et.al.|[2512.04711](http://arxiv.org/abs/2512.04711)|null|
+|**2025-12-04**|**Limit cycles for speech**|Adamantios I. Gafos et.al.|[2512.04642](http://arxiv.org/abs/2512.04642)|null|
+|**2025-12-04**|**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**|Cong Wang et.al.|[2512.04552](http://arxiv.org/abs/2512.04552)|null|
+|**2025-12-04**|**Multi-Loss Learning for Speech Emotion Recognition with Energy-Adaptive Mixup and Frame-Level Attention**|Cong Wang et.al.|[2512.04551](http://arxiv.org/abs/2512.04551)|null|
 |**2025-12-03**|**Head, posture, and full-body gestures in interactive communication**|Ľuboš Hládek et.al.|[2512.03636](http://arxiv.org/abs/2512.03636)|null|
 |**2025-12-03**|**A Convolutional Framework for Mapping Imagined Auditory MEG into Listened Brain Responses**|Maryam Maghsoudi et.al.|[2512.03458](http://arxiv.org/abs/2512.03458)|null|
 |**2025-12-02**|**Comparing Unsupervised and Supervised Semantic Speech Tokens: A Case Study of Child ASR**|Mohan Shi et.al.|[2512.03301](http://arxiv.org/abs/2512.03301)|null|
