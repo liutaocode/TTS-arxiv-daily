@@ -440,7 +440,7 @@ layout: default
 |**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
 |**2025-06-27**|**Evaluating Pointing Gestures for Target Selection in Human-Robot Collaboration**|Noora Sassali et.al.|[2506.22116](http://arxiv.org/abs/2506.22116)|null|
 |**2025-06-27**|**Robust and Efficient Autoregressive Speech Synthesis with Dynamic Chunk-wise Prediction Policy**|Bohan Li et.al.|[2506.22023](http://arxiv.org/abs/2506.22023)|null|
-|**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
+|**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|**[link](https://github.com/sruckh/IndexTTS2-Runpod)**|
 |**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
 |**2025-06-26**|**A Multi-Stage Framework for Multimodal Controllable Speech Synthesis**|Rui Niu et.al.|[2506.20945](http://arxiv.org/abs/2506.20945)|null|
 |**2025-06-25**|**An Exploration of ECAPA-TDNN and x-vector Speaker Representations in Zero-shot Multi-speaker TTS**|Marie Kunešová et.al.|[2506.20190](http://arxiv.org/abs/2506.20190)|null|
@@ -1371,7 +1371,7 @@ layout: default
 |**2023-03-14**|**Grad-StyleSpeech: Any-speaker Adaptive Text-to-Speech Synthesis with Diffusion Models**|Minki Kang et.al.|[2211.09383](http://arxiv.org/abs/2211.09383)|null|
 |**2023-01-04**|**Low-Resource Mongolian Speech Synthesis Based on Automatic Prosody Annotation**|Xin Yuan et.al.|[2211.09365](http://arxiv.org/abs/2211.09365)|null|
 |**2022-11-14**|**SNIPER Training: Variable Sparsity Rate Training For Text-To-Speech**|Perry Lam et.al.|[2211.07283](http://arxiv.org/abs/2211.07283)|null|
-|**2023-05-25**|**Autovocoder: Fast Waveform Generation from a Learned Speech Representation using Differentiable Digital Signal Processing**|Jacob J Webber et.al.|[2211.06989](http://arxiv.org/abs/2211.06989)|null|
+|**2023-05-25**|**Autovocoder: Fast Waveform Generation from a Learned Speech Representation using Differentiable Digital Signal Processing**|Jacob J Webber et.al.|[2211.06989](http://arxiv.org/abs/2211.06989)|**[link](https://github.com/hcy71o/AutoVocoder)**|
 |**2023-05-29**|**OverFlow: Putting flows on top of neural transducers for better TTS**|Shivam Mehta et.al.|[2211.06892](http://arxiv.org/abs/2211.06892)|**[link](https://github.com/coqui-ai/TTS)**|
 |**2023-05-29**|**Semi-supervised learning for continuous emotional intensity controllable speech synthesis with disentangled representations**|Yoori Oh et.al.|[2211.06160](http://arxiv.org/abs/2211.06160)|null|
 |**2022-12-04**|**ERNIE-SAT: Speech and Text Joint Pretraining for Cross-Lingual Multi-Speaker Text-to-Speech**|Xiaoran Fan et.al.|[2211.03545](http://arxiv.org/abs/2211.03545)|**[link](https://github.com/PaddlePaddle/PaddleSpeech)**|
