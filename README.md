@@ -14,7 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-15**|**A stylometric analysis of speaker attribution from speech transcripts**|Cristina Aggazzotti et.al.|[2512.13667](http://arxiv.org/abs/2512.13667)|null|
+|**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
+|**2025-12-16**|**Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty**|Yiwen Zhao et.al.|[2512.14653](http://arxiv.org/abs/2512.14653)|null|
+|**2025-12-16**|**GLM-TTS Technical Report**|Jiayan Cui et.al.|[2512.14291](http://arxiv.org/abs/2512.14291)|null|
+|**2025-12-16**|**A stylometric analysis of speaker attribution from speech transcripts**|Cristina Aggazzotti et.al.|[2512.13667](http://arxiv.org/abs/2512.13667)|null|
 |**2025-12-15**|**Reproducing and Dissecting Denoising Language Models for Speech Recognition**|Dorian Koch et.al.|[2512.13576](http://arxiv.org/abs/2512.13576)|null|
 |**2025-12-15**|**DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec**|Tao Li et.al.|[2512.13251](http://arxiv.org/abs/2512.13251)|null|
 |**2025-12-11**|**CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences**|Yiyang Wang et.al.|[2512.10918](http://arxiv.org/abs/2512.10918)|null|
