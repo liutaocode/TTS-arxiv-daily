@@ -340,7 +340,7 @@ layout: default
 |**2025-08-13**|**Analysis of Domain Shift across ASR Architectures via TTS-Enabled Separation of Target Domain and Acoustic Conditions**|Tina Raissi et.al.|[2508.09868](http://arxiv.org/abs/2508.09868)|null|
 |**2025-08-13**|**UtterTune: LoRA-Based Target-Language Pronunciation Edit and Control in Multilingual Text-to-Speech**|Shuhei Kato et.al.|[2508.09767](http://arxiv.org/abs/2508.09767)|null|
 |**2025-08-13**|**$\text{M}^3\text{PDB}$ : A Multimodal, Multi-Label, Multilingual Prompt Database for Speech Generation**|Boyu Zhu et.al.|[2508.09702](http://arxiv.org/abs/2508.09702)|null|
-|**2025-08-12**|**Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative**|Xi Xuan et.al.|[2508.09294](http://arxiv.org/abs/2508.09294)|null|
+|**2025-08-12**|**Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative**|Xi Xuan et.al.|[2508.09294](http://arxiv.org/abs/2508.09294)|**[link](https://github.com/xuanxixi/Fake-Mamba)**|
 |**2025-08-13**|**DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models**|Yuanyuan Wang et.al.|[2508.08961](http://arxiv.org/abs/2508.08961)|null|
 |**2025-08-12**|**QAMRO: Quality-aware Adaptive Margin Ranking Optimization for Human-aligned Assessment of Audio Generation Systems**|Chien-Chun Wang et.al.|[2508.08957](http://arxiv.org/abs/2508.08957)|null|
 |**2025-08-15**|**MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**|Xiaoxue Gao et.al.|[2508.08715](http://arxiv.org/abs/2508.08715)|null|
@@ -747,13 +747,13 @@ layout: default
 |**2024-12-25**|**Advancing NAM-to-Speech Conversion with Novel Methods and the MultiNAM Dataset**|Neil Shah et.al.|[2412.18839](http://arxiv.org/abs/2412.18839)|null|
 |**2024-12-24**|**GenPod: Constructive News Framing in AI-Generated Podcasts More Effectively Reduces Negative Emotions Than Non-Constructive Framing**|Wen Ku et.al.|[2412.18300](http://arxiv.org/abs/2412.18300)|null|
 |**2024-12-22**|**Why Do Speech Language Models Fail to Generate Semantically Coherent Outputs? A Modality Evolving Perspective**|Hankun Wang et.al.|[2412.17048](http://arxiv.org/abs/2412.17048)|null|
-|**2024-12-22**|**Incremental Disentanglement for Environment-Aware Zero-Shot Text-to-Speech Synthesis**|Ye-Xin Lu et.al.|[2412.16977](http://arxiv.org/abs/2412.16977)|null|
+|**2024-12-22**|**Incremental Disentanglement for Environment-Aware Zero-Shot Text-to-Speech Synthesis**|Ye-Xin Lu et.al.|[2412.16977](http://arxiv.org/abs/2412.16977)|**[link](https://github.com/yxlu-0102/IDEA-TTS)**|
 |**2024-12-22**|**Autoregressive Speech Synthesis with Next-Distribution Prediction**|Xinfa Zhu et.al.|[2412.16846](http://arxiv.org/abs/2412.16846)|null|
 |**2024-12-23**|**Interleaved Speech-Text Language Models are Simple Streaming Text to Speech Synthesizers**|Yifan Yang et.al.|[2412.16102](http://arxiv.org/abs/2412.16102)|null|
 |**2024-12-19**|**Scale This, Not That: Investigating Key Dataset Attributes for Efficient Speech Enhancement Scaling**|Leying Zhang et.al.|[2412.14890](http://arxiv.org/abs/2412.14890)|null|
 |**2024-12-17**|**Synthetic Speech Classification: IEEE Signal Processing Cup 2022 challenge**|Mahieyin Rahmun et.al.|[2412.13279](http://arxiv.org/abs/2412.13279)|**[link](https://github.com/AGenCyLab/SPCUP2022)**|
 |**2024-12-17**|**Enhancing Naturalness in LLM-Generated Utterances through Disfluency Insertion**|Syed Zohaib Hassan et.al.|[2412.12710](http://arxiv.org/abs/2412.12710)|null|
-|**2024-12-17**|**Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes**|Kuiyuan Zhang et.al.|[2412.12619](http://arxiv.org/abs/2412.12619)|null|
+|**2024-12-17**|**Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes**|Kuiyuan Zhang et.al.|[2412.12619](http://arxiv.org/abs/2412.12619)|**[link](https://github.com/RedamancyAY/PLFD-ADD)**|
 |**2024-12-17**|**Hierarchical Control of Emotion Rendering in Speech Synthesis**|Sho Inoue et.al.|[2412.12498](http://arxiv.org/abs/2412.12498)|**[link](https://github.com/shinshoji01/hed-project-page)**|
 |**2024-12-19**|**ProsodyFM: Unsupervised Phrasing and Intonation Control for Intelligible Speech Synthesis**|Xiangheng He et.al.|[2412.11795](http://arxiv.org/abs/2412.11795)|null|
 |**2024-12-17**|**Multi-modal and Multi-scale Spatial Environment Understanding for Immersive Visual Text-to-Speech**|Rui Liu et.al.|[2412.11409](http://arxiv.org/abs/2412.11409)|**[link](https://github.com/ai-s2-lab/m2se-vtts)**|
@@ -1374,7 +1374,7 @@ layout: default
 |**2023-02-17**|**Towards Building Text-To-Speech Systems for the Next Billion Users**|Gokul Karthik Kumar et.al.|[2211.09536](http://arxiv.org/abs/2211.09536)|**[link](https://github.com/gokulkarthik/text2speech)**|
 |**2023-02-16**|**EmoDiff: Intensity Controllable Emotional Text-to-Speech with Soft-Label Guidance**|Yiwei Guo et.al.|[2211.09496](http://arxiv.org/abs/2211.09496)|null|
 |**2022-11-17**|**Back-Translation-Style Data Augmentation for Mandarin Chinese Polyphone Disambiguation**|Chunyu Qiang et.al.|[2211.09495](http://arxiv.org/abs/2211.09495)|null|
-|**2022-11-17**|**NANSY++: Unified Voice Synthesis with Neural Analysis and Synthesis**|Hyeong-Seok Choi et.al.|[2211.09407](http://arxiv.org/abs/2211.09407)|null|
+|**2022-11-17**|**NANSY++: Unified Voice Synthesis with Neural Analysis and Synthesis**|Hyeong-Seok Choi et.al.|[2211.09407](http://arxiv.org/abs/2211.09407)|**[link](https://github.com/revsic/torch-nansypp)**|
 |**2023-03-14**|**Grad-StyleSpeech: Any-speaker Adaptive Text-to-Speech Synthesis with Diffusion Models**|Minki Kang et.al.|[2211.09383](http://arxiv.org/abs/2211.09383)|null|
 |**2023-01-04**|**Low-Resource Mongolian Speech Synthesis Based on Automatic Prosody Annotation**|Xin Yuan et.al.|[2211.09365](http://arxiv.org/abs/2211.09365)|null|
 |**2022-11-14**|**SNIPER Training: Variable Sparsity Rate Training For Text-To-Speech**|Perry Lam et.al.|[2211.07283](http://arxiv.org/abs/2211.07283)|null|
