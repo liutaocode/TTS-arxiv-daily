@@ -1,4 +1,4 @@
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -17,8 +17,8 @@
 |**2025-12-19**|**Training Text-to-Speech Model with Purely Synthetic Data: Feasibility, Sensitivity, and Generalization Capability**|Tingxiao Zhou et.al.|[2512.17356](http://arxiv.org/abs/2512.17356)|null|
 |**2025-12-19**|**Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track**|June Young Yi et.al.|[2512.17293](http://arxiv.org/abs/2512.17293)|null|
 |**2025-12-18**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|null|
-|**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
-|**2025-12-16**|**Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty**|Yiwen Zhao et.al.|[2512.14653](http://arxiv.org/abs/2512.14653)|null|
+|**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|**[link](https://github.com/Tsukasane/SLMSVS)**|
+|**2025-12-16**|**Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty**|Yiwen Zhao et.al.|[2512.14653](http://arxiv.org/abs/2512.14653)|**[link](https://github.com/Tsukasane/SingingUncertainty)**|
 |**2025-12-16**|**GLM-TTS Technical Report**|Jiayan Cui et.al.|[2512.14291](http://arxiv.org/abs/2512.14291)|null|
 |**2025-12-18**|**A stylometric analysis of speaker attribution from speech transcripts**|Cristina Aggazzotti et.al.|[2512.13667](http://arxiv.org/abs/2512.13667)|null|
 |**2025-12-15**|**Reproducing and Dissecting Denoising Language Models for Speech Recognition**|Dorian Koch et.al.|[2512.13576](http://arxiv.org/abs/2512.13576)|null|
@@ -1555,5 +1555,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
