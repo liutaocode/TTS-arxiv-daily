@@ -365,7 +365,7 @@
 |**2025-08-08**|**Improved Dysarthric Speech to Text Conversion via TTS Personalization**|Péter Mihajlik et.al.|[2508.06391](http://arxiv.org/abs/2508.06391)|null|
 |**2025-08-08**|**Large Language Model Data Generation for Enhanced Intent Recognition in German Speech**|Theresa Pekarek Rosin et.al.|[2508.06277](http://arxiv.org/abs/2508.06277)|null|
 |**2025-08-08**|**Llasa+: Free Lunch for Accelerated and Streaming Llama-Based Speech Synthesis**|Wenjie Tian et.al.|[2508.06262](http://arxiv.org/abs/2508.06262)|null|
-|**2025-08-07**|**A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding**|Runchuan Ye et.al.|[2508.05385](http://arxiv.org/abs/2508.05385)|null|
+|**2025-08-07**|**A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding**|Runchuan Ye et.al.|[2508.05385](http://arxiv.org/abs/2508.05385)|**[link](https://github.com/nonverbalspeech38k/nonverspeech38k)**|
 |**2025-08-15**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|M Anuprabha et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-06**|**Root Cause Analysis Training for Healthcare Professionals With AI-Powered Virtual Simulation: A Proof-of-Concept**|Yuqi Hu et.al.|[2508.04904](http://arxiv.org/abs/2508.04904)|null|
 |**2025-08-05**|**Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS**|Vignesh Ethiraj et.al.|[2508.04721](http://arxiv.org/abs/2508.04721)|null|
@@ -724,7 +724,7 @@
 |**2025-01-24**|**Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation**|Wen Huang et.al.|[2501.14240](http://arxiv.org/abs/2501.14240)|null|
 |**2025-01-24**|**LoCoML: A Framework for Real-World ML Inference Pipelines**|Kritin Maddireddy et.al.|[2501.14165](http://arxiv.org/abs/2501.14165)|null|
 |**2025-01-23**|**Everyone-Can-Sing: Zero-Shot Singing Voice Synthesis and Conversion with Speech Reference**|Shuqi Dai et.al.|[2501.13870](http://arxiv.org/abs/2501.13870)|null|
-|**2025-01-23**|**Generative Data Augmentation Challenge: Zero-Shot Speech Synthesis for Personalized Speech Enhancement**|Jae-Sung Bae et.al.|[2501.13372](http://arxiv.org/abs/2501.13372)|null|
+|**2025-01-23**|**Generative Data Augmentation Challenge: Zero-Shot Speech Synthesis for Personalized Speech Enhancement**|Jae-Sung Bae et.al.|[2501.13372](http://arxiv.org/abs/2501.13372)|**[link](https://github.com/JaesungBae/GenDA-Challenge-25-ZSTTS-PSE)**|
 |**2025-01-21**|**A Domain Adaptation Framework for Speech Recognition Systems with Only Synthetic data**|Minh Tran et.al.|[2501.12501](http://arxiv.org/abs/2501.12501)|null|
 |**2025-01-20**|**A Non-autoregressive Model for Joint STT and TTS**|Vishal Sunder et.al.|[2501.09104](http://arxiv.org/abs/2501.09104)|null|
 |**2025-01-15**|**Speech Synthesis along Perceptual Voice Quality Dimensions**|Frederik Rautenberg et.al.|[2501.08791](http://arxiv.org/abs/2501.08791)|null|
@@ -1369,7 +1369,7 @@
 |**2022-12-14**|**Probing Deep Speaker Embeddings for Speaker-related Tasks**|Zifeng Zhao et.al.|[2212.07068](http://arxiv.org/abs/2212.07068)|null|
 |**2022-12-08**|**SpeechLMScore: Evaluating speech generation using speech language model**|Soumi Maiti et.al.|[2212.04559](http://arxiv.org/abs/2212.04559)|**[link](https://github.com/espnet/espnet)**|
 |**2023-04-04**|**Learning to Dub Movies via Hierarchical Prosody Models**|Gaoxiang Cong et.al.|[2212.04054](http://arxiv.org/abs/2212.04054)|**[link](https://github.com/galaxycong/hpmdubbing)**|
-|**2022-12-07**|**Low-Resource End-to-end Sanskrit TTS using Tacotron2, WaveGlow and Transfer Learning**|Ankur Debnath et.al.|[2212.03558](http://arxiv.org/abs/2212.03558)|null|
+|**2022-12-07**|**Low-Resource End-to-end Sanskrit TTS using Tacotron2, WaveGlow and Transfer Learning**|Ankur Debnath et.al.|[2212.03558](http://arxiv.org/abs/2212.03558)|**[link](https://github.com/AnkurDebnath35/LowResourceSanskritTTS)**|
 |**2022-12-07**|**Analysis and Utilization of Entrainment on Acoustic and Emotion Features in User-agent Dialogue**|Daxin Tan et.al.|[2212.03398](http://arxiv.org/abs/2212.03398)|null|
 |**2022-12-06**|**UniSyn: An End-to-End Unified Model for Text-to-Speech and Singing Voice Synthesis**|Yi Lei et.al.|[2212.01546](http://arxiv.org/abs/2212.01546)|null|
 |**2022-11-30**|**SNAC: Speaker-normalized affine coupling layer in flow-based architecture for zero-shot multi-speaker text-to-speech**|Byoung Jin Choi et.al.|[2211.16866](http://arxiv.org/abs/2211.16866)|null|
@@ -1483,9 +1483,9 @@
 |**2022-06-28**|**Expressive, Variable, and Controllable Duration Modelling in TTS**|Ammar Abbas et.al.|[2206.14165](http://arxiv.org/abs/2206.14165)|null|
 |**2022-06-28**|**Comparison of Speech Representations for the MOS Prediction System**|Aki Kunikoshi et.al.|[2206.13817](http://arxiv.org/abs/2206.13817)|null|
 |**2022-06-22**|**A Simple Baseline for Domain Adaptation in End to End ASR Systems Using Synthetic Data**|Raviraj Joshi et.al.|[2206.13240](http://arxiv.org/abs/2206.13240)|null|
-|**2022-06-25**|**Synthesizing Personalized Non-speech Vocalization from Discrete Speech Representations**|Chin-Cheng Hsu et.al.|[2206.12662](http://arxiv.org/abs/2206.12662)|null|
+|**2022-06-25**|**Synthesizing Personalized Non-speech Vocalization from Discrete Speech Representations**|Chin-Cheng Hsu et.al.|[2206.12662](http://arxiv.org/abs/2206.12662)|**[link](https://github.com/resemble-ai/reLaugh)**|
 |**2022-10-21**|**Exact Prosody Cloning in Zero-Shot Multispeaker Text-to-Speech**|Florian Lux et.al.|[2206.12229](http://arxiv.org/abs/2206.12229)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
-|**2022-06-24**|**SANE-TTS: Stable And Natural End-to-End Multilingual Text-to-Speech**|Hyunjae Cho et.al.|[2206.12132](http://arxiv.org/abs/2206.12132)|null|
+|**2022-06-24**|**SANE-TTS: Stable And Natural End-to-End Multilingual Text-to-Speech**|Hyunjae Cho et.al.|[2206.12132](http://arxiv.org/abs/2206.12132)|**[link](https://github.com/maum-ai/sane-tts)**|
 |**2022-06-24**|**End-to-End Text-to-Speech Based on Latent Representation of Speaking Styles Using Spontaneous Dialogue**|Kentaro Mitsui et.al.|[2206.12040](http://arxiv.org/abs/2206.12040)|null|
 |**2022-05-29**|**Exploiting Transliterated Words for Finding Similarity in Inter-Language News Articles using Machine Learning**|Sameea Naeem et.al.|[2206.11860](http://arxiv.org/abs/2206.11860)|null|
 |**2022-06-21**|**Human-in-the-loop Speaker Adaptation for DNN-based Multi-speaker TTS**|Kenta Udagawa et.al.|[2206.10256](http://arxiv.org/abs/2206.10256)|null|
