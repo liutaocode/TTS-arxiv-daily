@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-12**|**FOCAL: A Novel Benchmarking Technique for Multi-modal Agents**|Aditya Choudhary et.al.|[2601.07367](http://arxiv.org/abs/2601.07367)|null|
+|**2026-01-12**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
+|**2026-01-11**|**Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech**|Mohd Mujtaba Akhtar et.al.|[2601.07064](http://arxiv.org/abs/2601.07064)|null|
+|**2026-01-10**|**Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning**|K. A. Shahriar et.al.|[2601.06560](http://arxiv.org/abs/2601.06560)|null|
 |**2026-01-09**|**Pantagruel: Unified Self-Supervised Encoders for French Text and Speech**|Phuong-Hang Le et.al.|[2601.05911](http://arxiv.org/abs/2601.05911)|null|
 |**2026-01-09**|**Afri-MCQA: Multimodal Cultural Question Answering for African Languages**|Atnafu Lambebo Tonja et.al.|[2601.05699](http://arxiv.org/abs/2601.05699)|null|
 |**2026-01-09**|**SPAM: Style Prompt Adherence Metric for Prompt-based TTS**|Chanhee Cho et.al.|[2601.05554](http://arxiv.org/abs/2601.05554)|null|
