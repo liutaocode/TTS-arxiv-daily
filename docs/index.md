@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Decoding Order Matters in Autoregressive Speech Synthesis**|Minghui Zhao et.al.|[2601.08450](http://arxiv.org/abs/2601.08450)|null|
+|**2026-01-13**|**Detecting Mental Manipulation in Speech via Synthetic Multi-Speaker Dialogue**|Run Chen et.al.|[2601.08342](http://arxiv.org/abs/2601.08342)|null|
 |**2026-01-12**|**FOCAL: A Novel Benchmarking Technique for Multi-modal Agents**|Aditya Choudhary et.al.|[2601.07367](http://arxiv.org/abs/2601.07367)|null|
 |**2026-01-12**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
 |**2026-01-11**|**Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech**|Mohd Mujtaba Akhtar et.al.|[2601.07064](http://arxiv.org/abs/2601.07064)|null|
