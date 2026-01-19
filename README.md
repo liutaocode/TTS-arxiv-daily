@@ -899,14 +899,14 @@
 |**2024-09-19**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-17**|**Zero Shot Text to Speech Augmentation for Automatic Speech Recognition on Low-Resource Accented Speech Corpora**|Francesco Nespoli et.al.|[2409.11107](http://arxiv.org/abs/2409.11107)|null|
 |**2024-09-16**|**Emo-DPO: Controllable Emotional Speech Synthesis through Direct Preference Optimization**|Xiaoxue Gao et.al.|[2409.10157](http://arxiv.org/abs/2409.10157)|null|
-|**2024-09-16**|**StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion**|Yinghao Aaron Li et.al.|[2409.10058](http://arxiv.org/abs/2409.10058)|null|
+|**2024-09-16**|**StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion**|Yinghao Aaron Li et.al.|[2409.10058](http://arxiv.org/abs/2409.10058)|**[link](https://github.com/yl4579/StyleTTS-ZS)**|
 |**2024-09-15**|**Acquiring Pronunciation Knowledge from Transcribed Speech Audio via Multi-task Learning**|Siqi Sun et.al.|[2409.09891](http://arxiv.org/abs/2409.09891)|null|
 |**2024-09-14**|**E1 TTS: Simple and Fast Non-Autoregressive TTS**|Zhijun Liu et.al.|[2409.09351](http://arxiv.org/abs/2409.09351)|null|
 |**2024-09-14**|**Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation**|Changjin Han et.al.|[2409.09311](http://arxiv.org/abs/2409.09311)|**[link](https://github.com/deepbrainai-research/stableformtts)**|
 |**2024-09-14**|**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**|Xinfeng Li et.al.|[2409.09272](http://arxiv.org/abs/2409.09272)|**[link](https://github.com/LetterLiGo/SafeEar)**|
 |**2024-09-13**|**AccentBox: Towards High-Fidelity Zero-Shot Accent Generation**|Jinzuomu Zhong et.al.|[2409.09098](http://arxiv.org/abs/2409.09098)|null|
-|**2024-09-17**|**HLTCOE JHU Submission to the Voice Privacy Challenge 2024**|Henry Li Xinyuan et.al.|[2409.08913](http://arxiv.org/abs/2409.08913)|null|
-|**2024-09-13**|**Text-To-Speech Synthesis In The Wild**|Jee-weon Jung et.al.|[2409.08711](http://arxiv.org/abs/2409.08711)|null|
+|**2024-09-17**|**HLTCOE JHU Submission to the Voice Privacy Challenge 2024**|Henry Li Xinyuan et.al.|[2409.08913](http://arxiv.org/abs/2409.08913)|**[link](https://github.com/ARTS-2024/Voice-Privacy-Challenge-2024-HLTCOE_Release)**|
+|**2024-09-13**|**Text-To-Speech Synthesis In The Wild**|Jee-weon Jung et.al.|[2409.08711](http://arxiv.org/abs/2409.08711)|**[link](https://github.com/stefanobini/command_interaction)**|
 |**2024-09-14**|**Exploring Accessibility Trends and Challenges in Mobile App Development: A Study of Stack Overflow Questions**|Amila Indika et.al.|[2409.07945](http://arxiv.org/abs/2409.07945)|null|
 |**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang et.al.|[2409.07790](http://arxiv.org/abs/2409.07790)|null|
 |**2024-09-11**|**SSR-Speech: Towards Stable, Safe and Robust Zero-shot Text-based Speech Editing and Synthesis**|Helin Wang et.al.|[2409.07556](http://arxiv.org/abs/2409.07556)|**[link](https://github.com/WangHelin1997/SSR-Speech)**|
@@ -1142,7 +1142,7 @@
 |**2024-02-22**|**Amphion: An Open-Source Audio, Music and Speech Generation Toolkit**|Xueyao Zhang et.al.|[2312.09911](http://arxiv.org/abs/2312.09911)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2023-12-11**|**Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**|Georgios Milis et.al.|[2312.06613](http://arxiv.org/abs/2312.06613)|**[link](https://github.com/g-milis/NEUTART)**|
 |**2023-12-08**|**An Experimental Study: Assessing the Combined Framework of WavLM and BEST-RQ for Text-to-Speech Synthesis**|Via Nielson et.al.|[2312.05415](http://arxiv.org/abs/2312.05415)|null|
-|**2023-12-06**|**Schrodinger Bridges Beat Diffusion Models on Text-to-Speech Synthesis**|Zehua Chen et.al.|[2312.03491](http://arxiv.org/abs/2312.03491)|null|
+|**2023-12-06**|**Schrodinger Bridges Beat Diffusion Models on Text-to-Speech Synthesis**|Zehua Chen et.al.|[2312.03491](http://arxiv.org/abs/2312.03491)|**[link](https://github.com/thu-ml/Bridge-TTS)**|
 |**2023-12-02**|**Rapid Speaker Adaptation in Low Resource Text to Speech Systems using Synthetic Data and Transfer learning**|Raviraj Joshi et.al.|[2312.01107](http://arxiv.org/abs/2312.01107)|null|
 |**2023-12-02**|**Code-Mixed Text to Speech Synthesis under Low-Resource Constraints**|Raviraj Joshi et.al.|[2312.01103](http://arxiv.org/abs/2312.01103)|null|
 |**2023-11-29**|**Vulnerability of Automatic Identity Recognition to Audio-Visual Deepfakes**|Pavel Korshunov et.al.|[2311.17655](http://arxiv.org/abs/2311.17655)|null|
