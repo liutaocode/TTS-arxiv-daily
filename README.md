@@ -1,4 +1,4 @@
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,11 +15,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-01-20**|**Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches**|Changhao Pan et.al.|[2601.13910](http://arxiv.org/abs/2601.13910)|null|
-|**2026-01-20**|**Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis**|Yushen Chen et.al.|[2601.13802](http://arxiv.org/abs/2601.13802)|null|
+|**2026-01-20**|**Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis**|Yushen Chen et.al.|[2601.13802](http://arxiv.org/abs/2601.13802)|**[link](https://github.com/SWivid/Habibi-TTS)**|
 |**2026-01-20**|**HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**|Yuhua Jin et.al.|[2601.13801](http://arxiv.org/abs/2601.13801)|null|
 |**2026-01-19**|**Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings**|Seymanur Akti et.al.|[2601.12966](http://arxiv.org/abs/2601.12966)|null|
 |**2026-01-18**|**A Unified Neural Codec Language Model for Selective Editable Text to Speech Generation**|Hanchen Pei et.al.|[2601.12480](http://arxiv.org/abs/2601.12480)|null|
-|**2026-01-18**|**ParaMETA: Towards Learning Disentangled Paralinguistic Speaking Styles Representations from Speech**|Haowei Lou et.al.|[2601.12289](http://arxiv.org/abs/2601.12289)|null|
+|**2026-01-18**|**ParaMETA: Towards Learning Disentangled Paralinguistic Speaking Styles Representations from Speech**|Haowei Lou et.al.|[2601.12289](http://arxiv.org/abs/2601.12289)|**[link](https://github.com/haoweilou/ParaMETA)**|
 |**2026-01-18**|**Confidence-based Filtering for Speech Dataset Curation with Generative Speech Enhancement Using Discrete Tokens**|Kazuki Yamauchi et.al.|[2601.12254](http://arxiv.org/abs/2601.12254)|null|
 |**2026-01-16**|**F-Actor: Controllable Conversational Behaviour in Full-Duplex Models**|Maike Züfle et.al.|[2601.11329](http://arxiv.org/abs/2601.11329)|null|
 |**2026-01-16**|**FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning**|Tanyu Chen et.al.|[2601.11141](http://arxiv.org/abs/2601.11141)|null|
@@ -1606,5 +1606,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
 
