@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis**|Haoshen Wang et.al.|[2602.08696](http://arxiv.org/abs/2602.08696)|null|
+|**2026-02-09**|**Tutti: Expressive Multi-Singer Synthesis via Structure-Level Timbre Control and Vocal Texture Modeling**|Jiatao Chen et.al.|[2602.08233](http://arxiv.org/abs/2602.08233)|null|
+|**2026-02-08**|**SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis**|Jiale Qian et.al.|[2602.07803](http://arxiv.org/abs/2602.07803)|**[link](https://github.com/Soul-AILab/SoulX-Singer)**|
 |**2026-02-05**|**Zero-Shot TTS With Enhanced Audio Prompts: Bsc Submission For The 2026 Wildspoof Challenge TTS Track**|Jose Giraldo et.al.|[2602.05770](http://arxiv.org/abs/2602.05770)|null|
 |**2026-02-05**|**Wave-Trainer-Fit: Neural Vocoder with Trainable Prior and Fixed-Point Iteration towards High-Quality Speech Generation from SSL features**|Hien Ohnaka et.al.|[2602.05443](http://arxiv.org/abs/2602.05443)|**[link](https://github.com/line/WaveTrainerFit)**|
 |**2026-02-05**|**ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference**|Chunyat Wu et.al.|[2602.05207](http://arxiv.org/abs/2602.05207)|null|
