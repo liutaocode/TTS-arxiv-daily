@@ -457,11 +457,11 @@ layout: default
 |**2025-08-15**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|M Anuprabha et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-06**|**Root Cause Analysis Training for Healthcare Professionals With AI-Powered Virtual Simulation: A Proof-of-Concept**|Yuqi Hu et.al.|[2508.04904](http://arxiv.org/abs/2508.04904)|null|
 |**2025-08-05**|**Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS**|Vignesh Ethiraj et.al.|[2508.04721](http://arxiv.org/abs/2508.04721)|null|
-|**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
+|**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|**[link](https://github.com/AI-S2-Lab/UniTalker)**|
 |**2025-08-06**|**NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations**|Huan Liao et.al.|[2508.04195](http://arxiv.org/abs/2508.04195)|null|
-|**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143](http://arxiv.org/abs/2508.04143)|null|
+|**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143](http://arxiv.org/abs/2508.04143)|**[link](https://github.com/xuanxixi/Multilingual-Source-Tracing)**|
 |**2025-08-06**|**Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech**|Jingyuan Xing et.al.|[2508.04141](http://arxiv.org/abs/2508.04141)|null|
-|**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
+|**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|**[link](https://github.com/imxtx/EmoSteer-TTS)**|
 |**2025-08-05**|**MiSTR: Multi-Modal iEEG-to-Speech Synthesis with Transformer-Based Prosody Prediction and Neural Phase Reconstruction**|Mohammed Salah Al-Radhi et.al.|[2508.03166](http://arxiv.org/abs/2508.03166)|**[link](https://github.com/malradhi/MiSTR)**|
 |**2025-08-05**|**Fine-Tuning Text-to-Speech Diffusion Models Using Reinforcement Learning with Human Feedback**|Jingyi Chen et.al.|[2508.03123](http://arxiv.org/abs/2508.03123)|null|
 |**2025-08-14**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
@@ -908,7 +908,7 @@ layout: default
 |**2024-10-16**|**ERVQ: Enhanced Residual Vector Quantization with Intra-and-Inter-Codebook Optimization for Neural Audio Codecs**|Rui-Chen Zheng et.al.|[2410.12359](http://arxiv.org/abs/2410.12359)|null|
 |**2024-10-14**|**IsoChronoMeter: A simple and effective isochronic translation evaluation metric**|Nikolai Rozanov et.al.|[2410.11127](http://arxiv.org/abs/2410.11127)|null|
 |**2024-10-14**|**DMDSpeech: Distilled Diffusion Model Surpassing The Teacher in Zero-shot Speech Synthesis via Direct Metric Optimization**|Yingahao Aaron Li et.al.|[2410.11097](http://arxiv.org/abs/2410.11097)|null|
-|**2024-10-12**|**Emphasis Rendering for Conversational Text-to-Speech with Multi-modal Multi-scale Context Modeling**|Rui Liu et.al.|[2410.09524](http://arxiv.org/abs/2410.09524)|null|
+|**2024-10-12**|**Emphasis Rendering for Conversational Text-to-Speech with Multi-modal Multi-scale Context Modeling**|Rui Liu et.al.|[2410.09524](http://arxiv.org/abs/2410.09524)|**[link](https://github.com/AI-S2-Lab/ER-CTTS)**|
 |**2024-10-10**|**Unsupervised Data Validation Methods for Efficient Model Training**|Yurii Paniv et.al.|[2410.07880](http://arxiv.org/abs/2410.07880)|**[link](https://github.com/djdprogramming/adfa2)**|
 |**2024-10-15**|**F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching**|Yushen Chen et.al.|[2410.06885](http://arxiv.org/abs/2410.06885)|**[link](https://github.com/SWivid/F5-TTS)**|
 |**2024-10-09**|**Efficient training strategies for natural sounding speech synthesis and speaker adaptation based on FastPitch**|Teodora Răgman et.al.|[2410.06787](http://arxiv.org/abs/2410.06787)|null|

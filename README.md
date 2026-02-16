@@ -460,9 +460,9 @@
 |**2025-08-15**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|M Anuprabha et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-06**|**Root Cause Analysis Training for Healthcare Professionals With AI-Powered Virtual Simulation: A Proof-of-Concept**|Yuqi Hu et.al.|[2508.04904](http://arxiv.org/abs/2508.04904)|null|
 |**2025-08-05**|**Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS**|Vignesh Ethiraj et.al.|[2508.04721](http://arxiv.org/abs/2508.04721)|null|
-|**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
+|**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|**[link](https://github.com/AI-S2-Lab/UniTalker)**|
 |**2025-08-06**|**NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations**|Huan Liao et.al.|[2508.04195](http://arxiv.org/abs/2508.04195)|null|
-|**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143](http://arxiv.org/abs/2508.04143)|null|
+|**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143](http://arxiv.org/abs/2508.04143)|**[link](https://github.com/xuanxixi/Multilingual-Source-Tracing)**|
 |**2025-08-06**|**Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech**|Jingyuan Xing et.al.|[2508.04141](http://arxiv.org/abs/2508.04141)|null|
 |**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
 |**2025-08-05**|**MiSTR: Multi-Modal iEEG-to-Speech Synthesis with Transformer-Based Prosody Prediction and Neural Phase Reconstruction**|Mohammed Salah Al-Radhi et.al.|[2508.03166](http://arxiv.org/abs/2508.03166)|**[link](https://github.com/malradhi/MiSTR)**|
@@ -1447,10 +1447,10 @@
 |**2023-01-06**|**Using External Off-Policy Speech-To-Text Mappings in Contextual End-To-End Automated Speech Recognition**|David M. Chan et.al.|[2301.02736](http://arxiv.org/abs/2301.02736)|null|
 |**2023-01-05**|**Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers**|Chengyi Wang et.al.|[2301.02111](http://arxiv.org/abs/2301.02111)|**[link](https://github.com/microsoft/unilm)**|
 |**2022-12-11**|**MnTTS2: An Open-Source Multi-Speaker Mongolian Text-to-Speech Synthesis Dataset**|Kailin Liang et.al.|[2301.00657](http://arxiv.org/abs/2301.00657)|**[link](https://github.com/ssmlkl/mntts2)**|
-|**2022-12-30**|**ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech**|Zehua Chen et.al.|[2212.14518](http://arxiv.org/abs/2212.14518)|null|
+|**2022-12-30**|**ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech**|Zehua Chen et.al.|[2212.14518](http://arxiv.org/abs/2212.14518)|**[link](https://github.com/Adibian/ResGrad)**|
 |**2022-12-29**|**StyleTTS-VC: One-Shot Voice Conversion by Knowledge Transfer from Style-Based TTS Models**|Yinghao Aaron Li et.al.|[2212.14227](http://arxiv.org/abs/2212.14227)|**[link](https://github.com/yl4579/StyleTTS-VC)**|
 |**2022-12-22**|**HMM-based data augmentation for E2E systems for building conversational speech synthesis systems**|Ishika Gupta et.al.|[2212.11982](http://arxiv.org/abs/2212.11982)|null|
-|**2022-12-21**|**ReVISE: Self-Supervised Speech Resynthesis with Visual Input for Universal and Generalized Speech Enhancement**|Wei-Ning Hsu et.al.|[2212.11377](http://arxiv.org/abs/2212.11377)|null|
+|**2022-12-21**|**ReVISE: Self-Supervised Speech Resynthesis with Visual Input for Universal and Generalized Speech Enhancement**|Wei-Ning Hsu et.al.|[2212.11377](http://arxiv.org/abs/2212.11377)|**[link](https://github.com/wnhsu/ReVISE)**|
 |**2022-12-20**|**TTS-Guided Training for Accent Conversion Without Parallel Data**|Yi Zhou et.al.|[2212.10204](http://arxiv.org/abs/2212.10204)|null|
 |**2023-06-28**|**Improving the quality of neural TTS using long-form content and multi-speaker multi-style modeling**|Tuomo Raitio et.al.|[2212.10075](http://arxiv.org/abs/2212.10075)|null|
 |**2022-12-16**|**Speech Aware Dialog System Technology Challenge (DSTC11)**|Hagen Soltau et.al.|[2212.08704](http://arxiv.org/abs/2212.08704)|null|
