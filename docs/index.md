@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.17
+## Updated on 2026.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,13 +11,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models**|Ahmed Khaled Khamis et.al.|[2602.15675](http://arxiv.org/abs/2602.15675)|null|
+|**2026-02-17**|**UniTAF: A Modular Framework for Joint Text-to-Speech and Audio-to-Face Modeling**|Qiangong Zhou et.al.|[2602.15651](http://arxiv.org/abs/2602.15651)|null|
 |**2026-02-16**|**Disentangling Pitch and Creak for Speaker Identity Preservation in Speech Synthesis**|Frederik Rautenberg et.al.|[2602.14686](http://arxiv.org/abs/2602.14686)|null|
 |**2026-02-16**|**Probing Human Articulatory Constraints in End-to-End TTS with Reverse and Mismatched Speech-Text Directions**|Parth Khadse et.al.|[2602.14664](http://arxiv.org/abs/2602.14664)|null|
 |**2026-02-14**|**GSRM: Generative Speech Reward Model for Speech RLHF**|Maohao Shen et.al.|[2602.13891](http://arxiv.org/abs/2602.13891)|null|
 |**2026-02-14**|**Learning Vocal-Tract Area and Radiation with a Physics-Informed Webster Model**|Minhui Lu et.al.|[2602.13834](http://arxiv.org/abs/2602.13834)|null|
 |**2026-02-14**|**ELEAT-SAGA: Early & Late Integration with Evading Alternating Training for Spoof-Robust Speaker Verification**|Amro Asali et.al.|[2602.13761](http://arxiv.org/abs/2602.13761)|null|
 |**2026-02-13**|**PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People**|Mahdi Haghighat Joo et.al.|[2602.12597](http://arxiv.org/abs/2602.12597)|null|
-|**2026-02-12**|**"Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most**|Kaitlyn Zhou et.al.|[2602.12249](http://arxiv.org/abs/2602.12249)|null|
+|**2026-02-16**|**"Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most**|Kaitlyn Zhou et.al.|[2602.12249](http://arxiv.org/abs/2602.12249)|null|
 |**2026-02-12**|**When Audio-LLMs Don't Listen: A Cross-Linguistic Study of Modality Arbitration**|Jayadev Billa et.al.|[2602.11488](http://arxiv.org/abs/2602.11488)|null|
 |**2026-02-12**|**SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis**|Yifan Liang et.al.|[2602.11477](http://arxiv.org/abs/2602.11477)|null|
 |**2026-02-11**|**Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity**|Hugo L. Hammer et.al.|[2602.10735](http://arxiv.org/abs/2602.10735)|null|
