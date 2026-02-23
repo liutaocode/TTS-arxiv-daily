@@ -1467,10 +1467,10 @@ layout: default
 |**2022-12-14**|**Probing Deep Speaker Embeddings for Speaker-related Tasks**|Zifeng Zhao et.al.|[2212.07068](http://arxiv.org/abs/2212.07068)|null|
 |**2022-12-08**|**SpeechLMScore: Evaluating speech generation using speech language model**|Soumi Maiti et.al.|[2212.04559](http://arxiv.org/abs/2212.04559)|**[link](https://github.com/espnet/espnet)**|
 |**2023-04-04**|**Learning to Dub Movies via Hierarchical Prosody Models**|Gaoxiang Cong et.al.|[2212.04054](http://arxiv.org/abs/2212.04054)|**[link](https://github.com/galaxycong/hpmdubbing)**|
-|**2022-12-07**|**Low-Resource End-to-end Sanskrit TTS using Tacotron2, WaveGlow and Transfer Learning**|Ankur Debnath et.al.|[2212.03558](http://arxiv.org/abs/2212.03558)|null|
+|**2022-12-07**|**Low-Resource End-to-end Sanskrit TTS using Tacotron2, WaveGlow and Transfer Learning**|Ankur Debnath et.al.|[2212.03558](http://arxiv.org/abs/2212.03558)|**[link](https://github.com/AnkurDebnath35/LowResourceSanskritTTS)**|
 |**2022-12-07**|**Analysis and Utilization of Entrainment on Acoustic and Emotion Features in User-agent Dialogue**|Daxin Tan et.al.|[2212.03398](http://arxiv.org/abs/2212.03398)|null|
 |**2022-12-06**|**UniSyn: An End-to-End Unified Model for Text-to-Speech and Singing Voice Synthesis**|Yi Lei et.al.|[2212.01546](http://arxiv.org/abs/2212.01546)|null|
-|**2022-11-30**|**SNAC: Speaker-normalized affine coupling layer in flow-based architecture for zero-shot multi-speaker text-to-speech**|Byoung Jin Choi et.al.|[2211.16866](http://arxiv.org/abs/2211.16866)|null|
+|**2022-11-30**|**SNAC: Speaker-normalized affine coupling layer in flow-based architecture for zero-shot multi-speaker text-to-speech**|Byoung Jin Choi et.al.|[2211.16866](http://arxiv.org/abs/2211.16866)|**[link](https://github.com/hcy71o/SNAC)**|
 |**2022-11-29**|**Controllable speech synthesis by learning discrete phoneme-level prosodic representations**|Nikolaos Ellinas et.al.|[2211.16307](http://arxiv.org/abs/2211.16307)|null|
 |**2023-05-25**|**Evaluating and reducing the distance between synthetic and real speech distributions**|Christoph Minixhofer et.al.|[2211.16049](http://arxiv.org/abs/2211.16049)|null|
 |**2022-11-26**|**Contextual Expressive Text-to-Speech**|Jianhong Tu et.al.|[2211.14548](http://arxiv.org/abs/2211.14548)|**[link](https://github.com/christopherohit/Voice-Clone-TTS)**|
