@@ -1,4 +1,4 @@
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -20,7 +20,7 @@
 |**2026-02-25**|**The Design Space of Tri-Modal Masked Diffusion Models**|Louis Bethune et.al.|[2602.21472](http://arxiv.org/abs/2602.21472)|null|
 |**2026-02-23**|**Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios**|Zoha Hayat Bhatti et.al.|[2602.20061](http://arxiv.org/abs/2602.20061)|null|
 |**2026-02-23**|**CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment**|Hanwen Liu et.al.|[2602.19574](http://arxiv.org/abs/2602.19574)|null|
-|**2026-02-19**|**CC-G2PnP: Streaming Grapheme-to-Phoneme and prosody with Conformer-CTC for unsegmented languages**|Yuma Shirahata et.al.|[2602.17157](http://arxiv.org/abs/2602.17157)|null|
+|**2026-02-19**|**CC-G2PnP: Streaming Grapheme-to-Phoneme and prosody with Conformer-CTC for unsegmented languages**|Yuma Shirahata et.al.|[2602.17157](http://arxiv.org/abs/2602.17157)|**[link](https://github.com/ayutaz/cc-g2pnp)**|
 |**2026-02-18**|**How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection**|Yixuan Xiao et.al.|[2602.16343](http://arxiv.org/abs/2602.16343)|null|
 |**2026-02-17**|**LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models**|Ahmed Khaled Khamis et.al.|[2602.15675](http://arxiv.org/abs/2602.15675)|null|
 |**2026-02-17**|**UniTAF: A Modular Framework for Joint Text-to-Speech and Audio-to-Face Modeling**|Qiangong Zhou et.al.|[2602.15651](http://arxiv.org/abs/2602.15651)|null|
@@ -1667,5 +1667,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
