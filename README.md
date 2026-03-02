@@ -79,11 +79,11 @@
 |**2026-01-20**|**Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum**|Mohammed Salah Al-Radhi et.al.|[2601.14472](http://arxiv.org/abs/2601.14472)|null|
 |**2026-01-20**|**Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis**|Thanathai Lertpetchpun et.al.|[2601.14417](http://arxiv.org/abs/2601.14417)|null|
 |**2026-01-20**|**Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches**|Changhao Pan et.al.|[2601.13910](http://arxiv.org/abs/2601.13910)|null|
-|**2026-01-20**|**Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis**|Yushen Chen et.al.|[2601.13802](http://arxiv.org/abs/2601.13802)|null|
+|**2026-01-20**|**Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis**|Yushen Chen et.al.|[2601.13802](http://arxiv.org/abs/2601.13802)|**[link](https://github.com/SWivid/Habibi-TTS)**|
 |**2026-01-20**|**HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**|Yuhua Jin et.al.|[2601.13801](http://arxiv.org/abs/2601.13801)|null|
 |**2026-01-19**|**Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings**|Seymanur Akti et.al.|[2601.12966](http://arxiv.org/abs/2601.12966)|null|
 |**2026-01-18**|**A Unified Neural Codec Language Model for Selective Editable Text to Speech Generation**|Hanchen Pei et.al.|[2601.12480](http://arxiv.org/abs/2601.12480)|null|
-|**2026-01-18**|**ParaMETA: Towards Learning Disentangled Paralinguistic Speaking Styles Representations from Speech**|Haowei Lou et.al.|[2601.12289](http://arxiv.org/abs/2601.12289)|null|
+|**2026-01-18**|**ParaMETA: Towards Learning Disentangled Paralinguistic Speaking Styles Representations from Speech**|Haowei Lou et.al.|[2601.12289](http://arxiv.org/abs/2601.12289)|**[link](https://github.com/haoweilou/ParaMETA)**|
 |**2026-01-18**|**Confidence-based Filtering for Speech Dataset Curation with Generative Speech Enhancement Using Discrete Tokens**|Kazuki Yamauchi et.al.|[2601.12254](http://arxiv.org/abs/2601.12254)|null|
 |**2026-01-16**|**F-Actor: Controllable Conversational Behaviour in Full-Duplex Models**|Maike Züfle et.al.|[2601.11329](http://arxiv.org/abs/2601.11329)|null|
 |**2026-01-16**|**FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning**|Tanyu Chen et.al.|[2601.11141](http://arxiv.org/abs/2601.11141)|null|
@@ -430,7 +430,7 @@
 |**2025-08-27**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
 |**2025-09-02**|**Zero-shot Context Biasing with Trie-based Decoding using Synthetic Multi-Pronunciation**|Changsong Liu et.al.|[2508.17796](http://arxiv.org/abs/2508.17796)|null|
 |**2025-08-25**|**ClearMask: Noise-Free and Naturalness-Preserving Protection Against Voice Deepfake Attacks**|Yuanda Wang et.al.|[2508.17660](http://arxiv.org/abs/2508.17660)|null|
-|**2025-08-26**|**EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems**|Jingwen Liu et.al.|[2508.17623](http://arxiv.org/abs/2508.17623)|null|
+|**2025-08-26**|**EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems**|Jingwen Liu et.al.|[2508.17623](http://arxiv.org/abs/2508.17623)|**[link](https://github.com/Berkeley-Speech-Group/emo-reasoning)**|
 |**2025-08-24**|**Improving French Synthetic Speech Quality via SSML Prosody Control**|Nassima Ould Ouali et.al.|[2508.17494](http://arxiv.org/abs/2508.17494)|null|
 |**2025-08-23**|**RephraseTTS: Dynamic Length Text based Speech Insertion with Speaker Style Transfer**|Neeraj Matiyali et.al.|[2508.17031](http://arxiv.org/abs/2508.17031)|null|
 |**2025-08-23**|**WildSpoof Challenge Evaluation Plan**|Yihan Wu et.al.|[2508.16858](http://arxiv.org/abs/2508.16858)|null|
@@ -1260,7 +1260,7 @@
 |**2023-10-01**|**Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech**|Dareen Alharthi et.al.|[2310.00706](http://arxiv.org/abs/2310.00706)|null|
 |**2024-03-11**|**Fewer-token Neural Speech Codec with Time-invariant Codes**|Yong Ren et.al.|[2310.00014](http://arxiv.org/abs/2310.00014)|**[link](https://github.com/y-ren16/ticodec)**|
 |**2024-01-31**|**ReFlow-TTS: A Rectified Flow Model for High-fidelity Text-to-Speech**|Wenhao Guan et.al.|[2309.17056](http://arxiv.org/abs/2309.17056)|null|
-|**2023-09-29**|**Low-Resource Self-Supervised Learning with SSL-Enhanced TTS**|Po-chun Hsu et.al.|[2309.17020](http://arxiv.org/abs/2309.17020)|null|
+|**2023-09-29**|**Low-Resource Self-Supervised Learning with SSL-Enhanced TTS**|Po-chun Hsu et.al.|[2309.17020](http://arxiv.org/abs/2309.17020)|**[link](https://github.com/lenguyensonnguyen/CS2309_ChuyenDeThiGiacMayTinh_LeNguyenSonNguyen_CH1702039_GiuaKy)**|
 |**2023-09-29**|**Synthetic Speech Detection Based on Temporal Consistency and Distribution of Speaker Features**|Yuxiang Zhang et.al.|[2309.16954](http://arxiv.org/abs/2309.16954)|null|
 |**2023-12-18**|**High-Fidelity Speech Synthesis with Minimal Supervision: All Using Diffusion Models**|Chunyu Qiang et.al.|[2309.15512](http://arxiv.org/abs/2309.15512)|null|
 |**2024-01-09**|**BiSinger: Bilingual Singing Voice Synthesis**|Huali Zhou et.al.|[2309.14089](http://arxiv.org/abs/2309.14089)|**[link](https://github.com/BiSinger-SVS/BiSinger)**|
@@ -1457,7 +1457,7 @@
 |**2023-01-31**|**Time out of Mind: Generating Rate of Speech conditioned on emotion and speaker**|Navjot Kaur et.al.|[2301.12331](http://arxiv.org/abs/2301.12331)|**[link](https://github.com/chocobearz/speech_timing)**|
 |**2023-01-26**|**On granularity of prosodic representations in expressive text-to-speech**|Mikolaj Babianski et.al.|[2301.11446](http://arxiv.org/abs/2301.11446)|null|
 |**2023-01-26**|**Unsupervised Data Selection for TTS: Using Arabic Broadcast News as a Case Study**|Massa Baali et.al.|[2301.09099](http://arxiv.org/abs/2301.09099)|**[link](https://github.com/espnet/espnet/tree/master/egs2/qasr_tts/tts1)**|
-|**2023-01-20**|**Phoneme-Level BERT for Enhanced Prosody of Text-to-Speech with Grapheme Predictions**|Yinghao Aaron Li et.al.|[2301.08810](http://arxiv.org/abs/2301.08810)|null|
+|**2023-01-20**|**Phoneme-Level BERT for Enhanced Prosody of Text-to-Speech with Grapheme Predictions**|Yinghao Aaron Li et.al.|[2301.08810](http://arxiv.org/abs/2301.08810)|**[link](https://github.com/yl4579/PL-BERT)**|
 |**2023-01-11**|**Modelling low-resource accents without accent-specific TTS frontend**|Georgi Tinchev et.al.|[2301.04606](http://arxiv.org/abs/2301.04606)|null|
 |**2022-12-11**|**BASPRO: a balanced script producer for speech corpus collection based on the genetic algorithm**|Yu-Wen Chen et.al.|[2301.04120](http://arxiv.org/abs/2301.04120)|**[link](https://github.com/yuwchen/baspro)**|
 |**2023-01-10**|**UnifySpeech: A Unified Framework for Zero-shot Text-to-Speech and Voice Conversion**|Haogeng Liu et.al.|[2301.03801](http://arxiv.org/abs/2301.03801)|null|
@@ -1649,7 +1649,7 @@
 |**2022-04-01**|**Text-To-Speech Data Augmentation for Low Resource Speech Recognition**|Rodolfo Zevallos et.al.|[2204.00291](http://arxiv.org/abs/2204.00291)|null|
 |**2022-07-19**|**Mixed-Phoneme BERT: Improving BERT with Mixed Phoneme and Sup-Phoneme Representations for Text to Speech**|Guangyan Zhang et.al.|[2203.17190](http://arxiv.org/abs/2203.17190)|null|
 |**2022-03-31**|**An End-to-end Chinese Text Normalization Model based on Rule-guided Flat-Lattice Transformer**|Wenlin Dai et.al.|[2203.16954](http://arxiv.org/abs/2203.16954)|**[link](https://github.com/thuhcsi/flattn)**|
-|**2022-07-11**|**WavThruVec: Latent speech representation as intermediate features for neural speech synthesis**|Hubert Siuzdak et.al.|[2203.16930](http://arxiv.org/abs/2203.16930)|null|
+|**2022-07-11**|**WavThruVec: Latent speech representation as intermediate features for neural speech synthesis**|Hubert Siuzdak et.al.|[2203.16930](http://arxiv.org/abs/2203.16930)|**[link](https://github.com/p1an-lin-jung/WavThruVec_pytorch)**|
 |**2022-03-31**|**A Character-level Span-based Model for Mandarin Prosodic Structure Prediction**|Xueyuan Chen et.al.|[2203.16922](http://arxiv.org/abs/2203.16922)|**[link](https://github.com/thuhcsi/spanpsp)**|
 |**2022-07-01**|**JETS: Jointly Training FastSpeech2 and HiFi-GAN for End to End Text to Speech**|Dan Lim et.al.|[2203.16852](http://arxiv.org/abs/2203.16852)|**[link](https://github.com/imdanboy/jets)**|
 |**2022-03-31**|**Open Source MagicData-RAMC: A Rich Annotated Mandarin Conversational(RAMC) Speech Dataset**|Zehui Yang et.al.|[2203.16844](http://arxiv.org/abs/2203.16844)|null|
