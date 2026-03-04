@@ -23,7 +23,7 @@
 |**2026-02-28**|**Deepfake Word Detection by Next-token Prediction using Fine-tuned Whisper**|Hoan My Tran et.al.|[2602.22658](http://arxiv.org/abs/2602.22658)|null|
 |**2026-02-25**|**Giving Meaning to Movements: Challenges and Opportunities in Expanding Communication by Pairing Unaided AAC with Speech Generated Messages**|Imran Kabir et.al.|[2602.22131](http://arxiv.org/abs/2602.22131)|null|
 |**2026-02-24**|**MIDI-Informed Singing Accompaniment Generation in a Compositional Song Pipeline**|Fang-Duo Tsai et.al.|[2602.22029](http://arxiv.org/abs/2602.22029)|null|
-|**2026-02-25**|**Scalable Multilingual Multimodal Machine Translation with Speech-Text Fusion**|Yexing Du et.al.|[2602.21646](http://arxiv.org/abs/2602.21646)|null|
+|**2026-03-03**|**Scalable Multilingual Multimodal Machine Translation with Speech-Text Fusion**|Yexing Du et.al.|[2602.21646](http://arxiv.org/abs/2602.21646)|null|
 |**2026-02-25**|**The Design Space of Tri-Modal Masked Diffusion Models**|Louis Bethune et.al.|[2602.21472](http://arxiv.org/abs/2602.21472)|null|
 |**2026-02-23**|**Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios**|Zoha Hayat Bhatti et.al.|[2602.20061](http://arxiv.org/abs/2602.20061)|null|
 |**2026-02-23**|**CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment**|Hanwen Liu et.al.|[2602.19574](http://arxiv.org/abs/2602.19574)|null|
