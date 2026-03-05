@@ -14,10 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis**|Youngwon Choi et.al.|[2603.04219](http://arxiv.org/abs/2603.04219)|null|
+|**2026-03-04**|**VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications**|Hung Vu Nguyen et.al.|[2603.04145](http://arxiv.org/abs/2603.04145)|null|
 |**2026-03-02**|**More Data, Fewer Diacritics: Scaling Arabic TTS**|Ahmed Musleh et.al.|[2603.01622](http://arxiv.org/abs/2603.01622)|null|
 |**2026-03-02**|**End-to-End Simultaneous Dysarthric Speech Reconstruction with Frame-Level Adaptor and Multiple Wait-k Knowledge Distillation**|Minghui Wu et.al.|[2603.01382](http://arxiv.org/abs/2603.01382)|null|
 |**2026-03-02**|**DARS: Dysarthria-Aware Rhythm-Style Synthesis for ASR Enhancement**|Minghui Wu et.al.|[2603.01369](http://arxiv.org/abs/2603.01369)|null|
-|**2026-03-01**|**S-VoCAL: A Dataset and Evaluation Framework for Inferring Speaking Voice Character Attributes in Literature**|Abigail Berthe-Pardo et.al.|[2603.00958](http://arxiv.org/abs/2603.00958)|**[link](https://github.com/AbigailBerthe/S-VoCAL)**|
+|**2026-03-01**|**S-VoCAL: A Dataset and Evaluation Framework for Inferring Speaking Voice Character Attributes in Literature**|Abigail Berthe-Pardo et.al.|[2603.00958](http://arxiv.org/abs/2603.00958)|null|
 |**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](http://arxiv.org/abs/2602.23266)|null|
 |**2026-02-26**|**TADA: A Generative Framework for Speech Modeling via Text-Acoustic Dual Alignment**|Trung Dang et.al.|[2602.23068](http://arxiv.org/abs/2602.23068)|null|
 |**2026-02-28**|**Deepfake Word Detection by Next-token Prediction using Fine-tuned Whisper**|Hoan My Tran et.al.|[2602.22658](http://arxiv.org/abs/2602.22658)|null|
