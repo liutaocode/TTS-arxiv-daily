@@ -498,7 +498,7 @@
 |**2025-08-06**|**NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations**|Huan Liao et.al.|[2508.04195](http://arxiv.org/abs/2508.04195)|null|
 |**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143](http://arxiv.org/abs/2508.04143)|**[link](https://github.com/xuanxixi/Multilingual-Source-Tracing)**|
 |**2025-08-06**|**Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech**|Jingyuan Xing et.al.|[2508.04141](http://arxiv.org/abs/2508.04141)|null|
-|**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
+|**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|**[link](https://github.com/imxtx/EmoSteer-TTS)**|
 |**2025-08-05**|**MiSTR: Multi-Modal iEEG-to-Speech Synthesis with Transformer-Based Prosody Prediction and Neural Phase Reconstruction**|Mohammed Salah Al-Radhi et.al.|[2508.03166](http://arxiv.org/abs/2508.03166)|**[link](https://github.com/malradhi/MiSTR)**|
 |**2025-08-05**|**Fine-Tuning Text-to-Speech Diffusion Models Using Reinforcement Learning with Human Feedback**|Jingyi Chen et.al.|[2508.03123](http://arxiv.org/abs/2508.03123)|null|
 |**2025-08-14**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
@@ -809,8 +809,8 @@
 |**2025-03-08**|**Clip-TTS: Contrastive Text-content and Mel-spectrogram, A High-Quality Text-to-Speech Method based on Contextual Semantic Understanding**|Tianyun Liu et.al.|[2502.18889](http://arxiv.org/abs/2502.18889)|null|
 |**2025-02-24**|**Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**|Tianpeng Li et.al.|[2502.17239](http://arxiv.org/abs/2502.17239)|**[link](https://github.com/baichuan-inc/baichuan-audio)**|
 |**2025-02-24**|**Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM**|Jiatong Shi et.al.|[2502.16897](http://arxiv.org/abs/2502.16897)|null|
-|**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|null|
-|**2025-02-18**|**High-Fidelity Music Vocoder using Neural Audio Codecs**|Luca A. Lanzendörfer et.al.|[2502.12759](http://arxiv.org/abs/2502.12759)|null|
+|**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|**[link](https://github.com/facebookresearch/av_flow)**|
+|**2025-02-18**|**High-Fidelity Music Vocoder using Neural Audio Codecs**|Luca A. Lanzendörfer et.al.|[2502.12759](http://arxiv.org/abs/2502.12759)|**[link](https://github.com/ETH-DISCO/discoder)**|
 |**2025-02-18**|**TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching**|Wenxiang Guo et.al.|[2502.12572](http://arxiv.org/abs/2502.12572)|**[link](https://github.com/gwx314/techsinger)**|
 |**2025-02-18**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048](http://arxiv.org/abs/2502.12048)|null|
 |**2025-02-17**|**NaturalL2S: End-to-End High-quality Multispeaker Lip-to-Speech Synthesis with Differential Digital Signal Processing**|Yifan Liang et.al.|[2502.12002](http://arxiv.org/abs/2502.12002)|null|
