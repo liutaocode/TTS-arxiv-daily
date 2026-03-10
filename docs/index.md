@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**The Talking Robot: Distortion-Robust Acoustic Models for Robot-Robot Communication**|Hanlong Li et.al.|[2603.07072](http://arxiv.org/abs/2603.07072)|null|
+|**2026-03-07**|**Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision**|Shreyas Gopal et.al.|[2603.07025](http://arxiv.org/abs/2603.07025)|null|
 |**2026-03-06**|**Prosodic Boundary-Aware Streaming Generation for LLM-Based TTS with Streaming Text Input**|Changsong Liu et.al.|[2603.06444](http://arxiv.org/abs/2603.06444)|null|
 |**2026-03-06**|**Is it Me? Toward Self-Extension to AI Avatars in Virtual Reality**|Jieying Zhang et.al.|[2603.06030](http://arxiv.org/abs/2603.06030)|null|
 |**2026-03-06**|**Activation Steering for Accent-Neutralized Zero-Shot Text-To-Speech**|Mu Yang et.al.|[2603.05977](http://arxiv.org/abs/2603.05977)|null|
