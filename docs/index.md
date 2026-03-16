@@ -407,7 +407,7 @@ layout: default
 |**2025-09-18**|**A Novel Semantic Compression Approach for Ultra-low Bandwidth Voice Communication**|Ryan Collette et.al.|[2509.15462](http://arxiv.org/abs/2509.15462)|null|
 |**2025-09-18**|**Frustratingly Easy Data Augmentation for Low-Resource ASR**|Katsumi Ibaraki et.al.|[2509.15373](http://arxiv.org/abs/2509.15373)|null|
 |**2025-09-18**|**Real-Time Streaming Mel Vocoding with Generative Flow Matching**|Simon Welker et.al.|[2509.15085](http://arxiv.org/abs/2509.15085)|null|
-|**2025-09-20**|**SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding**|Bingsong Bai et.al.|[2509.14946](http://arxiv.org/abs/2509.14946)|null|
+|**2025-09-20**|**SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding**|Bingsong Bai et.al.|[2509.14946](http://arxiv.org/abs/2509.14946)|**[link](https://github.com/ShawnPi233/SynParaSpeech)**|
 |**2025-09-18**|**MELA-TTS: Joint transformer-diffusion model with representation alignment for speech synthesis**|Keyu An et.al.|[2509.14784](http://arxiv.org/abs/2509.14784)|null|
 |**2025-09-18**|**DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis**|Ye-Xin Lu et.al.|[2509.14684](http://arxiv.org/abs/2509.14684)|null|
 |**2025-09-18**|**Stochastic Clock Attention for Aligning Continuous and Ordered Sequences**|Hyungjoon Soh et.al.|[2509.14678](http://arxiv.org/abs/2509.14678)|null|
@@ -885,9 +885,9 @@ layout: default
 |**2025-01-10**|**Low-Resource Text-to-Speech Synthesis Using Noise-Augmented Training of ForwardTacotron**|Kishor Kayyar Lakshminarayana et.al.|[2501.05976](http://arxiv.org/abs/2501.05976)|null|
 |**2025-01-10**|**MARS6: A Small and Robust Hierarchical-Codec Text-to-Speech Model**|Matthew Baas et.al.|[2501.05787](http://arxiv.org/abs/2501.05787)|null|
 |**2025-01-09**|**Probing Speaker-specific Features in Speaker Representations**|Aemon Yat Fei Chiu et.al.|[2501.05310](http://arxiv.org/abs/2501.05310)|null|
-|**2025-01-09**|**JELLY: Joint Emotion Recognition and Context Reasoning with LLMs for Conversational Speech Synthesis**|Jun-Hyeok Cha et.al.|[2501.04904](http://arxiv.org/abs/2501.04904)|null|
+|**2025-01-09**|**JELLY: Joint Emotion Recognition and Context Reasoning with LLMs for Conversational Speech Synthesis**|Jun-Hyeok Cha et.al.|[2501.04904](http://arxiv.org/abs/2501.04904)|**[link](https://github.com/jh-cha-prml/JELLY)**|
 |**2025-01-08**|**Cued Speech Generation Leveraging a Pre-trained Audiovisual Text-to-Speech Model**|Sanjana Sankar et.al.|[2501.04799](http://arxiv.org/abs/2501.04799)|null|
-|**2025-01-08**|**FleSpeech: Flexibly Controllable Speech Generation with Various Prompts**|Hanzhao Li et.al.|[2501.04644](http://arxiv.org/abs/2501.04644)|null|
+|**2025-01-08**|**FleSpeech: Flexibly Controllable Speech Generation with Various Prompts**|Hanzhao Li et.al.|[2501.04644](http://arxiv.org/abs/2501.04644)|**[link](https://github.com/kkksuper/FleSpeech)**|
 |**2025-01-09**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561](http://arxiv.org/abs/2501.04561)|**[link](https://github.com/rainbowluocs/openomni)**|
 |**2025-01-08**|**DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions**|Weidong Chen et.al.|[2501.04256](http://arxiv.org/abs/2501.04256)|null|
 |**2025-01-02**|**FaceSpeak: Expressive and High-Quality Speech Synthesis from Human Portraits of Different Styles**|Tian-Hao Zhang et.al.|[2501.03181](http://arxiv.org/abs/2501.03181)|null|

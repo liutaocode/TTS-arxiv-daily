@@ -336,7 +336,7 @@
 |**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
 |**2025-10-13**|**Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker**|Cheng Gong et.al.|[2510.11124](http://arxiv.org/abs/2510.11124)|null|
 |**2025-10-14**|**ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2510.10774](http://arxiv.org/abs/2510.10774)|null|
-|**2025-10-14**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|
+|**2025-10-14**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|**[link](https://github.com/MRSAudio/MRSAudio_Main)**|
 |**2025-10-10**|**Mind-Paced Speaking: A Dual-Brain Approach to Real-Time Reasoning in Spoken Language Models**|Donghang Wu et.al.|[2510.09592](http://arxiv.org/abs/2510.09592)|null|
 |**2025-10-10**|**O_O-VC: Synthetic Data-Driven One-to-One Alignment for Any-to-Any Voice Conversion**|Huu Tuong Tu et.al.|[2510.09061](http://arxiv.org/abs/2510.09061)|null|
 |**2025-10-10**|**DiTSinger: Scaling Singing Voice Synthesis with Diffusion Transformer and Implicit Alignment**|Zongcai Du et.al.|[2510.09016](http://arxiv.org/abs/2510.09016)|null|
@@ -1437,9 +1437,9 @@
 |**2023-09-19**|**Controllable Speaking Styles Using a Large Language Model**|Atli Thor Sigurgeirsson et.al.|[2305.10321](http://arxiv.org/abs/2305.10321)|null|
 |**2023-05-23**|**Better speech synthesis through scaling**|James Betker et.al.|[2305.07243](http://arxiv.org/abs/2305.07243)|**[link](https://github.com/neonbjb/tortoise-tts)**|
 |**2023-10-29**|**CoMoSpeech: One-Step Speech and Singing Voice Synthesis via Consistency Model**|Zhen Ye et.al.|[2305.06908](http://arxiv.org/abs/2305.06908)|**[link](https://github.com/zhenye234/CoMoSpeech)**|
-|**2023-05-08**|**Accented Text-to-Speech Synthesis with Limited Data**|Xuehao Zhou et.al.|[2305.04816](http://arxiv.org/abs/2305.04816)|null|
+|**2023-05-08**|**Accented Text-to-Speech Synthesis with Limited Data**|Xuehao Zhou et.al.|[2305.04816](http://arxiv.org/abs/2305.04816)|**[link](https://github.com/xuehao-marker/taslp_G2P-TTS)**|
 |**2023-05-03**|**M2-CTTS: End-to-End Multi-scale Multi-modal Conversational Text-to-Speech Synthesis**|Jinlong Xue et.al.|[2305.02269](http://arxiv.org/abs/2305.02269)|null|
-|**2023-05-30**|**A Review of Deep Learning Techniques for Speech Processing**|Ambuj Mehrish et.al.|[2305.00359](http://arxiv.org/abs/2305.00359)|null|
+|**2023-05-30**|**A Review of Deep Learning Techniques for Speech Processing**|Ambuj Mehrish et.al.|[2305.00359](http://arxiv.org/abs/2305.00359)|**[link](https://github.com/mpperez3/semi-automatic-gluten-curation-resources)**|
 |**2023-04-26**|**Source-Filter-Based Generative Adversarial Neural Vocoder for High Fidelity Speech Synthesis**|Ye-Xin Lu et.al.|[2304.13270](http://arxiv.org/abs/2304.13270)|null|
 |**2023-04-25**|**Multi-Speaker Multi-Lingual VQTTS System for LIMMITS 2023 Challenge**|Chenpeng Du et.al.|[2304.13121](http://arxiv.org/abs/2304.13121)|null|
 |**2023-04-24**|**Zero-shot text-to-speech synthesis conditioned using self-supervised speech representation model**|Kenichi Fujita et.al.|[2304.11976](http://arxiv.org/abs/2304.11976)|null|
