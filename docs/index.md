@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech**|Omnilingual SONAR Team et.al.|[2603.16606](http://arxiv.org/abs/2603.16606)|null|
+|**2026-03-17**|**On the Emotion Understanding of Synthesized Speech**|Yuan Ge et.al.|[2603.16483](http://arxiv.org/abs/2603.16483)|null|
 |**2026-03-17**|**CAST-TTS: A Simple Cross-Attention Framework for Unified Timbre Control in TTS**|Zihao Zheng et.al.|[2603.16280](http://arxiv.org/abs/2603.16280)|null|
 |**2026-03-16**|**NV-Bench: Benchmark of Nonverbal Vocalization Synthesis for Expressive Text-to-Speech Generation**|Qinke Ni et.al.|[2603.15352](http://arxiv.org/abs/2603.15352)|null|
 |**2026-03-16**|**Tagarela - A Portuguese speech dataset from podcasts**|Frederico Santos de Oliveira et.al.|[2603.15326](http://arxiv.org/abs/2603.15326)|null|
