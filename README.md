@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio**|Candice R. Gerstner et.al.|[2603.20165](http://arxiv.org/abs/2603.20165)|null|
 |**2026-03-20**|**Gesture2Speech: How Far Can Hand Movements Shape Expressive Speech?**|Lokesh Kumar et.al.|[2603.19831](http://arxiv.org/abs/2603.19831)|null|
 |**2026-03-20**|**Borderless Long Speech Synthesis**|Xingchen Song et.al.|[2603.19798](http://arxiv.org/abs/2603.19798)|null|
 |**2026-03-20**|**MOSS-TTSD: Text to Spoken Dialogue Generation**|Yuqian Zhang et.al.|[2603.19739](http://arxiv.org/abs/2603.19739)|null|
