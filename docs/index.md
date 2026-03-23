@@ -1441,7 +1441,7 @@ layout: default
 |**2023-05-26**|**Laughter Synthesis using Pseudo Phonetic Tokens with a Large-scale In-the-wild Laughter Corpus**|Detai Xin et.al.|[2305.12442](http://arxiv.org/abs/2305.12442)|**[link](https://github.com/aria-k-alethia/laughter-synthesis)**|
 |**2023-05-20**|**ComedicSpeech: Text To Speech For Stand-up Comedies in Low-Resource Scenarios**|Yuyue Wang et.al.|[2305.12200](http://arxiv.org/abs/2305.12200)|null|
 |**2023-05-19**|**MParrotTTS: Multilingual Multi-speaker Text to Speech Synthesis in Low Resource Setting**|Neil Shah et.al.|[2305.11926](http://arxiv.org/abs/2305.11926)|null|
-|**2024-02-20**|**Data Redaction from Conditional Generative Models**|Zhifeng Kong et.al.|[2305.11351](http://arxiv.org/abs/2305.11351)|null|
+|**2024-02-20**|**Data Redaction from Conditional Generative Models**|Zhifeng Kong et.al.|[2305.11351](http://arxiv.org/abs/2305.11351)|**[link](https://github.com/DataRedact2023/dataredact2023.github.io)**|
 |**2023-05-18**|**Parameter-Efficient Learning for Text-to-Speech Accent Adaptation**|Li-Jen Yang et.al.|[2305.11320](http://arxiv.org/abs/2305.11320)|**[link](https://github.com/TTS-Research/PEL-TTS)**|
 |**2023-05-19**|**Making More of Little Data: Improving Low-Resource Automatic Speech Recognition Using Data Augmentation**|Martijn Bartelds et.al.|[2305.10951](http://arxiv.org/abs/2305.10951)|**[link](https://github.com/bartelds/asr-augmentation)**|
 |**2023-09-30**|**Diffusion-Based Mel-Spectrogram Enhancement for Personalized Speech Synthesis with Found Data**|Yusheng Tian et.al.|[2305.10891](http://arxiv.org/abs/2305.10891)|**[link](https://github.com/dmse4tts/dmse4tts)**|
