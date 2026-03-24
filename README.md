@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**SelfTTS: cross-speaker style transfer through explicit embedding disentanglement and self-refinement using self-augmentation**|Lucas H. Ueda et.al.|[2603.22252](http://arxiv.org/abs/2603.22252)|**[link](https://github.com/AI-Unicamp/SelfTTS)**|
 |**2026-03-22**|**Assessing the Ability of Neural TTS Systems to Model Consonant-Induced F0 Perturbation**|Tianle Yang et.al.|[2603.21078](http://arxiv.org/abs/2603.21078)|null|
 |**2026-03-21**|**The Binding Effect: Analyzing How Multi-Dimensional Cues Form Gender Bias in Instruction TTS**|Kuan-Yu Chen et.al.|[2603.20743](http://arxiv.org/abs/2603.20743)|null|
 |**2026-03-21**|**SNAP: Speaker Nulling for Artifact Projection in Speech Deepfake Detection**|Kyudan Jung et.al.|[2603.20686](http://arxiv.org/abs/2603.20686)|null|
