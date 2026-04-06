@@ -1279,7 +1279,7 @@ layout: default
 |**2024-01-01**|**Normalization of Lithuanian Text Using Regular Expressions**|Pijus Kasparaitis et.al.|[2312.17660](http://arxiv.org/abs/2312.17660)|null|
 |**2023-12-27**|**AE-Flow: AutoEncoder Normalizing Flow**|Jakub Mosiński et.al.|[2312.16552](http://arxiv.org/abs/2312.16552)|null|
 |**2023-12-22**|**Creating New Voices using Normalizing Flows**|Piotr Bilinski et.al.|[2312.14569](http://arxiv.org/abs/2312.14569)|null|
-|**2023-12-22**|**ZMM-TTS: Zero-shot Multilingual and Multispeaker Speech Synthesis Conditioned on Self-supervised Discrete Speech Representations**|Cheng Gong et.al.|[2312.14398](http://arxiv.org/abs/2312.14398)|null|
+|**2023-12-22**|**ZMM-TTS: Zero-shot Multilingual and Multispeaker Speech Synthesis Conditioned on Self-supervised Discrete Speech Representations**|Cheng Gong et.al.|[2312.14398](http://arxiv.org/abs/2312.14398)|**[link](https://github.com/nii-yamagishilab/ZMM-TTS)**|
 |**2023-12-19**|**External Knowledge Augmented Polyphone Disambiguation Using Large Language Model**|Chen Li et.al.|[2312.11920](http://arxiv.org/abs/2312.11920)|null|
 |**2023-12-17**|**A review-based study on different Text-to-Speech technologies**|Md. Jalal Uddin Chowdhury et.al.|[2312.11563](http://arxiv.org/abs/2312.11563)|null|
 |**2024-01-31**|**MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**|Wenhao Guan et.al.|[2312.10687](http://arxiv.org/abs/2312.10687)|null|
