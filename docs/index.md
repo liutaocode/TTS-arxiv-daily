@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.07
+## Updated on 2026.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-07**|**AI-Driven Modular Services for Accessible Multilingual Education in Immersive Extended Reality Settings: Integrating Speech Processing, Translation, and Sign Language Rendering**|N. D. Tantaroudas et.al.|[2604.05591](http://arxiv.org/abs/2604.05591)|null|
 |**2026-04-06**|**ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality**|Dawar Khan et.al.|[2604.04905](http://arxiv.org/abs/2604.04905)|null|
 |**2026-04-06**|**Joint Fullband-Subband Modeling for High-Resolution SingFake Detection**|Xuanjun Chen et.al.|[2604.04841](http://arxiv.org/abs/2604.04841)|null|
 |**2026-04-05**|**Subspace Control: Turning Constrained Model Steering into Controllable Spectral Optimization**|Yancheng Huang et.al.|[2604.04231](http://arxiv.org/abs/2604.04231)|**[link](https://github.com/OPTML-Group/SIFT)**|
