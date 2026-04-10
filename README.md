@@ -1,4 +1,4 @@
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**AT-ADD: All-Type Audio Deepfake Detection Challenge Evaluation Plan**|Yuankun Xie et.al.|[2604.08184](http://arxiv.org/abs/2604.08184)|null|
+|**2026-04-09**|**Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video**|Chanhyuk Choi et.al.|[2604.07786](http://arxiv.org/abs/2604.07786)|**[link](https://github.com/ChanHyeok-Choi/C-MET)**|
+|**2026-04-08**|**Lexical Tone is Hard to Quantize: Probing Discrete Speech Units in Mandarin and Yorùbá**|Opeyemi Osakuade et.al.|[2604.07467](http://arxiv.org/abs/2604.07467)|null|
 |**2026-04-08**|**XR-CareerAssist: An Immersive Platform for Personalised Career Guidance Leveraging Extended Reality and Multimodal AI**|N. D. Tantaroudas et.al.|[2604.06901](http://arxiv.org/abs/2604.06901)|null|
 |**2026-04-07**|**In-Context Learning in Speech Language Models: Analyzing the Role of Acoustic Features, Linguistic Structure, and Induction Heads**|Charlotte Pouw et.al.|[2604.06356](http://arxiv.org/abs/2604.06356)|null|
 |**2026-04-07**|**A Novel Automatic Framework for Speaker Drift Detection in Synthesized Speech**|Jia-Hong Huang et.al.|[2604.06327](http://arxiv.org/abs/2604.06327)|null|
@@ -1749,5 +1752,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260410>back to top</a>)</p>
 
