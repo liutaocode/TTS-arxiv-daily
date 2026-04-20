@@ -140,7 +140,7 @@ layout: default
 |**2026-02-10**|**TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization**|Waris Quamer et.al.|[2602.09389](http://arxiv.org/abs/2602.09389)|null|
 |**2026-02-09**|**Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis**|Haoshen Wang et.al.|[2602.08696](http://arxiv.org/abs/2602.08696)|null|
 |**2026-02-09**|**Tutti: Expressive Multi-Singer Synthesis via Structure-Level Timbre Control and Vocal Texture Modeling**|Jiatao Chen et.al.|[2602.08233](http://arxiv.org/abs/2602.08233)|null|
-|**2026-02-08**|**SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis**|Jiale Qian et.al.|[2602.07803](http://arxiv.org/abs/2602.07803)|null|
+|**2026-02-08**|**SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis**|Jiale Qian et.al.|[2602.07803](http://arxiv.org/abs/2602.07803)|**[link](https://github.com/Soul-AILab/SoulX-Singer)**|
 |**2026-02-05**|**Zero-Shot TTS With Enhanced Audio Prompts: Bsc Submission For The 2026 Wildspoof Challenge TTS Track**|Jose Giraldo et.al.|[2602.05770](http://arxiv.org/abs/2602.05770)|null|
 |**2026-02-05**|**Wave-Trainer-Fit: Neural Vocoder with Trainable Prior and Fixed-Point Iteration towards High-Quality Speech Generation from SSL features**|Hien Ohnaka et.al.|[2602.05443](http://arxiv.org/abs/2602.05443)|**[link](https://github.com/line/WaveTrainerFit)**|
 |**2026-02-05**|**ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference**|Chunyat Wu et.al.|[2602.05207](http://arxiv.org/abs/2602.05207)|null|
@@ -1567,7 +1567,7 @@ layout: default
 |**2022-12-30**|**ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech**|Zehua Chen et.al.|[2212.14518](http://arxiv.org/abs/2212.14518)|**[link](https://github.com/Adibian/ResGrad)**|
 |**2022-12-29**|**StyleTTS-VC: One-Shot Voice Conversion by Knowledge Transfer from Style-Based TTS Models**|Yinghao Aaron Li et.al.|[2212.14227](http://arxiv.org/abs/2212.14227)|**[link](https://github.com/yl4579/StyleTTS-VC)**|
 |**2022-12-22**|**HMM-based data augmentation for E2E systems for building conversational speech synthesis systems**|Ishika Gupta et.al.|[2212.11982](http://arxiv.org/abs/2212.11982)|null|
-|**2022-12-21**|**ReVISE: Self-Supervised Speech Resynthesis with Visual Input for Universal and Generalized Speech Enhancement**|Wei-Ning Hsu et.al.|[2212.11377](http://arxiv.org/abs/2212.11377)|null|
+|**2022-12-21**|**ReVISE: Self-Supervised Speech Resynthesis with Visual Input for Universal and Generalized Speech Enhancement**|Wei-Ning Hsu et.al.|[2212.11377](http://arxiv.org/abs/2212.11377)|**[link](https://github.com/wnhsu/ReVISE)**|
 |**2022-12-20**|**TTS-Guided Training for Accent Conversion Without Parallel Data**|Yi Zhou et.al.|[2212.10204](http://arxiv.org/abs/2212.10204)|null|
 |**2023-06-28**|**Improving the quality of neural TTS using long-form content and multi-speaker multi-style modeling**|Tuomo Raitio et.al.|[2212.10075](http://arxiv.org/abs/2212.10075)|null|
 |**2022-12-16**|**Speech Aware Dialog System Technology Challenge (DSTC11)**|Hagen Soltau et.al.|[2212.08704](http://arxiv.org/abs/2212.08704)|null|
