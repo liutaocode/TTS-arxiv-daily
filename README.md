@@ -14,10 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**MINT-Bench: A Comprehensive Multilingual Benchmark for Instruction-Following Text-to-Speech**|Huakang Chen et.al.|[2604.17958](http://arxiv.org/abs/2604.17958)|null|
+|**2026-04-20**|**Design and Evaluation of a Culturally Adapted Multimodal Virtual Agent for PTSD Screening**|Cengiz Ozel et.al.|[2604.17871](http://arxiv.org/abs/2604.17871)|null|
+|**2026-04-19**|**HCFD: A Benchmark for Audio Deepfake Detection in Healthcare**|Mohd Mujtaba Akhtar et.al.|[2604.17642](http://arxiv.org/abs/2604.17642)|null|
 |**2026-04-18**|**Anonymization, Not Elimination: Utility-Preserved Speech Anonymization**|Yunchong Xiao et.al.|[2604.17000](http://arxiv.org/abs/2604.17000)|null|
 |**2026-04-17**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|**[link](https://github.com/lmxue/NVBench)**|
 |**2026-04-17**|**AST: Adaptive, Seamless, and Training-Free Precise Speech Editing**|Sihan Lv et.al.|[2604.16056](http://arxiv.org/abs/2604.16056)|null|
-|**2026-04-17**|**Hierarchical Codec Diffusion for Video-to-Speech Generation**|Jiaxin Ye et.al.|[2604.15923](http://arxiv.org/abs/2604.15923)|**[link](https://github.com/Jiaxin-Ye/HiCoDiT)**|
+|**2026-04-17**|**Hierarchical Codec Diffusion for Video-to-Speech Generation**|Jiaxin Ye et.al.|[2604.15923](http://arxiv.org/abs/2604.15923)|null|
 |**2026-04-17**|**Qwen3.5-Omni Technical Report**|Qwen Team et.al.|[2604.15804](http://arxiv.org/abs/2604.15804)|null|
 |**2026-04-16**|**WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training**|Yifu Chen et.al.|[2604.14932](http://arxiv.org/abs/2604.14932)|null|
 |**2026-04-14**|**Giving Voice to the Constitution: Low-Resource Text-to-Speech for Quechua and Spanish Using a Bilingual Legal Corpus**|John E. Ortega et.al.|[2604.13288](http://arxiv.org/abs/2604.13288)|null|
