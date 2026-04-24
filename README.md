@@ -1,4 +1,4 @@
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages**|Srija Anand et.al.|[2604.21481](http://arxiv.org/abs/2604.21481)|null|
+|**2026-04-23**|**MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control**|Jialong Mai et.al.|[2604.21164](http://arxiv.org/abs/2604.21164)|**[link](https://github.com/yongaifadian1/MAGIC-TTS)**|
 |**2026-04-22**|**SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation**|Ruohan Liu et.al.|[2604.20842](http://arxiv.org/abs/2604.20842)|null|
 |**2026-04-21**|**Text-To-Speech with Chain-of-Details: modeling temporal dynamics in speech generation**|Jianbo Ma et.al.|[2604.19330](http://arxiv.org/abs/2604.19330)|null|
-|**2026-04-21**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
+|**2026-04-23**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
 |**2026-04-20**|**MINT-Bench: A Comprehensive Multilingual Benchmark for Instruction-Following Text-to-Speech**|Huakang Chen et.al.|[2604.17958](http://arxiv.org/abs/2604.17958)|null|
 |**2026-04-20**|**Design and Evaluation of a Culturally Adapted Multimodal Virtual Agent for PTSD Screening**|Cengiz Ozel et.al.|[2604.17871](http://arxiv.org/abs/2604.17871)|null|
 |**2026-04-19**|**HCFD: A Benchmark for Audio Deepfake Detection in Healthcare**|Mohd Mujtaba Akhtar et.al.|[2604.17642](http://arxiv.org/abs/2604.17642)|null|
@@ -1778,5 +1780,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
