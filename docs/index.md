@@ -339,7 +339,7 @@ layout: default
 |**2025-11-18**|**Ground Truth Generation for Multilingual Historical NLP using LLMs**|Clovis Gladstone et.al.|[2511.14688](http://arxiv.org/abs/2511.14688)|null|
 |**2025-11-18**|**TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation**|Wei Liu et.al.|[2511.14410](http://arxiv.org/abs/2511.14410)|null|
 |**2025-11-18**|**AfriSpeech-MultiBench: A Verticalized Multidomain Multicountry Benchmark Suite for African Accented English ASR**|Gabrial Zencha Ashungafac et.al.|[2511.14255](http://arxiv.org/abs/2511.14255)|null|
-|**2025-11-18**|**Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning**|Rui Liu et.al.|[2511.14249](http://arxiv.org/abs/2511.14249)|null|
+|**2025-11-18**|**Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning**|Rui Liu et.al.|[2511.14249](http://arxiv.org/abs/2511.14249)|**[link](https://github.com/AI-S2-Lab/Authentic-Dubber)**|
 |**2025-11-18**|**StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model**|Yifan Yang et.al.|[2511.14223](http://arxiv.org/abs/2511.14223)|**[link](https://github.com/zju3dv/StreamingTalker)**|
 |**2025-11-18**|**FxSearcher: gradient-free text-driven audio transformation**|Hojoon Ki et.al.|[2511.14138](http://arxiv.org/abs/2511.14138)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
@@ -1157,7 +1157,7 @@ layout: default
 |**2024-07-07**|**ASRRL-TTS: Agile Speaker Representation Reinforcement Learning for Text-to-Speech Speaker Adaptation**|Ruibo Fu et.al.|[2407.05421](http://arxiv.org/abs/2407.05421)|null|
 |**2024-07-09**|**CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens**|Zhihao Du et.al.|[2407.05407](http://arxiv.org/abs/2407.05407)|null|
 |**2024-07-04**|**Improving Accented Speech Recognition using Data Augmentation based on Unsupervised Text-to-Speech Synthesis**|Cong-Thanh Do et.al.|[2407.04047](http://arxiv.org/abs/2407.04047)|null|
-|**2024-07-04**|**Optimizing a-DCF for Spoofing-Robust Speaker Verification**|Oğuzhan Kurnaz et.al.|[2407.04034](http://arxiv.org/abs/2407.04034)|null|
+|**2024-07-04**|**Optimizing a-DCF for Spoofing-Robust Speaker Verification**|Oğuzhan Kurnaz et.al.|[2407.04034](http://arxiv.org/abs/2407.04034)|**[link](https://github.com/okurnaz2516/Soft-a-DCF)**|
 |**2024-07-04**|**On the Effectiveness of Acoustic BPE in Decoder-Only TTS**|Bohan Li et.al.|[2407.03892](http://arxiv.org/abs/2407.03892)|null|
 |**2024-07-14**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236](http://arxiv.org/abs/2407.03236)|**[link](https://github.com/abjadai/catt)**|
 |**2024-07-02**|**Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization**|Yuchen Hu et.al.|[2407.02243](http://arxiv.org/abs/2407.02243)|null|
@@ -1458,7 +1458,7 @@ layout: default
 |**2023-06-14**|**Improving Code-Switching and Named Entity Recognition in ASR with Speech Editing based Data Augmentation**|Zheng Liang et.al.|[2306.08588](http://arxiv.org/abs/2306.08588)|null|
 |**2023-06-14**|**Towards Building Voice-based Conversational Recommender Systems: Datasets, Potential Solutions, and Prospects**|Xinghua Qu et.al.|[2306.08219](http://arxiv.org/abs/2306.08219)|**[link](https://github.com/hyllll/vcrs)**|
 |**2023-11-20**|**StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models**|Yinghao Aaron Li et.al.|[2306.07691](http://arxiv.org/abs/2306.07691)|null|
-|**2024-01-18**|**UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding**|Chenpeng Du et.al.|[2306.07547](http://arxiv.org/abs/2306.07547)|null|
+|**2024-01-18**|**UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding**|Chenpeng Du et.al.|[2306.07547](http://arxiv.org/abs/2306.07547)|**[link](https://github.com/francislata/unicats)**|
 |**2023-06-13**|**PauseSpeech: Natural Speech Synthesis via Pre-trained Language Model and Pause-based Prosody Modeling**|Ji-Sang Hwang et.al.|[2306.07489](http://arxiv.org/abs/2306.07489)|null|
 |**2023-06-09**|**Learning Emotional Representations from Imbalanced Speech Data for Speech Emotion Recognition and Emotional Text-to-Speech**|Shijun Wang et.al.|[2306.05709](http://arxiv.org/abs/2306.05709)|null|
 |**2023-06-08**|**VIFS: An End-to-End Variational Inference for Foley Sound Synthesis**|Junhyeok Lee et.al.|[2306.05004](http://arxiv.org/abs/2306.05004)|**[link](https://github.com/junjun3518/vifs)**|
