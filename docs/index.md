@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**EmoTransCap: Dataset and Pipeline for Emotion Transition-Aware Speech Captioning in Discourses**|Shuhao Xu et.al.|[2604.26417](http://arxiv.org/abs/2604.26417)|null|
+|**2026-04-29**|**The False Resonance: A Critical Examination of Emotion Embedding Similarity for Speech Generation Evaluation**|Yun-Shao Tsai et.al.|[2604.26347](http://arxiv.org/abs/2604.26347)|**[link](https://github.com/danielqwer/False-Resonate)**|
+|**2026-04-28**|**One Voice, Many Tongues: Cross-Lingual Voice Cloning for Scientific Speech**|Amanuel Gizachew Abebe et.al.|[2604.26136](http://arxiv.org/abs/2604.26136)|null|
 |**2026-04-28**|**PSP: An Interpretable Per-Dimension Accent Benchmark for Indic Text-to-Speech**|Venkata Pushpak Teja Menta et.al.|[2604.25476](http://arxiv.org/abs/2604.25476)|**[link](https://github.com/praxelhq/psp-eval)**|
 |**2026-04-28**|**Robust Accent Identification via Voice Conversion and Non-Timbral Embeddings**|Rayane Bakari et.al.|[2604.25332](http://arxiv.org/abs/2604.25332)|null|
 |**2026-04-26**|**AMAVA: Adaptive Motion-Aware Video-to-Audio Framework for Visually-Impaired Assistance**|Benjamin Klein et.al.|[2604.23909](http://arxiv.org/abs/2604.23909)|null|
