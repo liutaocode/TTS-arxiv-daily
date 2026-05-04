@@ -610,7 +610,7 @@ layout: default
 |**2025-08-05**|**Fine-Tuning Text-to-Speech Diffusion Models Using Reinforcement Learning with Human Feedback**|Jingyi Chen et.al.|[2508.03123](http://arxiv.org/abs/2508.03123)|null|
 |**2025-08-14**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
 |**2025-08-03**|**Enhancing Spectrogram Realism in Singing Voice Synthesis via Explicit Bandwidth Extension Prior to Vocoder**|Runxuan Yang et.al.|[2508.01796](http://arxiv.org/abs/2508.01796)|null|
-|**2025-08-03**|**Voxlect: A Speech Foundation Model Benchmark for Modeling Dialects and Regional Languages Around the Globe**|Tiantian Feng et.al.|[2508.01691](http://arxiv.org/abs/2508.01691)|null|
+|**2025-08-03**|**Voxlect: A Speech Foundation Model Benchmark for Modeling Dialects and Regional Languages Around the Globe**|Tiantian Feng et.al.|[2508.01691](http://arxiv.org/abs/2508.01691)|**[link](https://github.com/tiantiaf0627/voxlect)**|
 |**2025-08-01**|**Advancing Speech Quality Assessment Through Scientific Challenges and Open-source Activities**|Wen-Chin Huang et.al.|[2508.00317](http://arxiv.org/abs/2508.00317)|null|
 |**2025-08-01**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
 |**2025-07-30**|**Adaptive Duration Model for Text Speech Alignment**|Junjie Cao et.al.|[2507.22612](http://arxiv.org/abs/2507.22612)|null|
