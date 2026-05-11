@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-07**|**Minimizing Modality Gap from the Input Side: Your Speech LLM Can Be a Prosody-Aware Text LLM**|Wenqian Cui et.al.|[2605.05927](http://arxiv.org/abs/2605.05927)|null|
+|**2026-05-08**|**Minimizing Modality Gap from the Input Side: Your Speech LLM Can Be a Prosody-Aware Text LLM**|Wenqian Cui et.al.|[2605.05927](http://arxiv.org/abs/2605.05927)|null|
 |**2026-05-07**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
 |**2026-05-06**|**VocalParse: Towards Unified and Scalable Singing Voice Transcription with Large Audio Language Models**|Yukun Chen et.al.|[2605.04613](http://arxiv.org/abs/2605.04613)|null|
 |**2026-05-04**|**Tibetan-TTS:Low-Resource Tibetan Speech Synthesis with Large Model Adaptation**|Jiaxu He et.al.|[2605.02496](http://arxiv.org/abs/2605.02496)|null|
