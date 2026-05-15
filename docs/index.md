@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.13
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents**|Md Tahmid Rahman Laskar et.al.|[2605.15104](http://arxiv.org/abs/2605.15104)|null|
+|**2026-05-13**|**Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing**|Daniel Fernández-González et.al.|[2605.13373](http://arxiv.org/abs/2605.13373)|null|
 |**2026-05-12**|**AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling**|Yiming Ren et.al.|[2605.11866](http://arxiv.org/abs/2605.11866)|null|
 |**2026-05-11**|**Exploring Token-Space Manipulation in Latent Audio Tokenizers**|Francesco Paissan et.al.|[2605.11192](http://arxiv.org/abs/2605.11192)|null|
 |**2026-05-11**|**AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling**|Jiacheng Shi et.al.|[2605.11098](http://arxiv.org/abs/2605.11098)|null|

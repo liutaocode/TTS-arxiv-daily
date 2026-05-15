@@ -1,4 +1,4 @@
-## Updated on 2026.05.13
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents**|Md Tahmid Rahman Laskar et.al.|[2605.15104](http://arxiv.org/abs/2605.15104)|null|
+|**2026-05-13**|**Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing**|Daniel Fernández-González et.al.|[2605.13373](http://arxiv.org/abs/2605.13373)|null|
 |**2026-05-12**|**AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling**|Yiming Ren et.al.|[2605.11866](http://arxiv.org/abs/2605.11866)|null|
 |**2026-05-11**|**Exploring Token-Space Manipulation in Latent Audio Tokenizers**|Francesco Paissan et.al.|[2605.11192](http://arxiv.org/abs/2605.11192)|null|
 |**2026-05-11**|**AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling**|Jiacheng Shi et.al.|[2605.11098](http://arxiv.org/abs/2605.11098)|null|
@@ -1807,5 +1809,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
