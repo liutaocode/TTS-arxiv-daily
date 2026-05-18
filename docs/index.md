@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.16
+## Updated on 2026.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -159,7 +159,7 @@ layout: default
 |**2026-02-25**|**The Design Space of Tri-Modal Masked Diffusion Models**|Louis Bethune et.al.|[2602.21472](http://arxiv.org/abs/2602.21472)|null|
 |**2026-02-23**|**Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios**|Zoha Hayat Bhatti et.al.|[2602.20061](http://arxiv.org/abs/2602.20061)|null|
 |**2026-02-23**|**CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment**|Hanwen Liu et.al.|[2602.19574](http://arxiv.org/abs/2602.19574)|null|
-|**2026-02-19**|**CC-G2PnP: Streaming Grapheme-to-Phoneme and prosody with Conformer-CTC for unsegmented languages**|Yuma Shirahata et.al.|[2602.17157](http://arxiv.org/abs/2602.17157)|null|
+|**2026-02-19**|**CC-G2PnP: Streaming Grapheme-to-Phoneme and prosody with Conformer-CTC for unsegmented languages**|Yuma Shirahata et.al.|[2602.17157](http://arxiv.org/abs/2602.17157)|**[link](https://github.com/ayutaz/cc-g2pnp)**|
 |**2026-02-18**|**How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection**|Yixuan Xiao et.al.|[2602.16343](http://arxiv.org/abs/2602.16343)|null|
 |**2026-02-17**|**LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models**|Ahmed Khaled Khamis et.al.|[2602.15675](http://arxiv.org/abs/2602.15675)|null|
 |**2026-02-17**|**UniTAF: A Modular Framework for Joint Text-to-Speech and Audio-to-Face Modeling**|Qiangong Zhou et.al.|[2602.15651](http://arxiv.org/abs/2602.15651)|null|
@@ -1196,9 +1196,9 @@ layout: default
 |**2024-07-02**|**Open-Source Conversational AI with SpeechBrain 1.0**|Mirco Ravanelli et.al.|[2407.00463](http://arxiv.org/abs/2407.00463)|null|
 |**2024-06-27**|**Application of ASV for Voice Identification after VC and Duration Predictor Improvement in TTS Models**|Borodin Kirill Nikolayevich et.al.|[2406.19243](http://arxiv.org/abs/2406.19243)|null|
 |**2024-06-27**|**DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability**|Hyun Joon Park et.al.|[2406.19135](http://arxiv.org/abs/2406.19135)|**[link](https://github.com/winddori2002/dex-tts)**|
-|**2024-06-26**|**Automatic Speech Recognition for Hindi**|Anish Saha et.al.|[2406.18135](http://arxiv.org/abs/2406.18135)|null|
+|**2024-06-26**|**Automatic Speech Recognition for Hindi**|Anish Saha et.al.|[2406.18135](http://arxiv.org/abs/2406.18135)|**[link](https://github.com/KunalDhawan/ASR-System-for-Hindi-Language)**|
 |**2024-06-26**|**A Study on Synthesizing Expressive Violin Performances: Approaches and Comparisons**|Tzu-Yun Hung et.al.|[2406.18089](http://arxiv.org/abs/2406.18089)|null|
-|**2024-06-29**|**LLM-Driven Multimodal Opinion Expression Identification**|Bonian Jia et.al.|[2406.18088](http://arxiv.org/abs/2406.18088)|null|
+|**2024-06-29**|**LLM-Driven Multimodal Opinion Expression Identification**|Bonian Jia et.al.|[2406.18088](http://arxiv.org/abs/2406.18088)|**[link](https://github.com/3cqscbr26/LLM-MOEI)**|
 |**2024-06-26**|**E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS**|Sefik Emre Eskimez et.al.|[2406.18009](http://arxiv.org/abs/2406.18009)|**[link](https://github.com/microsoft/e2tts-test-suite)**|
 |**2024-06-25**|**Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment**|Paarth Neekhara et.al.|[2406.17957](http://arxiv.org/abs/2406.17957)|null|
 |**2024-06-22**|**A multi-speaker multi-lingual voice cloning system based on vits2 for limmits 2024 challenge**|Xiaopeng Wang et.al.|[2406.17801](http://arxiv.org/abs/2406.17801)|null|
