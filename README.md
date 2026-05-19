@@ -1,4 +1,4 @@
-## Updated on 2026.05.18
+## Updated on 2026.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-18**|**Bridging the Gap: Converting Read Text to Conversational Dialogue**|Parshav Singla et.al.|[2605.18001](http://arxiv.org/abs/2605.18001)|null|
+|**2026-05-14**|**AgentSteerTTS: A Multi-Agent Closed-Loop Framework for Composite-Instruction Text-to-Speech**|Bin Kang et.al.|[2605.17583](http://arxiv.org/abs/2605.17583)|null|
+|**2026-05-16**|**Taming Audio VAEs via Target-KL Regularization**|Prem Seetharaman et.al.|[2605.17085](http://arxiv.org/abs/2605.17085)|null|
+|**2026-05-16**|**SemaVoice: Semantic-Aware Continuous Autoregressive Speech Synthesis**|Huimeng Wang et.al.|[2605.16964](http://arxiv.org/abs/2605.16964)|null|
+|**2026-05-15**|**Linked Multi-Model Data on Russian Domestic and Foreign Policy Speeches**|Daria Blinova et.al.|[2605.15886](http://arxiv.org/abs/2605.15886)|null|
+|**2026-05-15**|**Improving Automatic Speech Recognition for Speakers Treated for Oral Cancer using Data Augmentation and LLM Error Correction**|Hidde Folkertsma et.al.|[2605.15854](http://arxiv.org/abs/2605.15854)|null|
 |**2026-05-14**|**From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents**|Md Tahmid Rahman Laskar et.al.|[2605.15104](http://arxiv.org/abs/2605.15104)|null|
 |**2026-05-13**|**Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing**|Daniel Fernández-González et.al.|[2605.13373](http://arxiv.org/abs/2605.13373)|null|
 |**2026-05-12**|**AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling**|Yiming Ren et.al.|[2605.11866](http://arxiv.org/abs/2605.11866)|null|
@@ -1809,5 +1815,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
