@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-22**|**Natural Yet Challenging to Detect: Robust In-the-Wild TTS through EMA and Dual-Scoring Prompt Selection -- Submission for WildSpoof 2026 TTS Track**|Renhe Sun et.al.|[2605.23859](http://arxiv.org/abs/2605.23859)|null|
+|**2026-05-22**|**Word-Level Modeling with Alignment-Aware Acoustic Fusion for Text-Assisted Intelligibility Prediction in Listeners with Hearing Loss**|Kazushi Nakazawa et.al.|[2605.23604](http://arxiv.org/abs/2605.23604)|null|
+|**2026-05-22**|**StepAudio 2.5 Technical Report**|Bin Lin et.al.|[2605.23463](http://arxiv.org/abs/2605.23463)|null|
+|**2026-05-22**|**UniSRM: A Unified Speech Reward Model for Reasoning-Based Fine-grained Assessment**|Yuanyuan Wang et.al.|[2605.23261](http://arxiv.org/abs/2605.23261)|null|
 |**2026-05-21**|**Do Factual Recall Mechanisms Carry over from Text to Speech in Multimodal Language Models?**|Luca Modica et.al.|[2605.22170](http://arxiv.org/abs/2605.22170)|null|
 |**2026-05-21**|**RobustSpeechFlow: Learning Robust Text-to-Speech Trajectories via Augmentation-based Contrastive Flow Matching**|Jinhyeok Yang et.al.|[2605.22083](http://arxiv.org/abs/2605.22083)|null|
 |**2026-05-20**|**Thinking-while-speaking: A Controlled, Interleaved Reasoning Method for Real-Time Speech Generation**|Xuan Du et.al.|[2605.20946](http://arxiv.org/abs/2605.20946)|null|
