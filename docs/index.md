@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.26
+## Updated on 2026.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,10 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-26**|**PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis**|Bowen Li et.al.|[2605.27258](http://arxiv.org/abs/2605.27258)|null|
+|**2026-05-26**|**Learning When to Think While Listening in Large Audio-Language Models**|Zhiyuan Song et.al.|[2605.27190](http://arxiv.org/abs/2605.27190)|null|
+|**2026-05-26**|**PashtoTTS-Bench: automated screening for low-resource non-Latin-script text-to-speech**|Hanif Rahman et.al.|[2605.26978](http://arxiv.org/abs/2605.26978)|null|
+|**2026-05-26**|**Can We Hear from Events? Generating Speech from Event Camera**|Jingping Fang et.al.|[2605.26672](http://arxiv.org/abs/2605.26672)|null|
 |**2026-05-25**|**Continual Speaker Identity Unlearning with Minimal Interference**|Jinju Kim et.al.|[2605.25962](http://arxiv.org/abs/2605.25962)|null|
-|**2026-05-25**|**CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS**|Junyang Chen et.al.|[2605.25930](http://arxiv.org/abs/2605.25930)|null|
+|**2026-05-26**|**CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS**|Junyang Chen et.al.|[2605.25930](http://arxiv.org/abs/2605.25930)|null|
 |**2026-05-25**|**Thaka at KSAA-2026 Task 2: Regularized Fine-Tuning for Arabic Speech Diacritization**|Meshal Alamr et.al.|[2605.25928](http://arxiv.org/abs/2605.25928)|null|
-|**2026-05-25**|**Toward Natural Emotional Text-To-Speech System with Fine-Grained Non-Verbal Expression Control**|Wangzixi Zhou et.al.|[2605.25504](http://arxiv.org/abs/2605.25504)|**[link](https://github.com/37integer/TOWARD-NATURAL-EMOTIONAL-TEXT-TO-SPEECH-SYSTEM-WITH-FINE-GRAINED-NON-VERBAL-EXPRESSION-CONTROL)**|
+|**2026-05-25**|**Toward Natural Emotional Text-To-Speech System with Fine-Grained Non-Verbal Expression Control**|Wangzixi Zhou et.al.|[2605.25504](http://arxiv.org/abs/2605.25504)|null|
 |**2026-05-23**|**FC-TTS: Style and Timbre Control in Zero-Shot Text-to-Speech with Disentangled Speech Representations**|Yoonhyung Lee et.al.|[2605.24618](http://arxiv.org/abs/2605.24618)|null|
 |**2026-05-23**|**Me, Myself, and My Voice: Exploring Cultural and Linguistic Identity in AAC AI-generated Voices**|Tobias Weinberg et.al.|[2605.24337](http://arxiv.org/abs/2605.24337)|null|
 |**2026-05-22**|**Natural Yet Challenging to Detect: Robust In-the-Wild TTS through EMA and Dual-Scoring Prompt Selection -- Submission for WildSpoof 2026 TTS Track**|Renhe Sun et.al.|[2605.23859](http://arxiv.org/abs/2605.23859)|null|
