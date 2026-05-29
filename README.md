@@ -1,4 +1,4 @@
-## Updated on 2026.05.27
+## Updated on 2026.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-26**|**PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis**|Bowen Li et.al.|[2605.27258](http://arxiv.org/abs/2605.27258)|null|
+|**2026-05-28**|**HoliTok:A Coutinuous Holistic Tokenization with Robust Dual Capabilities of Speech Generation and Understanding**|Bohan Li et.al.|[2605.29948](http://arxiv.org/abs/2605.29948)|**[link](https://github.com/bovod-sjtu/HoliTok)**|
+|**2026-05-28**|**MELD: Mel-Spectrogram-Based Speech Language Modeling with Discrete Latent Variables**|Sung-Lin Yeh et.al.|[2605.29859](http://arxiv.org/abs/2605.29859)|null|
+|**2026-05-27**|**Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios**|Changhao Pan et.al.|[2605.28618](http://arxiv.org/abs/2605.28618)|null|
+|**2026-05-27**|**Why We Need Speech to Evaluate Speech Translation**|Maike Züfle et.al.|[2605.28227](http://arxiv.org/abs/2605.28227)|null|
+|**2026-05-26**|**Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox**|Jiacheng Pang et.al.|[2605.27772](http://arxiv.org/abs/2605.27772)|null|
+|**2026-05-26**|**UNIQUE: Universal Top-k Sparse Attention for Training-free Inference and Sparsity-aware Training**|Keqi Deng et.al.|[2605.27740](http://arxiv.org/abs/2605.27740)|null|
+|**2026-05-27**|**PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis**|Bowen Li et.al.|[2605.27258](http://arxiv.org/abs/2605.27258)|null|
 |**2026-05-26**|**Learning When to Think While Listening in Large Audio-Language Models**|Zhiyuan Song et.al.|[2605.27190](http://arxiv.org/abs/2605.27190)|null|
 |**2026-05-26**|**PashtoTTS-Bench: automated screening for low-resource non-Latin-script text-to-speech**|Hanif Rahman et.al.|[2605.26978](http://arxiv.org/abs/2605.26978)|null|
 |**2026-05-26**|**Can We Hear from Events? Generating Speech from Event Camera**|Jingping Fang et.al.|[2605.26672](http://arxiv.org/abs/2605.26672)|null|
@@ -1834,5 +1840,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260529>back to top</a>)</p>
 
