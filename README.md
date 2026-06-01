@@ -1,4 +1,4 @@
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-28**|**HoliTok:A Coutinuous Holistic Tokenization with Robust Dual Capabilities of Speech Generation and Understanding**|Bohan Li et.al.|[2605.29948](http://arxiv.org/abs/2605.29948)|**[link](https://github.com/bovod-sjtu/HoliTok)**|
+|**2026-05-29**|**UNISON: A Unified Sound Generation and Editing Framework via Deep LLM Fusion**|Zhaoqing Li et.al.|[2605.31530](http://arxiv.org/abs/2605.31530)|null|
+|**2026-05-29**|**UniAudio-Token: Empowering Semantic Speech Tokenizers with General Audio Perception**|Yuhan Song et.al.|[2605.31521](http://arxiv.org/abs/2605.31521)|null|
+|**2026-05-29**|**TokTalk: Expressive Real-time Facial Animation from Audio-LLM Tokens**|Qingcheng Zhao et.al.|[2605.31294](http://arxiv.org/abs/2605.31294)|null|
+|**2026-05-29**|**MindVoice: Reconstructing Intelligible Speech from Non-invasive Neural Signals with Pretrained Priors**|Guangyin Bao et.al.|[2605.31173](http://arxiv.org/abs/2605.31173)|null|
+|**2026-05-29**|**SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue**|Ruiqi Li et.al.|[2605.30993](http://arxiv.org/abs/2605.30993)|null|
+|**2026-05-29**|**ImmersiveTTS: Environment-Aware Text-to-Speech with Multimodal Diffusion Transformer and Domain-Specific Representation Alignment**|Jun-Hak Yun et.al.|[2605.30965](http://arxiv.org/abs/2605.30965)|null|
+|**2026-05-29**|**Chatterbox-Flash: Prior-Calibrated Block Diffusion for Streaming Zero-Shot TTS**|Deokjin Seo et.al.|[2605.30748](http://arxiv.org/abs/2605.30748)|null|
+|**2026-05-28**|**HoliTok:A Coutinuous Holistic Tokenization with Robust Dual Capabilities of Speech Generation and Understanding**|Bohan Li et.al.|[2605.29948](http://arxiv.org/abs/2605.29948)|null|
 |**2026-05-28**|**MELD: Mel-Spectrogram-Based Speech Language Modeling with Discrete Latent Variables**|Sung-Lin Yeh et.al.|[2605.29859](http://arxiv.org/abs/2605.29859)|null|
 |**2026-05-27**|**Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios**|Changhao Pan et.al.|[2605.28618](http://arxiv.org/abs/2605.28618)|null|
 |**2026-05-27**|**Why We Need Speech to Evaluate Speech Translation**|Maike Züfle et.al.|[2605.28227](http://arxiv.org/abs/2605.28227)|null|
@@ -1840,5 +1847,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
 
