@@ -1,4 +1,4 @@
-## Updated on 2026.06.02
+## Updated on 2026.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,12 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-03**|**FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors**|Sepehr Dehdashtian et.al.|[2606.05101](http://arxiv.org/abs/2606.05101)|null|
+|**2026-06-03**|**CleanCodec: Efficient and Robust Speech Tokenization via Perceptually Guided Encoding**|Eugene Kwek et.al.|[2606.04418](http://arxiv.org/abs/2606.04418)|null|
+|**2026-06-02**|**WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling**|Wenxi Chen et.al.|[2606.03455](http://arxiv.org/abs/2606.03455)|**[link](https://github.com/cwx-worst-one/WavTTS)**|
 |**2026-06-01**|**UniVocal: Unified Speech-Singing Code-Switching Synthesis**|Yufei Shi et.al.|[2606.01677](http://arxiv.org/abs/2606.01677)|null|
 |**2026-05-31**|**Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech**|Hongfei Du et.al.|[2606.01479](http://arxiv.org/abs/2606.01479)|null|
 |**2026-05-30**|**Local Diagnostics of Continuous Normalizing Flow for Out-of-Distribution Detection**|Xinwei Cao et.al.|[2606.00684](http://arxiv.org/abs/2606.00684)|null|
 |**2026-05-30**|**ProactiveLLM: Learning Active Interaction for Streaming Large Language Models**|Junlong Tong et.al.|[2606.00523](http://arxiv.org/abs/2606.00523)|null|
 |**2026-05-29**|**RealityTest: How People Probe AI Identity and Whether Models Disclose It**|Anna Gausen et.al.|[2606.00168](http://arxiv.org/abs/2606.00168)|null|
-|**2026-05-29**|**UNISON: A Unified Sound Generation and Editing Framework via Deep LLM Fusion**|Zhaoqing Li et.al.|[2605.31530](http://arxiv.org/abs/2605.31530)|null|
+|**2026-06-02**|**UNISON: A Unified Sound Generation and Editing Framework via Deep LLM Fusion**|Zhaoqing Li et.al.|[2605.31530](http://arxiv.org/abs/2605.31530)|null|
 |**2026-05-29**|**UniAudio-Token: Empowering Semantic Speech Tokenizers with General Audio Perception**|Yuhan Song et.al.|[2605.31521](http://arxiv.org/abs/2605.31521)|null|
 |**2026-05-29**|**TokTalk: Expressive Real-time Facial Animation from Audio-LLM Tokens**|Qingcheng Zhao et.al.|[2605.31294](http://arxiv.org/abs/2605.31294)|null|
 |**2026-05-29**|**MindVoice: Reconstructing Intelligible Speech from Non-invasive Neural Signals with Pretrained Priors**|Guangyin Bao et.al.|[2605.31173](http://arxiv.org/abs/2605.31173)|null|
@@ -1852,5 +1855,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260604>back to top</a>)</p>
 
