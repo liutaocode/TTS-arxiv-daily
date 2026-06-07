@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.04
+## Updated on 2026.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,9 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**CoSTA: Cognitive-State-Conditioned TTS Data Augmentation Using ASR Transcripts for Alzheimer's Disease Detection**|Yin-Long Liu et.al.|[2606.06170](http://arxiv.org/abs/2606.06170)|null|
+|**2026-06-04**|**GLASS: GRPO-Trained LoRA for Acoustic Style Steering in Zero-Shot Text-to-Speech**|Jaehoon Kang et.al.|[2606.05889](http://arxiv.org/abs/2606.05889)|null|
+|**2026-06-04**|**UniVoice: A Unified Model for Speech and Singing Voice Generation**|Junjie Zheng et.al.|[2606.05852](http://arxiv.org/abs/2606.05852)|null|
+|**2026-06-04**|**Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs**|Gio Paik et.al.|[2606.05846](http://arxiv.org/abs/2606.05846)|null|
+|**2026-06-03**|**Task-Vector Arithmetic for Emotional Expressivity Control in Language-Model-Based Text-to-Speech**|Daniel Oliveira de Brito et.al.|[2606.05367](http://arxiv.org/abs/2606.05367)|null|
 |**2026-06-03**|**FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors**|Sepehr Dehdashtian et.al.|[2606.05101](http://arxiv.org/abs/2606.05101)|null|
 |**2026-06-03**|**CleanCodec: Efficient and Robust Speech Tokenization via Perceptually Guided Encoding**|Eugene Kwek et.al.|[2606.04418](http://arxiv.org/abs/2606.04418)|null|
-|**2026-06-02**|**WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling**|Wenxi Chen et.al.|[2606.03455](http://arxiv.org/abs/2606.03455)|**[link](https://github.com/cwx-worst-one/WavTTS)**|
+|**2026-06-02**|**WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling**|Wenxi Chen et.al.|[2606.03455](http://arxiv.org/abs/2606.03455)|null|
 |**2026-06-01**|**UniVocal: Unified Speech-Singing Code-Switching Synthesis**|Yufei Shi et.al.|[2606.01677](http://arxiv.org/abs/2606.01677)|null|
 |**2026-05-31**|**Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech**|Hongfei Du et.al.|[2606.01479](http://arxiv.org/abs/2606.01479)|null|
 |**2026-05-30**|**Local Diagnostics of Continuous Normalizing Flow for Out-of-Distribution Detection**|Xinwei Cao et.al.|[2606.00684](http://arxiv.org/abs/2606.00684)|null|
