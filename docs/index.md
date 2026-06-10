@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.09
+## Updated on 2026.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning**|Cristian-Teodor Neamtu et.al.|[2606.10758](http://arxiv.org/abs/2606.10758)|null|
+|**2026-06-08**|**LLM can Read Spectrogram: Encoder-free Speech-Language Modeling**|Ruchao Fan et.al.|[2606.10231](http://arxiv.org/abs/2606.10231)|null|
+|**2026-06-08**|**Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders**|Nikita Koriagin et.al.|[2606.10029](http://arxiv.org/abs/2606.10029)|null|
+|**2026-06-08**|**Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech**|Vadim Popov et.al.|[2606.09962](http://arxiv.org/abs/2606.09962)|null|
 |**2026-06-08**|**What Makes Synthetic Speech Sound Sarcastic? A Prosody-Controlled Perception Study**|Zhu Li et.al.|[2606.09717](http://arxiv.org/abs/2606.09717)|null|
 |**2026-06-08**|**Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading**|Eder del Blanco et.al.|[2606.09667](http://arxiv.org/abs/2606.09667)|null|
 |**2026-06-08**|**OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages**|David Guzmán et.al.|[2606.09553](http://arxiv.org/abs/2606.09553)|null|
