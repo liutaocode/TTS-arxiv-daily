@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**Real-Time Language Model Jamming: A Case Study for Live Music Accompaniment Generation**|Bowen Zheng et.al.|[2606.11886](http://arxiv.org/abs/2606.11886)|null|
+|**2026-06-10**|**UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction**|Sangmin Lee et.al.|[2606.11681](http://arxiv.org/abs/2606.11681)|null|
+|**2026-06-10**|**SARA: A Dual-Stream VAE for High-Fidelity Speech Generation via Integrating Semantic and Acoustic Representations**|Peijie Chen et.al.|[2606.11611](http://arxiv.org/abs/2606.11611)|null|
 |**2026-06-09**|**Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning**|Cristian-Teodor Neamtu et.al.|[2606.10758](http://arxiv.org/abs/2606.10758)|null|
 |**2026-06-08**|**LLM can Read Spectrogram: Encoder-free Speech-Language Modeling**|Ruchao Fan et.al.|[2606.10231](http://arxiv.org/abs/2606.10231)|null|
 |**2026-06-08**|**Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders**|Nikita Koriagin et.al.|[2606.10029](http://arxiv.org/abs/2606.10029)|null|
