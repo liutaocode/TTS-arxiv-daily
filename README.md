@@ -1,4 +1,4 @@
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Data-Driven Decoding of Russell's Circumplex Model of Affect**|Amdjed Belaref et.al.|[2606.16843](http://arxiv.org/abs/2606.16843)|null|
+|**2026-06-15**|**CraBERT: Efficient Phoneme Encoder Pre-Training via Cascade Fusion of Subword Representations for Text-to-Speech**|Dong Yang et.al.|[2606.16668](http://arxiv.org/abs/2606.16668)|null|
+|**2026-06-15**|**Joycent: Diffusion-based Accent TTS without Accented Phone Prediction**|Xintong Wang et.al.|[2606.16417](http://arxiv.org/abs/2606.16417)|null|
+|**2026-06-13**|**Dynamic Prosody Prediction in LLM-based TTS for Improving Speaker Similarity**|Zhenwei Mou et.al.|[2606.15267](http://arxiv.org/abs/2606.15267)|null|
+|**2026-06-13**|**DuraMark: Duration-Embedded Watermarking in LLM-based TTS**|Zhenwei Mou et.al.|[2606.15264](http://arxiv.org/abs/2606.15264)|null|
+|**2026-06-13**|**VoxWatermark: A Large-Scale Benchmark for Audio Watermark Detection under Perturbations**|Farnaz Sedaghati et.al.|[2606.15187](http://arxiv.org/abs/2606.15187)|null|
+|**2026-06-12**|**An Empirical Study on Learning Latent Representations for Emotional Speech Synthesis**|Vinh Dang Quang et.al.|[2606.14922](http://arxiv.org/abs/2606.14922)|null|
 |**2026-06-12**|**From Self-Supervised Speech Models to Mixture-of-Experts for Robust Anti-Spoofing**|Hugo Daumain et.al.|[2606.14639](http://arxiv.org/abs/2606.14639)|null|
 |**2026-06-12**|**Unsupervised Approaches for Global Prosodic Embedding Extraction**|Martin Meza et.al.|[2606.14004](http://arxiv.org/abs/2606.14004)|null|
 |**2026-06-12**|**Mask, Sample, Revise: A Revisable CTMC Inference Stack for Guided Discrete Flow Matching Text-to-Speech**|Alef Iury Siqueira Ferreira et.al.|[2606.13989](http://arxiv.org/abs/2606.13989)|null|
@@ -1893,5 +1900,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260616>back to top</a>)</p>
 
