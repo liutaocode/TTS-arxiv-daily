@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-15**|**Probing Low Frame Rate Degradation in Neural Audio Codecs**|Alex Gichamba et.al.|[2606.16969](http://arxiv.org/abs/2606.16969)|null|
 |**2026-06-15**|**Data-Driven Decoding of Russell's Circumplex Model of Affect**|Amdjed Belaref et.al.|[2606.16843](http://arxiv.org/abs/2606.16843)|null|
 |**2026-06-15**|**CraBERT: Efficient Phoneme Encoder Pre-Training via Cascade Fusion of Subword Representations for Text-to-Speech**|Dong Yang et.al.|[2606.16668](http://arxiv.org/abs/2606.16668)|null|
 |**2026-06-15**|**Joycent: Diffusion-based Accent TTS without Accented Phone Prediction**|Xintong Wang et.al.|[2606.16417](http://arxiv.org/abs/2606.16417)|null|
