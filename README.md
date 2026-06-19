@@ -1,4 +1,4 @@
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech**|Nityanand Mathur et.al.|[2606.20532](http://arxiv.org/abs/2606.20532)|null|
+|**2026-06-18**|**FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS**|Harshit Singh et.al.|[2606.20518](http://arxiv.org/abs/2606.20518)|null|
+|**2026-06-18**|**Repurposing a Speech Classifier for Guided Diffusion-Based Speech Generation**|Rostislav Makarov et.al.|[2606.20457](http://arxiv.org/abs/2606.20457)|null|
+|**2026-06-18**|**Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning**|SooHwan Eom et.al.|[2606.20266](http://arxiv.org/abs/2606.20266)|null|
+|**2026-06-18**|**ReNikud: Audio-Supervised Hebrew Grapheme-to-Phoneme Conversion**|Maxim Melichov et.al.|[2606.20179](http://arxiv.org/abs/2606.20179)|null|
+|**2026-06-18**|**PASQA: Pitch-Accent-Focused Speech Quality Assessment Model Trained on Synthetic Speech with Accent Errors**|Masaya Kawamura et.al.|[2606.20137](http://arxiv.org/abs/2606.20137)|null|
+|**2026-06-18**|**Interpreting Content and Speaker Characteristics in Factorised Self-Supervised Subspaces**|Kyle Janse van Rensburg et.al.|[2606.19974](http://arxiv.org/abs/2606.19974)|null|
+|**2026-06-18**|**Investigating Human-Model Discrepancies in Speech Quality Assessment via Acoustic and Prosodic Perturbations**|Masato Takagi et.al.|[2606.19951](http://arxiv.org/abs/2606.19951)|null|
+|**2026-06-18**|**PhysDrift: Bridging the Embodiment Gap in Humanoid Co-Speech Motion Generation**|Zhangzhao Liang et.al.|[2606.19935](http://arxiv.org/abs/2606.19935)|null|
+|**2026-06-18**|**Exploring Pre-training Benefits on Phoneme Addition through Fine-tuning in Speech Synthesis**|Masato Murata et.al.|[2606.19792](http://arxiv.org/abs/2606.19792)|null|
 |**2026-06-17**|**FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech**|Shuoyi Zhou et.al.|[2606.19209](http://arxiv.org/abs/2606.19209)|null|
 |**2026-06-17**|**Generating Natural and Expressive Robot Gestures through Iterative Reinforcement Learning with Human Feedback using LLMs**|Chris Lee et.al.|[2606.18747](http://arxiv.org/abs/2606.18747)|null|
 |**2026-06-17**|**GRIDEX: Grid-Grounded Forensic Explanations for Deepfake Spectrogram Analysis**|Thi Ngan Ha Do et.al.|[2606.18738](http://arxiv.org/abs/2606.18738)|null|
@@ -1910,5 +1920,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260619>back to top</a>)</p>
 
