@@ -1,4 +1,4 @@
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-20**|**Benchmarking Large Language Models for Grapheme-to-Phoneme Conversion: A Japanese Case Study**|Tomoki Koriyama et.al.|[2606.22009](http://arxiv.org/abs/2606.22009)|null|
+|**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933](http://arxiv.org/abs/2606.21933)|null|
+|**2026-06-20**|**ProsoCodec: Prosody-Oriented Speech Codec for Voice Conversion**|Jeongsoo Choi et.al.|[2606.21888](http://arxiv.org/abs/2606.21888)|null|
+|**2026-06-20**|**Streaming T5-based Text-to-Speech Synthesis with Limited Lookahead**|Muyang Du et.al.|[2606.21882](http://arxiv.org/abs/2606.21882)|null|
+|**2026-06-19**|**DisSpeech: Low-Resource Controllable Mandarin Stuttered Speech Synthesis for ASR Augmentation**|Yao Lu et.al.|[2606.21457](http://arxiv.org/abs/2606.21457)|null|
+|**2026-06-19**|**LambdaMark: Semantic Audio Watermarking for Robustness and Radioactivity**|Kexin Li et.al.|[2606.21365](http://arxiv.org/abs/2606.21365)|null|
+|**2026-06-19**|**An Evaluation Framework for Text-to-Speech Voice Reconstruction**|Ariadna Sanchez et.al.|[2606.21343](http://arxiv.org/abs/2606.21343)|null|
+|**2026-06-19**|**Synthetic Audio Generation Framework for Air Traffic Control Speech Recognition**|Raphaël Bagat et.al.|[2606.21340](http://arxiv.org/abs/2606.21340)|null|
+|**2026-06-19**|**Speaker Identity in Non-Verbal Vocalizations: Conditional Distillation and Mixture of Experts Approach**|Tzu-Chieh Wei et.al.|[2606.21215](http://arxiv.org/abs/2606.21215)|null|
+|**2026-06-19**|**Imitation Learning for Elder-Facing Speech Synthesis**|Dongrui Han et.al.|[2606.21053](http://arxiv.org/abs/2606.21053)|null|
 |**2026-06-18**|**How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech**|Nityanand Mathur et.al.|[2606.20532](http://arxiv.org/abs/2606.20532)|null|
 |**2026-06-18**|**FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS**|Harshit Singh et.al.|[2606.20518](http://arxiv.org/abs/2606.20518)|null|
 |**2026-06-18**|**Repurposing a Speech Classifier for Guided Diffusion-Based Speech Generation**|Rostislav Makarov et.al.|[2606.20457](http://arxiv.org/abs/2606.20457)|null|
@@ -1920,5 +1930,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
 
