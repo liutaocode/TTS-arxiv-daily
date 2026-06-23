@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection**|Nicolas M. Müller et.al.|[2606.23335](http://arxiv.org/abs/2606.23335)|null|
+|**2026-06-22**|**On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models**|Shunsuke Kando et.al.|[2606.23285](http://arxiv.org/abs/2606.23285)|null|
+|**2026-06-22**|**FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech**|Haoxu Wang et.al.|[2606.23190](http://arxiv.org/abs/2606.23190)|null|
+|**2026-06-22**|**Synthesizing the Lombard Effect: Multi-Level Control of Speech Clarity and Vocal Effort in TTS**|Seymanur Akti et.al.|[2606.23176](http://arxiv.org/abs/2606.23176)|null|
+|**2026-06-22**|**Bagpiper-TTS: Natural Language Guided Universal Speech Synthesis**|Jinchuan Tian et.al.|[2606.22811](http://arxiv.org/abs/2606.22811)|null|
 |**2026-06-20**|**Benchmarking Large Language Models for Grapheme-to-Phoneme Conversion: A Japanese Case Study**|Tomoki Koriyama et.al.|[2606.22009](http://arxiv.org/abs/2606.22009)|null|
 |**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933](http://arxiv.org/abs/2606.21933)|null|
 |**2026-06-20**|**ProsoCodec: Prosody-Oriented Speech Codec for Voice Conversion**|Jeongsoo Choi et.al.|[2606.21888](http://arxiv.org/abs/2606.21888)|null|
