@@ -1914,8 +1914,8 @@ layout: default
 |**2023-08-28**|**Adversarial Learning of Intermediate Acoustic Feature for End-to-End Lightweight Text-to-Speech**|Hyungchan Yoon et.al.|[2204.02172](http://arxiv.org/abs/2204.02172)|null|
 |**2022-09-07**|**Deliberation Model for On-Device Spoken Language Understanding**|Duc Le et.al.|[2204.01893](http://arxiv.org/abs/2204.01893)|null|
 |**2022-12-14**|**Anti-Spoofing Using Transfer Learning with Variational Information Bottleneck**|Youngsik Eom et.al.|[2204.01387](http://arxiv.org/abs/2204.01387)|null|
-|**2022-11-11**|**Content-Dependent Fine-Grained Speaker Embedding for Zero-Shot Speaker Adaptation in Text-to-Speech Synthesis**|Yixuan Zhou et.al.|[2204.00990](http://arxiv.org/abs/2204.00990)|null|
-|**2022-06-30**|**VQTTS: High-Fidelity Text-to-Speech Synthesis with Self-Supervised VQ Acoustic Feature**|Chenpeng Du et.al.|[2204.00768](http://arxiv.org/abs/2204.00768)|null|
+|**2022-11-11**|**Content-Dependent Fine-Grained Speaker Embedding for Zero-Shot Speaker Adaptation in Text-to-Speech Synthesis**|Yixuan Zhou et.al.|[2204.00990](http://arxiv.org/abs/2204.00990)|**[link](https://github.com/Labmem-Zhouyx/CDFSE_FastSpeech2)**|
+|**2022-06-30**|**VQTTS: High-Fidelity Text-to-Speech Synthesis with Self-Supervised VQ Acoustic Feature**|Chenpeng Du et.al.|[2204.00768](http://arxiv.org/abs/2204.00768)|**[link](https://github.com/rishikksh20/VQ-TTS-pytorch)**|
 |**2022-04-01**|**AdaSpeech 4: Adaptive Text to Speech in Zero-Shot Scenarios**|Yihan Wu et.al.|[2204.00436](http://arxiv.org/abs/2204.00436)|null|
 |**2022-04-01**|**Text-To-Speech Data Augmentation for Low Resource Speech Recognition**|Rodolfo Zevallos et.al.|[2204.00291](http://arxiv.org/abs/2204.00291)|null|
 |**2022-07-19**|**Mixed-Phoneme BERT: Improving BERT with Mixed Phoneme and Sup-Phoneme Representations for Text to Speech**|Guangyan Zhang et.al.|[2203.17190](http://arxiv.org/abs/2203.17190)|null|
