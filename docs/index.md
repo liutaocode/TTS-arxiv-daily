@@ -12,7 +12,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-06-29**|**DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information**|Roland Roller et.al.|[2606.30312](http://arxiv.org/abs/2606.30312)|null|
-|**2026-06-29**|**FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars**|Habin Lim et.al.|[2606.30145](http://arxiv.org/abs/2606.30145)|null|
+|**2026-06-29**|**FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars**|Habin Lim et.al.|[2606.30145](http://arxiv.org/abs/2606.30145)|**[link](https://github.com/hahminlew/faceplex)**|
 |**2026-06-28**|**VeRe-Flow: Guiding Flow Matching toward Clean Speech via Velocity Contrastive Regularization and Representation Alignment for Noise-Robust Bandwidth Expansion**|Sujin Koo et.al.|[2606.29450](http://arxiv.org/abs/2606.29450)|null|
 |**2026-06-27**|**How to Leverage Synthetic Speech for LLM-Based ASR Systems?**|Yanis Labrak et.al.|[2606.29031](http://arxiv.org/abs/2606.29031)|null|
 |**2026-06-26**|**HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech**|Sihang Nie et.al.|[2606.28249](http://arxiv.org/abs/2606.28249)|null|
