@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.03
+## Updated on 2026.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -12,7 +12,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-07-02**|**VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval**|Cristian-Gabriel Florea et.al.|[2607.02371](http://arxiv.org/abs/2607.02371)|null|
-|**2026-07-02**|**Towards a Phonology-Informed Evaluation of Multilingual TTS**|Sneha Ray Barman et.al.|[2607.01965](http://arxiv.org/abs/2607.01965)|null|
+|**2026-07-02**|**Towards a Phonology-Informed Evaluation of Multilingual TTS**|Sneha Ray Barman et.al.|[2607.01965](http://arxiv.org/abs/2607.01965)|**[link](https://github.com/snehagitrep/TTSEvalVH_interspeech2026)**|
 |**2026-07-02**|**Enhancing Acoustic-to-Articulatory Inversion with Multi-Target Pretraining for Low-Resource Settings**|Jesuraj Bandekar et.al.|[2607.01594](http://arxiv.org/abs/2607.01594)|null|
 |**2026-07-01**|**A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models**|Siyi Wang et.al.|[2607.00946](http://arxiv.org/abs/2607.00946)|null|
 |**2026-07-01**|**Enhancing Flow Matching with A Unified Guidance Framework for Efficient and Robust Speech Synthesis**|Zuda Yu et.al.|[2607.00363](http://arxiv.org/abs/2607.00363)|null|
