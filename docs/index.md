@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,9 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-07**|**Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis**|Ho-Lam Chung et.al.|[2607.06027](http://arxiv.org/abs/2607.06027)|null|
 |**2026-07-06**|**ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions**|Thomas Thebaud et.al.|[2607.05276](http://arxiv.org/abs/2607.05276)|null|
 |**2026-07-06**|**Streaming Neural Speech Codecs through Time-Invariant Representations**|Kélian Estève et.al.|[2607.05250](http://arxiv.org/abs/2607.05250)|null|
-|**2026-07-06**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
+|**2026-07-07**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
 |**2026-07-05**|**Towards Digital Preservation of Efik: TTS for a Low-Resource African Language**|Offiong Bassey Edet et.al.|[2607.04515](http://arxiv.org/abs/2607.04515)|null|
 |**2026-07-05**|**DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech**|Junwon Moon et.al.|[2607.04140](http://arxiv.org/abs/2607.04140)|null|
 |**2026-07-04**|**NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization**|Meiying Melissa Chen et.al.|[2607.03985](http://arxiv.org/abs/2607.03985)|null|
