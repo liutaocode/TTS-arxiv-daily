@@ -1202,7 +1202,7 @@ layout: default
 |**2024-11-12**|**Improving Grapheme-to-Phoneme Conversion through In-Context Knowledge Retrieval with Large Language Models**|Dongrui Han et.al.|[2411.07563](http://arxiv.org/abs/2411.07563)|null|
 |**2024-11-11**|**Enhancing Accessibility in Special Libraries: A Study on AI-Powered Assistive Technologies for Patrons with Disabilities**|Snehasish Paul Shivali Chauhan et.al.|[2411.06970](http://arxiv.org/abs/2411.06970)|null|
 |**2024-11-10**|**Debatts: Zero-Shot Debating Text-to-Speech Synthesis**|Yiqiao Huang et.al.|[2411.06540](http://arxiv.org/abs/2411.06540)|null|
-|**2024-11-07**|**CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR**|Kadir Burak Buldu et.al.|[2411.04671](http://arxiv.org/abs/2411.04671)|null|
+|**2024-11-07**|**CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR**|Kadir Burak Buldu et.al.|[2411.04671](http://arxiv.org/abs/2411.04671)|**[link](https://github.com/youssefmazenn/cuify2)**|
 |**2024-11-04**|**EmoSphere++: Emotion-Controllable Zero-Shot Text-to-Speech via Emotion-Adaptive Spherical Vector**|Deok-Hyeon Cho et.al.|[2411.02625](http://arxiv.org/abs/2411.02625)|**[link](https://github.com/Choddeok/EmoSpherepp)**|
 |**2024-11-09**|**Fish-Speech: Leveraging Large Language Models for Advanced Multilingual Text-to-Speech Synthesis**|Shijia Liao et.al.|[2411.01156](http://arxiv.org/abs/2411.01156)|**[link](https://github.com/fishaudio/fish-speech)**|
 |**2024-10-31**|**Speech is More Than Words: Do Speech-to-Text Translation Systems Leverage Prosody?**|Ioannis Tsiamas et.al.|[2410.24019](http://arxiv.org/abs/2410.24019)|null|
@@ -1625,12 +1625,12 @@ layout: default
 |**2023-07-31**|**Comparing normalizing flows and diffusion models for prosody and acoustic modelling in text-to-speech**|Guangyan Zhang et.al.|[2307.16679](http://arxiv.org/abs/2307.16679)|null|
 |**2023-07-31**|**Improving grapheme-to-phoneme conversion by learning pronunciations from speech recordings**|Manuel Sam Ribeiro et.al.|[2307.16643](http://arxiv.org/abs/2307.16643)|null|
 |**2023-07-31**|**DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training**|Hyung-Seok Oh et.al.|[2307.16549](http://arxiv.org/abs/2307.16549)|**[link](https://github.com/hsoh0306/diffprosody)**|
-|**2023-07-31**|**VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design**|Jungil Kong et.al.|[2307.16430](http://arxiv.org/abs/2307.16430)|null|
+|**2023-07-31**|**VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design**|Jungil Kong et.al.|[2307.16430](http://arxiv.org/abs/2307.16430)|**[link](https://github.com/daniilrobnikov/vits2)**|
 |**2023-07-30**|**Improving TTS for Shanghainese: Addressing Tone Sandhi via Word Segmentation**|Yuanhao Chen et.al.|[2307.16199](http://arxiv.org/abs/2307.16199)|**[link](https://github.com/edward-martyr/shanghainese-tts)**|
-|**2023-07-29**|**METTS: Multilingual Emotional Text-to-Speech by Cross-speaker and Cross-lingual Emotion Transfer**|Xinfa Zhu et.al.|[2307.15951](http://arxiv.org/abs/2307.15951)|null|
+|**2023-07-29**|**METTS: Multilingual Emotional Text-to-Speech by Cross-speaker and Cross-lingual Emotion Transfer**|Xinfa Zhu et.al.|[2307.15951](http://arxiv.org/abs/2307.15951)|**[link](https://github.com/wownaoh9/METTS-pytorch)**|
 |**2023-12-18**|**Minimally-Supervised Speech Synthesis with Conditional Diffusion Model and Language Model: A Comparative Study of Semantic Coding**|Chunyu Qiang et.al.|[2307.15484](http://arxiv.org/abs/2307.15484)|null|
 |**2023-07-20**|**SC VALL-E: Style-Controllable Zero-Shot Text to Speech Synthesizer**|Daegyeom Kim et.al.|[2307.10550](http://arxiv.org/abs/2307.10550)|**[link](https://github.com/0913ktg/sc_vall-e)**|
-|**2023-07-18**|**SLMGAN: Exploiting Speech Language Model Representations for Unsupervised Zero-Shot Voice Conversion in GANs**|Yinghao Aaron Li et.al.|[2307.09435](http://arxiv.org/abs/2307.09435)|null|
+|**2023-07-18**|**SLMGAN: Exploiting Speech Language Model Representations for Unsupervised Zero-Shot Voice Conversion in GANs**|Yinghao Aaron Li et.al.|[2307.09435](http://arxiv.org/abs/2307.09435)|**[link](https://github.com/yl4579/SLMGAN)**|
 |**2023-09-28**|**Mega-TTS 2: Zero-Shot Text-to-Speech with Arbitrary Length Speech Prompts**|Ziyue Jiang et.al.|[2307.07218](http://arxiv.org/abs/2307.07218)|null|
 |**2023-07-13**|**Controllable Emphasis with zero data for text-to-speech**|Arnaud Joly et.al.|[2307.07062](http://arxiv.org/abs/2307.07062)|null|
 |**2023-07-11**|**On the Use of Self-Supervised Speech Representations in Spontaneous Speech Synthesis**|Siyang Wang et.al.|[2307.05132](http://arxiv.org/abs/2307.05132)|null|

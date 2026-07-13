@@ -326,7 +326,7 @@
 |**2026-02-25**|**The Design Space of Tri-Modal Masked Diffusion Models**|Louis Bethune et.al.|[2602.21472](http://arxiv.org/abs/2602.21472)|null|
 |**2026-02-23**|**Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios**|Zoha Hayat Bhatti et.al.|[2602.20061](http://arxiv.org/abs/2602.20061)|null|
 |**2026-02-23**|**CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment**|Hanwen Liu et.al.|[2602.19574](http://arxiv.org/abs/2602.19574)|null|
-|**2026-02-19**|**CC-G2PnP: Streaming Grapheme-to-Phoneme and prosody with Conformer-CTC for unsegmented languages**|Yuma Shirahata et.al.|[2602.17157](http://arxiv.org/abs/2602.17157)|null|
+|**2026-02-19**|**CC-G2PnP: Streaming Grapheme-to-Phoneme and prosody with Conformer-CTC for unsegmented languages**|Yuma Shirahata et.al.|[2602.17157](http://arxiv.org/abs/2602.17157)|**[link](https://github.com/ayutaz/cc-g2pnp)**|
 |**2026-02-18**|**How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection**|Yixuan Xiao et.al.|[2602.16343](http://arxiv.org/abs/2602.16343)|null|
 |**2026-02-17**|**LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models**|Ahmed Khaled Khamis et.al.|[2602.15675](http://arxiv.org/abs/2602.15675)|null|
 |**2026-02-17**|**UniTAF: A Modular Framework for Joint Text-to-Speech and Audio-to-Face Modeling**|Qiangong Zhou et.al.|[2602.15651](http://arxiv.org/abs/2602.15651)|null|
@@ -533,7 +533,7 @@
 |**2025-11-18**|**Ground Truth Generation for Multilingual Historical NLP using LLMs**|Clovis Gladstone et.al.|[2511.14688](http://arxiv.org/abs/2511.14688)|null|
 |**2025-11-18**|**TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation**|Wei Liu et.al.|[2511.14410](http://arxiv.org/abs/2511.14410)|null|
 |**2025-11-18**|**AfriSpeech-MultiBench: A Verticalized Multidomain Multicountry Benchmark Suite for African Accented English ASR**|Gabrial Zencha Ashungafac et.al.|[2511.14255](http://arxiv.org/abs/2511.14255)|null|
-|**2025-11-18**|**Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning**|Rui Liu et.al.|[2511.14249](http://arxiv.org/abs/2511.14249)|null|
+|**2025-11-18**|**Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning**|Rui Liu et.al.|[2511.14249](http://arxiv.org/abs/2511.14249)|**[link](https://github.com/AI-S2-Lab/Authentic-Dubber)**|
 |**2025-11-18**|**StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model**|Yifan Yang et.al.|[2511.14223](http://arxiv.org/abs/2511.14223)|null|
 |**2025-11-18**|**FxSearcher: gradient-free text-driven audio transformation**|Hojoon Ki et.al.|[2511.14138](http://arxiv.org/abs/2511.14138)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
@@ -1513,7 +1513,7 @@
 |**2024-01-01**|**Normalization of Lithuanian Text Using Regular Expressions**|Pijus Kasparaitis et.al.|[2312.17660](http://arxiv.org/abs/2312.17660)|null|
 |**2023-12-27**|**AE-Flow: AutoEncoder Normalizing Flow**|Jakub Mosiński et.al.|[2312.16552](http://arxiv.org/abs/2312.16552)|null|
 |**2023-12-22**|**Creating New Voices using Normalizing Flows**|Piotr Bilinski et.al.|[2312.14569](http://arxiv.org/abs/2312.14569)|null|
-|**2023-12-22**|**ZMM-TTS: Zero-shot Multilingual and Multispeaker Speech Synthesis Conditioned on Self-supervised Discrete Speech Representations**|Cheng Gong et.al.|[2312.14398](http://arxiv.org/abs/2312.14398)|null|
+|**2023-12-22**|**ZMM-TTS: Zero-shot Multilingual and Multispeaker Speech Synthesis Conditioned on Self-supervised Discrete Speech Representations**|Cheng Gong et.al.|[2312.14398](http://arxiv.org/abs/2312.14398)|**[link](https://github.com/nii-yamagishilab/ZMM-TTS)**|
 |**2023-12-19**|**External Knowledge Augmented Polyphone Disambiguation Using Large Language Model**|Chen Li et.al.|[2312.11920](http://arxiv.org/abs/2312.11920)|null|
 |**2023-12-17**|**A review-based study on different Text-to-Speech technologies**|Md. Jalal Uddin Chowdhury et.al.|[2312.11563](http://arxiv.org/abs/2312.11563)|null|
 |**2024-01-31**|**MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**|Wenhao Guan et.al.|[2312.10687](http://arxiv.org/abs/2312.10687)|null|
