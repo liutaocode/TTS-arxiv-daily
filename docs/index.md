@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,12 +11,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-12**|**Data Augmentation for L2 English Speaking Assessment using TTS**|Stefano Bannò et.al.|[2607.10790](http://arxiv.org/abs/2607.10790)|**[link](https://github.com/sbanno/l2-synthetic-speech)**|
+|**2026-07-10**|**Evaluating AI Models' Capability to Automate Voice Phishing Attacks**|Fred Heiding et.al.|[2607.09970](http://arxiv.org/abs/2607.09970)|null|
+|**2026-07-10**|**Generative Testing of Automated Speech Recognition Systems**|Yanis Xabier Wilbrand Peña et.al.|[2607.09833](http://arxiv.org/abs/2607.09833)|null|
 |**2026-07-10**|**FreyaTTS Technical Report**|Ahmet Erdem Pamuk et.al.|[2607.09530](http://arxiv.org/abs/2607.09530)|null|
 |**2026-07-10**|**ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models**|Sang-Hoon Lee et.al.|[2607.09134](http://arxiv.org/abs/2607.09134)|null|
 |**2026-07-09**|**When Synthetic Speech Is All You Have: Better Call GRPO**|Shashi Kumar et.al.|[2607.08409](http://arxiv.org/abs/2607.08409)|null|
 |**2026-07-09**|**Best-of- $N$ TTS Evaluation is Confounded by ASR Family Alignment**|Taehyung Yu et.al.|[2607.08256](http://arxiv.org/abs/2607.08256)|null|
 |**2026-07-09**|**Diarization-Guided Qwen-ASR Adaptation for Multilingual Two-Speaker Conversational Speech**|Hao Wu et.al.|[2607.08208](http://arxiv.org/abs/2607.08208)|null|
-|**2026-07-08**|**Text-Independent Speaker Verification Using Discrete Audio Tokens**|Zheng Liang et.al.|[2607.07579](http://arxiv.org/abs/2607.07579)|null|
+|**2026-07-11**|**Text-Independent Speaker Verification Using Discrete Audio Tokens**|Zheng Liang et.al.|[2607.07579](http://arxiv.org/abs/2607.07579)|null|
 |**2026-07-08**|**MMGenre: Benchmarking Singing Voice Synthesis across Multiple Musical Genres**|Wenhao Feng et.al.|[2607.06986](http://arxiv.org/abs/2607.06986)|null|
 |**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
 |**2026-07-07**|**Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis**|Ho-Lam Chung et.al.|[2607.06027](http://arxiv.org/abs/2607.06027)|null|
