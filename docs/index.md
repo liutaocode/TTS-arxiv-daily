@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.16
+## Updated on 2026.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**RW-Voice-EQ Bench: A Real World Benchmark for Evaluating Voice AI Systems**|David Ayllon et.al.|[2607.14846](http://arxiv.org/abs/2607.14846)|null|
+|**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753](http://arxiv.org/abs/2607.14753)|null|
 |**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-14**|**Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction**|Mattia Tamiazzo et.al.|[2607.12584](http://arxiv.org/abs/2607.12584)|null|
 |**2026-07-14**|**A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential**|Gendo Kumoi et.al.|[2607.12235](http://arxiv.org/abs/2607.12235)|null|
