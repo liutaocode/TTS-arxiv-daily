@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-20**|**Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer**|Shengfan Shen et.al.|[2607.17900](http://arxiv.org/abs/2607.17900)|null|
+|**2026-07-20**|**SSTMark: Robust Training-Free Semantic-Level Speech Watermarking**|Kuan-Lin Chu et.al.|[2607.17592](http://arxiv.org/abs/2607.17592)|null|
+|**2026-07-18**|**VisionAssist: An Open-Source Smartphone Assistant for AI-Based Visual Accessibility**|Ayşe Özlem Çalışkan et.al.|[2607.16750](http://arxiv.org/abs/2607.16750)|null|
 |**2026-07-17**|**AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2607.15755](http://arxiv.org/abs/2607.15755)|null|
 |**2026-07-16**|**RW-Voice-EQ Bench: A Real World Benchmark for Evaluating Voice AI Systems**|David Ayllon et.al.|[2607.14846](http://arxiv.org/abs/2607.14846)|null|
 |**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753](http://arxiv.org/abs/2607.14753)|null|
