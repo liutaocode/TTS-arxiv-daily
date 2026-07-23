@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.22
+## Updated on 2026.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-22**|**ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program**|Mengtian Li et.al.|[2607.19947](http://arxiv.org/abs/2607.19947)|null|
+|**2026-07-22**|**Efficient Chain-of-Modality Reasoning via Progressive Compression for Spoken Language Models**|Pengchao Feng et.al.|[2607.19932](http://arxiv.org/abs/2607.19932)|null|
+|**2026-07-22**|**StellarTTS: Sparse Temporal Embedding for Low-Latency and Robust Speech Synthesis**|Kaicheng Luo et.al.|[2607.19859](http://arxiv.org/abs/2607.19859)|null|
 |**2026-07-19**|**Staged Depth-Pruning Distillation of a Flow-Matching Text-to-Speech Teacher: A Compact Hindi Speech Synthesizer**|Sivateja Trikutam et.al.|[2607.18662](http://arxiv.org/abs/2607.18662)|null|
 |**2026-07-21**|**CS-ETS: Chaos-Inspired Samba-Based EMG-To-Speech Synthesis with Nonlinear Chaotic Losses**|Sajid Fardin Dipto et.al.|[2607.18629](http://arxiv.org/abs/2607.18629)|null|
 |**2026-07-17**|**A Situational Speech Synthesizer for Yoruba: System Design, Phonological Rule Architecture, and Orthographic Extensions for Contour**|Kola Tubosun et.al.|[2607.18317](http://arxiv.org/abs/2607.18317)|null|
