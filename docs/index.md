@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.23
+## Updated on 2026.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores**|Viola Negroni et.al.|[2607.21127](http://arxiv.org/abs/2607.21127)|null|
+|**2026-07-23**|**Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs**|Muyang Du et.al.|[2607.21042](http://arxiv.org/abs/2607.21042)|null|
 |**2026-07-22**|**ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program**|Mengtian Li et.al.|[2607.19947](http://arxiv.org/abs/2607.19947)|null|
 |**2026-07-22**|**Efficient Chain-of-Modality Reasoning via Progressive Compression for Spoken Language Models**|Pengchao Feng et.al.|[2607.19932](http://arxiv.org/abs/2607.19932)|null|
 |**2026-07-22**|**StellarTTS: Sparse Temporal Embedding for Low-Latency and Robust Speech Synthesis**|Kaicheng Luo et.al.|[2607.19859](http://arxiv.org/abs/2607.19859)|null|
