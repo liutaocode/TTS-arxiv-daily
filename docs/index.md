@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Cycles of Discourse, Speech Dysfluency, and Active Inference**|Thomas Parr et.al.|[2607.22180](http://arxiv.org/abs/2607.22180)|null|
+|**2026-07-24**|**VisionPulse: A Virtual Reality System Enabling Accessible Discovery and Navigation for Blind and Low Vision Users**|Samuel Martin et.al.|[2607.21944](http://arxiv.org/abs/2607.21944)|null|
 |**2026-07-23**|**Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores**|Viola Negroni et.al.|[2607.21127](http://arxiv.org/abs/2607.21127)|null|
 |**2026-07-23**|**Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs**|Muyang Du et.al.|[2607.21042](http://arxiv.org/abs/2607.21042)|null|
 |**2026-07-22**|**ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program**|Mengtian Li et.al.|[2607.19947](http://arxiv.org/abs/2607.19947)|null|
