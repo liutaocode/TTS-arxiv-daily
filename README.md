@@ -1,4 +1,4 @@
-## Updated on 2026.07.26
+## Updated on 2026.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -425,7 +425,7 @@
 |**2026-01-09**|**Pantagruel: Unified Self-Supervised Encoders for French Text and Speech**|Phuong-Hang Le et.al.|[2601.05911](http://arxiv.org/abs/2601.05911)|null|
 |**2026-01-14**|**Afri-MCQA: Multimodal Cultural Question Answering for African Languages**|Atnafu Lambebo Tonja et.al.|[2601.05699](http://arxiv.org/abs/2601.05699)|null|
 |**2026-01-09**|**SPAM: Style Prompt Adherence Metric for Prompt-based TTS**|Chanhee Cho et.al.|[2601.05554](http://arxiv.org/abs/2601.05554)|null|
-|**2026-01-08**|**CosyEdit: Unlocking End-to-End Speech Editing Capability from Zero-Shot Text-to-Speech Models**|Junyang Chen et.al.|[2601.05329](http://arxiv.org/abs/2601.05329)|null|
+|**2026-01-08**|**CosyEdit: Unlocking End-to-End Speech Editing Capability from Zero-Shot Text-to-Speech Models**|Junyang Chen et.al.|[2601.05329](http://arxiv.org/abs/2601.05329)|**[link](https://github.com/CJY1018/CosyEdit)**|
 |**2026-01-08**|**FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions**|Dekun Chen et.al.|[2601.04656](http://arxiv.org/abs/2601.04656)|null|
 |**2026-01-08**|**LLMs-Integrated Automatic Hate Speech Recognition Using Controllable Text Generation Models**|Ryutaro Oshima et.al.|[2601.04654](http://arxiv.org/abs/2601.04654)|null|
 |**2026-01-07**|**SpeakerSleuth: Evaluating Large Audio-Language Models as Judges for Multi-turn Speaker Consistency**|Jonggeun Lee et.al.|[2601.04029](http://arxiv.org/abs/2601.04029)|null|
@@ -1994,5 +1994,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260726>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260727>back to top</a>)</p>
 
