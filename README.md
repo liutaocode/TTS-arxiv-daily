@@ -1,4 +1,4 @@
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,8 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**VocalRender: Score-Native Singing Voice Synthesis for Real-World Composition**|Yukun Chen et.al.|[2607.27768](http://arxiv.org/abs/2607.27768)|null|
 |**2026-07-29**|**Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model**|Carlos Muñoz-Romero et.al.|[2607.26742](http://arxiv.org/abs/2607.26742)|null|
-|**2026-07-29**|**MPEcho: A Melody and Phoneme-Aware Generative Framework for Controllable Cover Song Generation**|Wei-Jaw Lee et.al.|[2607.26698](http://arxiv.org/abs/2607.26698)|**[link](https://github.com/YatingMusic/MPEcho)**|
+|**2026-07-29**|**MPEcho: A Melody and Phoneme-Aware Generative Framework for Controllable Cover Song Generation**|Wei-Jaw Lee et.al.|[2607.26698](http://arxiv.org/abs/2607.26698)|**[link](https://github.com/YatingMusic/Phonsa)**|
 |**2026-07-28**|**Extracting Voice Styles from Frozen TTS Models via Gradient-Based Inverse Optimization**|Gyeongmin Kim et.al.|[2607.25351](http://arxiv.org/abs/2607.25351)|null|
 |**2026-07-27**|**Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis**|Yifan Hu et.al.|[2607.24430](http://arxiv.org/abs/2607.24430)|**[link](https://github.com/walker-hyf/FacialTalker)**|
 |**2026-07-27**|**Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection**|Mingrui Liang et.al.|[2607.23961](http://arxiv.org/abs/2607.23961)|null|
@@ -2004,5 +2005,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260731>back to top</a>)</p>
 
