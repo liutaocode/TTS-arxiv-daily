@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.02
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -382,7 +382,7 @@ layout: default
 |**2026-02-04**|**HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing**|Xuenan Xu et.al.|[2602.04535](http://arxiv.org/abs/2602.04535)|null|
 |**2026-02-04**|**Universal Robust Speech Adaptation for Cross-Domain Speech Recognition and Enhancement**|Chien-Chun Wang et.al.|[2602.04307](http://arxiv.org/abs/2602.04307)|null|
 |**2026-02-04**|**PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion**|Vikentii Pankov et.al.|[2602.04160](http://arxiv.org/abs/2602.04160)|null|
-|**2026-02-03**|**CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering**|Siyi Wang et.al.|[2602.03420](http://arxiv.org/abs/2602.03420)|null|
+|**2026-02-03**|**CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering**|Siyi Wang et.al.|[2602.03420](http://arxiv.org/abs/2602.03420)|**[link](https://github.com/wsssy/CoCoEmo)**|
 |**2026-02-04**|**WAXAL: A Large-Scale Multilingual African Language Speech Corpus**|Abdoulaye Diack et.al.|[2602.02734](http://arxiv.org/abs/2602.02734)|null|
 |**2026-02-01**|**VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis**|Chengyuan Ma et.al.|[2602.02591](http://arxiv.org/abs/2602.02591)|**[link](https://github.com/CF8339816/prog2_Chall4_UnitTesting_ChrisFrench0259182_260215)**|
 |**2026-02-02**|**LipSody: Lip-to-Speech Synthesis with Enhanced Prosody Consistency**|Jaejun Lee et.al.|[2602.01908](http://arxiv.org/abs/2602.01908)|null|
@@ -767,7 +767,7 @@ layout: default
 |**2025-08-24**|**Improving French Synthetic Speech Quality via SSML Prosody Control**|Nassima Ould Ouali et.al.|[2508.17494](http://arxiv.org/abs/2508.17494)|null|
 |**2025-08-23**|**RephraseTTS: Dynamic Length Text based Speech Insertion with Speaker Style Transfer**|Neeraj Matiyali et.al.|[2508.17031](http://arxiv.org/abs/2508.17031)|null|
 |**2025-08-23**|**WildSpoof Challenge Evaluation Plan**|Yihan Wu et.al.|[2508.16858](http://arxiv.org/abs/2508.16858)|null|
-|**2025-08-22**|**TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling**|Yuancheng Wang et.al.|[2508.16790](http://arxiv.org/abs/2508.16790)|null|
+|**2025-08-22**|**TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling**|Yuancheng Wang et.al.|[2508.16790](http://arxiv.org/abs/2508.16790)|**[link](https://github.com/HeCheng0625/Diffusion-Speech-Tokenizer)**|
 |**2025-08-22**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
 |**2025-08-21**|**QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection**|Zhiyu Wu et.al.|[2508.15931](http://arxiv.org/abs/2508.15931)|null|
 |**2025-08-21**|**Any-to-any Speaker Attribute Perturbation for Asynchronous Voice Anonymization**|Liping Chen et.al.|[2508.15565](http://arxiv.org/abs/2508.15565)|null|
