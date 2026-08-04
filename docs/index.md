@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-02**|**Beyond One-Size-Fits-All: Personalized and Culturally Adaptive Emotional TTS via Interactive Optimization of Individual Emotion Perception Spaces**|Wangzixi Zhou et.al.|[2608.00998](http://arxiv.org/abs/2608.00998)|null|
+|**2026-08-01**|**REIMU: Efficient Heterogeneous Hierarchical Reasoning for SSL-Based Speech Deepfake Detection**|Kwok-Ho Ng et.al.|[2608.00857](http://arxiv.org/abs/2608.00857)|null|
+|**2026-08-01**|**Experience-Calibrated Contrastive Decoding for Mitigating Hallucinations in LM-Based Text-to-Speech**|Chenlin Liu et.al.|[2608.00722](http://arxiv.org/abs/2608.00722)|null|
+|**2026-08-01**|**AnyBand: Unified Multi-Bandwidth Speech Extension via Frequency-Aware In-Context Spectral Infilling**|Junchuan Zhao et.al.|[2608.00572](http://arxiv.org/abs/2608.00572)|null|
+|**2026-08-01**|**Beyond Prompt Adherence: Auditing Attribute-Level Voice Control in Speech Generation**|Xianhao Zhou et.al.|[2608.00545](http://arxiv.org/abs/2608.00545)|**[link](https://github.com/intelland/VoDER)**|
 |**2026-07-31**|**Stable Autoregressive Speech Generation with Low-Frame-Rate High-Dimensional Continuous Tokens**|Yi Luo et.al.|[2607.29363](http://arxiv.org/abs/2607.29363)|null|
 |**2026-07-30**|**Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil**|Lucas Rafael Stefanel Gris et.al.|[2607.28770](http://arxiv.org/abs/2607.28770)|null|
 |**2026-07-30**|**Teffic-Audio: Tell Fact from Fiction**|Wan Lin et.al.|[2607.28351](http://arxiv.org/abs/2607.28351)|null|
