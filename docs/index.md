@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**CLASVS: Continuous-Latent Autoregression for Melody-Preserving Lyric Editing in Singing Voice Synthesis**|Yizhong Geng et.al.|[2608.03253](http://arxiv.org/abs/2608.03253)|null|
+|**2026-08-04**|**GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model**|Guanrou Yang et.al.|[2608.03215](http://arxiv.org/abs/2608.03215)|null|
+|**2026-08-04**|**Towards More Expressive Spoken LLMs: Fine-Grained Intent Benchmarking and Acoustic-Lexical Decoupled Policy Optimization**|Xiang Lin et.al.|[2608.03054](http://arxiv.org/abs/2608.03054)|null|
+|**2026-08-04**|**Towards Real-world Environment-aware Zero-shot Text-to-speech Synthesis via Disentangled Audio Infilling**|Ye-Xin Lu et.al.|[2608.03011](http://arxiv.org/abs/2608.03011)|null|
 |**2026-08-03**|**Embodied Empathy: A Multimodal AR and LLM-Powered System for Self-Attachment Psychotherapy with Self-Initiated Humour**|Xinyan Ye et.al.|[2608.02283](http://arxiv.org/abs/2608.02283)|null|
 |**2026-08-03**|**Domain-Specific Evaluation of Text-to-Speech Systems: A Multi-Metric Benchmarking Study**|Ali Jafar et.al.|[2608.02235](http://arxiv.org/abs/2608.02235)|null|
 |**2026-08-02**|**JoyAI-Talker: Full-Duplex Speech Interactive Large Model Built for Empathetic Voice Agents**|Yinhao Bai et.al.|[2608.01119](http://arxiv.org/abs/2608.01119)|null|
