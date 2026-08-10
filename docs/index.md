@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**|Hanke Xie et.al.|[2608.07462](http://arxiv.org/abs/2608.07462)|**[link](https://github.com/ASLP-lab/SemBridge)**|
+|**2026-08-05**|**Multi Codec Discrete Diffusion Model for Text Guided Speech Inpainting and Editing**|Iftach Shoham et.al.|[2608.06424](http://arxiv.org/abs/2608.06424)|null|
 |**2026-08-06**|**LILAC: An Idempotent Neural Speech Codec**|June Young Yi et.al.|[2608.05727](http://arxiv.org/abs/2608.05727)|null|
 |**2026-08-06**|**AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks**|Aurosweta Mahapatra et.al.|[2608.05507](http://arxiv.org/abs/2608.05507)|null|
 |**2026-08-04**|**CLASVS: Continuous-Latent Autoregression for Melody-Preserving Lyric Editing in Singing Voice Synthesis**|Yizhong Geng et.al.|[2608.03253](http://arxiv.org/abs/2608.03253)|null|
