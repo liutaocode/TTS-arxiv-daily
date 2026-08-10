@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.09
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -337,7 +337,7 @@ layout: default
 |**2026-03-10**|**MUGEN: Evaluating and Improving Multi-audio Understanding of Large Audio-Language Models**|Chih-Kai Yang et.al.|[2603.09714](http://arxiv.org/abs/2603.09714)|null|
 |**2026-03-10**|**Speech-Omni-Lite: Portable Speech Interfaces for Vision-Language Models**|Dehua Tao et.al.|[2603.09627](http://arxiv.org/abs/2603.09627)|null|
 |**2026-03-10**|**SPAR-K: Scheduled Periodic Alternating Early Exit for Spoken Language Models**|Hsiao-Ying Huang et.al.|[2603.09215](http://arxiv.org/abs/2603.09215)|null|
-|**2026-03-09**|**Universal Speech Content Factorization**|Henry Li Xinyuan et.al.|[2603.08977](http://arxiv.org/abs/2603.08977)|null|
+|**2026-03-09**|**Universal Speech Content Factorization**|Henry Li Xinyuan et.al.|[2603.08977](http://arxiv.org/abs/2603.08977)|**[link](https://github.com/HSTEHSTEHSTE/uscf)**|
 |**2026-03-11**|**Fish Audio S2 Technical Report**|Shijia Liao et.al.|[2603.08823](http://arxiv.org/abs/2603.08823)|null|
 |**2026-03-09**|**Using Multimodal and Language-Agnostic Sentence Embeddings for Abstractive Summarization**|Chaimae Chellaf et.al.|[2603.08282](http://arxiv.org/abs/2603.08282)|null|
 |**2026-03-09**|**Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS**|Rania Al-Sabbagh et.al.|[2603.08125](http://arxiv.org/abs/2603.08125)|null|
@@ -635,7 +635,7 @@ layout: default
 |**2025-10-22**|**EchoFake: A Replay-Aware Dataset for Practical Speech Deepfake Detection**|Tong Zhang et.al.|[2510.19414](http://arxiv.org/abs/2510.19414)|null|
 |**2025-10-21**|**StutterZero and StutterFormer: End-to-End Speech Conversion for Stuttering Transcription and Correction**|Qianheng Xu et.al.|[2510.18938](http://arxiv.org/abs/2510.18938)|null|
 |**2025-10-21**|**KrishokBondhu: A Retrieval-Augmented Voice-Based Agricultural Advisory Call Center for Bengali Farmers**|Mohd Ruhul Ameen et.al.|[2510.18355](http://arxiv.org/abs/2510.18355)|null|
-|**2025-10-21**|**ParaStyleTTS: Toward Efficient and Robust Paralinguistic Style Control for Expressive Text-to-Speech Generation**|Haowei Lou et.al.|[2510.18308](http://arxiv.org/abs/2510.18308)|null|
+|**2025-10-21**|**ParaStyleTTS: Toward Efficient and Robust Paralinguistic Style Control for Expressive Text-to-Speech Generation**|Haowei Lou et.al.|[2510.18308](http://arxiv.org/abs/2510.18308)|**[link](https://github.com/haoweilou/ParaStyleTTS)**|
 |**2025-10-19**|**U-Codec: Ultra Low Frame-rate Neural Speech Codec for Fast High-fidelity Speech Generation**|Xusheng Yang et.al.|[2510.16718](http://arxiv.org/abs/2510.16718)|null|
 |**2025-10-18**|**Edge-Based Speech Transcription and Synthesis for Kinyarwanda and Swahili Languages**|Pacome Simon Mbonimpa et.al.|[2510.16497](http://arxiv.org/abs/2510.16497)|null|
 |**2025-10-22**|**VoiceMorph: How AI Voice Morphing Reveals the Boundaries of Auditory Self-Recognition**|Kye Shimizu et.al.|[2510.16192](http://arxiv.org/abs/2510.16192)|null|
@@ -959,7 +959,7 @@ layout: default
 |**2025-06-11**|**OmniDRCA: Parallel Speech-Text Foundation Model via Dual-Resolution Speech Representations and Contrastive Alignment**|Chao-Hong Tan et.al.|[2506.09349](http://arxiv.org/abs/2506.09349)|**[link](https://github.com/lxchtan/omnidrca)**|
 |**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/abs/2506.09344)|**[link](https://github.com/inclusionai/ming)**|
 |**2025-06-13**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model**|Ailin Huang et.al.|[2506.08967](http://arxiv.org/abs/2506.08967)|null|
-|**2025-06-10**|**A Review on Score-based Generative Models for Audio Applications**|Ge Zhu et.al.|[2506.08457](http://arxiv.org/abs/2506.08457)|null|
+|**2025-06-10**|**A Review on Score-based Generative Models for Audio Applications**|Ge Zhu et.al.|[2506.08457](http://arxiv.org/abs/2506.08457)|**[link](https://github.com/gzhu06/AudioDiffuser)**|
 |**2025-06-09**|**Seeing Voices: Generating A-Roll Video from Audio with Mirage**|Aditi Sundararaman et.al.|[2506.08279](http://arxiv.org/abs/2506.08279)|null|
 |**2025-06-09**|**Transcript-Prompted Whisper with Dictionary-Enhanced Decoding for Japanese Speech Annotation**|Rui Hu et.al.|[2506.07646](http://arxiv.org/abs/2506.07646)|null|
 |**2025-06-10**|**Towards Generalized Source Tracing for Codec-Based Deepfake Speech**|Xuanjun Chen et.al.|[2506.07294](http://arxiv.org/abs/2506.07294)|null|
