@@ -1,4 +1,4 @@
-## Updated on 2026.08.10
+## Updated on 2026.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-07**|**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**|Hanke Xie et.al.|[2608.07462](http://arxiv.org/abs/2608.07462)|**[link](https://github.com/ASLP-lab/SemBridge)**|
+|**2026-08-11**|**Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence**|Haoyu Zhang et.al.|[2608.10720](http://arxiv.org/abs/2608.10720)|null|
+|**2026-08-11**|**ASR-Roundtrip Evaluation Can Mask Context- and Convention-Dependent Reading Errors in Chinese News TTS**|Shijun Luo et.al.|[2608.10606](http://arxiv.org/abs/2608.10606)|null|
+|**2026-08-10**|**Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions**|Oluwanifemi Bamgbose et.al.|[2608.09930](http://arxiv.org/abs/2608.09930)|null|
+|**2026-08-10**|**MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection**|Yanqiu Li et.al.|[2608.09593](http://arxiv.org/abs/2608.09593)|null|
+|**2026-08-09**|**CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents**|Yuqian Zhang et.al.|[2608.08638](http://arxiv.org/abs/2608.08638)|null|
+|**2026-08-08**|**CtrlSpeech: Coarse-to-Fine Control for Expressive Speech Synthesis**|Zhisheng Zheng et.al.|[2608.08362](http://arxiv.org/abs/2608.08362)|null|
+|**2026-08-08**|**ReLMCodec: Designing Predictable Speech Tokens from Pre-Quantization Phoneme Structure**|Zixiang Wan et.al.|[2608.08286](http://arxiv.org/abs/2608.08286)|null|
+|**2026-08-08**|**DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects**|Yi Shu et.al.|[2608.08067](http://arxiv.org/abs/2608.08067)|null|
+|**2026-08-07**|**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**|Hanke Xie et.al.|[2608.07462](http://arxiv.org/abs/2608.07462)|null|
 |**2026-08-05**|**Multi Codec Discrete Diffusion Model for Text Guided Speech Inpainting and Editing**|Iftach Shoham et.al.|[2608.06424](http://arxiv.org/abs/2608.06424)|null|
 |**2026-08-06**|**LILAC: An Idempotent Neural Speech Codec**|June Young Yi et.al.|[2608.05727](http://arxiv.org/abs/2608.05727)|null|
 |**2026-08-06**|**AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks**|Aurosweta Mahapatra et.al.|[2608.05507](http://arxiv.org/abs/2608.05507)|null|
@@ -2024,5 +2032,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260812>back to top</a>)</p>
 
