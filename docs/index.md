@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-17**|**Speaker-Normalized Semantic Speech Tokens via Iterative S2U-T2U Refinement**|Hanlin Zhang et.al.|[2608.16235](http://arxiv.org/abs/2608.16235)|null|
+|**2026-08-17**|**DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**|Pengcheng Wang et.al.|[2608.16053](http://arxiv.org/abs/2608.16053)|null|
+|**2026-08-16**|**Iterative Self-Learning for Expressive Text-to-Speech Synthesis**|Nicholas Sanders et.al.|[2608.15910](http://arxiv.org/abs/2608.15910)|null|
+|**2026-08-16**|**Adding Voice Cloning to Text-to-Audio-Video Models with a Single Zero-Initialised Layer**|Ivan Mikheev et.al.|[2608.15690](http://arxiv.org/abs/2608.15690)|null|
 |**2026-08-14**|**S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling**|Xueqi Wang et.al.|[2608.14029](http://arxiv.org/abs/2608.14029)|null|
 |**2026-08-14**|**Content Based Video Narration of Gameplay with Vision Language Models**|Mathew Varghese et.al.|[2608.14016](http://arxiv.org/abs/2608.14016)|null|
 |**2026-08-13**|**VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents**|Edresson Casanova et.al.|[2608.13831](http://arxiv.org/abs/2608.13831)|null|
