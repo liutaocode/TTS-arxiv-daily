@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis**|Shicheng Ma et.al.|[2608.17931](http://arxiv.org/abs/2608.17931)|null|
+|**2026-08-18**|**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**|Feiyu Shen et.al.|[2608.17492](http://arxiv.org/abs/2608.17492)|null|
 |**2026-08-17**|**Speaker-Normalized Semantic Speech Tokens via Iterative S2U-T2U Refinement**|Hanlin Zhang et.al.|[2608.16235](http://arxiv.org/abs/2608.16235)|null|
 |**2026-08-17**|**DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**|Pengcheng Wang et.al.|[2608.16053](http://arxiv.org/abs/2608.16053)|null|
 |**2026-08-16**|**Iterative Self-Learning for Expressive Text-to-Speech Synthesis**|Nicholas Sanders et.al.|[2608.15910](http://arxiv.org/abs/2608.15910)|null|
