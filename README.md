@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-20**|**Tracking the Trend in How Speech Synthesizers Deceive People**|Milan Šalko et.al.|[2608.19959](http://arxiv.org/abs/2608.19959)|null|
 |**2026-08-19**|**X2Streaming-TTS: Causal Token-Level Text-to-Speech from Streaming Text with Speech-State Inheritance**|Rime Wen et.al.|[2608.18661](http://arxiv.org/abs/2608.18661)|null|
 |**2026-08-18**|**SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis**|Shicheng Ma et.al.|[2608.17931](http://arxiv.org/abs/2608.17931)|null|
 |**2026-08-18**|**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**|Feiyu Shen et.al.|[2608.17492](http://arxiv.org/abs/2608.17492)|null|
