@@ -11,10 +11,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**From Search Agents to Dissemination Interfaces: Understanding Human Trust in Health Information from Conversational Search**|Xin Sun et.al.|[2608.21177](http://arxiv.org/abs/2608.21177)|null|
+|**2026-08-21**|**DAMOS: Learning Distortion-Aware Speech Quality Assessment through Explicit Distortion Localization**|Naiyuan Li et.al.|[2608.21176](http://arxiv.org/abs/2608.21176)|null|
+|**2026-08-21**|**Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons**|Fumie Watanabe et.al.|[2608.20822](http://arxiv.org/abs/2608.20822)|null|
 |**2026-08-20**|**Tracking the Trend in How Speech Synthesizers Deceive People**|Milan Šalko et.al.|[2608.19959](http://arxiv.org/abs/2608.19959)|null|
 |**2026-08-19**|**X2Streaming-TTS: Causal Token-Level Text-to-Speech from Streaming Text with Speech-State Inheritance**|Rime Wen et.al.|[2608.18661](http://arxiv.org/abs/2608.18661)|null|
 |**2026-08-18**|**SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis**|Shicheng Ma et.al.|[2608.17931](http://arxiv.org/abs/2608.17931)|null|
-|**2026-08-18**|**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**|Feiyu Shen et.al.|[2608.17492](http://arxiv.org/abs/2608.17492)|null|
+|**2026-08-21**|**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**|Feiyu Shen et.al.|[2608.17492](http://arxiv.org/abs/2608.17492)|null|
 |**2026-08-17**|**Speaker-Normalized Semantic Speech Tokens via Iterative S2U-T2U Refinement**|Hanlin Zhang et.al.|[2608.16235](http://arxiv.org/abs/2608.16235)|null|
 |**2026-08-17**|**DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**|Pengcheng Wang et.al.|[2608.16053](http://arxiv.org/abs/2608.16053)|null|
 |**2026-08-16**|**Iterative Self-Learning for Expressive Text-to-Speech Synthesis**|Nicholas Sanders et.al.|[2608.15910](http://arxiv.org/abs/2608.15910)|null|
