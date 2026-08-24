@@ -52,7 +52,7 @@ layout: default
 |**2026-08-01**|**REIMU: Efficient Heterogeneous Hierarchical Reasoning for SSL-Based Speech Deepfake Detection**|Kwok-Ho Ng et.al.|[2608.00857](http://arxiv.org/abs/2608.00857)|null|
 |**2026-08-01**|**Experience-Calibrated Contrastive Decoding for Mitigating Hallucinations in LM-Based Text-to-Speech**|Chenlin Liu et.al.|[2608.00722](http://arxiv.org/abs/2608.00722)|null|
 |**2026-08-01**|**AnyBand: Unified Multi-Bandwidth Speech Extension via Frequency-Aware In-Context Spectral Infilling**|Junchuan Zhao et.al.|[2608.00572](http://arxiv.org/abs/2608.00572)|null|
-|**2026-08-01**|**Beyond Prompt Adherence: Auditing Attribute-Level Voice Control in Speech Generation**|Xianhao Zhou et.al.|[2608.00545](http://arxiv.org/abs/2608.00545)|null|
+|**2026-08-01**|**Beyond Prompt Adherence: Auditing Attribute-Level Voice Control in Speech Generation**|Xianhao Zhou et.al.|[2608.00545](http://arxiv.org/abs/2608.00545)|**[link](https://github.com/intelland/VoDER)**|
 |**2026-07-31**|**Stable Autoregressive Speech Generation with Low-Frame-Rate High-Dimensional Continuous Tokens**|Yi Luo et.al.|[2607.29363](http://arxiv.org/abs/2607.29363)|null|
 |**2026-07-30**|**Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil**|Lucas Rafael Stefanel Gris et.al.|[2607.28770](http://arxiv.org/abs/2607.28770)|null|
 |**2026-07-30**|**Teffic-Audio: Tell Fact from Fiction**|Wan Lin et.al.|[2607.28351](http://arxiv.org/abs/2607.28351)|null|
@@ -874,7 +874,7 @@ layout: default
 |**2025-07-22**|**TTS-1 Technical Report**|Oleg Atamanenko et.al.|[2507.21138](http://arxiv.org/abs/2507.21138)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
 |**2025-07-28**|**AV-Deepfake1M++: A Large-Scale Audio-Visual Deepfake Benchmark with Real-World Perturbations**|Zhixi Cai et.al.|[2507.20579](http://arxiv.org/abs/2507.20579)|null|
-|**2025-07-27**|**Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech**|Taesoo Kim et.al.|[2507.20140](http://arxiv.org/abs/2507.20140)|null|
+|**2025-07-27**|**Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech**|Taesoo Kim et.al.|[2507.20140](http://arxiv.org/abs/2507.20140)|**[link](https://github.com/mokcho/spk_id_unlearn_icml2025)**|
 |**2025-07-26**|**Defining ethically sourced code generation**|Zhuolin Xu et.al.|[2507.19743](http://arxiv.org/abs/2507.19743)|null|
 |**2025-07-25**|**GOAT-SLM: A Spoken Language Model with Paralinguistic and Speaker Characteristic Awareness**|Hongjie Chen et.al.|[2507.18119](http://arxiv.org/abs/2507.18119)|null|
 |**2025-07-24**|**Synthetic Data Generation for Phrase Break Prediction with Large Language Model**|Hoyeon Lee et.al.|[2507.18044](http://arxiv.org/abs/2507.18044)|null|
