@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-24**|**Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
 |**2026-08-21**|**From Search Agents to Dissemination Interfaces: Understanding Human Trust in Health Information from Conversational Search**|Xin Sun et.al.|[2608.21177](http://arxiv.org/abs/2608.21177)|null|
 |**2026-08-21**|**DAMOS: Learning Distortion-Aware Speech Quality Assessment through Explicit Distortion Localization**|Naiyuan Li et.al.|[2608.21176](http://arxiv.org/abs/2608.21176)|null|
 |**2026-08-21**|**Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons**|Fumie Watanabe et.al.|[2608.20822](http://arxiv.org/abs/2608.20822)|null|
@@ -22,7 +23,7 @@
 |**2026-08-18**|**SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis**|Shicheng Ma et.al.|[2608.17931](http://arxiv.org/abs/2608.17931)|null|
 |**2026-08-21**|**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**|Feiyu Shen et.al.|[2608.17492](http://arxiv.org/abs/2608.17492)|null|
 |**2026-08-17**|**Speaker-Normalized Semantic Speech Tokens via Iterative S2U-T2U Refinement**|Hanlin Zhang et.al.|[2608.16235](http://arxiv.org/abs/2608.16235)|null|
-|**2026-08-17**|**DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**|Pengcheng Wang et.al.|[2608.16053](http://arxiv.org/abs/2608.16053)|null|
+|**2026-08-22**|**Agentic-DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**|Pengcheng Wang et.al.|[2608.16053](http://arxiv.org/abs/2608.16053)|null|
 |**2026-08-16**|**Iterative Self-Learning for Expressive Text-to-Speech Synthesis**|Nicholas Sanders et.al.|[2608.15910](http://arxiv.org/abs/2608.15910)|null|
 |**2026-08-16**|**Adding Voice Cloning to Text-to-Audio-Video Models with a Single Zero-Initialised Layer**|Ivan Mikheev et.al.|[2608.15690](http://arxiv.org/abs/2608.15690)|null|
 |**2026-08-14**|**S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling**|Xueqi Wang et.al.|[2608.14029](http://arxiv.org/abs/2608.14029)|null|
