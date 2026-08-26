@@ -14,7 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-08-24**|**Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
+|**2026-08-25**|**Speech-to-SOAP: End-to-End Summarization of Medical Dialogues: KIT@BeTraC 2026**|Enes Yavuz Ugan et.al.|[2608.24327](http://arxiv.org/abs/2608.24327)|null|
+|**2026-08-25**|**Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight**|Anupam Purwar et.al.|[2608.24314](http://arxiv.org/abs/2608.24314)|null|
+|**2026-08-25**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Junjie Li et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
+|**2026-08-25**|**OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses**|Guangzheng Hu et.al.|[2608.24160](http://arxiv.org/abs/2608.24160)|null|
+|**2026-08-24**|**EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis**|Tianchi Liu et.al.|[2608.23791](http://arxiv.org/abs/2608.23791)|null|
+|**2026-08-25**|**Better Retrieval, Worse Robustness: How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
 |**2026-08-21**|**From Search Agents to Dissemination Interfaces: Understanding Human Trust in Health Information from Conversational Search**|Xin Sun et.al.|[2608.21177](http://arxiv.org/abs/2608.21177)|null|
 |**2026-08-21**|**DAMOS: Learning Distortion-Aware Speech Quality Assessment through Explicit Distortion Localization**|Naiyuan Li et.al.|[2608.21176](http://arxiv.org/abs/2608.21176)|null|
 |**2026-08-21**|**Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons**|Fumie Watanabe et.al.|[2608.20822](http://arxiv.org/abs/2608.20822)|null|
