@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,10 +11,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**Said Aloud, Read Different: Cross-Modal Instability in Multimodal Models**|Basel Mousi et.al.|[2608.27135](http://arxiv.org/abs/2608.27135)|**[link](https://github.com/baselmousi/cfhr-ci)**|
+|**2026-08-27**|**Scaling phoneme-based TTS augmentation for ASR: A unified pipeline and controlled study**|Zhen Wang et.al.|[2608.26697](http://arxiv.org/abs/2608.26697)|null|
+|**2026-08-27**|**EmoSay: Artificial Intelligence-Driven Text-to-Emotional-Speech System for Affective Communication in Extended Reality**|Sikiru Ademola Adewale et.al.|[2608.26566](http://arxiv.org/abs/2608.26566)|null|
 |**2026-08-26**|**InteractGesture: Progressive Chunk Guidance for Continuous Streaming Co-Speech Gesture Control**|Ekkasit Pinyoanuntapong et.al.|[2608.25734](http://arxiv.org/abs/2608.25734)|null|
 |**2026-08-25**|**Speech-to-SOAP: End-to-End Summarization of Medical Dialogues: KIT@BeTraC 2026**|Enes Yavuz Ugan et.al.|[2608.24327](http://arxiv.org/abs/2608.24327)|null|
 |**2026-08-25**|**Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight**|Anupam Purwar et.al.|[2608.24314](http://arxiv.org/abs/2608.24314)|null|
-|**2026-08-25**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Junjie Li et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
+|**2026-08-27**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Feiyu Shen et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
 |**2026-08-25**|**OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses**|Guangzheng Hu et.al.|[2608.24160](http://arxiv.org/abs/2608.24160)|null|
 |**2026-08-24**|**EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis**|Tianchi Liu et.al.|[2608.23791](http://arxiv.org/abs/2608.23791)|null|
 |**2026-08-25**|**Better Retrieval, Worse Robustness: How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
