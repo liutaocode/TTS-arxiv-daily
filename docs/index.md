@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -469,7 +469,7 @@ layout: default
 |**2026-01-20**|**Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum**|Mohammed Salah Al-Radhi et.al.|[2601.14472](http://arxiv.org/abs/2601.14472)|null|
 |**2026-01-20**|**Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis**|Thanathai Lertpetchpun et.al.|[2601.14417](http://arxiv.org/abs/2601.14417)|null|
 |**2026-01-20**|**Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches**|Changhao Pan et.al.|[2601.13910](http://arxiv.org/abs/2601.13910)|null|
-|**2026-01-20**|**Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis**|Yushen Chen et.al.|[2601.13802](http://arxiv.org/abs/2601.13802)|null|
+|**2026-01-20**|**Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis**|Yushen Chen et.al.|[2601.13802](http://arxiv.org/abs/2601.13802)|**[link](https://github.com/SWivid/Habibi-TTS)**|
 |**2026-01-20**|**HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**|Yuhua Jin et.al.|[2601.13801](http://arxiv.org/abs/2601.13801)|null|
 |**2026-01-19**|**Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings**|Seymanur Akti et.al.|[2601.12966](http://arxiv.org/abs/2601.12966)|null|
 |**2026-01-18**|**A Unified Neural Codec Language Model for Selective Editable Text to Speech Generation**|Hanchen Pei et.al.|[2601.12480](http://arxiv.org/abs/2601.12480)|null|
@@ -844,7 +844,7 @@ layout: default
 |**2025-08-15**|**EmoSSLSphere: Multilingual Emotional Speech Synthesis with Spherical Vectors and Discrete Speech Tokens**|Joonyong Park et.al.|[2508.11273](http://arxiv.org/abs/2508.11273)|null|
 |**2025-08-14**|**Fake Speech Wild: Detecting Deepfake Speech on Social Media Platform**|Yuankun Xie et.al.|[2508.10559](http://arxiv.org/abs/2508.10559)|**[link](https://github.com/xieyuankun/FSW)**|
 |**2025-08-14**|**Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning**|Yejin Jeon et.al.|[2508.10412](http://arxiv.org/abs/2508.10412)|null|
-|**2025-08-14**|**Towards Frame-level Quality Predictions of Synthetic Speech**|Michael Kuhlmann et.al.|[2508.10374](http://arxiv.org/abs/2508.10374)|null|
+|**2025-08-14**|**Towards Frame-level Quality Predictions of Synthetic Speech**|Michael Kuhlmann et.al.|[2508.10374](http://arxiv.org/abs/2508.10374)|**[link](https://github.com/fgnt/frame-level-mos)**|
 |**2025-08-08**|**LLMCARE: Alzheimer's Detection via Transformer Models Enhanced by LLM-Generated Synthetic Data**|Ali Zolnour et.al.|[2508.10027](http://arxiv.org/abs/2508.10027)|null|
 |**2025-08-15**|**Training-Free Multimodal Large Language Model Orchestration**|Tianyu Xie et.al.|[2508.10016](http://arxiv.org/abs/2508.10016)|null|
 |**2025-08-13**|**Analysis of Domain Shift across ASR Architectures via TTS-Enabled Separation of Target Domain and Acoustic Conditions**|Tina Raissi et.al.|[2508.09868](http://arxiv.org/abs/2508.09868)|null|
