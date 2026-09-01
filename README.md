@@ -1,4 +1,4 @@
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-29**|**When Patients Cut In: Extending Clinical Conversational AI Safety to Interruptions**|Zachary Ellis et.al.|[2608.29241](http://arxiv.org/abs/2608.29241)|null|
 |**2026-08-27**|**Said Aloud, Read Different: Cross-Modal Instability in Multimodal Models**|Basel Mousi et.al.|[2608.27135](http://arxiv.org/abs/2608.27135)|**[link](https://github.com/baselmousi/cfhr-ci)**|
 |**2026-08-27**|**Scaling phoneme-based TTS augmentation for ASR: A unified pipeline and controlled study**|Zhen Wang et.al.|[2608.26697](http://arxiv.org/abs/2608.26697)|null|
 |**2026-08-27**|**EmoSay: Artificial Intelligence-Driven Text-to-Emotional-Speech System for Affective Communication in Extended Reality**|Sikiru Ademola Adewale et.al.|[2608.26566](http://arxiv.org/abs/2608.26566)|null|
@@ -2063,5 +2064,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
