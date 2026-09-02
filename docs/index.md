@@ -17,7 +17,7 @@ layout: default
 |**2026-08-31**|**Conversation Coach: A Voice-enabled AI System that Helps Practice Difficult Workplace Conversations**|Fanyou Wu et.al.|[2609.00441](http://arxiv.org/abs/2609.00441)|null|
 |**2026-08-31**|**When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models**|Joonyong Park et.al.|[2608.31035](http://arxiv.org/abs/2608.31035)|null|
 |**2026-08-29**|**When Patients Cut In: Extending Clinical Conversational AI Safety to Interruptions**|Zachary Ellis et.al.|[2608.29241](http://arxiv.org/abs/2608.29241)|null|
-|**2026-08-27**|**Said Aloud, Read Different: Cross-Modal Instability in Multimodal Models**|Basel Mousi et.al.|[2608.27135](http://arxiv.org/abs/2608.27135)|**[link](https://github.com/baselmousi/cfhr-ci)**|
+|**2026-08-27**|**Said Aloud, Read Different: Cross-Modal Instability in Multimodal Models**|Basel Mousi et.al.|[2608.27135](http://arxiv.org/abs/2608.27135)|null|
 |**2026-08-27**|**Scaling phoneme-based TTS augmentation for ASR: A unified pipeline and controlled study**|Zhen Wang et.al.|[2608.26697](http://arxiv.org/abs/2608.26697)|null|
 |**2026-08-27**|**EmoSay: Artificial Intelligence-Driven Text-to-Emotional-Speech System for Affective Communication in Extended Reality**|Sikiru Ademola Adewale et.al.|[2608.26566](http://arxiv.org/abs/2608.26566)|null|
 |**2026-08-26**|**InteractGesture: Progressive Chunk Guidance for Continuous Streaming Co-Speech Gesture Control**|Ekkasit Pinyoanuntapong et.al.|[2608.25734](http://arxiv.org/abs/2608.25734)|null|
