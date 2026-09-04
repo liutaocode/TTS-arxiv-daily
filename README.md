@@ -1,4 +1,4 @@
-## Updated on 2026.09.03
+## Updated on 2026.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**Deep Neural Compression for RIR-Characterized Acoustic Environments with Structure-Aware Constraints**|Chen-Yuan Ning et.al.|[2609.04085](http://arxiv.org/abs/2609.04085)|null|
 |**2026-09-01**|**Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models**|Kunlin Cai et.al.|[2609.01723](http://arxiv.org/abs/2609.01723)|null|
 |**2026-09-01**|**Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation**|Thibaut Thonet et.al.|[2609.01246](http://arxiv.org/abs/2609.01246)|null|
 |**2026-09-01**|**Phrase-Localized Language-Contrastive Guidance: Training-Free Localized Accent Control for Code-Switching Text-to-Speech**|Che Hyun Lee et.al.|[2609.01016](http://arxiv.org/abs/2609.01016)|null|
@@ -2070,5 +2071,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260904>back to top</a>)</p>
 
