@@ -1,4 +1,4 @@
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**TASTE2: Text-Aligned Speech Modeling and Deployment toward Full-Duplex Voice Interaction**|Yi-Chang Chen et.al.|[2609.08956](http://arxiv.org/abs/2609.08956)|null|
+|**2026-09-08**|**Disentangled Global-Local Feature Learning with E-Branchformer for Audio Deepfake Detection**|Phuong Tuan Dat et.al.|[2609.08948](http://arxiv.org/abs/2609.08948)|null|
+|**2026-09-08**|**AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing**|Ziyang Ma et.al.|[2609.08936](http://arxiv.org/abs/2609.08936)|null|
+|**2026-09-08**|**TontaubeV1: Streaming Text-to-Speech with Hierarchical Codec Modeling and Bounded Context**|Fritz Cremer et.al.|[2609.08703](http://arxiv.org/abs/2609.08703)|null|
+|**2026-09-07**|**KABURI-TTS: Phoneme-Keyed Activity-conditioned Bi-channel Utterance Rendering for Interaction**|Ryuichiro Higashinaka et.al.|[2609.07200](http://arxiv.org/abs/2609.07200)|null|
+|**2026-09-04**|**What Did I Just Say? Self-Listening for Full-Duplex Speech Models**|Xuanning Zhou et.al.|[2609.05592](http://arxiv.org/abs/2609.05592)|null|
 |**2026-09-03**|**Brain2Speech-Net: Intelligible, Real-Time Brain-to-Speech Synthesis Without Text Decoding**|Shreeram Suresh Chandra et.al.|[2609.04455](http://arxiv.org/abs/2609.04455)|null|
 |**2026-08-28**|**Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue**|Chengqian Ma et.al.|[2609.04250](http://arxiv.org/abs/2609.04250)|null|
 |**2026-09-03**|**Deep Neural Compression for RIR-Characterized Acoustic Environments with Structure-Aware Constraints**|Chen-Yuan Ning et.al.|[2609.04085](http://arxiv.org/abs/2609.04085)|null|
@@ -2073,5 +2079,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
