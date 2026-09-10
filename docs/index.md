@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Seeing the Voice, Preserving the Self: A Participatory Design Approach to Deaf-Centric Text-to-Speech**|Shela Atemnkeng et.al.|[2609.10199](http://arxiv.org/abs/2609.10199)|null|
+|**2026-09-09**|**SCNet: Enhancing GAN-based Speech Generation with Subband Condition Network and Magnitude-aware Phase Loss**|Nan Xu et.al.|[2609.10025](http://arxiv.org/abs/2609.10025)|null|
+|**2026-09-09**|**SpeechAnnotator: A Context-Aware Multi-Agent Framework and Benchmark for Multidimensional Speech Annotation**|Qirui Zhan et.al.|[2609.09947](http://arxiv.org/abs/2609.09947)|**[link](https://github.com/hujingbin1/SpeechAnnotator-demo-page)**|
+|**2026-09-09**|**SphereVAE: Hyperspherical Latent Autoencoders for Robust Autoregressive Speech Representation Modeling**|Haoyu Zhang et.al.|[2609.09903](http://arxiv.org/abs/2609.09903)|**[link](https://github.com/ASLP-lab/SphereVAE)**|
+|**2026-09-09**|**StreamAlign: Streaming Text-Aligned Speech Tokenization**|Kang-wook Kim et.al.|[2609.09719](http://arxiv.org/abs/2609.09719)|**[link](https://github.com/ishlove77/StreamAlign)**|
+|**2026-09-09**|**X2-NativeCursor: Native-Token Text Progress Tracking for Incremental-Text Streaming Codec TTS**|Zehan Liu et.al.|[2609.09677](http://arxiv.org/abs/2609.09677)|null|
 |**2026-09-08**|**TASTE2: Text-Aligned Speech Modeling and Deployment toward Full-Duplex Voice Interaction**|Yi-Chang Chen et.al.|[2609.08956](http://arxiv.org/abs/2609.08956)|null|
 |**2026-09-08**|**Disentangled Global-Local Feature Learning with E-Branchformer for Audio Deepfake Detection**|Phuong Tuan Dat et.al.|[2609.08948](http://arxiv.org/abs/2609.08948)|null|
 |**2026-09-08**|**AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing**|Ziyang Ma et.al.|[2609.08936](http://arxiv.org/abs/2609.08936)|null|
