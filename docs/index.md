@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.14
+## Updated on 2026.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs**|Thanapat Trachu et.al.|[2609.17509](http://arxiv.org/abs/2609.17509)|null|
+|**2026-09-15**|**Self-Distilled Pronunciation and Accent Control for Neural Text-to-Speech**|Shuhei Kato et.al.|[2609.17234](http://arxiv.org/abs/2609.17234)|null|
+|**2026-09-15**|**Taming Long-form Text-to-Speech**|Rongxiang Wang et.al.|[2609.16989](http://arxiv.org/abs/2609.16989)|null|
+|**2026-09-15**|**The Evolving Bottleneck in Speech Generation: Interface Co-design and Staged Alignment from CosyVoice to Qwen-Audio-3.0-TTS**|Qian Chen et.al.|[2609.16514](http://arxiv.org/abs/2609.16514)|null|
+|**2026-09-15**|**Language Orthogonalization for Zero-Shot Cross-Lingual Audio Deepfake Detection**|Minu Kim et.al.|[2609.16458](http://arxiv.org/abs/2609.16458)|null|
+|**2026-09-14**|**Reducing the Output-Mode Gap in Speech Language Models via Joint-Output On-Policy Distillation**|Daxin Tan et.al.|[2609.15313](http://arxiv.org/abs/2609.15313)|null|
+|**2026-09-14**|**Cross-Lingual F5-TTS 2: A Simplified Framework for Language-Agnostic Voice Cloning**|Qingyu Liu et.al.|[2609.15184](http://arxiv.org/abs/2609.15184)|null|
+|**2026-09-13**|**Tone on a Budget: A Reference-Free Metric for Lexical Tone in Massively Multilingual Text-to-Speech**|Moses Daudu et.al.|[2609.14817](http://arxiv.org/abs/2609.14817)|null|
+|**2026-09-13**|**Quantifying the Generation Modality Gap in Speech-Text Language Models**|Ju-Chieh Chou et.al.|[2609.14743](http://arxiv.org/abs/2609.14743)|null|
+|**2026-09-13**|**Dynamic Learning Solutions: A System for Personalized Educational Video Generation**|Siddhanth Sridhar et.al.|[2609.14408](http://arxiv.org/abs/2609.14408)|null|
 |**2026-09-10**|**Not All Attacks Are Learned Equally in Speech Deepfake Detection**|Avantika Singh et.al.|[2609.11763](http://arxiv.org/abs/2609.11763)|**[link](https://github.com/attackbias-slt/AttackBias_Website)**|
 |**2026-09-10**|**Continuous-Time Acoustic Modelling with Neural Controlled Differential Equations**|Mattias Cross et.al.|[2609.11725](http://arxiv.org/abs/2609.11725)|**[link](https://github.com/Mattias421/CDE_StyleTTS)**|
 |**2026-09-10**|**ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding**|Luca Della Libera et.al.|[2609.11642](http://arxiv.org/abs/2609.11642)|null|
