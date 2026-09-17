@@ -1,4 +1,4 @@
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,8 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**GrainSpeech: Less Context, More Detail for Compact Speech Synthesis**|Zitao Liang et.al.|[2609.18856](http://arxiv.org/abs/2609.18856)|null|
 |**2026-09-15**|**LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs**|Thanapat Trachu et.al.|[2609.17509](http://arxiv.org/abs/2609.17509)|null|
-|**2026-09-15**|**Self-Distilled Pronunciation and Accent Control for Neural Text-to-Speech**|Shuhei Kato et.al.|[2609.17234](http://arxiv.org/abs/2609.17234)|null|
+|**2026-09-16**|**Self-Distilled Pronunciation and Accent Control for Neural Text-to-Speech**|Shuhei Kato et.al.|[2609.17234](http://arxiv.org/abs/2609.17234)|null|
 |**2026-09-15**|**Taming Long-form Text-to-Speech**|Rongxiang Wang et.al.|[2609.16989](http://arxiv.org/abs/2609.16989)|null|
 |**2026-09-15**|**The Evolving Bottleneck in Speech Generation: Interface Co-design and Staged Alignment from CosyVoice to Qwen-Audio-3.0-TTS**|Qian Chen et.al.|[2609.16514](http://arxiv.org/abs/2609.16514)|null|
 |**2026-09-15**|**Language Orthogonalization for Zero-Shot Cross-Lingual Audio Deepfake Detection**|Minu Kim et.al.|[2609.16458](http://arxiv.org/abs/2609.16458)|null|
@@ -2101,5 +2102,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260917>back to top</a>)</p>
 
