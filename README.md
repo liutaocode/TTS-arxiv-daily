@@ -1,4 +1,4 @@
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages**|Li Wang et.al.|[2609.21738](http://arxiv.org/abs/2609.21738)|null|
+|**2026-09-18**|**Listen Before You Speak: Response Planning from Listener Facial Reactions for Conversational Speech Generation**|Yunji Chu et.al.|[2609.21683](http://arxiv.org/abs/2609.21683)|null|
+|**2026-09-18**|**Towards Zero-Shot Attribution of Synthetic Speech via Audio-Text Contrastive Retrieval**|Cristian-Teodor Neamtu et.al.|[2609.21581](http://arxiv.org/abs/2609.21581)|null|
+|**2026-09-17**|**Voice-Light: A Full-Duplex Cascaded Voice Agent with Causal Turn-Taking and Speculative Generation**|Bertil Braun et.al.|[2609.20995](http://arxiv.org/abs/2609.20995)|null|
 |**2026-09-17**|**Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis**|Zifan Guan et.al.|[2609.20124](http://arxiv.org/abs/2609.20124)|null|
 |**2026-09-17**|**Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection**|Xiang Li et.al.|[2609.20063](http://arxiv.org/abs/2609.20063)|null|
 |**2026-09-17**|**Dictionary-Constrained Grapheme-to-Phoneme for Unsegmented Languages from LLM-Annotated Data**|Rui Hu et.al.|[2609.19805](http://arxiv.org/abs/2609.19805)|null|
 |**2026-09-16**|**PersianVox: A Prosody-Aware Approach for Speech Dataset Generation from In-the-Wild Data**|Saeedreza Zouashkiani et.al.|[2609.19324](http://arxiv.org/abs/2609.19324)|null|
-|**2026-09-16**|**GrainSpeech: Less Context, More Detail for Compact Speech Synthesis**|Zitao Liang et.al.|[2609.18856](http://arxiv.org/abs/2609.18856)|**[link](https://github.com/lab-emi/GrainSpeech)**|
+|**2026-09-16**|**GrainSpeech: Less Context, More Detail for Compact Speech Synthesis**|Zitao Liang et.al.|[2609.18856](http://arxiv.org/abs/2609.18856)|null|
 |**2026-09-15**|**LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs**|Thanapat Trachu et.al.|[2609.17509](http://arxiv.org/abs/2609.17509)|null|
 |**2026-09-16**|**Self-Distilled Pronunciation and Accent Control for Neural Text-to-Speech**|Shuhei Kato et.al.|[2609.17234](http://arxiv.org/abs/2609.17234)|null|
 |**2026-09-15**|**Taming Long-form Text-to-Speech**|Rongxiang Wang et.al.|[2609.16989](http://arxiv.org/abs/2609.16989)|null|
@@ -2106,5 +2110,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
 
