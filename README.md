@@ -932,12 +932,12 @@
 |**2025-08-01**|**Advancing Speech Quality Assessment Through Scientific Challenges and Open-source Activities**|Wen-Chin Huang et.al.|[2508.00317](http://arxiv.org/abs/2508.00317)|null|
 |**2025-08-01**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
 |**2025-07-30**|**Adaptive Duration Model for Text Speech Alignment**|Junjie Cao et.al.|[2507.22612](http://arxiv.org/abs/2507.22612)|null|
-|**2025-07-29**|**SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods**|Wen Huang et.al.|[2507.21463](http://arxiv.org/abs/2507.21463)|null|
+|**2025-07-29**|**SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods**|Wen Huang et.al.|[2507.21463](http://arxiv.org/abs/2507.21463)|**[link](https://github.com/YMLLG/SPEECHFAKE)**|
 |**2025-07-23**|**WaveVerify: A Novel Audio Watermarking Framework for Media Authentication and Combatting Deepfakes**|Aditya Pujari et.al.|[2507.21150](http://arxiv.org/abs/2507.21150)|null|
 |**2025-07-22**|**TTS-1 Technical Report**|Oleg Atamanenko et.al.|[2507.21138](http://arxiv.org/abs/2507.21138)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
 |**2025-07-28**|**AV-Deepfake1M++: A Large-Scale Audio-Visual Deepfake Benchmark with Real-World Perturbations**|Zhixi Cai et.al.|[2507.20579](http://arxiv.org/abs/2507.20579)|null|
-|**2025-07-27**|**Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech**|Taesoo Kim et.al.|[2507.20140](http://arxiv.org/abs/2507.20140)|null|
+|**2025-07-27**|**Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech**|Taesoo Kim et.al.|[2507.20140](http://arxiv.org/abs/2507.20140)|**[link](https://github.com/mokcho/spk_id_unlearn_icml2025)**|
 |**2025-07-26**|**Defining ethically sourced code generation**|Zhuolin Xu et.al.|[2507.19743](http://arxiv.org/abs/2507.19743)|null|
 |**2025-07-25**|**GOAT-SLM: A Spoken Language Model with Paralinguistic and Speaker Characteristic Awareness**|Hongjie Chen et.al.|[2507.18119](http://arxiv.org/abs/2507.18119)|null|
 |**2025-07-24**|**Synthetic Data Generation for Phrase Break Prediction with Large Language Model**|Hoyeon Lee et.al.|[2507.18044](http://arxiv.org/abs/2507.18044)|null|
@@ -1251,7 +1251,7 @@
 |**2025-02-16**|**Recent Advances in Discrete Speech Tokens: A Review**|Yiwei Guo et.al.|[2502.06490](http://arxiv.org/abs/2502.06490)|null|
 |**2025-02-19**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-09**|**Non-invasive electromyographic speech neuroprosthesis: a geometric perspective**|Harshavardhana T. Gowda et.al.|[2502.05762](http://arxiv.org/abs/2502.05762)|null|
-|**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
+|**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|**[link](https://github.com/verbex-ai/BnTTS)**|
 |**2025-02-08**|**Gender Bias in Instruction-Guided Speech Synthesis Models**|Chun-Yi Kuan et.al.|[2502.05649](http://arxiv.org/abs/2502.05649)|null|
 |**2025-02-08**|**IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System**|Wei Deng et.al.|[2502.05512](http://arxiv.org/abs/2502.05512)|**[link](https://github.com/index-tts/index-tts)**|
 |**2025-02-07**|**Koel-TTS: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance**|Shehzeen Hussain et.al.|[2502.05236](http://arxiv.org/abs/2502.05236)|null|
@@ -1644,7 +1644,7 @@
 |**2024-01-07**|**Evaluating and Personalizing User-Perceived Quality of Text-to-Speech Voices for Delivering Mindfulness Meditation with Different Physical Embodiments**|Zhonghao Shi et.al.|[2401.03581](http://arxiv.org/abs/2401.03581)|null|
 |**2024-01-07**|**Transfer the linguistic representations from TTS to accent conversion with non-parallel data**|Xi Chen et.al.|[2401.03538](http://arxiv.org/abs/2401.03538)|null|
 |**2024-01-03**|**Incremental FastPitch: Chunk-based High Quality Text to Speech**|Muyang Du et.al.|[2401.01755](http://arxiv.org/abs/2401.01755)|null|
-|**2024-01-03**|**Utilizing Neural Transducers for Two-Stage Text-to-Speech via Semantic Token Prediction**|Minchan Kim et.al.|[2401.01498](http://arxiv.org/abs/2401.01498)|null|
+|**2024-01-03**|**Utilizing Neural Transducers for Two-Stage Text-to-Speech via Semantic Token Prediction**|Minchan Kim et.al.|[2401.01498](http://arxiv.org/abs/2401.01498)|**[link](https://github.com/scutcsq/Neural-Transducers-for-Two-Stage-Text-to-Speech-via-Semantic-Token-Prediction)**|
 |**2023-12-18**|**Assisting Blind People Using Object Detection with Vocal Feedback**|Heba Najm et.al.|[2401.01362](http://arxiv.org/abs/2401.01362)|null|
 |**2023-12-30**|**Boosting Large Language Model for Speech Synthesis: An Empirical Study**|Hongkun Hao et.al.|[2401.00246](http://arxiv.org/abs/2401.00246)|null|
 |**2024-01-01**|**Normalization of Lithuanian Text Using Regular Expressions**|Pijus Kasparaitis et.al.|[2312.17660](http://arxiv.org/abs/2312.17660)|null|
