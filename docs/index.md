@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**CycleSpeech: Reciprocal Alignment for Instruction-Controlled Speech Synthesis and Paralinguistic Understanding**|Huan Liao et.al.|[2609.24771](http://arxiv.org/abs/2609.24771)|null|
+|**2026-09-21**|**LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot**|Hanxiao Chen et.al.|[2609.24742](http://arxiv.org/abs/2609.24742)|null|
 |**2026-09-21**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
 |**2026-09-21**|**Morpho-VITS: Variational Inference with Morphological Modeling for End-to-End Speech Synthesis of a Tonal Bantu Language**|Antoine Nzeyimana et.al.|[2609.24310](http://arxiv.org/abs/2609.24310)|null|
 |**2026-09-21**|**Structure Before Sampling: Community-Aware Core-Set Selection for Data-Efficient Text-to-Speech**|Mizbaul Haque Maruf et.al.|[2609.24275](http://arxiv.org/abs/2609.24275)|null|
