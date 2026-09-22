@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
+|**2026-09-21**|**Morpho-VITS: Variational Inference with Morphological Modeling for End-to-End Speech Synthesis of a Tonal Bantu Language**|Antoine Nzeyimana et.al.|[2609.24310](http://arxiv.org/abs/2609.24310)|null|
+|**2026-09-21**|**Structure Before Sampling: Community-Aware Core-Set Selection for Data-Efficient Text-to-Speech**|Mizbaul Haque Maruf et.al.|[2609.24275](http://arxiv.org/abs/2609.24275)|null|
+|**2026-09-21**|**StreamTN: A Low-Latency Streaming Chinese Text Normalization Model for Streaming TTS in Dialogue Systems**|Wenhao Li et.al.|[2609.24267](http://arxiv.org/abs/2609.24267)|null|
+|**2026-09-21**|**Listen, Critique, and Refine: RL-Based Self-Refinement for Instruction-Following Speech Synthesis**|Chee-En Yu et.al.|[2609.24163](http://arxiv.org/abs/2609.24163)|null|
+|**2026-09-20**|**HaikuS2S: A Cascaded System For Responding In Verse**|Devangi Sharma et.al.|[2609.23951](http://arxiv.org/abs/2609.23951)|null|
+|**2026-09-20**|**Synthetic speech detection in Brazilian Portuguese through accent-related features**|Pedro H. L. Leite et.al.|[2609.23807](http://arxiv.org/abs/2609.23807)|null|
+|**2026-09-20**|**TTS-Guard: Black-Box Ownership Verification of Text-to-Speech Models via Adaptive Adversarial Speaker-Pair Fingerprints**|Xubin Yue et.al.|[2609.23729](http://arxiv.org/abs/2609.23729)|null|
+|**2026-09-19**|**COT-TTS: Audio Context-Aware Text-to-Speech with Chain-of-Thought Reasoning**|Weizhen Bian et.al.|[2609.22697](http://arxiv.org/abs/2609.22697)|null|
 |**2026-09-18**|**GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages**|Li Wang et.al.|[2609.21738](http://arxiv.org/abs/2609.21738)|null|
 |**2026-09-18**|**Listen Before You Speak: Response Planning from Listener Facial Reactions for Conversational Speech Generation**|Yunji Chu et.al.|[2609.21683](http://arxiv.org/abs/2609.21683)|null|
 |**2026-09-18**|**Towards Zero-Shot Attribution of Synthetic Speech via Audio-Text Contrastive Retrieval**|Cristian-Teodor Neamtu et.al.|[2609.21581](http://arxiv.org/abs/2609.21581)|null|
