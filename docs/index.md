@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,9 +11,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing**|Alejandro Pérez-González-de-Martos et.al.|[2609.26486](http://arxiv.org/abs/2609.26486)|null|
+|**2026-09-22**|**From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS**|Jiayi Lu et.al.|[2609.25951](http://arxiv.org/abs/2609.25951)|null|
+|**2026-09-22**|**OmniFysics-Nano-V2 Technical Report: Understanding the Physical World Across Modalities**|Yizhou Liu et.al.|[2609.25738](http://arxiv.org/abs/2609.25738)|null|
+|**2026-09-22**|**Interactive TTS: Dynamic Speaking Style Adaptation for Expressive Speech Synthesis**|Wenjie Tian et.al.|[2609.25707](http://arxiv.org/abs/2609.25707)|null|
+|**2026-09-21**|**Learnable Classifier-Free Guidance Null Embeddings for Enhanced Controllable Speech Synthesis**|Biel Tura Vecino et.al.|[2609.25411](http://arxiv.org/abs/2609.25411)|null|
+|**2026-09-21**|**SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization**|Yuan Tseng et.al.|[2609.25197](http://arxiv.org/abs/2609.25197)|null|
 |**2026-09-21**|**CycleSpeech: Reciprocal Alignment for Instruction-Controlled Speech Synthesis and Paralinguistic Understanding**|Huan Liao et.al.|[2609.24771](http://arxiv.org/abs/2609.24771)|null|
 |**2026-09-21**|**LLM-based Conversational AI Knowledge Assistant for MyBuddy Humanoid Robot**|Hanxiao Chen et.al.|[2609.24742](http://arxiv.org/abs/2609.24742)|null|
-|**2026-09-21**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
+|**2026-09-22**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
 |**2026-09-21**|**Morpho-VITS: Variational Inference with Morphological Modeling for End-to-End Speech Synthesis of a Tonal Bantu Language**|Antoine Nzeyimana et.al.|[2609.24310](http://arxiv.org/abs/2609.24310)|null|
 |**2026-09-21**|**Structure Before Sampling: Community-Aware Core-Set Selection for Data-Efficient Text-to-Speech**|Mizbaul Haque Maruf et.al.|[2609.24275](http://arxiv.org/abs/2609.24275)|null|
 |**2026-09-21**|**StreamTN: A Low-Latency Streaming Chinese Text Normalization Model for Streaming TTS in Dialogue Systems**|Wenhao Li et.al.|[2609.24267](http://arxiv.org/abs/2609.24267)|null|
