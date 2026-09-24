@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**EmphTTS: an emphasis-control TTS with reinforcement learning**|Zirui Li et.al.|[2609.27599](http://arxiv.org/abs/2609.27599)|null|
+|**2026-09-23**|**Forget who you Forgot: Speaker Unlearning to Prevent Re-Identification in Zero-Shot Text-to-Speech**|Hyoeun Kim et.al.|[2609.27399](http://arxiv.org/abs/2609.27399)|null|
+|**2026-09-23**|**When Entanglement Lower-Bounds Disparity: Auditing and Repairing Demographic Fairness in Audio Understanding Models**|Kian Shamsaie et.al.|[2609.27382](http://arxiv.org/abs/2609.27382)|null|
+|**2026-09-23**|**Phonemizing User-Generated Text: A Benchmark, Taxonomy, and Compositional Approach**|MinJu Jeon et.al.|[2609.27205](http://arxiv.org/abs/2609.27205)|null|
+|**2026-09-22**|**NADI 2026: The Second Multidialectal Arabic Speech Processing Shared Task**|Peter Sullivan et.al.|[2609.27086](http://arxiv.org/abs/2609.27086)|null|
 |**2026-09-22**|**Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing**|Alejandro Pérez-González-de-Martos et.al.|[2609.26486](http://arxiv.org/abs/2609.26486)|null|
 |**2026-09-22**|**From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS**|Jiayi Lu et.al.|[2609.25951](http://arxiv.org/abs/2609.25951)|null|
 |**2026-09-22**|**OmniFysics-Nano-V2 Technical Report: Understanding the Physical World Across Modalities**|Yizhou Liu et.al.|[2609.25738](http://arxiv.org/abs/2609.25738)|null|
