@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**RePlay: Retrieval-Based Voice Playback for Multi-Turn spoken dialogue**|Sathvik Udupa et.al.|[2609.31588](http://arxiv.org/abs/2609.31588)|null|
+|**2026-09-25**|**THA: Weighted Finite-State Text Normalization and Inverse Text Normalization for Khmer**|Seanghay Yath et.al.|[2609.30984](http://arxiv.org/abs/2609.30984)|null|
+|**2026-09-25**|**Tracing and Relearning Detection Evidence in Text-to-Speech Systems**|Eunji Shin et.al.|[2609.30983](http://arxiv.org/abs/2609.30983)|null|
+|**2026-09-25**|**A Comprehensive Study of Content Representations for Speech Synthesis**|Diego Torres et.al.|[2609.30975](http://arxiv.org/abs/2609.30975)|null|
+|**2026-09-25**|**Training-Free Pronunciation Transcription via Text-Constrained Acoustic Rescoring**|Hikaru Asano et.al.|[2609.30924](http://arxiv.org/abs/2609.30924)|null|
+|**2026-09-25**|**LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant**|Md. Mehedi Hasan Naeem et.al.|[2609.30692](http://arxiv.org/abs/2609.30692)|null|
 |**2026-09-24**|**To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech**|Debajyoti Mazumder et.al.|[2609.30227](http://arxiv.org/abs/2609.30227)|null|
 |**2026-09-24**|**EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows**|Hongyao Deng et.al.|[2609.29889](http://arxiv.org/abs/2609.29889)|null|
 |**2026-09-24**|**Depth through recurrence: Looped transformers for flow-matching TTS**|Jiabao Ai et.al.|[2609.29768](http://arxiv.org/abs/2609.29768)|null|
