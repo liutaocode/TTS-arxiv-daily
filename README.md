@@ -1,4 +1,4 @@
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows**|Tianxin Xie et.al.|[2609.34648](http://arxiv.org/abs/2609.34648)|null|
+|**2026-09-28**|**Harmonizing Spectral Evolution in Conditional Flow Matching for TTS**|Isha Pandey Varad Deshpande Abhijat Bharadwaj Ganesh Ramakrishnan et.al.|[2609.34431](http://arxiv.org/abs/2609.34431)|null|
+|**2026-09-28**|**Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: Exploration toward Age, Gender, and Accent Steering**|Shih-Heng Wang et.al.|[2609.34052](http://arxiv.org/abs/2609.34052)|null|
+|**2026-09-27**|**Rethinking Automated Voice Similarity by Shifting from EER to Embedding Geometry**|Szu-Chi Chen et.al.|[2609.33999](http://arxiv.org/abs/2609.33999)|null|
+|**2026-09-27**|**Controlling Speaking Rate in Autoregressive TTS via Activation Steering**|Francesco Verdini et.al.|[2609.33810](http://arxiv.org/abs/2609.33810)|null|
+|**2026-09-27**|**What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection**|Jiajun Xu et.al.|[2609.33375](http://arxiv.org/abs/2609.33375)|null|
+|**2026-09-27**|**From Script to Drama: An Agentic Framework for Controllable Multi-Speaker Dialogue TTS**|Kangxiang Xia et.al.|[2609.33362](http://arxiv.org/abs/2609.33362)|null|
+|**2026-09-26**|**DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS**|Ambuj Mehrish et.al.|[2609.32777](http://arxiv.org/abs/2609.32777)|null|
+|**2026-09-26**|**How to Reduce Whisper Hallucination**|Husein Zolkepli et.al.|[2609.32560](http://arxiv.org/abs/2609.32560)|null|
+|**2026-09-26**|**Toward Human-Aligned Judgement of Speech Emotion Similarity**|Yun-Shao Tsai et.al.|[2609.32504](http://arxiv.org/abs/2609.32504)|null|
 |**2026-09-25**|**RePlay: Retrieval-Based Voice Playback for Multi-Turn spoken dialogue**|Sathvik Udupa et.al.|[2609.31588](http://arxiv.org/abs/2609.31588)|null|
 |**2026-09-25**|**THA: Weighted Finite-State Text Normalization and Inverse Text Normalization for Khmer**|Seanghay Yath et.al.|[2609.30984](http://arxiv.org/abs/2609.30984)|null|
 |**2026-09-25**|**Tracing and Relearning Detection Evidence in Text-to-Speech Systems**|Eunji Shin et.al.|[2609.30983](http://arxiv.org/abs/2609.30983)|null|
@@ -2147,5 +2157,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
