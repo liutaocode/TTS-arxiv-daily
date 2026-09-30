@@ -288,8 +288,15 @@ def json_to_md(filename,md_filename,
         else:
             f.write("> Updated on " + DateNow + "\n")
 
-        # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+        # README.md lives at the repo root; index.md and wechat.md live in docs/.
+        md_norm = md_filename.replace("\\", "/")
+        if md_norm.startswith("./"):
+            md_norm = md_norm[2:]
+        if md_norm.startswith("docs/"):
+            usage_href = "./README.md#usage"
+        else:
+            usage_href = "./docs/README.md#usage"
+        f.write("> Usage instructions: [here](" + usage_href + ")\n\n")
         f.write("> This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)\n\n")
 
         #Add: table of contents
