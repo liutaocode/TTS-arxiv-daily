@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.29
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
+|**2026-09-30**|**SURE-EVAL: A Systematic and Unified Agentic Framework for Reproducible Evaluation**|Jing Peng et.al.|[2609.39030](http://arxiv.org/abs/2609.39030)|null|
+|**2026-09-29**|**Monotonicity-Guided Semantic Alignment for Zero-shot Multispeaker Image-to-Speech Synthesis**|Lijun Wang et.al.|[2609.38440](http://arxiv.org/abs/2609.38440)|null|
+|**2026-09-29**|**EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation**|Kuan-Po Huang et.al.|[2609.38157](http://arxiv.org/abs/2609.38157)|null|
+|**2026-09-29**|**SENSE: Semantic Neural Speech Synthesis from Brain Dynamics via Spatial Graph Encoding**|Jisoo Park et.al.|[2609.37601](http://arxiv.org/abs/2609.37601)|**[link](https://github.com/jisoo-o/SENSE)**|
+|**2026-09-29**|**RAWD-TTS: Ratio-Free Reward Alignment for Discrete-Diffusion Voice Cloning**|Maxim Maslov et.al.|[2609.37028](http://arxiv.org/abs/2609.37028)|null|
+|**2026-09-29**|**RVQ Position Aware Speculative Decoding for On Device Text to Speech**|Berkin Durmus et.al.|[2609.37007](http://arxiv.org/abs/2609.37007)|null|
+|**2026-09-29**|**Repetition, Not Length: Isolating the Counting Failure in Neural Text-to-Speech**|Kirill Borodin et.al.|[2609.36974](http://arxiv.org/abs/2609.36974)|null|
+|**2026-09-29**|**WenetSpeech-Min: A Large-Scale Minnan Speech Corpus with Dual Transcriptions for Dialectal Speech Processing**|Haoyu Zhang et.al.|[2609.36834](http://arxiv.org/abs/2609.36834)|null|
+|**2026-09-29**|**From Neurons to Conversation: Speech Brain-Computer Interfaces**|Moein Khajehnejad et.al.|[2609.36736](http://arxiv.org/abs/2609.36736)|null|
 |**2026-09-28**|**GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection**|Zelin Zhao et.al.|[2609.35411](http://arxiv.org/abs/2609.35411)|null|
 |**2026-09-28**|**SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows**|Tianxin Xie et.al.|[2609.34648](http://arxiv.org/abs/2609.34648)|null|
 |**2026-09-28**|**Harmonizing Spectral Evolution in Conditional Flow Matching for TTS**|Isha Pandey Varad Deshpande Abhijat Bharadwaj Ganesh Ramakrishnan et.al.|[2609.34431](http://arxiv.org/abs/2609.34431)|null|
