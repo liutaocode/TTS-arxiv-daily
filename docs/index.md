@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-01**|**Multi-sample Synthetic Supervision for Accent Conversion**|Yangyang Qu et.al.|[2610.01961](http://arxiv.org/abs/2610.01961)|null|
+|**2026-10-01**|**Q-SPT: Learnable Query-Based Compression for Low-Frame-Rate Speech Tokenization**|Jeeyoung Yun et.al.|[2610.01492](http://arxiv.org/abs/2610.01492)|null|
+|**2026-10-01**|**A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation**|Yingjian Yu et.al.|[2610.01259](http://arxiv.org/abs/2610.01259)|null|
+|**2026-10-01**|**Watch Your Speech: Text-aware Video-to-Speech Synthesis with Textual Conditioning**|Gunwoo Lee et.al.|[2610.01012](http://arxiv.org/abs/2610.01012)|null|
+|**2026-09-30**|**Articulatory Source-Filter TTS: Physically Grounded Control through Vocal Tract Kinematics**|Jesuraj Bandekar et.al.|[2610.00735](http://arxiv.org/abs/2610.00735)|null|
+|**2026-09-30**|**Silence-the-Mimic: Accelerating Imperceptible Perturbation Generation Against Voice Cloning**|Runqiu Xu et.al.|[2610.00662](http://arxiv.org/abs/2610.00662)|null|
+|**2026-09-30**|**Balalaika-Longform: A Russian Speech Corpus for Continuous Long-Form Text-to-Speech**|Nikita Vasiliev et.al.|[2610.00658](http://arxiv.org/abs/2610.00658)|null|
 |**2026-09-30**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
 |**2026-09-30**|**SURE-EVAL: A Systematic and Unified Agentic Framework for Reproducible Evaluation**|Jing Peng et.al.|[2609.39030](http://arxiv.org/abs/2609.39030)|null|
 |**2026-09-29**|**Monotonicity-Guided Semantic Alignment for Zero-shot Multispeaker Image-to-Speech Synthesis**|Lijun Wang et.al.|[2609.38440](http://arxiv.org/abs/2609.38440)|null|
