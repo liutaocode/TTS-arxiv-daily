@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**DriftTTS: Few-Step Text-to-Speech Without Distillation via Distribution-Matching Drift**|Mohammad Nur Hossain Khan et.al.|[2610.03390](http://arxiv.org/abs/2610.03390)|null|
+|**2026-10-02**|**Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS**|Nityanand Mathur et.al.|[2610.03320](http://arxiv.org/abs/2610.03320)|null|
+|**2026-10-02**|**Unsupervised Instantaneous Phase and Frequency Tracking by Inverse Voice Synthesis**|Chin-Yun Yu et.al.|[2610.03058](http://arxiv.org/abs/2610.03058)|null|
 |**2026-10-01**|**Multi-sample Synthetic Supervision for Accent Conversion**|Yangyang Qu et.al.|[2610.01961](http://arxiv.org/abs/2610.01961)|null|
 |**2026-10-01**|**Q-SPT: Learnable Query-Based Compression for Low-Frame-Rate Speech Tokenization**|Jeeyoung Yun et.al.|[2610.01492](http://arxiv.org/abs/2610.01492)|null|
 |**2026-10-01**|**A Federated Deepfake Speech Detection Method Based on Layer-Wise Center-Guided Weighting Aggregation**|Yingjian Yu et.al.|[2610.01259](http://arxiv.org/abs/2610.01259)|null|
