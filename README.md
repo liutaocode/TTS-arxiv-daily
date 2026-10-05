@@ -1,4 +1,4 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -860,7 +860,7 @@
 |**2025-09-23**|**Frame-Stacked Local Transformers For Efficient Multi-Codebook Speech Generation**|Roy Fejgin et.al.|[2509.19592](http://arxiv.org/abs/2509.19592)|null|
 |**2025-09-23**|**HD-PPT: Hierarchical Decoding of Content- and Prompt-Preference Tokens for Instruction-based TTS**|Sihang Nie et.al.|[2509.19001](http://arxiv.org/abs/2509.19001)|null|
 |**2025-09-23**|**Direct Preference Optimization for Speech Autoregressive Diffusion Models**|Zhijun Liu et.al.|[2509.18928](http://arxiv.org/abs/2509.18928)|null|
-|**2025-09-23**|**Group Relative Policy Optimization for Text-to-Speech with Large Language Models**|Chang Liu et.al.|[2509.18798](http://arxiv.org/abs/2509.18798)|null|
+|**2025-09-23**|**Group Relative Policy Optimization for Text-to-Speech with Large Language Models**|Chang Liu et.al.|[2509.18798](http://arxiv.org/abs/2509.18798)|**[link](https://github.com/ryuclc/LLM-TTS-GRPO)**|
 |**2025-09-23**|**Explore the Reinforcement Learning for the LLM based ASR and TTS system**|Changfeng Gao et.al.|[2509.18569](http://arxiv.org/abs/2509.18569)|null|
 |**2025-09-23**|**No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS**|Seungyoun Shin et.al.|[2509.18531](http://arxiv.org/abs/2509.18531)|null|
 |**2025-09-22**|**Discrete-time diffusion-like models for speech synthesis**|Xiaozhou Tan et.al.|[2509.18470](http://arxiv.org/abs/2509.18470)|null|
@@ -1049,7 +1049,7 @@
 |**2025-07-07**|**LAPS-Diff: A Diffusion-Based Framework for Singing Voice Synthesis With Language Aware Prosody-Style Guided Learning**|Sandipan Dhar et.al.|[2507.04966](http://arxiv.org/abs/2507.04966)|null|
 |**2025-07-07**|**Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis**|Sho Inoue et.al.|[2507.04598](http://arxiv.org/abs/2507.04598)|null|
 |**2025-07-06**|**TTS-CtrlNet: Time varying emotion aligned text-to-speech generation with ControlNet**|Jaeseok Jeong et.al.|[2507.04349](http://arxiv.org/abs/2507.04349)|null|
-|**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Jingwei Shi et.al.|[2507.04036](http://arxiv.org/abs/2507.04036)|null|
+|**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Jingwei Shi et.al.|[2507.04036](http://arxiv.org/abs/2507.04036)|**[link](https://github.com/AIGeeksGroup/PresentAgent)**|
 |**2025-07-05**|**Prosody Labeling with Phoneme-BERT and Speech Foundation Models**|Tomoki Koriyama et.al.|[2507.03912](http://arxiv.org/abs/2507.03912)|null|
 |**2025-07-05**|**Traceable TTS: Toward Watermark-Free TTS with Strong Traceability**|Yuxiang Zhao et.al.|[2507.03887](http://arxiv.org/abs/2507.03887)|**[link](https://github.com/zhaoyx239/Traceable-TTS)**|
 |**2025-07-14**|**DeepGesture: A conversational gesture synthesis system based on emotions and semantics**|Thanh Hoang-Minh et.al.|[2507.03147](http://arxiv.org/abs/2507.03147)|null|
@@ -2175,5 +2175,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
