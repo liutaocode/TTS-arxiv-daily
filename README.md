@@ -1,4 +1,4 @@
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-05**|**Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model**|Sahil Mahendrakar et.al.|[2610.06817](http://arxiv.org/abs/2610.06817)|null|
+|**2026-10-05**|**A Comprehensive Objective Evaluation of Modern Text-to-Speech for Turkish Using Speech Quality Assessment Models**|Yunus Emre Ozkose et.al.|[2610.06057](http://arxiv.org/abs/2610.06057)|null|
+|**2026-10-04**|**Can Prosodic Style Be Inferred from Text Alone? Evidence from Unsupervised Acoustic Clusters**|Abdul Rehman et.al.|[2610.05575](http://arxiv.org/abs/2610.05575)|null|
+|**2026-10-04**|**Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection**|Miao He et.al.|[2610.05264](http://arxiv.org/abs/2610.05264)|null|
+|**2026-10-04**|**NeuMark-Native: Robust Text-to-Speech-Native Watermarking Through Full Utilization of Neural Audio Codec Latent Space**|Annan Wu et.al.|[2610.05215](http://arxiv.org/abs/2610.05215)|null|
+|**2026-10-04**|**Tracing a Sparse Emotion-Control Circuit in LLM-Based Text-to-Speech**|Hongfei Du et.al.|[2610.05080](http://arxiv.org/abs/2610.05080)|null|
+|**2026-10-03**|**Prompt-Consistency Inference for Zero-Shot Flow-Matching Text-to-Speech Models**|Vasily Zadorozhnyy et.al.|[2610.04757](http://arxiv.org/abs/2610.04757)|null|
+|**2026-10-03**|**VoiceWeaver: Staged Learning of Structured Controls for Expressive Speech and Sound-Event Generation**|Xiaosu Su et.al.|[2610.04500](http://arxiv.org/abs/2610.04500)|null|
+|**2026-10-03**|**Can LLM Agents Automate Reinforcement Learning for Text-to-Speech?**|Xuanjun Chen et.al.|[2610.04488](http://arxiv.org/abs/2610.04488)|null|
+|**2026-10-03**|**Learning to Watermark Speech Synthesis Against Model-Driven Reconstruction**|Weizhi Liu et.al.|[2610.04235](http://arxiv.org/abs/2610.04235)|null|
 |**2026-10-02**|**DriftTTS: Few-Step Text-to-Speech Without Distillation via Distribution-Matching Drift**|Mohammad Nur Hossain Khan et.al.|[2610.03390](http://arxiv.org/abs/2610.03390)|null|
 |**2026-10-02**|**Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS**|Nityanand Mathur et.al.|[2610.03320](http://arxiv.org/abs/2610.03320)|null|
 |**2026-10-02**|**Unsupervised Instantaneous Phase and Frequency Tracking by Inverse Voice Synthesis**|Chin-Yun Yu et.al.|[2610.03058](http://arxiv.org/abs/2610.03058)|null|
@@ -2178,5 +2188,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
 
