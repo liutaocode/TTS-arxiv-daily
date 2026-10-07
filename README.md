@@ -1,4 +1,4 @@
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**Voice Anonymization Made Simple: Training-Free Anonymization with Projected Classifier-Free Guidance**|Xiang Shi et.al.|[2610.08276](http://arxiv.org/abs/2610.08276)|null|
+|**2026-10-06**|**Loud and Clear: Dynamic Activation Steering for Improving Speech Intelligibility in Noisy Environments**|Seymanur Akti et.al.|[2610.07647](http://arxiv.org/abs/2610.07647)|null|
+|**2026-10-06**|**Pronunciation-Oriented Reinforcement Learning for Japanese Text-to-Speech with Kana-Domain ASR Rewards**|Shiao Zhu et.al.|[2610.07575](http://arxiv.org/abs/2610.07575)|null|
+|**2026-10-05**|**Region-Aware Masking for Accent-Robust Cross-Lingual Text-to-Speech**|Haoqi Li et.al.|[2610.07524](http://arxiv.org/abs/2610.07524)|null|
 |**2026-10-05**|**Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model**|Sahil Mahendrakar et.al.|[2610.06817](http://arxiv.org/abs/2610.06817)|null|
 |**2026-10-05**|**A Comprehensive Objective Evaluation of Modern Text-to-Speech for Turkish Using Speech Quality Assessment Models**|Yunus Emre Ozkose et.al.|[2610.06057](http://arxiv.org/abs/2610.06057)|null|
 |**2026-10-04**|**Can Prosodic Style Be Inferred from Text Alone? Evidence from Unsupervised Acoustic Clusters**|Abdul Rehman et.al.|[2610.05575](http://arxiv.org/abs/2610.05575)|null|
@@ -2188,5 +2192,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
