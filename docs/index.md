@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Steerspeech: Activation Steering For Emotion Control In Generated Speech**|Afsara Benazir et.al.|[2610.10415](http://arxiv.org/abs/2610.10415)|null|
+|**2026-10-07**|**Training-Free Instruction TTS Gender Bias Calibration Using Model-Adaptive Steering**|Kuan-Yu Chen et.al.|[2610.09831](http://arxiv.org/abs/2610.09831)|null|
+|**2026-10-07**|**Beyond Token Revision: Investigating Mask-and-Replace Diffusion for Zero-Shot Text-to-Speech**|Hounsu Kim et.al.|[2610.09448](http://arxiv.org/abs/2610.09448)|null|
+|**2026-10-07**|**Dialect-Robust Speech Language Models with Synthetic Pseudo-Dialect Augmentation**|Shunsuke Mitsumori et.al.|[2610.09321](http://arxiv.org/abs/2610.09321)|null|
+|**2026-10-06**|**BanglaBox: A Phonetically-Balanced Corpus and Data-Efficient Foundation-Model Adaptation for Bangla Text-to-Speech with Zero-Shot Voice Cloning**|Emtiaz Uddin Ahmed et.al.|[2610.09211](http://arxiv.org/abs/2610.09211)|null|
 |**2026-10-06**|**Voice Anonymization Made Simple: Training-Free Anonymization with Projected Classifier-Free Guidance**|Xiang Shi et.al.|[2610.08276](http://arxiv.org/abs/2610.08276)|null|
 |**2026-10-06**|**Loud and Clear: Dynamic Activation Steering for Improving Speech Intelligibility in Noisy Environments**|Seymanur Akti et.al.|[2610.07647](http://arxiv.org/abs/2610.07647)|null|
 |**2026-10-06**|**Pronunciation-Oriented Reinforcement Learning for Japanese Text-to-Speech with Kana-Domain ASR Rewards**|Shiao Zhu et.al.|[2610.07575](http://arxiv.org/abs/2610.07575)|null|
