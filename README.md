@@ -1,4 +1,4 @@
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Beyond Speech Captions: Speech-Rewarded Style Planning for Conversational Text-to-Speech**|Shiao Zhu et.al.|[2610.11461](http://arxiv.org/abs/2610.11461)|null|
+|**2026-10-08**|**Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS**|Junchuan Zhao et.al.|[2610.11437](http://arxiv.org/abs/2610.11437)|null|
+|**2026-10-08**|**Phonological Interference in Multilingual Speech Models**|Moran Yanuka et.al.|[2610.11275](http://arxiv.org/abs/2610.11275)|null|
+|**2026-10-08**|**Local Prototype Reconstruction for Text-Compatible Speech-to-LLM Bridge Pretraining**|Xinnian Zhao et.al.|[2610.11159](http://arxiv.org/abs/2610.11159)|null|
 |**2026-10-07**|**Steerspeech: Activation Steering For Emotion Control In Generated Speech**|Afsara Benazir et.al.|[2610.10415](http://arxiv.org/abs/2610.10415)|null|
 |**2026-10-07**|**Training-Free Instruction TTS Gender Bias Calibration Using Model-Adaptive Steering**|Kuan-Yu Chen et.al.|[2610.09831](http://arxiv.org/abs/2610.09831)|null|
 |**2026-10-07**|**Beyond Token Revision: Investigating Mask-and-Replace Diffusion for Zero-Shot Text-to-Speech**|Hounsu Kim et.al.|[2610.09448](http://arxiv.org/abs/2610.09448)|null|
@@ -2197,5 +2201,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
 
