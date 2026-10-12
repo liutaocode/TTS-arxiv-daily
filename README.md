@@ -1,4 +1,4 @@
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -332,7 +332,7 @@
 |**2026-06-11**|**PRISM: Prosody-Integrated Multi-Agent Reasoning Framework for Empathetic Spoken Dialogue**|Wen Zhang et.al.|[2606.12902](http://arxiv.org/abs/2606.12902)|null|
 |**2026-06-10**|**M*: A Modular, Extensible, Serving System for Multimodal Models**|Atindra Jha et.al.|[2606.12688](http://arxiv.org/abs/2606.12688)|null|
 |**2026-06-10**|**Real-Time Language Model Jamming: A Case Study for Live Music Accompaniment Generation**|Bowen Zheng et.al.|[2606.11886](http://arxiv.org/abs/2606.11886)|null|
-|**2026-06-11**|**UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction**|Sangmin Lee et.al.|[2606.11681](http://arxiv.org/abs/2606.11681)|null|
+|**2026-06-11**|**UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction**|Sangmin Lee et.al.|[2606.11681](http://arxiv.org/abs/2606.11681)|**[link](https://github.com/sanghyang00/ur-bert)**|
 |**2026-06-10**|**SARA: A Dual-Stream VAE for High-Fidelity Speech Generation via Integrating Semantic and Acoustic Representations**|Peijie Chen et.al.|[2606.11611](http://arxiv.org/abs/2606.11611)|null|
 |**2026-06-09**|**Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning**|Cristian-Teodor Neamtu et.al.|[2606.10758](http://arxiv.org/abs/2606.10758)|null|
 |**2026-06-08**|**LLM can Read Spectrogram: Encoder-free Speech-Language Modeling**|Ruchao Fan et.al.|[2606.10231](http://arxiv.org/abs/2606.10231)|null|
@@ -693,9 +693,9 @@
 |**2025-12-02**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
 |**2025-12-02**|**Perceptual evaluation of Acoustic Level of Detail in Virtual Acoustic Environments**|Stefan Fichna et.al.|[2512.02891](http://arxiv.org/abs/2512.02891)|null|
 |**2025-12-02**|**BOOM: Beyond Only One Modality KIT's Multimodal Multilingual Lecture Companion**|Sai Koneru et.al.|[2512.02817](http://arxiv.org/abs/2512.02817)|null|
-|**2025-12-02**|**Reasoning-Aware Multimodal Fusion for Hateful Video Detection**|Shuonan Yang et.al.|[2512.02743](http://arxiv.org/abs/2512.02743)|null|
+|**2025-12-02**|**Reasoning-Aware Multimodal Fusion for Hateful Video Detection**|Shuonan Yang et.al.|[2512.02743](http://arxiv.org/abs/2512.02743)|**[link](https://github.com/Multimodal-Intelligence-Lab-MIL/RAMF)**|
 |**2025-12-02**|**Hear What Matters! Text-conditioned Selective Video-to-Audio Generation**|Junwon Lee et.al.|[2512.02650](http://arxiv.org/abs/2512.02650)|**[link](https://github.com/jnwnlee/selva)**|
-|**2025-12-02**|**Spoken Conversational Agents with Large Language Models**|Chao-Han Huck Yang et.al.|[2512.02593](http://arxiv.org/abs/2512.02593)|null|
+|**2025-12-02**|**Spoken Conversational Agents with Large Language Models**|Chao-Han Huck Yang et.al.|[2512.02593](http://arxiv.org/abs/2512.02593)|**[link](https://github.com/Naman762/AI-Voice-Product-Assistant)**|
 |**2025-12-02**|**Co-speech Gesture Video Generation via Motion-Based Graph Retrieval**|Yafei Song et.al.|[2512.02576](http://arxiv.org/abs/2512.02576)|null|
 |**2025-12-02**|**Generative Multi-modal Feedback for Singing Voice Synthesis Evaluation**|Xueyan Li et.al.|[2512.02523](http://arxiv.org/abs/2512.02523)|null|
 |**2025-12-02**|**VibOmni: Towards Scalable Bone-conduction Speech Enhancement on Earables**|Lixing He et.al.|[2512.02515](http://arxiv.org/abs/2512.02515)|null|
@@ -1201,7 +1201,7 @@
 |**2025-05-27**|**RASMALAI: Resources for Adaptive Speech Modeling in Indian Languages with Accents and Intonations**|Ashwin Sankar et.al.|[2505.18609](http://arxiv.org/abs/2505.18609)|null|
 |**2025-05-24**|**MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt**|Zhichao Wu et.al.|[2505.18453](http://arxiv.org/abs/2505.18453)|null|
 |**2025-05-27**|**CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training**|Zhihao Du et.al.|[2505.17589](http://arxiv.org/abs/2505.17589)|null|
-|**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|null|
+|**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|**[link](https://github.com/lethaiq/linguistic-sensitivity-deepfake-voice)**|
 |**2025-05-23**|**UniTTS: An end-to-end TTS system without decoupling of acoustic and semantic information**|Rui Wang et.al.|[2505.17426](http://arxiv.org/abs/2505.17426)|**[link](https://github.com/idea-emdoor-lab/distilcodec)**|
 |**2025-05-23**|**Speechless: Speech Instruction Training Without Speech for Low Resource Languages**|Alan Dao et.al.|[2505.17417](http://arxiv.org/abs/2505.17417)|**[link](https://github.com/menloresearch/ichigo)**|
 |**2025-05-22**|**Benchmarking Expressive Japanese Character Text-to-Speech with VITS and Style-BERT-VITS2**|Zackary Rackauckas et.al.|[2505.17320](http://arxiv.org/abs/2505.17320)|null|
@@ -1461,7 +1461,7 @@
 |**2024-10-16**|**ERVQ: Enhanced Residual Vector Quantization with Intra-and-Inter-Codebook Optimization for Neural Audio Codecs**|Rui-Chen Zheng et.al.|[2410.12359](http://arxiv.org/abs/2410.12359)|null|
 |**2024-10-14**|**IsoChronoMeter: A simple and effective isochronic translation evaluation metric**|Nikolai Rozanov et.al.|[2410.11127](http://arxiv.org/abs/2410.11127)|null|
 |**2024-10-14**|**DMDSpeech: Distilled Diffusion Model Surpassing The Teacher in Zero-shot Speech Synthesis via Direct Metric Optimization**|Yingahao Aaron Li et.al.|[2410.11097](http://arxiv.org/abs/2410.11097)|null|
-|**2024-10-12**|**Emphasis Rendering for Conversational Text-to-Speech with Multi-modal Multi-scale Context Modeling**|Rui Liu et.al.|[2410.09524](http://arxiv.org/abs/2410.09524)|null|
+|**2024-10-12**|**Emphasis Rendering for Conversational Text-to-Speech with Multi-modal Multi-scale Context Modeling**|Rui Liu et.al.|[2410.09524](http://arxiv.org/abs/2410.09524)|**[link](https://github.com/AI-S2-Lab/ER-CTTS)**|
 |**2024-10-10**|**Unsupervised Data Validation Methods for Efficient Model Training**|Yurii Paniv et.al.|[2410.07880](http://arxiv.org/abs/2410.07880)|null|
 |**2024-10-15**|**F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching**|Yushen Chen et.al.|[2410.06885](http://arxiv.org/abs/2410.06885)|**[link](https://github.com/SWivid/F5-TTS)**|
 |**2024-10-09**|**Efficient training strategies for natural sounding speech synthesis and speaker adaptation based on FastPitch**|Teodora Răgman et.al.|[2410.06787](http://arxiv.org/abs/2410.06787)|null|
@@ -2051,7 +2051,7 @@
 |**2022-10-31**|**Structured State Space Decoder for Speech Recognition and Synthesis**|Koichi Miyazaki et.al.|[2210.17098](http://arxiv.org/abs/2210.17098)|null|
 |**2022-10-28**|**Towards zero-shot Text-based voice editing using acoustic context conditioning, utterance embeddings, and reference encoders**|Jason Fong et.al.|[2210.16045](http://arxiv.org/abs/2210.16045)|null|
 |**2023-02-21**|**Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform**|Masaya Kawamura et.al.|[2210.15975](http://arxiv.org/abs/2210.15975)|**[link](https://github.com/masayakawamura/mb-istft-vits)**|
-|**2023-02-22**|**Period VITS: Variational Inference with Explicit Pitch Modeling for End-to-end Emotional Speech Synthesis**|Yuma Shirahata et.al.|[2210.15964](http://arxiv.org/abs/2210.15964)|null|
+|**2023-02-22**|**Period VITS: Variational Inference with Explicit Pitch Modeling for End-to-end Emotional Speech Synthesis**|Yuma Shirahata et.al.|[2210.15964](http://arxiv.org/abs/2210.15964)|**[link](https://github.com/exploita123/charmedforfree)**|
 |**2022-10-28**|**Residual Adapters for Few-Shot Text-to-Speech Speaker Adaptation**|Nobuyuki Morioka et.al.|[2210.15868](http://arxiv.org/abs/2210.15868)|null|
 |**2023-03-15**|**Virtuoso: Massive Multilingual Speech-Text Joint Semi-Supervised Learning for Text-To-Speech**|Takaaki Saeki et.al.|[2210.15447](http://arxiv.org/abs/2210.15447)|null|
 |**2022-10-27**|**Explicit Intensity Control for Accented Text-to-speech**|Rui Liu et.al.|[2210.15364](http://arxiv.org/abs/2210.15364)|null|
@@ -2174,8 +2174,8 @@
 |**2023-08-28**|**Adversarial Learning of Intermediate Acoustic Feature for End-to-End Lightweight Text-to-Speech**|Hyungchan Yoon et.al.|[2204.02172](http://arxiv.org/abs/2204.02172)|null|
 |**2022-09-07**|**Deliberation Model for On-Device Spoken Language Understanding**|Duc Le et.al.|[2204.01893](http://arxiv.org/abs/2204.01893)|null|
 |**2022-12-14**|**Anti-Spoofing Using Transfer Learning with Variational Information Bottleneck**|Youngsik Eom et.al.|[2204.01387](http://arxiv.org/abs/2204.01387)|null|
-|**2022-11-11**|**Content-Dependent Fine-Grained Speaker Embedding for Zero-Shot Speaker Adaptation in Text-to-Speech Synthesis**|Yixuan Zhou et.al.|[2204.00990](http://arxiv.org/abs/2204.00990)|null|
-|**2022-06-30**|**VQTTS: High-Fidelity Text-to-Speech Synthesis with Self-Supervised VQ Acoustic Feature**|Chenpeng Du et.al.|[2204.00768](http://arxiv.org/abs/2204.00768)|null|
+|**2022-11-11**|**Content-Dependent Fine-Grained Speaker Embedding for Zero-Shot Speaker Adaptation in Text-to-Speech Synthesis**|Yixuan Zhou et.al.|[2204.00990](http://arxiv.org/abs/2204.00990)|**[link](https://github.com/Labmem-Zhouyx/CDFSE_FastSpeech2)**|
+|**2022-06-30**|**VQTTS: High-Fidelity Text-to-Speech Synthesis with Self-Supervised VQ Acoustic Feature**|Chenpeng Du et.al.|[2204.00768](http://arxiv.org/abs/2204.00768)|**[link](https://github.com/rishikksh20/VQ-TTS-pytorch)**|
 |**2022-04-01**|**AdaSpeech 4: Adaptive Text to Speech in Zero-Shot Scenarios**|Yihan Wu et.al.|[2204.00436](http://arxiv.org/abs/2204.00436)|null|
 |**2022-04-01**|**Text-To-Speech Data Augmentation for Low Resource Speech Recognition**|Rodolfo Zevallos et.al.|[2204.00291](http://arxiv.org/abs/2204.00291)|null|
 |**2022-07-19**|**Mixed-Phoneme BERT: Improving BERT with Mixed Phoneme and Sup-Phoneme Representations for Text to Speech**|Guangyan Zhang et.al.|[2203.17190](http://arxiv.org/abs/2203.17190)|null|
@@ -2201,5 +2201,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
 

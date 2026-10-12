@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -149,7 +149,7 @@ layout: default
 |**2026-08-31**|**Conversation Coach: A Voice-enabled AI System that Helps Practice Difficult Workplace Conversations**|Fanyou Wu et.al.|[2609.00441](http://arxiv.org/abs/2609.00441)|null|
 |**2026-08-31**|**When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models**|Joonyong Park et.al.|[2608.31035](http://arxiv.org/abs/2608.31035)|null|
 |**2026-08-29**|**When Patients Cut In: Extending Clinical Conversational AI Safety to Interruptions**|Zachary Ellis et.al.|[2608.29241](http://arxiv.org/abs/2608.29241)|null|
-|**2026-08-27**|**Said Aloud, Read Different: Cross-Modal Instability in Multimodal Models**|Basel Mousi et.al.|[2608.27135](http://arxiv.org/abs/2608.27135)|null|
+|**2026-08-27**|**Said Aloud, Read Different: Cross-Modal Instability in Multimodal Models**|Basel Mousi et.al.|[2608.27135](http://arxiv.org/abs/2608.27135)|**[link](https://github.com/baselmousi/cfhr-ci)**|
 |**2026-08-27**|**Scaling phoneme-based TTS augmentation for ASR: A unified pipeline and controlled study**|Zhen Wang et.al.|[2608.26697](http://arxiv.org/abs/2608.26697)|null|
 |**2026-08-27**|**EmoSay: Artificial Intelligence-Driven Text-to-Emotional-Speech System for Affective Communication in Extended Reality**|Sikiru Ademola Adewale et.al.|[2608.26566](http://arxiv.org/abs/2608.26566)|null|
 |**2026-08-26**|**InteractGesture: Progressive Chunk Guidance for Continuous Streaming Co-Speech Gesture Control**|Ekkasit Pinyoanuntapong et.al.|[2608.25734](http://arxiv.org/abs/2608.25734)|null|
@@ -599,7 +599,7 @@ layout: default
 |**2026-01-26**|**Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings**|Aayush M. Shrestha et.al.|[2601.18694](http://arxiv.org/abs/2601.18694)|null|
 |**2026-01-26**|**UrgentMOS: Unified Multi-Metric and Preference Learning for Robust Speech Quality Assessment**|Wei Wang et.al.|[2601.18438](http://arxiv.org/abs/2601.18438)|null|
 |**2026-01-25**|**Quran-MD: A Fine-Grained Multilingual Multimodal Dataset of the Quran**|Muhammad Umar Salman et.al.|[2601.17880](http://arxiv.org/abs/2601.17880)|null|
-|**2026-01-25**|**AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation**|Dongjie Cheng et.al.|[2601.17761](http://arxiv.org/abs/2601.17761)|null|
+|**2026-01-25**|**AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation**|Dongjie Cheng et.al.|[2601.17761](http://arxiv.org/abs/2601.17761)|**[link](https://github.com/ModalityDance/AR-Omni)**|
 |**2026-01-23**|**SonoEdit: Null-Space Constrained Knowledge Editing for Pronunciation Correction in LLM-Based TTS**|Ayush Pratap Singh et.al.|[2601.17086](http://arxiv.org/abs/2601.17086)|null|
 |**2026-01-22**|**Timbre-Aware LLM-based Direct Speech-to-Speech Translation Extendable to Multiple Language Pairs**|Lalaram Arya et.al.|[2601.16023](http://arxiv.org/abs/2601.16023)|null|
 |**2026-01-22**|**Qwen3-TTS Technical Report**|Hangrui Hu et.al.|[2601.15621](http://arxiv.org/abs/2601.15621)|null|
@@ -2177,7 +2177,7 @@ layout: default
 |**2022-04-01**|**Text-To-Speech Data Augmentation for Low Resource Speech Recognition**|Rodolfo Zevallos et.al.|[2204.00291](http://arxiv.org/abs/2204.00291)|null|
 |**2022-07-19**|**Mixed-Phoneme BERT: Improving BERT with Mixed Phoneme and Sup-Phoneme Representations for Text to Speech**|Guangyan Zhang et.al.|[2203.17190](http://arxiv.org/abs/2203.17190)|null|
 |**2022-03-31**|**An End-to-end Chinese Text Normalization Model based on Rule-guided Flat-Lattice Transformer**|Wenlin Dai et.al.|[2203.16954](http://arxiv.org/abs/2203.16954)|**[link](https://github.com/thuhcsi/flattn)**|
-|**2022-07-11**|**WavThruVec: Latent speech representation as intermediate features for neural speech synthesis**|Hubert Siuzdak et.al.|[2203.16930](http://arxiv.org/abs/2203.16930)|null|
+|**2022-07-11**|**WavThruVec: Latent speech representation as intermediate features for neural speech synthesis**|Hubert Siuzdak et.al.|[2203.16930](http://arxiv.org/abs/2203.16930)|**[link](https://github.com/p1an-lin-jung/WavThruVec_pytorch)**|
 |**2022-03-31**|**A Character-level Span-based Model for Mandarin Prosodic Structure Prediction**|Xueyuan Chen et.al.|[2203.16922](http://arxiv.org/abs/2203.16922)|**[link](https://github.com/thuhcsi/spanpsp)**|
 |**2022-07-01**|**JETS: Jointly Training FastSpeech2 and HiFi-GAN for End to End Text to Speech**|Dan Lim et.al.|[2203.16852](http://arxiv.org/abs/2203.16852)|**[link](https://github.com/imdanboy/jets)**|
 |**2022-03-31**|**Open Source MagicData-RAMC: A Rich Annotated Mandarin Conversational(RAMC) Speech Dataset**|Zehui Yang et.al.|[2203.16844](http://arxiv.org/abs/2203.16844)|null|
