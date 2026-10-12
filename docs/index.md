@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Enhancing Speech Recognition through Text-to-Speech and Voice Conversion Augmentation**|Yunus Emre Ozkose et.al.|[2610.13662](http://arxiv.org/abs/2610.13662)|null|
+|**2026-10-09**|**Vision Transformers Learn Word Meaning from Images Alone**|Anders Gjølbye et.al.|[2610.13252](http://arxiv.org/abs/2610.13252)|null|
+|**2026-10-09**|**How Should We Evaluate Naturalness for Synthetic Speech with a Foreign Accent?**|Kentaro Onda et.al.|[2610.13175](http://arxiv.org/abs/2610.13175)|null|
+|**2026-10-09**|**E3-System: Expressive EmoData, Explicitly Controllable, Easy-to-Use TTS**|Yiqiao Huang et.al.|[2610.12993](http://arxiv.org/abs/2610.12993)|**[link](https://github.com/hyq-hub/E3-System)**|
+|**2026-10-09**|**Emo-BPO: Emotion Bidirectional Preference Optimization for Diffusion-based Emotional TTS**|Jiacheng Shi et.al.|[2610.12958](http://arxiv.org/abs/2610.12958)|null|
 |**2026-10-08**|**Beyond Speech Captions: Speech-Rewarded Style Planning for Conversational Text-to-Speech**|Shiao Zhu et.al.|[2610.11461](http://arxiv.org/abs/2610.11461)|null|
 |**2026-10-08**|**Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS**|Junchuan Zhao et.al.|[2610.11437](http://arxiv.org/abs/2610.11437)|null|
 |**2026-10-08**|**Phonological Interference in Multilingual Speech Models**|Moran Yanuka et.al.|[2610.11275](http://arxiv.org/abs/2610.11275)|null|
