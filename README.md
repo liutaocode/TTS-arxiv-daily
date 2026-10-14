@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**Estimating Surprisal from the Speech Signal**|Zachary Hopton et.al.|[2610.18439](http://arxiv.org/abs/2610.18439)|null|
+|**2026-10-13**|**PACT: A Pragmatic Prompting Framework for Expressive and Voice-Preserving Speech-to-Speech Translation**|Yuchen Song et.al.|[2610.18247](http://arxiv.org/abs/2610.18247)|null|
+|**2026-10-13**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
+|**2026-10-13**|**Beyond Fixed Targets: On-Policy One-Shot Speaker Personalization for Autoregressive Text-To-Speech Models**|Sangkwon Park et.al.|[2610.17838](http://arxiv.org/abs/2610.17838)|null|
+|**2026-10-13**|**SSEmb: Training a Generalizable Speech Retrieval Model Using Only Automatic Speech Recognition Data**|Sangkwon Park et.al.|[2610.17813](http://arxiv.org/abs/2610.17813)|null|
+|**2026-10-13**|**Multimodal Contrastive Representation Learning Based Voice Conversion for Electrolaryngeal Speech Enhancement**|Ding Ma et.al.|[2610.17716](http://arxiv.org/abs/2610.17716)|null|
+|**2026-10-13**|**TDR: Tagalog Diacritic Restoration Dataset**|Ivan Yuri De Leon et.al.|[2610.17597](http://arxiv.org/abs/2610.17597)|null|
+|**2026-10-12**|**Distilling Text LMs into Speech-to-Speech LMs by Matching Internal Text Predictions**|Ju-Chieh Chou et.al.|[2610.17461](http://arxiv.org/abs/2610.17461)|null|
 |**2026-10-11**|**Synthesizing Ultrasonic Echo Profiles from Text for Open-Vocabulary Silent Speech Recognition**|Jiacheng Liu et.al.|[2610.15671](http://arxiv.org/abs/2610.15671)|null|
 |**2026-10-11**|**KOMOS: Automatic Mean Opinion Score Estimation for Korean Speech**|Sangchun Ha et.al.|[2610.15353](http://arxiv.org/abs/2610.15353)|null|
 |**2026-10-10**|**GAMW: Generation-Aware Mel-Domain Watermarking for TTS Traceability**|Yihang Zhang et.al.|[2610.15082](http://arxiv.org/abs/2610.15082)|null|
