@@ -1,4 +1,4 @@
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-11**|**Synthesizing Ultrasonic Echo Profiles from Text for Open-Vocabulary Silent Speech Recognition**|Jiacheng Liu et.al.|[2610.15671](http://arxiv.org/abs/2610.15671)|null|
+|**2026-10-11**|**KOMOS: Automatic Mean Opinion Score Estimation for Korean Speech**|Sangchun Ha et.al.|[2610.15353](http://arxiv.org/abs/2610.15353)|null|
+|**2026-10-10**|**GAMW: Generation-Aware Mel-Domain Watermarking for TTS Traceability**|Yihang Zhang et.al.|[2610.15082](http://arxiv.org/abs/2610.15082)|null|
+|**2026-10-10**|**Cross-Lingual TTS for Indian Languages: A Benchmark and Inference-Time Duration Estimation Strategies**|Adarsh Arigala et.al.|[2610.14826](http://arxiv.org/abs/2610.14826)|null|
+|**2026-10-10**|**Training a Compact, Strong, and Realistic Text-to-Speech Model**|Runyuan Cai et.al.|[2610.14776](http://arxiv.org/abs/2610.14776)|null|
+|**2026-10-10**|**VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS**|Wenbing Yang et.al.|[2610.14694](http://arxiv.org/abs/2610.14694)|null|
+|**2026-10-10**|**AegisVox: Factorized Privacy and Clinical Preservation for Long-Form Speech**|Praphul Singh et.al.|[2610.14643](http://arxiv.org/abs/2610.14643)|null|
+|**2026-10-10**|**EVISTA: Unified Multimodal Video Search with Evidence-Aware Temporal Path Optimization**|Minh-Huy Tran et.al.|[2610.14510](http://arxiv.org/abs/2610.14510)|null|
+|**2026-10-10**|**AphaVoice: Text-to-Speech Model for Aphasia Patient Simulation**|Al Varrel Putra Kusuma et.al.|[2610.14479](http://arxiv.org/abs/2610.14479)|null|
+|**2026-10-09**|**Multimodal Co-Generation With Continuous Bitstream Diffusion**|Georgios Batzolis et.al.|[2610.14349](http://arxiv.org/abs/2610.14349)|null|
 |**2026-10-09**|**Enhancing Speech Recognition through Text-to-Speech and Voice Conversion Augmentation**|Yunus Emre Ozkose et.al.|[2610.13662](http://arxiv.org/abs/2610.13662)|null|
 |**2026-10-09**|**Vision Transformers Learn Word Meaning from Images Alone**|Anders Gjølbye et.al.|[2610.13252](http://arxiv.org/abs/2610.13252)|null|
 |**2026-10-09**|**How Should We Evaluate Naturalness for Synthetic Speech with a Foreign Accent?**|Kentaro Onda et.al.|[2610.13175](http://arxiv.org/abs/2610.13175)|null|
@@ -2206,5 +2216,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
 
