@@ -1,4 +1,4 @@
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**|Zhaoyang Wang et.al.|[2610.20181](http://arxiv.org/abs/2610.20181)|null|
+|**2026-10-14**|**SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets**|Yixian Tan et.al.|[2610.19869](http://arxiv.org/abs/2610.19869)|null|
+|**2026-10-14**|**Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning**|Dekun Chen et.al.|[2610.19774](http://arxiv.org/abs/2610.19774)|null|
+|**2026-10-14**|**Speaking Longer Than Learned: Training-Free Long-Form Generation for Full-Stream Text-to-Speech**|Jeseung Lim et.al.|[2610.19553](http://arxiv.org/abs/2610.19553)|null|
+|**2026-10-14**|**Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech**|Wanli Sun et.al.|[2610.19499](http://arxiv.org/abs/2610.19499)|null|
 |**2026-10-13**|**Estimating Surprisal from the Speech Signal**|Zachary Hopton et.al.|[2610.18439](http://arxiv.org/abs/2610.18439)|null|
 |**2026-10-13**|**PACT: A Pragmatic Prompting Framework for Expressive and Voice-Preserving Speech-to-Speech Translation**|Yuchen Song et.al.|[2610.18247](http://arxiv.org/abs/2610.18247)|null|
-|**2026-10-13**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
+|**2026-10-14**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
 |**2026-10-13**|**Beyond Fixed Targets: On-Policy One-Shot Speaker Personalization for Autoregressive Text-To-Speech Models**|Sangkwon Park et.al.|[2610.17838](http://arxiv.org/abs/2610.17838)|null|
 |**2026-10-13**|**SSEmb: Training a Generalizable Speech Retrieval Model Using Only Automatic Speech Recognition Data**|Sangkwon Park et.al.|[2610.17813](http://arxiv.org/abs/2610.17813)|null|
 |**2026-10-13**|**Multimodal Contrastive Representation Learning Based Voice Conversion for Electrolaryngeal Speech Enhancement**|Ding Ma et.al.|[2610.17716](http://arxiv.org/abs/2610.17716)|null|
@@ -2224,5 +2229,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
