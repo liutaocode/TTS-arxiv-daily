@@ -1,4 +1,4 @@
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**PEDBench: Can Speech Models Detect Phonetic Errors?**|Zhonghao Shi et.al.|[2610.20830](http://arxiv.org/abs/2610.20830)|null|
 |**2026-10-14**|**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**|Zhaoyang Wang et.al.|[2610.20181](http://arxiv.org/abs/2610.20181)|null|
 |**2026-10-14**|**SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets**|Yixian Tan et.al.|[2610.19869](http://arxiv.org/abs/2610.19869)|null|
 |**2026-10-14**|**Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning**|Dekun Chen et.al.|[2610.19774](http://arxiv.org/abs/2610.19774)|null|
@@ -2229,5 +2230,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 

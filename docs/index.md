@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**PEDBench: Can Speech Models Detect Phonetic Errors?**|Zhonghao Shi et.al.|[2610.20830](http://arxiv.org/abs/2610.20830)|null|
 |**2026-10-14**|**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**|Zhaoyang Wang et.al.|[2610.20181](http://arxiv.org/abs/2610.20181)|null|
 |**2026-10-14**|**SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets**|Yixian Tan et.al.|[2610.19869](http://arxiv.org/abs/2610.19869)|null|
 |**2026-10-14**|**Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning**|Dekun Chen et.al.|[2610.19774](http://arxiv.org/abs/2610.19774)|null|
