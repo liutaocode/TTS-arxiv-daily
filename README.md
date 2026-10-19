@@ -268,7 +268,7 @@
 |**2026-07-18**|**VisionAssist: An Open-Source Smartphone Assistant for AI-Based Visual Accessibility**|Ayşe Özlem Çalışkan et.al.|[2607.16750](http://arxiv.org/abs/2607.16750)|null|
 |**2026-07-17**|**AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2607.15755](http://arxiv.org/abs/2607.15755)|null|
 |**2026-07-16**|**RW-Voice-EQ Bench: A Real World Benchmark for Evaluating Voice AI Systems**|David Ayllon et.al.|[2607.14846](http://arxiv.org/abs/2607.14846)|null|
-|**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753](http://arxiv.org/abs/2607.14753)|null|
+|**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753](http://arxiv.org/abs/2607.14753)|**[link](https://github.com/dkorzh10/LALMs_for_SASV)**|
 |**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-14**|**Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction**|Mattia Tamiazzo et.al.|[2607.12584](http://arxiv.org/abs/2607.12584)|null|
 |**2026-07-14**|**A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential**|Gendo Kumoi et.al.|[2607.12235](http://arxiv.org/abs/2607.12235)|null|
@@ -776,7 +776,7 @@
 |**2025-11-23**|**Gradient Masters at BLP-2025 Task 1: Advancing Low-Resource NLP for Bengali using Ensemble-Based Adversarial Training for Hate Speech Detection**|Syed Mohaiminul Hoque et.al.|[2511.18324](http://arxiv.org/abs/2511.18324)|null|
 |**2025-11-23**|**MultiDiffNet: A Multi-Objective Diffusion Framework for Generalizable Brain Decoding**|Mengchun Zhang et.al.|[2511.18294](http://arxiv.org/abs/2511.18294)|null|
 |**2025-11-22**|**A superpersuasive autonomous policy debating system**|Allen Roush et.al.|[2511.17854](http://arxiv.org/abs/2511.17854)|null|
-|**2025-11-21**|**Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition**|Ayhan Kucukmanisa et.al.|[2511.17477](http://arxiv.org/abs/2511.17477)|null|
+|**2025-11-21**|**Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition**|Ayhan Kucukmanisa et.al.|[2511.17477](http://arxiv.org/abs/2511.17477)|**[link](https://github.com/ayhankm/MM-ARABIC)**|
 |**2025-11-21**|**AI in Music and Sound: Pedagogical Reflections, Post-Structuralist Approaches and Creative Outcomes in Seminar Practice**|Guilherme Coelho et.al.|[2511.17425](http://arxiv.org/abs/2511.17425)|null|
 |**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Chiori Hori et.al.|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
 |**2025-11-21**|**Investigating self-supervised representations for audio-visual deepfake detection**|Dragos-Alexandru Boldisor et.al.|[2511.17181](http://arxiv.org/abs/2511.17181)|null|
@@ -2063,7 +2063,7 @@
 |**2023-03-14**|**Grad-StyleSpeech: Any-speaker Adaptive Text-to-Speech Synthesis with Diffusion Models**|Minki Kang et.al.|[2211.09383](http://arxiv.org/abs/2211.09383)|null|
 |**2023-01-04**|**Low-Resource Mongolian Speech Synthesis Based on Automatic Prosody Annotation**|Xin Yuan et.al.|[2211.09365](http://arxiv.org/abs/2211.09365)|null|
 |**2022-11-14**|**SNIPER Training: Variable Sparsity Rate Training For Text-To-Speech**|Perry Lam et.al.|[2211.07283](http://arxiv.org/abs/2211.07283)|null|
-|**2023-05-25**|**Autovocoder: Fast Waveform Generation from a Learned Speech Representation using Differentiable Digital Signal Processing**|Jacob J Webber et.al.|[2211.06989](http://arxiv.org/abs/2211.06989)|null|
+|**2023-05-25**|**Autovocoder: Fast Waveform Generation from a Learned Speech Representation using Differentiable Digital Signal Processing**|Jacob J Webber et.al.|[2211.06989](http://arxiv.org/abs/2211.06989)|**[link](https://github.com/hcy71o/AutoVocoder)**|
 |**2023-05-29**|**OverFlow: Putting flows on top of neural transducers for better TTS**|Shivam Mehta et.al.|[2211.06892](http://arxiv.org/abs/2211.06892)|**[link](https://github.com/coqui-ai/TTS)**|
 |**2023-05-29**|**Semi-supervised learning for continuous emotional intensity controllable speech synthesis with disentangled representations**|Yoori Oh et.al.|[2211.06160](http://arxiv.org/abs/2211.06160)|null|
 |**2022-12-04**|**ERNIE-SAT: Speech and Text Joint Pretraining for Cross-Lingual Multi-Speaker Text-to-Speech**|Xiaoran Fan et.al.|[2211.03545](http://arxiv.org/abs/2211.03545)|**[link](https://github.com/PaddlePaddle/PaddleSpeech)**|

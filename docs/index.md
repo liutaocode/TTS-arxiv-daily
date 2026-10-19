@@ -144,7 +144,7 @@ layout: default
 |**2026-09-17**|**Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection**|Xiang Li et.al.|[2609.20063](http://arxiv.org/abs/2609.20063)|null|
 |**2026-09-17**|**Dictionary-Constrained Grapheme-to-Phoneme for Unsegmented Languages from LLM-Annotated Data**|Rui Hu et.al.|[2609.19805](http://arxiv.org/abs/2609.19805)|null|
 |**2026-09-16**|**PersianVox: A Prosody-Aware Approach for Speech Dataset Generation from In-the-Wild Data**|Saeedreza Zouashkiani et.al.|[2609.19324](http://arxiv.org/abs/2609.19324)|null|
-|**2026-09-16**|**GrainSpeech: Less Context, More Detail for Compact Speech Synthesis**|Zitao Liang et.al.|[2609.18856](http://arxiv.org/abs/2609.18856)|null|
+|**2026-09-16**|**GrainSpeech: Less Context, More Detail for Compact Speech Synthesis**|Zitao Liang et.al.|[2609.18856](http://arxiv.org/abs/2609.18856)|**[link](https://github.com/lab-emi/GrainSpeech)**|
 |**2026-09-15**|**LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs**|Thanapat Trachu et.al.|[2609.17509](http://arxiv.org/abs/2609.17509)|null|
 |**2026-09-16**|**Self-Distilled Pronunciation and Accent Control for Neural Text-to-Speech**|Shuhei Kato et.al.|[2609.17234](http://arxiv.org/abs/2609.17234)|null|
 |**2026-09-15**|**Taming Long-form Text-to-Speech**|Rongxiang Wang et.al.|[2609.16989](http://arxiv.org/abs/2609.16989)|null|
@@ -1311,14 +1311,14 @@ layout: default
 |**2025-04-07**|**P2Mark: Plug-and-play Parameter-intrinsic Watermarking for Neural Speech Generation**|Yong Ren et.al.|[2504.05197](http://arxiv.org/abs/2504.05197)|null|
 |**2025-04-07**|**SpeakEasy: Enhancing Text-to-Speech Interactions for Expressive Content Creation**|Stephen Brade et.al.|[2504.05106](http://arxiv.org/abs/2504.05106)|null|
 |**2025-04-04**|**RWKVTTS: Yet another TTS based on RWKV-7**|Lin yueyu et.al.|[2504.03289](http://arxiv.org/abs/2504.03289)|**[link](https://github.com/yynil/rwkvtts)**|
-|**2025-04-09**|**F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
-|**2025-04-03**|**VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**|Kim Sung-Bin et.al.|[2504.02386](http://arxiv.org/abs/2504.02386)|null|
+|**2025-04-09**|**F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|**[link](https://github.com/FrontierLabs/F5R-TTS)**|
+|**2025-04-03**|**VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**|Kim Sung-Bin et.al.|[2504.02386](http://arxiv.org/abs/2504.02386)|**[link](https://github.com/kaist-ami/voicecraft-dub)**|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
 |**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|**[link](https://github.com/jimmyma99/teleantifraud)**|
 |**2025-03-31**|**SpeechDialogueFactory: Generating High-Quality Speech Dialogue Data to Accelerate Your Speech-LLM Development**|Minghan Wang et.al.|[2503.23848](http://arxiv.org/abs/2503.23848)|**[link](https://github.com/yuriak/SpeechDialogueFactory)**|
-|**2025-03-31**|**DeepDubber-V1: Towards High Quality and Dialogue, Narration, Monologue Adaptive Movie Dubbing Via Multi-Modal Chain-of-Thoughts Reasoning Guidance**|Junjie Zheng et.al.|[2503.23660](http://arxiv.org/abs/2503.23660)|null|
-|**2025-03-30**|**Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**|Hyunjong Ok et.al.|[2503.23439](http://arxiv.org/abs/2503.23439)|null|
-|**2025-03-29**|**SupertonicTTS: Towards Highly Scalable and Efficient Text-to-Speech System**|Hyeongju Kim et.al.|[2503.23108](http://arxiv.org/abs/2503.23108)|null|
+|**2025-03-31**|**DeepDubber-V1: Towards High Quality and Dialogue, Narration, Monologue Adaptive Movie Dubbing Via Multi-Modal Chain-of-Thoughts Reasoning Guidance**|Junjie Zheng et.al.|[2503.23660](http://arxiv.org/abs/2503.23660)|**[link](https://github.com/GiantAILab/DeepDubber-V1)**|
+|**2025-03-30**|**Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**|Hyunjong Ok et.al.|[2503.23439](http://arxiv.org/abs/2503.23439)|**[link](https://github.com/HJ-Ok/SpeculativeETD)**|
+|**2025-03-29**|**SupertonicTTS: Towards Highly Scalable and Efficient Text-to-Speech System**|Hyeongju Kim et.al.|[2503.23108](http://arxiv.org/abs/2503.23108)|**[link](https://github.com/ORI-Muchim/supertonictts-training)**|
 |**2025-03-26**|**Dual Audio-Centric Modality Coupling for Talking Head Generation**|Ao Fu et.al.|[2503.22728](http://arxiv.org/abs/2503.22728)|null|
 |**2025-03-28**|**Cross-Technology Generalization in Synthesized Speech Detection: Evaluating AST Models with Modern Voice Generators**|Andrew Ustinov et.al.|[2503.22503](http://arxiv.org/abs/2503.22503)|**[link](https://github.com/admin-anteihk/papers)**|
 |**2025-03-28**|**DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation**|Haomin Zhang et.al.|[2503.22265](http://arxiv.org/abs/2503.22265)|null|
