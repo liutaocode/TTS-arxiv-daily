@@ -1,4 +1,4 @@
-## Updated on 2026.10.18
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**Interpreting SSL Representations for Spoof Detection: a WavLM Study**|Mohamed Mallat et.al.|[2610.23526](http://arxiv.org/abs/2610.23526)|null|
+|**2026-10-16**|**DriftTTS: One-stage Single Step Text-to-Speech via Generative Drifting**|Jaehyun Ahn et.al.|[2610.22960](http://arxiv.org/abs/2610.22960)|null|
+|**2026-10-16**|**Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors**|Jingyi Chen et.al.|[2610.22832](http://arxiv.org/abs/2610.22832)|null|
+|**2026-10-15**|**JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents**|Junseok Ahn et.al.|[2610.22499](http://arxiv.org/abs/2610.22499)|null|
+|**2026-10-14**|**Not All Frames Are Equal:Difference-Aware Quantization for Ultra-Low-Bit ASR**|Woori Jeon et.al.|[2610.22395](http://arxiv.org/abs/2610.22395)|null|
 |**2026-10-14**|**PEDBench: Can Speech Models Detect Phonetic Errors?**|Zhonghao Shi et.al.|[2610.20830](http://arxiv.org/abs/2610.20830)|null|
 |**2026-10-14**|**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**|Zhaoyang Wang et.al.|[2610.20181](http://arxiv.org/abs/2610.20181)|null|
-|**2026-10-14**|**SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets**|Yixian Tan et.al.|[2610.19869](http://arxiv.org/abs/2610.19869)|null|
+|**2026-10-16**|**SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets**|Aulia Adila et.al.|[2610.19869](http://arxiv.org/abs/2610.19869)|null|
 |**2026-10-14**|**Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning**|Dekun Chen et.al.|[2610.19774](http://arxiv.org/abs/2610.19774)|null|
 |**2026-10-14**|**Speaking Longer Than Learned: Training-Free Long-Form Generation for Full-Stream Text-to-Speech**|Jeseung Lim et.al.|[2610.19553](http://arxiv.org/abs/2610.19553)|null|
 |**2026-10-14**|**Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech**|Wanli Sun et.al.|[2610.19499](http://arxiv.org/abs/2610.19499)|null|
@@ -2230,5 +2235,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
