@@ -1,4 +1,4 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS**|Walaa Othman et.al.|[2610.26252](http://arxiv.org/abs/2610.26252)|null|
+|**2026-10-19**|**Speech LLMs That Breathe: Modeling Non-Verbal Vocalizations in Dialogue**|Heyang Liu et.al.|[2610.25942](http://arxiv.org/abs/2610.25942)|null|
+|**2026-10-18**|**MixiSpeech: Progressive State Distillation for One-Step Vietnamese TTS**|Tran Quoc Bao Le et.al.|[2610.25394](http://arxiv.org/abs/2610.25394)|null|
+|**2026-10-18**|**Does Expert Supervision Improve Text-to-Speech? An Empirical Study of Preference Optimization**|Minh Duc Vu et.al.|[2610.25292](http://arxiv.org/abs/2610.25292)|null|
+|**2026-10-18**|**VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing**|Kaidi Wang et.al.|[2610.25259](http://arxiv.org/abs/2610.25259)|null|
+|**2026-10-17**|**How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation**|Peter Volbach et.al.|[2610.24917](http://arxiv.org/abs/2610.24917)|null|
+|**2026-10-17**|**SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection**|Chirantan Banerjee et.al.|[2610.24468](http://arxiv.org/abs/2610.24468)|null|
+|**2026-10-16**|**Pronouncing Hard Words: Phoneme Adaptation of a Pretrained Conversational Text to Speech Model**|Yashish M. Siriwardena et.al.|[2610.24164](http://arxiv.org/abs/2610.24164)|null|
 |**2026-10-16**|**Interpreting SSL Representations for Spoof Detection: a WavLM Study**|Mohamed Mallat et.al.|[2610.23526](http://arxiv.org/abs/2610.23526)|null|
 |**2026-10-16**|**DriftTTS: One-stage Single Step Text-to-Speech via Generative Drifting**|Jaehyun Ahn et.al.|[2610.22960](http://arxiv.org/abs/2610.22960)|null|
 |**2026-10-16**|**Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors**|Jingyi Chen et.al.|[2610.22832](http://arxiv.org/abs/2610.22832)|null|
@@ -2235,5 +2243,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
 
