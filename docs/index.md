@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS**|Jie Liu et.al.|[2610.28035](http://arxiv.org/abs/2610.28035)|null|
+|**2026-10-20**|**A Two-Way Street: Surveying the Interplay between Code-Mixing and Native Languages in Text and Speech**|Debajyoti Mazumder et.al.|[2610.27631](http://arxiv.org/abs/2610.27631)|null|
+|**2026-10-19**|**Steering intonational tunes in text-to-speech synthesis**|Juan Pablo Vigneaux et.al.|[2610.27403](http://arxiv.org/abs/2610.27403)|**[link](https://github.com/jpvigneaux/steering-intonation-tts)**|
 |**2026-10-19**|**SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS**|Walaa Othman et.al.|[2610.26252](http://arxiv.org/abs/2610.26252)|null|
 |**2026-10-19**|**Speech LLMs That Breathe: Modeling Non-Verbal Vocalizations in Dialogue**|Heyang Liu et.al.|[2610.25942](http://arxiv.org/abs/2610.25942)|null|
 |**2026-10-18**|**MixiSpeech: Progressive State Distillation for One-Step Vietnamese TTS**|Tran Quoc Bao Le et.al.|[2610.25394](http://arxiv.org/abs/2610.25394)|null|
