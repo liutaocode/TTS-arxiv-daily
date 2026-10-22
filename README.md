@@ -1,4 +1,4 @@
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**NeuroCodec: EEG-Guided Latent-Domain Generative Model for High-Fidelity Target Speaker Extraction**|Julian Silva et.al.|[2610.29815](http://arxiv.org/abs/2610.29815)|**[link](https://github.com/JulianSilva2001/NeuroCodec-TSE)**|
+|**2026-10-21**|**RubatoCodec: Budgeted Adaptive Speech Tokenization with Streaming Decoding**|Chihiro Arata et.al.|[2610.29434](http://arxiv.org/abs/2610.29434)|**[link](https://github.com/third-intelligence/RubatoCodec)**|
+|**2026-10-21**|**Decodability Is Not Controllability: Local and Anisotropic Speaker Control in Continuous-Latent TTS**|Yuanzhong Zheng et.al.|[2610.29345](http://arxiv.org/abs/2610.29345)|null|
+|**2026-10-21**|**Where Does Timbre Hide? Localizing Speaker Information in Speech Signals**|Yiquan Zhou et.al.|[2610.29150](http://arxiv.org/abs/2610.29150)|null|
+|**2026-10-21**|**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**|Diankun An et.al.|[2610.29123](http://arxiv.org/abs/2610.29123)|null|
 |**2026-10-20**|**LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS**|Jie Liu et.al.|[2610.28035](http://arxiv.org/abs/2610.28035)|null|
 |**2026-10-20**|**A Two-Way Street: Surveying the Interplay between Code-Mixing and Native Languages in Text and Speech**|Debajyoti Mazumder et.al.|[2610.27631](http://arxiv.org/abs/2610.27631)|null|
-|**2026-10-19**|**Steering intonational tunes in text-to-speech synthesis**|Juan Pablo Vigneaux et.al.|[2610.27403](http://arxiv.org/abs/2610.27403)|**[link](https://github.com/jpvigneaux/steering-intonation-tts)**|
+|**2026-10-19**|**Steering intonational tunes in text-to-speech synthesis**|Juan Pablo Vigneaux et.al.|[2610.27403](http://arxiv.org/abs/2610.27403)|null|
 |**2026-10-19**|**SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS**|Walaa Othman et.al.|[2610.26252](http://arxiv.org/abs/2610.26252)|null|
 |**2026-10-19**|**Speech LLMs That Breathe: Modeling Non-Verbal Vocalizations in Dialogue**|Heyang Liu et.al.|[2610.25942](http://arxiv.org/abs/2610.25942)|null|
 |**2026-10-18**|**MixiSpeech: Progressive State Distillation for One-Step Vietnamese TTS**|Tran Quoc Bao Le et.al.|[2610.25394](http://arxiv.org/abs/2610.25394)|null|
@@ -2246,5 +2251,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
 
