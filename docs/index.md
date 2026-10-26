@@ -1650,7 +1650,7 @@ layout: default
 |**2024-06-29**|**LLM-Driven Multimodal Opinion Expression Identification**|Bonian Jia et.al.|[2406.18088](http://arxiv.org/abs/2406.18088)|**[link](https://github.com/3cqscbr26/LLM-MOEI)**|
 |**2024-06-26**|**E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS**|Sefik Emre Eskimez et.al.|[2406.18009](http://arxiv.org/abs/2406.18009)|**[link](https://github.com/microsoft/e2tts-test-suite)**|
 |**2024-06-25**|**Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment**|Paarth Neekhara et.al.|[2406.17957](http://arxiv.org/abs/2406.17957)|null|
-|**2024-06-22**|**A multi-speaker multi-lingual voice cloning system based on vits2 for limmits 2024 challenge**|Xiaopeng Wang et.al.|[2406.17801](http://arxiv.org/abs/2406.17801)|null|
+|**2024-06-22**|**A multi-speaker multi-lingual voice cloning system based on vits2 for limmits 2024 challenge**|Xiaopeng Wang et.al.|[2406.17801](http://arxiv.org/abs/2406.17801)|**[link](https://github.com/azizbek-coderdev/auto-repo-2406-1780130405232-w5c4)**|
 |**2024-06-25**|**High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer and Group Masked Language Model**|Joun Yeop Lee et.al.|[2406.17310](http://arxiv.org/abs/2406.17310)|null|
 |**2024-06-25**|**Leveraging Parameter-Efficient Transfer Learning for Multi-Lingual Text-to-Speech Adaptation**|Yingting Li et.al.|[2406.17257](http://arxiv.org/abs/2406.17257)|null|
 |**2024-06-24**|**Exploring the Capability of Mamba in Speech Applications**|Koichi Miyazaki et.al.|[2406.16808](http://arxiv.org/abs/2406.16808)|null|
@@ -1814,7 +1814,7 @@ layout: default
 |**2023-11-17**|**A Study on Altering the Latent Space of Pretrained Text to Speech Models for Improved Expressiveness**|Mathias Vogel et.al.|[2311.10804](http://arxiv.org/abs/2311.10804)|null|
 |**2023-11-16**|**Improving fairness for spoken language understanding in atypical speech with Text-to-Speech**|Helin Wang et.al.|[2311.10149](http://arxiv.org/abs/2311.10149)|**[link](https://github.com/wanghelin1997/aty-tts)**|
 |**2024-02-02**|**DQR-TTS: Semi-supervised Text-to-speech Synthesis with Dynamic Quantized Representation**|Jianzong Wang et.al.|[2311.07965](http://arxiv.org/abs/2311.07965)|null|
-|**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
+|**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|**[link](https://github.com/zhoudaquan/ChatAnything)**|
 |**2023-11-11**|**NewsGPT: ChatGPT Integration for Robot-Reporter**|Abdelhadi Hireche et.al.|[2311.06640](http://arxiv.org/abs/2311.06640)|**[link](https://github.com/aeh1707/NewsGPT_Pepper)**|
 |**2023-11-08**|**Synthetic Speaking Children -- Why We Need Them and How to Make Them**|Muhammad Ali Farooq et.al.|[2311.06307](http://arxiv.org/abs/2311.06307)|null|
 |**2023-09-25**|**Face-StyleSpeech: Improved Face-to-Voice latent mapping for Natural Zero-shot Speech Synthesis from a Face Image**|Minki Kang et.al.|[2311.05844](http://arxiv.org/abs/2311.05844)|null|
