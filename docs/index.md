@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis**|Hanchen Pei et.al.|[2610.34807](http://arxiv.org/abs/2610.34807)|null|
+|**2026-10-26**|**From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion**|Ye Lu et.al.|[2610.34688](http://arxiv.org/abs/2610.34688)|null|
+|**2026-10-26**|**Heard Enough to Act: Early Tool Calling in Spoken Dialogue Systems**|Yizhou Peng et.al.|[2610.34653](http://arxiv.org/abs/2610.34653)|null|
+|**2026-10-25**|**One Mean Log-Mel Vector per Phoneme: Simple and Fast Text Injection for Speech Recognition**|Albert Zeyer et.al.|[2610.34623](http://arxiv.org/abs/2610.34623)|null|
+|**2026-10-25**|**LeanTTS: Efficient Full-Stack Bilingual TTS for Zero-Shot Cloning and Voice Customization**|Yuheng Lu et.al.|[2610.34408](http://arxiv.org/abs/2610.34408)|null|
 |**2026-10-23**|**Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition**|Xuan Shi et.al.|[2610.32187](http://arxiv.org/abs/2610.32187)|null|
 |**2026-10-23**|**X-Dubbing: Speech-to-Speech Translation under Temporal and Visual Constraints**|Jeongsoo Choi et.al.|[2610.32042](http://arxiv.org/abs/2610.32042)|null|
 |**2026-10-22**|**LazyFlash: Forward-Dense, Backward-Sparse Attention for Accelerated Long-Context Fine-Tuning**|Keqi Deng et.al.|[2610.31911](http://arxiv.org/abs/2610.31911)|null|
