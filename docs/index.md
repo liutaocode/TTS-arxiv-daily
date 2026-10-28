@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**ConformalMOS: Uncertainty-Aware MOS Prediction with Conformal Intervals and Ordinal Modeling**|Kehinde Elelu et.al.|[2610.36126](http://arxiv.org/abs/2610.36126)|null|
 |**2026-10-26**|**ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis**|Hanchen Pei et.al.|[2610.34807](http://arxiv.org/abs/2610.34807)|null|
 |**2026-10-26**|**From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion**|Ye Lu et.al.|[2610.34688](http://arxiv.org/abs/2610.34688)|null|
 |**2026-10-26**|**Heard Enough to Act: Early Tool Calling in Spoken Dialogue Systems**|Yizhou Peng et.al.|[2610.34653](http://arxiv.org/abs/2610.34653)|null|
