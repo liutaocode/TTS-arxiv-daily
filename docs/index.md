@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**What Makes a Good Audio Prompt for Zero-Shot TTS? Learning Prompt Selection from Synthesis Outcomes**|Arnon Turetzky et.al.|[2610.40372](http://arxiv.org/abs/2610.40372)|null|
 |**2026-10-29**|**EmpDPO: Enabling Emphasis Control in TTS via Direct Preference Optimization**|Haonan Chen et.al.|[2610.39427](http://arxiv.org/abs/2610.39427)|null|
 |**2026-10-29**|**Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis**|Cheng Zhang et.al.|[2610.39168](http://arxiv.org/abs/2610.39168)|null|
 |**2026-10-28**|**Pronunciation-Supervised Text-to-Speech for Irish (Gaeilge)**|William Lane et.al.|[2610.38384](http://arxiv.org/abs/2610.38384)|null|
