@@ -1,4 +1,4 @@
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**EmpDPO: Enabling Emphasis Control in TTS via Direct Preference Optimization**|Haonan Chen et.al.|[2610.39427](http://arxiv.org/abs/2610.39427)|null|
+|**2026-10-29**|**Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis**|Cheng Zhang et.al.|[2610.39168](http://arxiv.org/abs/2610.39168)|null|
+|**2026-10-28**|**Pronunciation-Supervised Text-to-Speech for Irish (Gaeilge)**|William Lane et.al.|[2610.38384](http://arxiv.org/abs/2610.38384)|null|
+|**2026-10-28**|**DRC-TTS: A Dual-Resolution Codec-Based Architecture for Lexicon-Free Malay Speech Synthesis**|Tianhui Su et.al.|[2610.38316](http://arxiv.org/abs/2610.38316)|null|
+|**2026-10-27**|**Beyond Utterance-Level Speaker Similarity: Perception-Aligned Segmental Evaluation of Accent in Speech Generation**|Jinzuomu Zhong et.al.|[2610.37912](http://arxiv.org/abs/2610.37912)|null|
 |**2026-10-26**|**ConformalMOS: Uncertainty-Aware MOS Prediction with Conformal Intervals and Ordinal Modeling**|Kehinde Elelu et.al.|[2610.36126](http://arxiv.org/abs/2610.36126)|null|
 |**2026-10-26**|**ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis**|Hanchen Pei et.al.|[2610.34807](http://arxiv.org/abs/2610.34807)|null|
 |**2026-10-26**|**From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion**|Ye Lu et.al.|[2610.34688](http://arxiv.org/abs/2610.34688)|null|
@@ -2264,5 +2269,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
