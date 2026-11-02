@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -518,7 +518,7 @@ layout: default
 |**2026-04-14**|**Giving Voice to the Constitution: Low-Resource Text-to-Speech for Quechua and Spanish Using a Bilingual Legal Corpus**|John E. Ortega et.al.|[2604.13288](http://arxiv.org/abs/2604.13288)|null|
 |**2026-04-14**|**An Ultra-Low Latency, End-to-End Streaming Speech Synthesis Architecture via Block-Wise Generation and Depth-Wise Codec Decoding**|Tianhui Su et.al.|[2604.12438](http://arxiv.org/abs/2604.12438)|null|
 |**2026-04-14**|**On the Distillation Loss Functions of Speech VAE for Unified Reconstruction, Understanding, and Generation**|Changhao Cheng et.al.|[2604.12383](http://arxiv.org/abs/2604.12383)|null|
-|**2026-04-14**|**CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing**|Gaoxiang Cong et.al.|[2604.12292](http://arxiv.org/abs/2604.12292)|null|
+|**2026-04-14**|**CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing**|Gaoxiang Cong et.al.|[2604.12292](http://arxiv.org/abs/2604.12292)|**[link](https://github.com/GalaxyCong/CoSyncDiT)**|
 |**2026-04-13**|**Saar-Voice: A Multi-Speaker Saarbrücken Dialect Speech Corpus**|Lena S. Oberkircher et.al.|[2604.11803](http://arxiv.org/abs/2604.11803)|null|
 |**2026-04-13**|**Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation**|Kuang Wang et.al.|[2604.11424](http://arxiv.org/abs/2604.11424)|null|
 |**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
