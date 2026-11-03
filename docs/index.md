@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.02
+## Updated on 2026.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-02**|**Zero-Shot Voice Cloning for Synthetic Data Augmentation in Children's ASR**|Mohammad Mohsen Goodarzi et.al.|[2611.03050](http://arxiv.org/abs/2611.03050)|**[link](https://github.com/bjdqkn/page-03050c68c29fa52bb2611c7a)**|
 |**2026-10-29**|**Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories**|Georgios Makridis et.al.|[2610.40970](http://arxiv.org/abs/2610.40970)|null|
 |**2026-10-29**|**What Makes a Good Audio Prompt for Zero-Shot TTS? Learning Prompt Selection from Synthesis Outcomes**|Arnon Turetzky et.al.|[2610.40372](http://arxiv.org/abs/2610.40372)|null|
 |**2026-10-29**|**EmpDPO: Enabling Emphasis Control in TTS via Direct Preference Optimization**|Haonan Chen et.al.|[2610.39427](http://arxiv.org/abs/2610.39427)|null|
