@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems**|Pengfei Zhou et.al.|[2611.05275](http://arxiv.org/abs/2611.05275)|**[link](https://github.com/InfRec-Cardinal/route-anything)**|
+|**2026-11-03**|**AI for eGovernance: Leveraging Language Technologies For Digital Inclusion**|Cynthia Jayne Amol et.al.|[2611.04820](http://arxiv.org/abs/2611.04820)|null|
+|**2026-11-03**|**Detector-Guided Vocoder Training for Adversarial Text-to-Speech Synthesis**|Jiayan Cui et.al.|[2611.04511](http://arxiv.org/abs/2611.04511)|null|
+|**2026-11-03**|**Do Multi-Turn Conversational Capabilities Carry Over from Text to Speech? A Parallel Multilingual Benchmark**|Jiaming Zhou et.al.|[2611.04390](http://arxiv.org/abs/2611.04390)|null|
+|**2026-11-03**|**TTSonic: A Unified Framework for Composable and Controllable Speech Generation**|Zhedong Zhang et.al.|[2611.04282](http://arxiv.org/abs/2611.04282)|**[link](https://github.com/bytedance/TTSonic)**|
+|**2026-10-31**|**NepTTS-Bench: Native-Speaker Benchmarking and NepaliMOS for Nepali Text-to-Speech**|Ashish Thapa et.al.|[2611.03718](http://arxiv.org/abs/2611.03718)|null|
 |**2026-11-02**|**Zero-Shot Voice Cloning for Synthetic Data Augmentation in Children's ASR**|Mohammad Mohsen Goodarzi et.al.|[2611.03050](http://arxiv.org/abs/2611.03050)|**[link](https://github.com/bjdqkn/page-03050c68c29fa52bb2611c7a)**|
 |**2026-10-29**|**Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories**|Georgios Makridis et.al.|[2610.40970](http://arxiv.org/abs/2610.40970)|null|
 |**2026-10-29**|**What Makes a Good Audio Prompt for Zero-Shot TTS? Learning Prompt Selection from Synthesis Outcomes**|Arnon Turetzky et.al.|[2610.40372](http://arxiv.org/abs/2610.40372)|null|
