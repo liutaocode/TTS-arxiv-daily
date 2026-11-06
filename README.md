@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-05**|**VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics**|Zhikang Niu et.al.|[2611.08251](http://arxiv.org/abs/2611.08251)|null|
+|**2026-11-05**|**VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics**|Zhikang Niu et.al.|[2611.08251](http://arxiv.org/abs/2611.08251)|**[link](https://github.com/ZhikangNiu/VoxCanvas)**|
 |**2026-11-05**|**Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech**|Daria Guseva et.al.|[2611.08006](http://arxiv.org/abs/2611.08006)|null|
 |**2026-11-04**|**Ruby-OPD: Enhancing Pronunciation Controllability and Accuracy for Flow-Matching Text-to-Speech via On-Policy Distillation**|Rui Hu et.al.|[2611.06403](http://arxiv.org/abs/2611.06403)|null|
 |**2026-11-03**|**VIPBench: A Human-Aligned Benchmark for Voice Identity Perception in the Age of Voice Cloning**|Xudong Tang et.al.|[2611.05638](http://arxiv.org/abs/2611.05638)|null|
