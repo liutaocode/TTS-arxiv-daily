@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,11 +11,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-05**|**VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics**|Zhikang Niu et.al.|[2611.08251](http://arxiv.org/abs/2611.08251)|**[link](https://github.com/ZhikangNiu/VoxCanvas)**|
+|**2026-11-06**|**Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model**|Maryam Soltani et.al.|[2611.09295](http://arxiv.org/abs/2611.09295)|null|
+|**2026-11-06**|**Real-Time Short-Response Selection for Spoken Dialogue Systems**|Hien Ohnaka et.al.|[2611.09057](http://arxiv.org/abs/2611.09057)|null|
+|**2026-11-06**|**VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics**|Zhikang Niu et.al.|[2611.08251](http://arxiv.org/abs/2611.08251)|**[link](https://github.com/ZhikangNiu/VoxCanvas)**|
 |**2026-11-05**|**Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech**|Daria Guseva et.al.|[2611.08006](http://arxiv.org/abs/2611.08006)|null|
 |**2026-11-04**|**Ruby-OPD: Enhancing Pronunciation Controllability and Accuracy for Flow-Matching Text-to-Speech via On-Policy Distillation**|Rui Hu et.al.|[2611.06403](http://arxiv.org/abs/2611.06403)|null|
 |**2026-11-03**|**VIPBench: A Human-Aligned Benchmark for Voice Identity Perception in the Age of Voice Cloning**|Xudong Tang et.al.|[2611.05638](http://arxiv.org/abs/2611.05638)|null|
-|**2026-11-03**|**Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems**|Pengfei Zhou et.al.|[2611.05275](http://arxiv.org/abs/2611.05275)|**[link](https://github.com/InfRec-Cardinal/route-anything)**|
+|**2026-11-03**|**Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems**|Pengfei Zhou et.al.|[2611.05275](http://arxiv.org/abs/2611.05275)|null|
 |**2026-11-03**|**AI for eGovernance: Leveraging Language Technologies For Digital Inclusion**|Cynthia Jayne Amol et.al.|[2611.04820](http://arxiv.org/abs/2611.04820)|null|
 |**2026-11-03**|**Detector-Guided Vocoder Training for Adversarial Text-to-Speech Synthesis**|Jiayan Cui et.al.|[2611.04511](http://arxiv.org/abs/2611.04511)|null|
 |**2026-11-03**|**Do Multi-Turn Conversational Capabilities Carry Over from Text to Speech? A Parallel Multilingual Benchmark**|Jiaming Zhou et.al.|[2611.04390](http://arxiv.org/abs/2611.04390)|null|
