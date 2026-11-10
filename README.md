@@ -1,4 +1,4 @@
-## Updated on 2026.11.09
+## Updated on 2026.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-08**|**Guidance at Pure Noise Erodes Speaker Similarity in Few-Step Token-Conditioned Flow-Matching TTS**|Jaeho Lee et.al.|[2611.11179](http://arxiv.org/abs/2611.11179)|null|
+|**2026-11-06**|**M5-TTS: A Mini-Scale Multilingual and Multi-Dialect Text-to-Speech Language Model with Multi-Token Prediction**|Wenhao Li et.al.|[2611.10162](http://arxiv.org/abs/2611.10162)|null|
+|**2026-11-05**|**Ninada: Sub-Clause Split-Graph VITS Streaming and Capability-Routed 24 kHz Speech Synthesis Across Twelve Scripts**|Hemanth HM et.al.|[2611.10035](http://arxiv.org/abs/2611.10035)|null|
 |**2026-11-06**|**Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model**|Maryam Soltani et.al.|[2611.09295](http://arxiv.org/abs/2611.09295)|null|
 |**2026-11-06**|**Real-Time Short-Response Selection for Spoken Dialogue Systems**|Hien Ohnaka et.al.|[2611.09057](http://arxiv.org/abs/2611.09057)|null|
 |**2026-11-06**|**VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics**|Zhikang Niu et.al.|[2611.08251](http://arxiv.org/abs/2611.08251)|**[link](https://github.com/ZhikangNiu/VoxCanvas)**|
@@ -2284,5 +2287,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
 
