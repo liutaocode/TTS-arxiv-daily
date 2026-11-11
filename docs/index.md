@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**ESDCodec: Ultra-Low Bitrate Speech Codec with Enhanced Semantic Disentanglement and Subband Decoding**|Nan Xu et.al.|[2611.14043](http://arxiv.org/abs/2611.14043)|null|
+|**2026-11-10**|**DialInstruct-TTS: Interactive Expressive Speech Generation via Multi-Turn Dialogue with Fine-Grained Temporal Control**|Wangzixi Zhou et.al.|[2611.13875](http://arxiv.org/abs/2611.13875)|null|
+|**2026-11-10**|**Alania-2: Turkish text-to-speech with instant and fine-tuned voice cloning**|Sezgin Saygili et.al.|[2611.13845](http://arxiv.org/abs/2611.13845)|null|
+|**2026-11-10**|**Antalia-2 Mini: A 7.6-million-parameter Turkish text-to-speech model trained entirely on synthetic speech**|Sezgin Saygili et.al.|[2611.13811](http://arxiv.org/abs/2611.13811)|null|
+|**2026-11-10**|**Walrus Technical Report**|Alkis Koudounas et.al.|[2611.13689](http://arxiv.org/abs/2611.13689)|null|
+|**2026-11-10**|**Emilia2: A Large-Scale Dataset for Controllable Long-Form Speech Generation**|Qinke Ni et.al.|[2611.13614](http://arxiv.org/abs/2611.13614)|null|
 |**2026-11-09**|**Text Grouping Changes Completion-Time Comparisons in Long-Form Simultaneous Speech Translation**|Hieu Minh Truong et.al.|[2611.12501](http://arxiv.org/abs/2611.12501)|null|
 |**2026-11-09**|**REAL: Reward Modeling through Evidence-Linked Analysis of Lifelikeness in Generated Speech**|Yaodong Song et.al.|[2611.12406](http://arxiv.org/abs/2611.12406)|null|
 |**2026-11-08**|**Guidance at Pure Noise Erodes Speaker Similarity in Few-Step Token-Conditioned Flow-Matching TTS**|Jaeho Lee et.al.|[2611.11179](http://arxiv.org/abs/2611.11179)|null|
