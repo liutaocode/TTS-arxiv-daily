@@ -1,4 +1,4 @@
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-11**|**Human-Likeness and Conversational Preference Diverge for Synthesized Agent Speech in Customer-Service Calls**|Jeffrey M. Girard et.al.|[2611.16051](http://arxiv.org/abs/2611.16051)|null|
+|**2026-11-11**|**RSE-TTS: Compact Text-to-Speech through Shared Text-Aware Reference Encoding and Generation**|Ming Ma et.al.|[2611.15464](http://arxiv.org/abs/2611.15464)|null|
 |**2026-11-10**|**ESDCodec: Ultra-Low Bitrate Speech Codec with Enhanced Semantic Disentanglement and Subband Decoding**|Nan Xu et.al.|[2611.14043](http://arxiv.org/abs/2611.14043)|null|
 |**2026-11-10**|**DialInstruct-TTS: Interactive Expressive Speech Generation via Multi-Turn Dialogue with Fine-Grained Temporal Control**|Wangzixi Zhou et.al.|[2611.13875](http://arxiv.org/abs/2611.13875)|null|
 |**2026-11-10**|**Alania-2: Turkish text-to-speech with instant and fine-tuned voice cloning**|Sezgin Saygili et.al.|[2611.13845](http://arxiv.org/abs/2611.13845)|null|
@@ -2295,5 +2297,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261113>back to top</a>)</p>
 
