@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Lived Experiences of Power and Agency: Achieving Voice Sovereignty in Assistive Speech Technology for Nonbinary Users**|Maxwell Hope et.al.|[2611.20858](http://arxiv.org/abs/2611.20858)|null|
+|**2026-11-16**|**No-Shot Text-to-Speech: Limitations of Zero-Shot TTS and its Evaluation Methods in Representing Queer and Transgender Voices**|Juliana Francis et.al.|[2611.20822](http://arxiv.org/abs/2611.20822)|null|
+|**2026-11-16**|**Validating Acoustic-to-Articulatory Inversion with Real-Time MRI: From Vocal-Tract Fidelity to Phonetic Consequences**|Tharinda Piyadasa et.al.|[2611.20432](http://arxiv.org/abs/2611.20432)|null|
+|**2026-11-15**|**A Speech-LLM Framework for Enrollment-Free Wake-Word-Guided Target-Speaker Recognition in Complex Noisy Scenarios for Seamless Human-Machine Interaction**|Yuxiang Mei et.al.|[2611.19844](http://arxiv.org/abs/2611.19844)|null|
+|**2026-11-15**|**ProTTS: End-to-End Prominence-aware Natural and Controllable Text-to-Speech via Automatic Word Stress Discovery**|Sai Harshitha Aluru et.al.|[2611.19832](http://arxiv.org/abs/2611.19832)|null|
+|**2026-11-15**|**Where Is Rank-1 DiM Refusal Intervenable in Multimodal LM Derivatives?**|Chansu Han et.al.|[2611.19826](http://arxiv.org/abs/2611.19826)|null|
+|**2026-11-15**|**Rethinking Post-Training for Expressive Zero-Shot Text-to-Speech**|Jingbin Hu et.al.|[2611.19787](http://arxiv.org/abs/2611.19787)|null|
+|**2026-11-14**|**Auditory-Feedback-Conditioned Flow TTS for Implicit Lombard Adaptation**|Yunya Wang et.al.|[2611.19260](http://arxiv.org/abs/2611.19260)|null|
+|**2026-11-14**|**A Systematic Study of Cross-Token Transfer for Data-Efficient Non-Verbal Text-to-Speech**|Jing Pan et.al.|[2611.19145](http://arxiv.org/abs/2611.19145)|null|
+|**2026-11-14**|**Latency, Speech Recognition and Turn-Taking in Voice Agents for Spanish Phone Negotiation: An Externally Measured Comparison of Pipecat, LiveKit and GPT-Live**|Jovan Popoca Moran et.al.|[2611.19118](http://arxiv.org/abs/2611.19118)|null|
 |**2026-11-11**|**Human-Likeness and Conversational Preference Diverge for Synthesized Agent Speech in Customer-Service Calls**|Jeffrey M. Girard et.al.|[2611.16051](http://arxiv.org/abs/2611.16051)|null|
 |**2026-11-11**|**RSE-TTS: Compact Text-to-Speech through Shared Text-Aware Reference Encoding and Generation**|Ming Ma et.al.|[2611.15464](http://arxiv.org/abs/2611.15464)|null|
 |**2026-11-10**|**ESDCodec: Ultra-Low Bitrate Speech Codec with Enhanced Semantic Disentanglement and Subband Decoding**|Nan Xu et.al.|[2611.14043](http://arxiv.org/abs/2611.14043)|null|
