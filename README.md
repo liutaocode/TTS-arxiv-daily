@@ -1,4 +1,4 @@
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance**|Téo Guichoux et.al.|[2611.24862](http://arxiv.org/abs/2611.24862)|**[link](https://github.com/TGuichoux/Gaspard)**|
+|**2026-11-18**|**Location Matters: Layer-wise Prompt Conditioning for Voice--Style Disentanglement in Text-to-Speech**|David Lindevelt et.al.|[2611.24125](http://arxiv.org/abs/2611.24125)|null|
+|**2026-11-18**|**21Codec: Decoder-side Speaker Control for Text-to-Speech**|David Lindevelt et.al.|[2611.24094](http://arxiv.org/abs/2611.24094)|null|
 |**2026-11-16**|**Lived Experiences of Power and Agency: Achieving Voice Sovereignty in Assistive Speech Technology for Nonbinary Users**|Maxwell Hope et.al.|[2611.20858](http://arxiv.org/abs/2611.20858)|null|
 |**2026-11-16**|**No-Shot Text-to-Speech: Limitations of Zero-Shot TTS and its Evaluation Methods in Representing Queer and Transgender Voices**|Juliana Francis et.al.|[2611.20822](http://arxiv.org/abs/2611.20822)|null|
 |**2026-11-16**|**Validating Acoustic-to-Articulatory Inversion with Real-Time MRI: From Vocal-Tract Fidelity to Phonetic Consequences**|Tharinda Piyadasa et.al.|[2611.20432](http://arxiv.org/abs/2611.20432)|null|
@@ -2307,5 +2310,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
 
