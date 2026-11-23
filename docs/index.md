@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -299,7 +299,7 @@ layout: default
 |**2026-08-08**|**CtrlSpeech: Coarse-to-Fine Control for Expressive Speech Synthesis**|Zhisheng Zheng et.al.|[2608.08362](http://arxiv.org/abs/2608.08362)|null|
 |**2026-08-08**|**ReLMCodec: Designing Predictable Speech Tokens from Pre-Quantization Phoneme Structure**|Zixiang Wan et.al.|[2608.08286](http://arxiv.org/abs/2608.08286)|null|
 |**2026-08-08**|**DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects**|Yi Shu et.al.|[2608.08067](http://arxiv.org/abs/2608.08067)|null|
-|**2026-08-07**|**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**|Hanke Xie et.al.|[2608.07462](http://arxiv.org/abs/2608.07462)|null|
+|**2026-08-07**|**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**|Hanke Xie et.al.|[2608.07462](http://arxiv.org/abs/2608.07462)|**[link](https://github.com/ASLP-lab/SemBridge)**|
 |**2026-08-05**|**Multi Codec Discrete Diffusion Model for Text Guided Speech Inpainting and Editing**|Iftach Shoham et.al.|[2608.06424](http://arxiv.org/abs/2608.06424)|null|
 |**2026-08-06**|**LILAC: An Idempotent Neural Speech Codec**|June Young Yi et.al.|[2608.05727](http://arxiv.org/abs/2608.05727)|null|
 |**2026-08-06**|**AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks**|Aurosweta Mahapatra et.al.|[2608.05507](http://arxiv.org/abs/2608.05507)|null|
