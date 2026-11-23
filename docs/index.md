@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-20**|**Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection**|Sivashankar Selvarajan et.al.|[2611.27784](http://arxiv.org/abs/2611.27784)|null|
+|**2026-11-20**|**Neural Defend Ranks #1 in Global Audio Deepfake Detection Benchmark - ARCAS on the Podonos Independent Leaderboard**|Sivashankar Selvarajan et.al.|[2611.27215](http://arxiv.org/abs/2611.27215)|null|
+|**2026-11-20**|**EAF-TTS: Rethinking Codec-Latent Coordinates for Flow TTS**|Yumiao Li et.al.|[2611.27214](http://arxiv.org/abs/2611.27214)|null|
 |**2026-11-19**|**DRVEXO-4B-Unified: Design and Evaluation of a Modular Speech-Vision System**|Zeyuan Li et.al.|[2611.25521](http://arxiv.org/abs/2611.25521)|null|
 |**2026-11-18**|**The landscape of AI speech generation and deepfake detection**|Simon King et.al.|[2611.24993](http://arxiv.org/abs/2611.24993)|null|
 |**2026-11-18**|**Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance**|Téo Guichoux et.al.|[2611.24862](http://arxiv.org/abs/2611.24862)|**[link](https://github.com/TGuichoux/Gaspard)**|
