@@ -1,4 +1,4 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**SayWhen: Set-Valued Semantic Commitment for Low-Regret Early Speech**|Tianyi Huang et.al.|[2611.31101](http://arxiv.org/abs/2611.31101)|null|
+|**2026-11-23**|**SpeechSplice: Pronunciation Control in Encoder-Decoder LLM-based TTS by Replacing Encoder Hidden States**|Kiyoshi Kurihara et.al.|[2611.30927](http://arxiv.org/abs/2611.30927)|**[link](https://github.com/Kuri-san-jp/speechsplice)**|
+|**2026-11-23**|**BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models**|Y. Lu et.al.|[2611.30723](http://arxiv.org/abs/2611.30723)|null|
+|**2026-11-23**|**Synthetic Twins: Closing the Gap Between TTS Test Sets and Real Recordings in Turkish ASR Evaluation**|Nur Yağmur Tuncer et.al.|[2611.30694](http://arxiv.org/abs/2611.30694)|null|
+|**2026-11-23**|**SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation**|Yunrui Cai et.al.|[2611.30241](http://arxiv.org/abs/2611.30241)|null|
+|**2026-11-23**|**Ultrasound Watermark: Real-time Acoustic Watermarking against Voice Scams on Smartphones**|Renzhi Hao et.al.|[2611.30106](http://arxiv.org/abs/2611.30106)|null|
+|**2026-11-23**|**Scoring L2 Pronunciation Without Synthesis: Counterfactual Velocity Contrast in Frozen Flow-Matching TTS**|Zehan Liu et.al.|[2611.29985](http://arxiv.org/abs/2611.29985)|null|
+|**2026-11-22**|**PAWP-TTS: Phoneme-Aware Weight Programming for Compact Bilingual English-Nepali Speech Synthesis**|Firoj Paudel et.al.|[2611.29455](http://arxiv.org/abs/2611.29455)|null|
+|**2026-11-22**|**Tenlai-TTS 2.0: Continuous-Representation LLM-Based TTS System with End-to-End Training**|Changfeng Gao et.al.|[2611.29226](http://arxiv.org/abs/2611.29226)|null|
+|**2026-11-20**|**Preserving Prosody in Speaker Anonymization**|Kevin Everson et.al.|[2611.28290](http://arxiv.org/abs/2611.28290)|null|
 |**2026-11-20**|**Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection**|Sivashankar Selvarajan et.al.|[2611.27784](http://arxiv.org/abs/2611.27784)|null|
 |**2026-11-20**|**Neural Defend Ranks #1 in Global Audio Deepfake Detection Benchmark - ARCAS on the Podonos Independent Leaderboard**|Sivashankar Selvarajan et.al.|[2611.27215](http://arxiv.org/abs/2611.27215)|null|
 |**2026-11-20**|**EAF-TTS: Rethinking Codec-Latent Coordinates for Flow TTS**|Yumiao Li et.al.|[2611.27214](http://arxiv.org/abs/2611.27214)|null|
@@ -2315,5 +2325,5 @@
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 
-<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
 
