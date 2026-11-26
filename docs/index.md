@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**TigerTTS: Draft-Guided Multi-Frame Parallel Speech-Token Language Model for Fast and Robust Text-to-Speech**|Dewei Kong et.al.|[2611.34241](http://arxiv.org/abs/2611.34241)|**[link](https://github.com/dy2009/TigerTTS)**|
+|**2026-11-25**|**InstructTTS-OPD: On-Policy Distillation for Multi-Objective Instruction-Following TTS**|Haitao Li et.al.|[2611.33937](http://arxiv.org/abs/2611.33937)|null|
+|**2026-11-25**|**Evaluating Cine and Tagged MRI-to-Speech Synthesis with Complementary Metrics and MRI-Free Controls**|Karlo Vrancic et.al.|[2611.33786](http://arxiv.org/abs/2611.33786)|null|
 |**2026-11-24**|**Putting a Robot on a Phone Call: Layered Signaling, Bounded Occupancy and Turn Arbitration over WebRTC**|Zheyuan Zhang et.al.|[2611.32308](http://arxiv.org/abs/2611.32308)|null|
 |**2026-11-23**|**SayWhen: Set-Valued Semantic Commitment for Low-Regret Early Speech**|Tianyi Huang et.al.|[2611.31101](http://arxiv.org/abs/2611.31101)|null|
 |**2026-11-23**|**SpeechSplice: Pronunciation Control in Encoder-Decoder LLM-based TTS by Replacing Encoder Hidden States**|Kiyoshi Kurihara et.al.|[2611.30927](http://arxiv.org/abs/2611.30927)|**[link](https://github.com/Kuri-san-jp/speechsplice)**|
